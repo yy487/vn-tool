@@ -1,0 +1,644 @@
+[
+  {
+    "name": "彩音",
+    "message": "中文茅野はそっちをお願い",
+    "message_id": 53,
+    "name_id": 51
+  },
+  {
+    "name": "楓真",
+    "message": "中文分かりました。高いところは俺がやりますから残しておいて下さい",
+    "message_id": 69,
+    "name_id": 68
+  },
+  {
+    "name": "彩音",
+    "message": "中文分かったわ",
+    "message_id": 90,
+    "name_id": 89
+  },
+  {
+    "name": null,
+    "message": "中文媛守先輩と分担して恋会室の掃除に励む。",
+    "message_id": 105
+  },
+  {
+    "name": null,
+    "message": "中文やることがあるのは助かるものだと実感する。",
+    "message_id": 112
+  },
+  {
+    "name": "彩音",
+    "message": "中文ん、なかなか落ちないわね",
+    "message_id": 133,
+    "name_id": 132
+  },
+  {
+    "name": null,
+    "message": "中文媛守先輩もいつもの先輩に戻ったみたいで掃除に精を出している。",
+    "message_id": 143
+  },
+  {
+    "name": "彩音",
+    "message": "中文んっ、んっ",
+    "message_id": 164,
+    "name_id": 163
+  },
+  {
+    "name": null,
+    "message": "中文媛守先輩は男子が苦手なのかもしれない――。",
+    "message_id": 174
+  },
+  {
+    "name": null,
+    "message": "中文俺が抱いた疑念は、思わぬ形で証明されたのだった。",
+    "message_id": 181
+  },
+  {
+    "name": "奈穂",
+    "message": "中文いいわね、ちゃんと彩音の相手をするのよ。間違っても先に帰るとか、別の場所に行くとかそんな''バカ''なことしたら許さないからね",
+    "message_id": 233,
+    "name_id": 232
+  },
+  {
+    "name": "楓真",
+    "message": "中文いや、無理ですって",
+    "message_id": 245,
+    "name_id": 244
+  },
+  {
+    "name": "奈穂",
+    "message": "中文大丈夫大丈夫、楓真は彩音に一番近い男なんだから。いい機会だから彩音の苦手意識の克服の手助けをしなさい",
+    "message_id": 262,
+    "name_id": 261
+  },
+  {
+    "name": "楓真",
+    "message": "中文まともな会話も成り立たない状態なんですが……",
+    "message_id": 274,
+    "name_id": 273
+  },
+  {
+    "name": "奈穂",
+    "message": "中文あー、うだうだ、いわない！　これは命令よ、いいわね！",
+    "message_id": 291,
+    "name_id": 290
+  },
+  {
+    "name": "楓真",
+    "message": "中文そんなことをいわれてもな……",
+    "message_id": 311,
+    "name_id": 310
+  },
+  {
+    "name": "楓真",
+    "message": "中文出来ることと出来ないことがあるんですけど……",
+    "message_id": 320,
+    "name_id": 319
+  },
+  {
+    "name": null,
+    "message": "中文媛守先輩と入れ替わるようタイミングで天翔先輩から着信が入り、無茶な命令を告げられた。",
+    "message_id": 358
+  },
+  {
+    "name": "奈穂",
+    "message": "中文彩音の男子苦手克服大作戦よ",
+    "message_id": 398,
+    "name_id": 397
+  },
+  {
+    "name": null,
+    "message": "中文ということらしい。",
+    "message_id": 414
+  },
+  {
+    "name": "彩音",
+    "message": "中文ふぅー、ここはよしっっと",
+    "message_id": 454,
+    "name_id": 453
+  },
+  {
+    "name": null,
+    "message": "中文会話をするからダメだと思い、掃除することを提案したのだが、それが功を奏したようだ。",
+    "message_id": 464
+  },
+  {
+    "name": "楓真",
+    "message": "中文苦手意識の克服にはならないだろうけどな",
+    "message_id": 473,
+    "name_id": 472
+  },
+  {
+    "name": "彩音",
+    "message": "中文なにか、いった？",
+    "message_id": 494,
+    "name_id": 493
+  },
+  {
+    "name": "楓真",
+    "message": "中文いえ、何でもないです。めちゃめちゃキレイにして天翔先輩たちをびっくりさせちゃいましょう",
+    "message_id": 506,
+    "name_id": 505
+  },
+  {
+    "name": "彩音",
+    "message": "中文そうね、いつも出来ないところまでやってしまいましょう",
+    "message_id": 527,
+    "name_id": 526
+  },
+  {
+    "name": null,
+    "message": "中文なんかいつも以上に張り切ってる気がするな。",
+    "message_id": 537
+  },
+  {
+    "name": null,
+    "message": "中文まあ、よかった、かな。",
+    "message_id": 544
+  },
+  {
+    "name": null,
+    "message": "中文相変わらず絶妙な距離間を保ったままだけど……。",
+    "message_id": 551
+  },
+  {
+    "name": null,
+    "message": "中文この雑誌の山は――。",
+    "message_id": 558
+  },
+  {
+    "name": "楓真",
+    "message": "中文最新号だけ残して捨てていいかな",
+    "message_id": 567,
+    "name_id": 566
+  },
+  {
+    "name": "彩音",
+    "message": "中文それは、ダメよ",
+    "message_id": 588,
+    "name_id": 587
+  },
+  {
+    "name": "楓真",
+    "message": "中文えっ！？",
+    "message_id": 610,
+    "name_id": 609
+  },
+  {
+    "name": null,
+    "message": "中文媛守先輩がいきなり手を掴む。",
+    "message_id": 617
+  },
+  {
+    "name": null,
+    "message": "中文っていうか、近い――。",
+    "message_id": 624
+  },
+  {
+    "name": "彩音",
+    "message": "中文これは必要なデータだから、捨てて…は……だ……だ……",
+    "message_id": 645,
+    "name_id": 644
+  },
+  {
+    "name": "彩音",
+    "message": "中文ひゃぁっーーーーーー！！",
+    "message_id": 695,
+    "name_id": 694
+  },
+  {
+    "name": null,
+    "message": "中文思わず飛び退く媛守先輩。",
+    "message_id": 712
+  },
+  {
+    "name": null,
+    "message": "中文地味に傷つくな、これ……。",
+    "message_id": 719
+  },
+  {
+    "name": "彩音",
+    "message": "中文ご、ご、ご、ごめんなさい。そ、それはまとめて置いておいてくれればいいから、うん",
+    "message_id": 740,
+    "name_id": 739
+  },
+  {
+    "name": "楓真",
+    "message": "中文種類ごとに分けた方がいいですかね",
+    "message_id": 752,
+    "name_id": 751
+  },
+  {
+    "name": "彩音",
+    "message": "中文えっ、あ、そうね。そうしてくれると助かるわ",
+    "message_id": 773,
+    "name_id": 772
+  },
+  {
+    "name": "楓真",
+    "message": "中文了解です。",
+    "message_id": 785,
+    "name_id": 784
+  },
+  {
+    "name": null,
+    "message": "中文媛守先輩に気を遣わせないように、先ほどのことをなかったかのように振舞う。",
+    "message_id": 792
+  },
+  {
+    "name": "彩音",
+    "message": "中文……ありがと",
+    "message_id": 813,
+    "name_id": 812
+  },
+  {
+    "name": "楓真",
+    "message": "中文それにしてもこんなにたくさん必要なんですか、必要な情報はネットで集めれば済むと思うんですけど",
+    "message_id": 825,
+    "name_id": 824
+  },
+  {
+    "name": "彩音",
+    "message": "中文ネットやテレビ以外の情報を大事にしている学生は案外多いの。雑誌からの話題の回収はもちろん口コミの情報の収拾",
+    "message_id": 846,
+    "name_id": 845
+  },
+  {
+    "name": "彩音",
+    "message": "中文カップルのコーディネイトにはこういう情報が必須なの",
+    "message_id": 867,
+    "name_id": 866
+  },
+  {
+    "name": "楓真",
+    "message": "中文へぇ～。みんなすごい色々と知ってるなとは思っていたんですけどしっかり調べているんですね",
+    "message_id": 879,
+    "name_id": 878
+  },
+  {
+    "name": "彩音",
+    "message": "中文茅野はもう少し視野を広げた方がいいわね。男子の目線はもちろん大事だけど女子の目線にも気を配れると色々動けるようになるから",
+    "message_id": 900,
+    "name_id": 899
+  },
+  {
+    "name": "楓真",
+    "message": "中文う、努力します",
+    "message_id": 912,
+    "name_id": 911
+  },
+  {
+    "name": "彩音",
+    "message": "中文その辺りは渚ちゃんの方が飲み込み早そうだから頑張らないとね",
+    "message_id": 933,
+    "name_id": 932
+  },
+  {
+    "name": null,
+    "message": "中文そうだよな、渚という新人も入ったことだしここは先輩としても兄としても負けられない。",
+    "message_id": 943
+  },
+  {
+    "name": "彩音",
+    "message": "中文頑張りなさい、お兄さん",
+    "message_id": 964,
+    "name_id": 963
+  },
+  {
+    "name": null,
+    "message": "中文それにしても、ここまで媛守先輩と話したことって始めてだよな。",
+    "message_id": 974
+  },
+  {
+    "name": null,
+    "message": "中文先輩も普通には話してくれてるしよかったのかな。",
+    "message_id": 981
+  },
+  {
+    "name": "彩音",
+    "message": "中文あ、ごめんなさい",
+    "message_id": 1004,
+    "name_id": 1003
+  },
+  {
+    "name": "楓真",
+    "message": "中文いえ、気にせずどうぞ。俺は続きしてますから",
+    "message_id": 1016,
+    "name_id": 1015
+  },
+  {
+    "name": "彩音",
+    "message": "中文ええ、お願いね",
+    "message_id": 1037,
+    "name_id": 1036
+  },
+  {
+    "name": "楓真",
+    "message": "中文よしっ！　じゃあ再開しますか",
+    "message_id": 1049,
+    "name_id": 1048
+  },
+  {
+    "name": "彩音",
+    "message": "中文えっ……",
+    "message_id": 1093,
+    "name_id": 1092
+  },
+  {
+    "name": "彩音",
+    "message": "中文な、え、あ、っ、☆□〇※☆□〇※☆□〇※――",
+    "message_id": 1117,
+    "name_id": 1116
+  },
+  {
+    "name": "楓真",
+    "message": "中文ん？　どうしたんですか？？",
+    "message_id": 1129,
+    "name_id": 1128
+  },
+  {
+    "name": "彩音",
+    "message": "中文ひっ！　にゃ、にゃんでもにゃいの、気にひにゃいで！！！",
+    "message_id": 1176,
+    "name_id": 1175
+  },
+  {
+    "name": "彩音",
+    "message": "中文そ、掃除！　掃除の続きをしまひょうー！　私ちょっと水替えてくるから",
+    "message_id": 1197,
+    "name_id": 1196
+  },
+  {
+    "name": null,
+    "message": "中文バケツを掴み、そのまま脱兎の如く走り去ってしまう。",
+    "message_id": 1237
+  },
+  {
+    "name": null,
+    "message": "中文あきらかにおかしいよな……。",
+    "message_id": 1244
+  },
+  {
+    "name": "楓真",
+    "message": "中文なにかあったのは間違いないんだろけど",
+    "message_id": 1253,
+    "name_id": 1252
+  },
+  {
+    "name": null,
+    "message": "中文まあ、詮索しない方がいいだろう。俺が必要なら相談してくるだろうし。",
+    "message_id": 1260
+  },
+  {
+    "name": "彩音",
+    "message": "中文はぁはぁはぁはぁはぁ……",
+    "message_id": 1322,
+    "name_id": 1321
+  },
+  {
+    "name": null,
+    "message": "中文もう、なんなのよ。",
+    "message_id": 1332
+  },
+  {
+    "name": null,
+    "message": "中文先ほど、奈穂から届けられたメールの文面に再び目を落とす。",
+    "message_id": 1339
+  },
+  {
+    "name": "奈穂",
+    "message": "中文やっほ～♪　彩音がんばってるーヽ(*’-^*)。せっかく楓真が一緒なんだから積極的にスキンシップを図るのよ（≧▽≦）",
+    "message_id": 1356,
+    "name_id": 1355
+  },
+  {
+    "name": "奈穂",
+    "message": "中文いい機会なんだから、彩音も男子に慣れておくこと！　なんなら押し倒すぐらいしちゃってもＯ━d(*´ω｀*)b━Ｋ",
+    "message_id": 1373,
+    "name_id": 1372
+  },
+  {
+    "name": "奈穂",
+    "message": "中文彩音の魅力で楓真をメロメロにしちゃえー(*´ｪ`*)ｷｬｧ",
+    "message_id": 1390,
+    "name_id": 1389
+  },
+  {
+    "name": "奈穂",
+    "message": "中文追伸。逃げたら許さないからね",
+    "message_id": 1407,
+    "name_id": 1406
+  },
+  {
+    "name": null,
+    "message": "中文お、お、押し倒すなんて――。",
+    "message_id": 1423
+  },
+  {
+    "name": "彩音",
+    "message": "中文そんなことできるわけないでしょ",
+    "message_id": 1444,
+    "name_id": 1443
+  },
+  {
+    "name": "彩音",
+    "message": "中文……はぁぁぁぁ～～",
+    "message_id": 1465,
+    "name_id": 1464
+  },
+  {
+    "name": null,
+    "message": "中文もう、お節介なんだから、私のことはどうでもいいのに。",
+    "message_id": 1475
+  },
+  {
+    "name": "彩音",
+    "message": "中文奈穂のばかぁーーーーーーー！！",
+    "message_id": 1511,
+    "name_id": 1510
+  },
+  {
+    "name": "楓真",
+    "message": "中文あ、お疲れさまです。こっちはまとめ終わりましたので拭き掃除手伝いますね",
+    "message_id": 1598,
+    "name_id": 1597
+  },
+  {
+    "name": null,
+    "message": "中文俺は、媛守先輩からバケツを受け取ろうと近づいて――。",
+    "message_id": 1611
+  },
+  {
+    "name": "彩音",
+    "message": "中文あっ",
+    "message_id": 1658,
+    "name_id": 1657
+  },
+  {
+    "name": "楓真",
+    "message": "中文えっ！？",
+    "message_id": 1670,
+    "name_id": 1669
+  },
+  {
+    "name": "彩音",
+    "message": "中文えっ、ひゃっ、あ、いやぁぁぁぁぁぁーーーーーーーーーーーーーーー！！！！！",
+    "message_id": 1691,
+    "name_id": 1690
+  },
+  {
+    "name": "楓真",
+    "message": "中文わぁぁーーーーーー",
+    "message_id": 1740,
+    "name_id": 1739
+  },
+  {
+    "name": "彩音",
+    "message": "中文きゃっ！！",
+    "message_id": 1757,
+    "name_id": 1756
+  },
+  {
+    "name": "楓真",
+    "message": "中文つ、冷たい……",
+    "message_id": 1787,
+    "name_id": 1786
+  },
+  {
+    "name": "彩音",
+    "message": "中文あ、ご、ごめんなさい、だいじょう……、痛っ",
+    "message_id": 1808,
+    "name_id": 1807
+  },
+  {
+    "name": "楓真",
+    "message": "中文せ、先輩大丈夫ですか！",
+    "message_id": 1820,
+    "name_id": 1819
+  },
+  {
+    "name": null,
+    "message": "中文バケツを振り回した時にバランスを崩して転んでしまったのだろう。",
+    "message_id": 1827
+  },
+  {
+    "name": "彩音",
+    "message": "中文茅野こそ、ごめんなさい。私のせいで",
+    "message_id": 1848,
+    "name_id": 1847
+  },
+  {
+    "name": null,
+    "message": "中文見ると、先輩の足首が腫れてきている。",
+    "message_id": 1858
+  },
+  {
+    "name": null,
+    "message": "中文転んだ拍子に捻ってしまったのだろう、みるみる腫れが酷くなってきている。",
+    "message_id": 1865
+  },
+  {
+    "name": "楓真",
+    "message": "中文俺は大丈夫です。それよりも手当てしないと",
+    "message_id": 1874,
+    "name_id": 1873
+  },
+  {
+    "name": "彩音",
+    "message": "中文だ、大丈夫。これくらいなんともないか、んっ……くっ、あ……",
+    "message_id": 1895,
+    "name_id": 1894
+  },
+  {
+    "name": null,
+    "message": "中文そう言い立ち上がろうとする媛守先輩だが、痛みにがくりと身体を崩してしまう。",
+    "message_id": 1939
+  },
+  {
+    "name": "楓真",
+    "message": "中文無茶しないで下さい",
+    "message_id": 1948,
+    "name_id": 1947
+  },
+  {
+    "name": "彩音",
+    "message": "中文なら、一人で保健室に行くから、茅野はこのまま作業を続けて",
+    "message_id": 1970,
+    "name_id": 1969
+  },
+  {
+    "name": "楓真",
+    "message": "中文何言ってるんですか。怪我してるんですから、こんなときぐらいは頼ってください！",
+    "message_id": 1982,
+    "name_id": 1981
+  },
+  {
+    "name": "彩音",
+    "message": "中文あっ",
+    "message_id": 2003,
+    "name_id": 2002
+  },
+  {
+    "name": "楓真",
+    "message": "中文ほら、肩、貸しますから捕まってください",
+    "message_id": 2015,
+    "name_id": 2014
+  },
+  {
+    "name": null,
+    "message": "中文ちょっと強引に媛守先輩の腕を取り、立たせる。",
+    "message_id": 2028
+  },
+  {
+    "name": "彩音",
+    "message": "中文う……",
+    "message_id": 2049,
+    "name_id": 2048
+  },
+  {
+    "name": null,
+    "message": "中文先輩の身体が強張っているのを感じたが、ここは引く気はない。",
+    "message_id": 2059
+  },
+  {
+    "name": "楓真",
+    "message": "中文媛守先輩！",
+    "message_id": 2068,
+    "name_id": 2067
+  },
+  {
+    "name": "彩音",
+    "message": "中文うん、分かった。ごめんなさい",
+    "message_id": 2089,
+    "name_id": 2088
+  },
+  {
+    "name": null,
+    "message": "中文恐る恐るといった感じではあるけれど先輩は俺の肩に手を回してくる。",
+    "message_id": 2099
+  },
+  {
+    "name": "楓真",
+    "message": "中文気にしないでください。元々俺のせいみたいなものですから",
+    "message_id": 2108,
+    "name_id": 2107
+  },
+  {
+    "name": "彩音",
+    "message": "中文そ、そんなことない。私が……",
+    "message_id": 2129,
+    "name_id": 2128
+  },
+  {
+    "name": "楓真",
+    "message": "中文行きますよ。しっかり掴まっていてください",
+    "message_id": 2141,
+    "name_id": 2140
+  },
+  {
+    "name": null,
+    "message": "中文媛守先輩の足に負担をかけないようにしながら保健室を目指した。",
+    "message_id": 2148
+  }
+]

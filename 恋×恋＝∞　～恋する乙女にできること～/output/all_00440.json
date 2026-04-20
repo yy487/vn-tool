@@ -1,0 +1,1115 @@
+[
+  {
+    "name": null,
+    "message": "中文今日は家族サービスといこう。",
+    "message_id": 36
+  },
+  {
+    "name": "楓真",
+    "message": "中文渚、遊ぼうぜ",
+    "message_id": 48,
+    "name_id": 47
+  },
+  {
+    "name": "渚",
+    "message": "中文ほんと？　お兄ちゃん、いいの？",
+    "message_id": 100,
+    "name_id": 99
+  },
+  {
+    "name": "楓真",
+    "message": "中文おう。いいだろ、たまには兄妹で遊ぶのも",
+    "message_id": 113,
+    "name_id": 112
+  },
+  {
+    "name": "渚",
+    "message": "中文え、あ、うん！　やったぁ～♪",
+    "message_id": 155,
+    "name_id": 154
+  },
+  {
+    "name": "クリス",
+    "message": "中文う～、渚ちゃんに楓先輩を取られちゃいました",
+    "message_id": 213,
+    "name_id": 212
+  },
+  {
+    "name": "楓真",
+    "message": "中文うっ",
+    "message_id": 225,
+    "name_id": 224
+  },
+  {
+    "name": "クリス",
+    "message": "中文楓せんぱ～い、うるうるうるうる",
+    "message_id": 250,
+    "name_id": 249
+  },
+  {
+    "name": "楓真",
+    "message": "中文ク、クリスとは後で、後で一緒に泳ぐからっ",
+    "message_id": 262,
+    "name_id": 261
+  },
+  {
+    "name": "クリス",
+    "message": "中文ホントですか♪",
+    "message_id": 309,
+    "name_id": 308
+  },
+  {
+    "name": "楓真",
+    "message": "中文う、うん",
+    "message_id": 321,
+    "name_id": 320
+  },
+  {
+    "name": "クリス",
+    "message": "中文約束ですよ、嘘ついたら許しませんからね",
+    "message_id": 342,
+    "name_id": 341
+  },
+  {
+    "name": "楓真",
+    "message": "中文ああ、約束",
+    "message_id": 354,
+    "name_id": 353
+  },
+  {
+    "name": "渚",
+    "message": "中文お兄ちゃんっ！！　なんでデレデレしてるの",
+    "message_id": 386,
+    "name_id": 385
+  },
+  {
+    "name": "楓真",
+    "message": "中文してないって",
+    "message_id": 398,
+    "name_id": 397
+  },
+  {
+    "name": "渚",
+    "message": "中文してたもん、渚見たもん、こ～んなに鼻の下伸びてたもん",
+    "message_id": 445,
+    "name_id": 444
+  },
+  {
+    "name": "渚",
+    "message": "中文お兄ちゃんのバカーーー！！",
+    "message_id": 466,
+    "name_id": 465
+  },
+  {
+    "name": "楓真",
+    "message": "中文あ、おいっ、渚！",
+    "message_id": 502,
+    "name_id": 501
+  },
+  {
+    "name": null,
+    "message": "中文あちゃー、怒らしちゃったよ。",
+    "message_id": 517
+  },
+  {
+    "name": null,
+    "message": "中文まずいな、何とかしないと。",
+    "message_id": 524
+  },
+  {
+    "name": "楓真",
+    "message": "中文ごめん、クリス",
+    "message_id": 533,
+    "name_id": 532
+  },
+  {
+    "name": "クリス",
+    "message": "中文大丈夫です、だから早く渚ちゃんを追いかけてあげて下さい",
+    "message_id": 554,
+    "name_id": 553
+  },
+  {
+    "name": "楓真",
+    "message": "中文ありがとう、クリス。じゃっ",
+    "message_id": 566,
+    "name_id": 565
+  },
+  {
+    "name": "クリス",
+    "message": "中文渚ちゃん、可愛いです♪",
+    "message_id": 587,
+    "name_id": 586
+  },
+  {
+    "name": "楓真",
+    "message": "中文なぎさーーーー",
+    "message_id": 633,
+    "name_id": 632
+  },
+  {
+    "name": "渚",
+    "message": "中文なにっ",
+    "message_id": 650,
+    "name_id": 649
+  },
+  {
+    "name": "楓真",
+    "message": "中文そんなにぷりぷりしてると可愛い顔が台無しだぞ",
+    "message_id": 662,
+    "name_id": 661
+  },
+  {
+    "name": "渚",
+    "message": "中文ふんだっ、お兄ちゃんは愛ちゃんと遊んでればいいのよ、渚は一人で遊ぶんだからっ",
+    "message_id": 679,
+    "name_id": 678
+  },
+  {
+    "name": "楓真",
+    "message": "中文俺は、渚と遊ぶって決めてるからな、渚が嫌って言わない限り予定の変更はないな",
+    "message_id": 691,
+    "name_id": 690
+  },
+  {
+    "name": "渚",
+    "message": "中文……",
+    "message_id": 708,
+    "name_id": 707
+  },
+  {
+    "name": "楓真",
+    "message": "中文渚は俺と遊んでくれないのか",
+    "message_id": 720,
+    "name_id": 719
+  },
+  {
+    "name": "渚",
+    "message": "中文……お兄ちゃん",
+    "message_id": 748,
+    "name_id": 747
+  },
+  {
+    "name": "楓真",
+    "message": "中文な～ぎさ♪",
+    "message_id": 760,
+    "name_id": 759
+  },
+  {
+    "name": "渚",
+    "message": "中文…ぷっ、くっくっくっ、やだ、やめてよお兄ちゃん",
+    "message_id": 781,
+    "name_id": 780
+  },
+  {
+    "name": null,
+    "message": "中文変な顔をして近づいた俺に思わず渚が吹き出す。",
+    "message_id": 791
+  },
+  {
+    "name": "渚",
+    "message": "中文もうお兄ちゃんたらっ、やめてったらー",
+    "message_id": 812,
+    "name_id": 811
+  },
+  {
+    "name": "楓真",
+    "message": "中文お兄ちゃんは、渚と遊びたいなー",
+    "message_id": 824,
+    "name_id": 823
+  },
+  {
+    "name": "渚",
+    "message": "中文しょうがないなー、しょうがないからお兄ちゃんと遊んであげる",
+    "message_id": 871,
+    "name_id": 870
+  },
+  {
+    "name": "楓真",
+    "message": "中文さんきゅー、渚、よしっ、何しようっか",
+    "message_id": 883,
+    "name_id": 882
+  },
+  {
+    "name": "楓真",
+    "message": "中文そういえば、さっき童心に返って、みたいなこと言ってたよな",
+    "message_id": 892,
+    "name_id": 891
+  },
+  {
+    "name": "渚",
+    "message": "中文……お兄ちゃん",
+    "message_id": 913,
+    "name_id": 912
+  },
+  {
+    "name": "楓真",
+    "message": "中文ん？",
+    "message_id": 925,
+    "name_id": 924
+  },
+  {
+    "name": "渚",
+    "message": "中文ごめんね",
+    "message_id": 946,
+    "name_id": 945
+  },
+  {
+    "name": "楓真",
+    "message": "中文何が？",
+    "message_id": 958,
+    "name_id": 957
+  },
+  {
+    "name": "渚",
+    "message": "中文気を遣わせちゃったんじゃないかな、って思って",
+    "message_id": 979,
+    "name_id": 978
+  },
+  {
+    "name": "楓真",
+    "message": "中文何に？",
+    "message_id": 991,
+    "name_id": 990
+  },
+  {
+    "name": "渚",
+    "message": "中文…･･･渚に",
+    "message_id": 1012,
+    "name_id": 1011
+  },
+  {
+    "name": "楓真",
+    "message": "中文どうしてさ",
+    "message_id": 1024,
+    "name_id": 1023
+  },
+  {
+    "name": "渚",
+    "message": "中文だって、本当は愛ちゃんとか、奈穂先輩とかと遊びたかったんだろうなって",
+    "message_id": 1045,
+    "name_id": 1044
+  },
+  {
+    "name": "楓真",
+    "message": "中文バカだなー、俺が渚と遊びたいんだよ",
+    "message_id": 1057,
+    "name_id": 1056
+  },
+  {
+    "name": "渚",
+    "message": "中文ほ、本当に？",
+    "message_id": 1104,
+    "name_id": 1103
+  },
+  {
+    "name": "楓真",
+    "message": "中文こんなことで嘘をいっても仕方ないだろ",
+    "message_id": 1116,
+    "name_id": 1115
+  },
+  {
+    "name": "渚",
+    "message": "中文渚でいいの",
+    "message_id": 1137,
+    "name_id": 1136
+  },
+  {
+    "name": "楓真",
+    "message": "中文渚がいいんだよ",
+    "message_id": 1149,
+    "name_id": 1148
+  },
+  {
+    "name": "渚",
+    "message": "中文うん、ありがと、お兄ちゃん。遊ぼっ♪",
+    "message_id": 1185,
+    "name_id": 1184
+  },
+  {
+    "name": "渚",
+    "message": "中文お兄ちゃんはそっちからね",
+    "message_id": 1245,
+    "name_id": 1244
+  },
+  {
+    "name": "楓真",
+    "message": "中文おう",
+    "message_id": 1257,
+    "name_id": 1256
+  },
+  {
+    "name": null,
+    "message": "中文俺たちは童心に返って、砂遊びに興じていた。",
+    "message_id": 1264
+  },
+  {
+    "name": null,
+    "message": "中文本当に久しぶりで、思わず砂城作りに熱中してしまう。",
+    "message_id": 1271
+  },
+  {
+    "name": "渚",
+    "message": "中文崩したら、ダメだからね。慎重に、慎重にだからね",
+    "message_id": 1282,
+    "name_id": 1281
+  },
+  {
+    "name": "楓真",
+    "message": "中文任せとけ、これでも小さい頃はトンネル堀りの楓真くんと恐れられたほどの腕前だからな",
+    "message_id": 1294,
+    "name_id": 1293
+  },
+  {
+    "name": "渚",
+    "message": "中文なに、それ。ふふっ、そんなの聞いたこともないよー",
+    "message_id": 1305,
+    "name_id": 1304
+  },
+  {
+    "name": "楓真",
+    "message": "中文あれ？　おかしいなぁー、ははっ、渚が知らないだけなんじゃないか",
+    "message_id": 1317,
+    "name_id": 1316
+  },
+  {
+    "name": "渚",
+    "message": "中文嘘ついてもダメですー、お兄ちゃんのことならなんでも知ってるんだから",
+    "message_id": 1328,
+    "name_id": 1327
+  },
+  {
+    "name": "楓真",
+    "message": "中文ははは",
+    "message_id": 1340,
+    "name_id": 1339
+  },
+  {
+    "name": "渚＆楓真",
+    "message": "中文あっ！",
+    "message_id": 1351,
+    "name_id": 1350
+  },
+  {
+    "name": null,
+    "message": "中文砂の感触とは違った柔らかい感触が指先に――。",
+    "message_id": 1361
+  },
+  {
+    "name": "楓真",
+    "message": "中文よしっ、トンネル貫通だな",
+    "message_id": 1370,
+    "name_id": 1369
+  },
+  {
+    "name": null,
+    "message": "中文もぞもぞもぞもぞ。",
+    "message_id": 1377
+  },
+  {
+    "name": null,
+    "message": "中文んっ？",
+    "message_id": 1384
+  },
+  {
+    "name": "渚",
+    "message": "中文えへへ",
+    "message_id": 1402,
+    "name_id": 1401
+  },
+  {
+    "name": null,
+    "message": "中文指先が触れ合うだけだったトンネルの穴を広げて、指を絡めてくる渚。",
+    "message_id": 1412
+  },
+  {
+    "name": null,
+    "message": "中文なんかくすぐったいな。",
+    "message_id": 1419
+  },
+  {
+    "name": "渚",
+    "message": "中文成功、だね",
+    "message_id": 1430,
+    "name_id": 1429
+  },
+  {
+    "name": "楓真",
+    "message": "中文……",
+    "message_id": 1442,
+    "name_id": 1441
+  },
+  {
+    "name": null,
+    "message": "中文渚の指、温かいんだな、それに柔らかい。",
+    "message_id": 1449
+  },
+  {
+    "name": "楓真",
+    "message": "中文なぎ……",
+    "message_id": 1458,
+    "name_id": 1457
+  },
+  {
+    "name": "渚",
+    "message": "中文あーーーー",
+    "message_id": 1486,
+    "name_id": 1485
+  },
+  {
+    "name": "楓真",
+    "message": "中文えっ！？　あっ！",
+    "message_id": 1498,
+    "name_id": 1497
+  },
+  {
+    "name": null,
+    "message": "中文砂の城が崩壊してしまった。",
+    "message_id": 1505
+  },
+  {
+    "name": null,
+    "message": "中文無意識に手が反応してしまったみたいだ。",
+    "message_id": 1512
+  },
+  {
+    "name": "渚",
+    "message": "中文もうー、お兄ちゃんなにしてるのーー",
+    "message_id": 1530,
+    "name_id": 1529
+  },
+  {
+    "name": "楓真",
+    "message": "中文ごめん",
+    "message_id": 1542,
+    "name_id": 1541
+  },
+  {
+    "name": "渚",
+    "message": "中文折角、完成したのに……こうなったらさっきよりも立派なお城作るからね",
+    "message_id": 1553,
+    "name_id": 1552
+  },
+  {
+    "name": "楓真",
+    "message": "中文お、おう、今度こそ任せろ",
+    "message_id": 1565,
+    "name_id": 1564
+  },
+  {
+    "name": "渚",
+    "message": "中文よしっ！　がんばろうーー",
+    "message_id": 1583,
+    "name_id": 1582
+  },
+  {
+    "name": "渚",
+    "message": "中文お姉ちゃんも来れれば、よかったのにね",
+    "message_id": 1629,
+    "name_id": 1628
+  },
+  {
+    "name": "楓真",
+    "message": "中文そうだなぁ。でも姉さん人前に出るの好きじゃないみたいだし",
+    "message_id": 1641,
+    "name_id": 1640
+  },
+  {
+    "name": "渚",
+    "message": "中文お姉ちゃん、キレイなのにもったいないよね",
+    "message_id": 1652,
+    "name_id": 1651
+  },
+  {
+    "name": "楓真",
+    "message": "中文だよなー、嫌でも注目されるよな。でも全然噂とか聞かないよな、目立たないようにしてるのかな",
+    "message_id": 1664,
+    "name_id": 1663
+  },
+  {
+    "name": "渚",
+    "message": "中文でも、この間のテスト、学年で一番だったらしいよ",
+    "message_id": 1675,
+    "name_id": 1674
+  },
+  {
+    "name": "楓真",
+    "message": "中文マジ！？",
+    "message_id": 1687,
+    "name_id": 1686
+  },
+  {
+    "name": "渚",
+    "message": "中文うん。なんか向こうで凄く難しい勉強してたんだって。うちの学園のレベルじゃ全然足りないのかも",
+    "message_id": 1698,
+    "name_id": 1697
+  },
+  {
+    "name": "楓真",
+    "message": "中文天翔先輩からも媛守先輩からもなにも聞いてないぞ……",
+    "message_id": 1710,
+    "name_id": 1709
+  },
+  {
+    "name": "渚",
+    "message": "中文そうなんだ。じゃあ、二番が彩音先輩で五番が奈穂先輩だってことは？",
+    "message_id": 1721,
+    "name_id": 1720
+  },
+  {
+    "name": "楓真",
+    "message": "中文ええええー、ま、マジか！",
+    "message_id": 1733,
+    "name_id": 1732
+  },
+  {
+    "name": "渚",
+    "message": "中文お兄ちゃん、何にも知らないんだね",
+    "message_id": 1751,
+    "name_id": 1750
+  },
+  {
+    "name": "楓真",
+    "message": "中文す、すまん",
+    "message_id": 1763,
+    "name_id": 1762
+  },
+  {
+    "name": "渚",
+    "message": "中文一年の間でも結構話題になってたよ、お兄ちゃんが知らないほうが不思議だよ",
+    "message_id": 1774,
+    "name_id": 1773
+  },
+  {
+    "name": null,
+    "message": "中文……。",
+    "message_id": 1784
+  },
+  {
+    "name": null,
+    "message": "中文全く初耳なことばかりなんですけど。",
+    "message_id": 1791
+  },
+  {
+    "name": null,
+    "message": "中文先輩たち、そんなに頭よかったのか。いや、悪いとは思っていなかったけど。",
+    "message_id": 1798
+  },
+  {
+    "name": "渚",
+    "message": "中文お兄ちゃんって意外と冷たいよね",
+    "message_id": 1809,
+    "name_id": 1808
+  },
+  {
+    "name": "楓真",
+    "message": "中文返す言葉もない……",
+    "message_id": 1821,
+    "name_id": 1820
+  },
+  {
+    "name": "渚",
+    "message": "中文まったく……そんなんじゃ、先輩たちの凄さが全然分かってないんじゃないの？",
+    "message_id": 1832,
+    "name_id": 1831
+  },
+  {
+    "name": "渚",
+    "message": "中文奈穂先輩は運動神経も抜群だし、彩音先輩は女子からすごい信頼されているし。二人とも毎日の様に相談とかされてるよ",
+    "message_id": 1850,
+    "name_id": 1849
+  },
+  {
+    "name": "楓真",
+    "message": "中文……こ、金剛は？",
+    "message_id": 1862,
+    "name_id": 1861
+  },
+  {
+    "name": "渚",
+    "message": "中文伊佐美ちゃん？　伊佐美ちゃんは……おしゃれ番長？",
+    "message_id": 1880,
+    "name_id": 1879
+  },
+  {
+    "name": "楓真",
+    "message": "中文そうか、おしゃれ番長なのか",
+    "message_id": 1892,
+    "name_id": 1891
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文そうです、あたしがおしゃれ番長の伊佐美ちゃんで～っす♪",
+    "message_id": 1935,
+    "name_id": 1934
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文うふっ！　おしゃれ番長すまい～る♪♪",
+    "message_id": 1982,
+    "name_id": 1981
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文み～んなをおしゃれさんにしちゃうぞっ♪♪♪",
+    "message_id": 2003,
+    "name_id": 2002
+  },
+  {
+    "name": "楓真",
+    "message": "中文……",
+    "message_id": 2015,
+    "name_id": 2014
+  },
+  {
+    "name": null,
+    "message": "中文なんか、ごめん金剛。ほんとごめん。",
+    "message_id": 2022
+  },
+  {
+    "name": "渚",
+    "message": "中文お兄ちゃん",
+    "message_id": 2039,
+    "name_id": 2038
+  },
+  {
+    "name": "楓真",
+    "message": "中文わっ！",
+    "message_id": 2092,
+    "name_id": 2081
+  },
+  {
+    "name": "渚",
+    "message": "中文お姉ちゃんのことも分かっていない。先輩たちのことも分かっていない。それじゃあ、お兄ちゃん困るんじゃない？",
+    "message_id": 2103,
+    "name_id": 2102
+  },
+  {
+    "name": "楓真",
+    "message": "中文……すみません",
+    "message_id": 2115,
+    "name_id": 2114
+  },
+  {
+    "name": null,
+    "message": "中文確かに、もう少し仲間や家族に目を向けた方がいいかもしれない。",
+    "message_id": 2122
+  },
+  {
+    "name": null,
+    "message": "中文状況に対応するだけの視点じゃダメだっていうことなんだろうな。",
+    "message_id": 2129
+  },
+  {
+    "name": null,
+    "message": "中文それにしても、姉さんが学年１位の成績とは……。",
+    "message_id": 2136
+  },
+  {
+    "name": "楓真",
+    "message": "中文もっとみんなのこときちんと見るように理解するように努力するよ",
+    "message_id": 2145,
+    "name_id": 2144
+  },
+  {
+    "name": "渚",
+    "message": "中文うん、そうしてね。でも、変な目で見ちゃダメだよ",
+    "message_id": 2163,
+    "name_id": 2162
+  },
+  {
+    "name": "楓真",
+    "message": "中文なんだよ、変な目って",
+    "message_id": 2175,
+    "name_id": 2174
+  },
+  {
+    "name": "渚",
+    "message": "中文奈穂先輩たちの水着姿、いやらしい目で見てた",
+    "message_id": 2186,
+    "name_id": 2185
+  },
+  {
+    "name": "楓真",
+    "message": "中文……",
+    "message_id": 2198,
+    "name_id": 2197
+  },
+  {
+    "name": "楓真",
+    "message": "中文ソンナコトナイヨ",
+    "message_id": 2207,
+    "name_id": 2206
+  },
+  {
+    "name": "渚",
+    "message": "中文じぃーーーーー",
+    "message_id": 2218,
+    "name_id": 2217
+  },
+  {
+    "name": "楓真",
+    "message": "中文イヤダナァー、ナギサ、オニイチャンヲソンナメデミツメルナヨ",
+    "message_id": 2230,
+    "name_id": 2229
+  },
+  {
+    "name": "渚",
+    "message": "中文どうしてカタコトなの",
+    "message_id": 2241,
+    "name_id": 2240
+  },
+  {
+    "name": "渚",
+    "message": "中文最近、お兄ちゃんの周りに女の子がどんどん集まってる気がするんだけど",
+    "message_id": 2262,
+    "name_id": 2261
+  },
+  {
+    "name": "楓真",
+    "message": "中文そんなことないだろ",
+    "message_id": 2274,
+    "name_id": 2273
+  },
+  {
+    "name": "渚",
+    "message": "中文じぃーーーーー",
+    "message_id": 2292,
+    "name_id": 2291
+  },
+  {
+    "name": "楓真",
+    "message": "中文そりゃ、恋会なんてしてるから、女の子と接する機会は多いかもしれないけど。俺に興味をもってるわけじゃないからさ",
+    "message_id": 2304,
+    "name_id": 2303
+  },
+  {
+    "name": "渚",
+    "message": "中文そうかなー、奈穂先輩とか、お兄ちゃんに馴れ馴れしいし、彩音先輩だって男の子苦手だけどお兄ちゃんとはよく話してるし……",
+    "message_id": 2315,
+    "name_id": 2314
+  },
+  {
+    "name": "楓真",
+    "message": "中文いや、先輩だし、一緒に活動してるんだから仕方ない部分はあるよ。それに先輩たちは最近じゃないだろ",
+    "message_id": 2327,
+    "name_id": 2326
+  },
+  {
+    "name": "渚",
+    "message": "中文愛ちゃん",
+    "message_id": 2338,
+    "name_id": 2337
+  },
+  {
+    "name": "楓真",
+    "message": "中文えっ？",
+    "message_id": 2350,
+    "name_id": 2349
+  },
+  {
+    "name": "渚",
+    "message": "中文愛ちゃんともすっごく仲がいいよね。愛ちゃんいつも笑顔でクラスのみんなとも仲いいし、凄い人気だけど、お兄ちゃんと話してるときは可愛さがUPしてる気がする",
+    "message_id": 2361,
+    "name_id": 2360
+  },
+  {
+    "name": "楓真",
+    "message": "中文そんなこといわれても",
+    "message_id": 2373,
+    "name_id": 2372
+  },
+  {
+    "name": "渚",
+    "message": "中文お兄ちゃんも愛ちゃんと話してるときなんか嬉しそうだし……",
+    "message_id": 2384,
+    "name_id": 2383
+  },
+  {
+    "name": "楓真",
+    "message": "中文慕ってくれてるなーとは思ってるけど",
+    "message_id": 2396,
+    "name_id": 2395
+  },
+  {
+    "name": "渚",
+    "message": "中文ううううう",
+    "message_id": 2414,
+    "name_id": 2413
+  },
+  {
+    "name": "楓真",
+    "message": "中文仲がいいのは悪いことじゃないだろ。それにクリスに限らず女の子と全然話さないなんてことは出来ないんだから",
+    "message_id": 2426,
+    "name_id": 2425
+  },
+  {
+    "name": "楓真",
+    "message": "中文仮に急に女の子と話さないようになったら天翔先輩からなに言われるかわかったもんじゃないし",
+    "message_id": 2435,
+    "name_id": 2434
+  },
+  {
+    "name": "楓真",
+    "message": "中文それに、男友達も多いぞ俺は",
+    "message_id": 2444,
+    "name_id": 2443
+  },
+  {
+    "name": "渚",
+    "message": "中文……それはそうかもしれないけど",
+    "message_id": 2455,
+    "name_id": 2454
+  },
+  {
+    "name": "楓真",
+    "message": "中文まあ、変に緊張しちゃうことはあるけどな、女の子たちと話してると",
+    "message_id": 2467,
+    "name_id": 2466
+  },
+  {
+    "name": "楓真",
+    "message": "中文怒らせないようにしなきゃとか、先輩たちと話してるときなんかそうだよな。気を遣うしやっぱり",
+    "message_id": 2476,
+    "name_id": 2475
+  },
+  {
+    "name": "楓真",
+    "message": "中文だからかな、今日渚と遊ぼうって思ったのは",
+    "message_id": 2485,
+    "name_id": 2484
+  },
+  {
+    "name": "渚",
+    "message": "中文どういうこと？",
+    "message_id": 2496,
+    "name_id": 2495
+  },
+  {
+    "name": "楓真",
+    "message": "中文渚と一緒だとホッとするっていうか、安心するというか、気持ちが楽になれるから",
+    "message_id": 2508,
+    "name_id": 2507
+  },
+  {
+    "name": "渚",
+    "message": "中文お兄ちゃん",
+    "message_id": 2526,
+    "name_id": 2525
+  },
+  {
+    "name": "楓真",
+    "message": "中文まあ、あれだ。先輩たちの水着姿に見惚れていたのは、ごめん。やっぱり男だからな、どうしても見ちゃうし",
+    "message_id": 2538,
+    "name_id": 2537
+  },
+  {
+    "name": "楓真",
+    "message": "中文でも、いやらしい目では見ないように気をつけるよ。やっぱり見られる方はいやだろうしな",
+    "message_id": 2547,
+    "name_id": 2546
+  },
+  {
+    "name": "渚",
+    "message": "中文渚なら、いっぱい見ていいのに",
+    "message_id": 2558,
+    "name_id": 2557
+  },
+  {
+    "name": "楓真",
+    "message": "中文ん？　なに",
+    "message_id": 2570,
+    "name_id": 2569
+  },
+  {
+    "name": "渚",
+    "message": "中文ううん、なんでもない。渚ももっと頑張らないといけないなって",
+    "message_id": 2588,
+    "name_id": 2587
+  },
+  {
+    "name": "楓真",
+    "message": "中文渚は頑張ってるよ",
+    "message_id": 2600,
+    "name_id": 2599
+  },
+  {
+    "name": "渚",
+    "message": "中文ありがと、でももっともっと頑張りたいの……頑張らなきゃ",
+    "message_id": 2611,
+    "name_id": 2610
+  },
+  {
+    "name": "楓真",
+    "message": "中文そうか…、そうだな。俺が卒業した後の恋会は、渚が継ぐんだから、それぐらいの気合は必要かもな",
+    "message_id": 2623,
+    "name_id": 2622
+  },
+  {
+    "name": "渚",
+    "message": "中文……渚が？",
+    "message_id": 2634,
+    "name_id": 2633
+  },
+  {
+    "name": "楓真",
+    "message": "中文そうだよ。天翔先輩と媛守先輩は、今年。来年は俺と金剛。そうしたら――",
+    "message_id": 2646,
+    "name_id": 2645
+  },
+  {
+    "name": "渚",
+    "message": "中文うわ。渚だけ",
+    "message_id": 2664,
+    "name_id": 2663
+  },
+  {
+    "name": "楓真",
+    "message": "中文そういうこと。もっとも来年には新しいメンバーが参加するだろうし、途中入会する奴だっているだろうから",
+    "message_id": 2676,
+    "name_id": 2675
+  },
+  {
+    "name": "楓真",
+    "message": "中文渚がひとりになることはないと思うけどな",
+    "message_id": 2685,
+    "name_id": 2684
+  },
+  {
+    "name": "渚",
+    "message": "中文うーん……なんか不安になってきたかも",
+    "message_id": 2696,
+    "name_id": 2695
+  },
+  {
+    "name": "楓真",
+    "message": "中文大丈夫だよ。まだ先の話だしな",
+    "message_id": 2708,
+    "name_id": 2707
+  },
+  {
+    "name": "楓真",
+    "message": "中文それに、恋会は元々天翔先輩がひとりで作った委員会なんだから",
+    "message_id": 2717,
+    "name_id": 2716
+  },
+  {
+    "name": "渚",
+    "message": "中文うん。でも、先輩みたいにスーパーマンじゃないから……",
+    "message_id": 2728,
+    "name_id": 2727
+  },
+  {
+    "name": "楓真",
+    "message": "中文スーパーマンじゃないのはしょうがないだろ。俺だってそんな風になれるとは思ってないよ",
+    "message_id": 2740,
+    "name_id": 2739
+  },
+  {
+    "name": "楓真",
+    "message": "中文でも、カップルを成立させるっていう意気込みは天翔先輩に負けないようにしたい。それだけでも、近づけるんじゃないかな",
+    "message_id": 2749,
+    "name_id": 2748
+  },
+  {
+    "name": "渚",
+    "message": "中文近づける……",
+    "message_id": 2760,
+    "name_id": 2759
+  },
+  {
+    "name": "楓真",
+    "message": "中文うん。近づくんだよ。一歩でも",
+    "message_id": 2772,
+    "name_id": 2771
+  },
+  {
+    "name": "渚",
+    "message": "中文……うん、分かった。お兄ちゃんも協力してくれる？",
+    "message_id": 2790,
+    "name_id": 2789
+  },
+  {
+    "name": "楓真",
+    "message": "中文ああ、もちろんさ。俺たちの伝統を受け継ぐのは、渚なんだ。協力は惜しまないよ！",
+    "message_id": 2802,
+    "name_id": 2801
+  },
+  {
+    "name": "渚",
+    "message": "中文えへへ……よし、なんだかやれる気がしてきたぞ！　奈穂先輩よりも凄い恋会を作るからね！",
+    "message_id": 2820,
+    "name_id": 2819
+  },
+  {
+    "name": "楓真",
+    "message": "中文ははっ、期待してるぞ。よし！　おっと……もう少し砂、もろうか？",
+    "message_id": 2832,
+    "name_id": 2831
+  },
+  {
+    "name": "渚",
+    "message": "中文うん！　お願い！",
+    "message_id": 2843,
+    "name_id": 2842
+  },
+  {
+    "name": null,
+    "message": "中文恋会の真面目な話は脇において、俺たちは砂遊びを続ける。",
+    "message_id": 2853
+  },
+  {
+    "name": null,
+    "message": "中文子供の頃は、公園でよくこうやって砂遊びしてたものだ、二人で……。",
+    "message_id": 2860
+  },
+  {
+    "name": null,
+    "message": "中文ん？　二人？？",
+    "message_id": 2867
+  },
+  {
+    "name": "楓真",
+    "message": "中文公園で……姉さんは、いなかったっけ……",
+    "message_id": 2876,
+    "name_id": 2875
+  },
+  {
+    "name": "渚",
+    "message": "中文ん？　どうしたの、お兄ちゃん？",
+    "message_id": 2887,
+    "name_id": 2886
+  },
+  {
+    "name": "楓真",
+    "message": "中文いや、なんでもない！　さぁ、トンネルを掘るぞ！",
+    "message_id": 2899,
+    "name_id": 2898
+  },
+  {
+    "name": null,
+    "message": "中文まあ、姉さんは子供の頃から大人びていたから、砂遊びは一緒にしてないかもな。",
+    "message_id": 2906
+  },
+  {
+    "name": null,
+    "message": "中文なんか記憶があやふやだけど……思い出せないだけか。",
+    "message_id": 2913
+  },
+  {
+    "name": "渚",
+    "message": "中文よぉし！　今度こそ成功させるからねっ",
+    "message_id": 2931,
+    "name_id": 2930
+  },
+  {
+    "name": "楓真",
+    "message": "中文ああ、やるぞー",
+    "message_id": 2943,
+    "name_id": 2942
+  },
+  {
+    "name": null,
+    "message": "中文集合時間になってみんなが呼びに来るまで俺たちは砂遊びに興じていたのだった。",
+    "message_id": 2950
+  }
+]

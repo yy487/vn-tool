@@ -1,0 +1,853 @@
+[
+  {
+    "name": "楓真",
+    "message": "中文見つけましたよ",
+    "message_id": 40,
+    "name_id": 38
+  },
+  {
+    "name": "奈穂",
+    "message": "中文見つけてくれたんだ",
+    "message_id": 74,
+    "name_id": 73
+  },
+  {
+    "name": null,
+    "message": "中文キャンドルナイトでの演説の後、天翔先輩はどこかに姿を消していた。",
+    "message_id": 85
+  },
+  {
+    "name": null,
+    "message": "中文でもそれは、約束の為の儀式だったんだと思う。",
+    "message_id": 92
+  },
+  {
+    "name": "楓真",
+    "message": "中文約束ですからね",
+    "message_id": 101,
+    "name_id": 100
+  },
+  {
+    "name": "奈穂",
+    "message": "中文……そっか",
+    "message_id": 130,
+    "name_id": 129
+  },
+  {
+    "name": null,
+    "message": "中文天翔先輩の視線はみんなが灯す光に向けられている。",
+    "message_id": 148
+  },
+  {
+    "name": null,
+    "message": "中文その横顔はとても柔らかくて。",
+    "message_id": 155
+  },
+  {
+    "name": "楓真",
+    "message": "中文ようやく落ち着きましたね",
+    "message_id": 164,
+    "name_id": 163
+  },
+  {
+    "name": "奈穂",
+    "message": "中文……ん。いろいろありがとね、楓真",
+    "message_id": 193,
+    "name_id": 192
+  },
+  {
+    "name": "楓真",
+    "message": "中文なんですか、改まって",
+    "message_id": 205,
+    "name_id": 204
+  },
+  {
+    "name": "奈穂",
+    "message": "中文あたしはお礼を言いたいと思ったら、その場ですぐ言うし",
+    "message_id": 255,
+    "name_id": 254
+  },
+  {
+    "name": "楓真",
+    "message": "中文そうでした",
+    "message_id": 270,
+    "name_id": 269
+  },
+  {
+    "name": null,
+    "message": "中文丘に広がるキャンドルの明かりを眺めて、ここまで漕ぎ着けられたことに感謝する。",
+    "message_id": 277
+  },
+  {
+    "name": null,
+    "message": "中文明かりの一つ一つに、柔らかな笑顔がある。",
+    "message_id": 284
+  },
+  {
+    "name": null,
+    "message": "中文これは俺たちだけで辿り着いた成果ではなく、協力してくれた全ての人たちの成果だ。",
+    "message_id": 291
+  },
+  {
+    "name": "奈穂",
+    "message": "中文もう一つ、言いたいことがあるんだけどさ",
+    "message_id": 320,
+    "name_id": 319
+  },
+  {
+    "name": "楓真",
+    "message": "中文なんです？",
+    "message_id": 332,
+    "name_id": 331
+  },
+  {
+    "name": "奈穂",
+    "message": "中文それはちょっとお礼と違ってサラッと言いにくいんだけど",
+    "message_id": 361,
+    "name_id": 360
+  },
+  {
+    "name": null,
+    "message": "中文鼻の頭を掻いている。あの天翔先輩が照れているのか……",
+    "message_id": 371
+  },
+  {
+    "name": "楓真",
+    "message": "中文先輩が言いにくいなら、先に俺の方から言っちゃおうかな",
+    "message_id": 380,
+    "name_id": 379
+  },
+  {
+    "name": null,
+    "message": "中文このキャンドルナイトが実現することが確実になった頃から、今日しかないと思っていたことだ。",
+    "message_id": 387
+  },
+  {
+    "name": "奈穂",
+    "message": "中文いや！　待った！　なんかおんなじことのような気がする！",
+    "message_id": 416,
+    "name_id": 415
+  },
+  {
+    "name": "楓真",
+    "message": "中文なるほど、じゃあ",
+    "message_id": 428,
+    "name_id": 427
+  },
+  {
+    "name": "奈穂",
+    "message": "中文だから待ったって！　あたしから言いたいの！",
+    "message_id": 457,
+    "name_id": 456
+  },
+  {
+    "name": "楓真",
+    "message": "中文えー、そうですか？　男からの方が嬉しいものなんじゃ……",
+    "message_id": 469,
+    "name_id": 468
+  },
+  {
+    "name": "奈穂",
+    "message": "中文子供の頃から決めてたの！　乙女の夢をナメんな！",
+    "message_id": 508,
+    "name_id": 507
+  },
+  {
+    "name": null,
+    "message": "中文あまりの剣幕に身振りで「オーケーオーケー」と詰め寄る先輩を押しとどめる。",
+    "message_id": 518
+  },
+  {
+    "name": "楓真",
+    "message": "中文……ぜひ、先輩の口から聞きたいです。待ちますので",
+    "message_id": 527,
+    "name_id": 526
+  },
+  {
+    "name": "奈穂",
+    "message": "中文う、うん",
+    "message_id": 556,
+    "name_id": 555
+  },
+  {
+    "name": null,
+    "message": "中文そして赤くなるとか、なんだろう、すごく可愛い。",
+    "message_id": 566
+  },
+  {
+    "name": "奈穂",
+    "message": "中文……すぅぅぅ……はぁぁぁ……すぅぅぅ……はぁぁぁ……",
+    "message_id": 595,
+    "name_id": 594
+  },
+  {
+    "name": "奈穂",
+    "message": "中文ちょっと待ってて",
+    "message_id": 627,
+    "name_id": 626
+  },
+  {
+    "name": null,
+    "message": "中文キャンドルを取りに行くんだとすぐにわかった。やはり同じことを考えていたみたいだ。",
+    "message_id": 637
+  },
+  {
+    "name": "奈穂",
+    "message": "中文お待たせ",
+    "message_id": 686,
+    "name_id": 685
+  },
+  {
+    "name": null,
+    "message": "中文先輩の手にはグラスに据えられたキャンドルが大事に包まれていた。",
+    "message_id": 696
+  },
+  {
+    "name": "奈穂",
+    "message": "中文あ、しまった。火がない",
+    "message_id": 740,
+    "name_id": 739
+  },
+  {
+    "name": null,
+    "message": "中文ほかのみんなは、火を灯すのに受付の種火を使っていたからな。",
+    "message_id": 752
+  },
+  {
+    "name": "楓真",
+    "message": "中文ありますよ。俺、マッチ持ってきてます",
+    "message_id": 761,
+    "name_id": 760
+  },
+  {
+    "name": "奈穂",
+    "message": "中文……あたしより準備がいいじゃない",
+    "message_id": 790,
+    "name_id": 789
+  },
+  {
+    "name": "楓真",
+    "message": "中文男はいろいろシミュレーションするんです",
+    "message_id": 802,
+    "name_id": 801
+  },
+  {
+    "name": "奈穂",
+    "message": "中文でも、マッチは……",
+    "message_id": 831,
+    "name_id": 830
+  },
+  {
+    "name": "楓真",
+    "message": "中文捨てられませんからね。十条寺先生の携帯灰皿を借りてきました",
+    "message_id": 843,
+    "name_id": 842
+  },
+  {
+    "name": "奈穂",
+    "message": "中文お、おう……",
+    "message_id": 872,
+    "name_id": 871
+  },
+  {
+    "name": "楓真",
+    "message": "中文それで、天翔先輩のプランは？",
+    "message_id": 884,
+    "name_id": 883
+  },
+  {
+    "name": "奈穂",
+    "message": "中文……あたしが持ってるから、楓真に火を灯してほしい",
+    "message_id": 913,
+    "name_id": 912
+  },
+  {
+    "name": "楓真",
+    "message": "中文わかりました。心の準備ができたら、言ってください",
+    "message_id": 925,
+    "name_id": 924
+  },
+  {
+    "name": "奈穂",
+    "message": "中文あんたは、もうできてんの？",
+    "message_id": 954,
+    "name_id": 953
+  },
+  {
+    "name": "楓真",
+    "message": "中文先輩を見てたら逆に落ち着きました",
+    "message_id": 966,
+    "name_id": 965
+  },
+  {
+    "name": "奈穂",
+    "message": "中文くっ……余裕かましてっ",
+    "message_id": 995,
+    "name_id": 994
+  },
+  {
+    "name": null,
+    "message": "中文ずずいっと先輩がグラスを俺に向けて差し出した。",
+    "message_id": 1005
+  },
+  {
+    "name": "奈穂",
+    "message": "中文……い、いいよ。つけて",
+    "message_id": 1034,
+    "name_id": 1033
+  },
+  {
+    "name": "楓真",
+    "message": "中文はい",
+    "message_id": 1046,
+    "name_id": 1045
+  },
+  {
+    "name": null,
+    "message": "中文落ち着いた、とは言ったが、こうして待ち構えられるとドキドキしてくる。",
+    "message_id": 1053
+  },
+  {
+    "name": null,
+    "message": "中文幸い、一度擦っただけで火は起こせた。",
+    "message_id": 1062
+  },
+  {
+    "name": "奈穂",
+    "message": "中文…………",
+    "message_id": 1094,
+    "name_id": 1093
+  },
+  {
+    "name": null,
+    "message": "中文それを手で守って、ゆっくりとキャンドルの芯にかざす。",
+    "message_id": 1104
+  },
+  {
+    "name": null,
+    "message": "中文少し待つと、ぽぅっと火が灯った。",
+    "message_id": 1111
+  },
+  {
+    "name": "楓真",
+    "message": "中文……つきました",
+    "message_id": 1120,
+    "name_id": 1119
+  },
+  {
+    "name": "奈穂",
+    "message": "中文うん……。楓真、あたし……あたし、楓真のことが大好きだよ",
+    "message_id": 1149,
+    "name_id": 1148
+  },
+  {
+    "name": "奈穂",
+    "message": "中文こんな風に、楓真があたしの心に暖かい火を灯してくれたの",
+    "message_id": 1181,
+    "name_id": 1180
+  },
+  {
+    "name": "奈穂",
+    "message": "中文って言うって決めてたんだけど、実際言うとチョー恥ずかしいね！",
+    "message_id": 1213,
+    "name_id": 1212
+  },
+  {
+    "name": "楓真",
+    "message": "中文俺はグッと来てますから、全然大丈夫です",
+    "message_id": 1225,
+    "name_id": 1224
+  },
+  {
+    "name": "楓真",
+    "message": "中文このキャンドルは、先輩と俺の想いを乗せてるんですね",
+    "message_id": 1234,
+    "name_id": 1233
+  },
+  {
+    "name": "奈穂",
+    "message": "中文う、うん……うんっ！",
+    "message_id": 1263,
+    "name_id": 1262
+  },
+  {
+    "name": "楓真",
+    "message": "中文天翔先輩と同じ気持ちで、俺、すごく嬉しいです",
+    "message_id": 1275,
+    "name_id": 1274
+  },
+  {
+    "name": "奈穂",
+    "message": "中文それって、あたしと付き合ってくれるってこと？",
+    "message_id": 1304,
+    "name_id": 1303
+  },
+  {
+    "name": "楓真",
+    "message": "中文もちろんです。俺からも、よろしくお願いします",
+    "message_id": 1316,
+    "name_id": 1315
+  },
+  {
+    "name": null,
+    "message": "中文言いながら、グラスを持つ天翔先輩の両手を、自分の両手で包んだ。",
+    "message_id": 1323
+  },
+  {
+    "name": "奈穂",
+    "message": "中文っ……あり、ありがと……",
+    "message_id": 1352,
+    "name_id": 1351
+  },
+  {
+    "name": null,
+    "message": "中文天翔先輩の頬に一筋の涙が伝う。",
+    "message_id": 1362
+  },
+  {
+    "name": "楓真",
+    "message": "中文なっ、泣いちゃうんですか！？",
+    "message_id": 1371,
+    "name_id": 1370
+  },
+  {
+    "name": "奈穂",
+    "message": "中文うれし涙！",
+    "message_id": 1400,
+    "name_id": 1399
+  },
+  {
+    "name": "楓真",
+    "message": "中文そりゃあわかりますけど",
+    "message_id": 1412,
+    "name_id": 1411
+  },
+  {
+    "name": "奈穂",
+    "message": "中文ちっちゃい頃からずーっと、好きな人ができたらこうするんだって決めてたんだもん",
+    "message_id": 1441,
+    "name_id": 1440
+  },
+  {
+    "name": "奈穂",
+    "message": "中文ほんとはあの教会でしたかったけど……でも、どこでも同じだった",
+    "message_id": 1473,
+    "name_id": 1472
+  },
+  {
+    "name": "奈穂",
+    "message": "中文今は……楓真しか見えないから",
+    "message_id": 1505,
+    "name_id": 1504
+  },
+  {
+    "name": null,
+    "message": "中文そう言って涙を拭って微笑んだ天翔先輩は過去最高と言っていいくらい可愛かった。",
+    "message_id": 1515
+  },
+  {
+    "name": "楓真",
+    "message": "中文だ、抱きしめたい……っ！",
+    "message_id": 1524,
+    "name_id": 1523
+  },
+  {
+    "name": "奈穂",
+    "message": "中文ふぇっ！？",
+    "message_id": 1568,
+    "name_id": 1567
+  },
+  {
+    "name": "楓真",
+    "message": "中文今の聞いたら、もう愛しくてたまらなくなっちゃったんですけど……でも火が危ないからできない……",
+    "message_id": 1582,
+    "name_id": 1581
+  },
+  {
+    "name": "奈穂",
+    "message": "中文…………",
+    "message_id": 1611,
+    "name_id": 1610
+  },
+  {
+    "name": "楓真",
+    "message": "中文…………",
+    "message_id": 1623,
+    "name_id": 1622
+  },
+  {
+    "name": null,
+    "message": "中文燃え続ける火に二人で視線を落とす。",
+    "message_id": 1630
+  },
+  {
+    "name": "奈穂",
+    "message": "中文……あ、あははははっ！　そりゃ盲点だった！",
+    "message_id": 1659,
+    "name_id": 1658
+  },
+  {
+    "name": null,
+    "message": "中文みんながしているように地面に置けばいいのだが、多分先輩はそうしたくない。",
+    "message_id": 1669
+  },
+  {
+    "name": null,
+    "message": "中文二人で灯したこのキャンドルは、先輩の宝物になったんだ。",
+    "message_id": 1676
+  },
+  {
+    "name": null,
+    "message": "中文先輩が俺を上目遣いに見つめる。",
+    "message_id": 1683
+  },
+  {
+    "name": "奈穂",
+    "message": "中文えと、どうする？",
+    "message_id": 1712,
+    "name_id": 1711
+  },
+  {
+    "name": "楓真",
+    "message": "中文いいですよ。あとでちょっと持つの交代したいですけど",
+    "message_id": 1724,
+    "name_id": 1723
+  },
+  {
+    "name": "奈穂",
+    "message": "中文そうだよね。二人のキャンドルだもんね",
+    "message_id": 1753,
+    "name_id": 1752
+  },
+  {
+    "name": null,
+    "message": "中文それもあるが、一つプレゼントを懐に忍ばせているのだ。",
+    "message_id": 1763
+  },
+  {
+    "name": "奈穂",
+    "message": "中文でも、「抱きしめたい！」は衝撃だった……",
+    "message_id": 1807,
+    "name_id": 1806
+  },
+  {
+    "name": "楓真",
+    "message": "中文今度たっぷり、抱きしめたいと思います",
+    "message_id": 1821,
+    "name_id": 1820
+  },
+  {
+    "name": "奈穂",
+    "message": "中文っ……す、すごいこと言うね",
+    "message_id": 1850,
+    "name_id": 1849
+  },
+  {
+    "name": "楓真",
+    "message": "中文時間を置いたら恥ずかしくて言えなくなるかもしれないですし、今のうちに宣言だけでも",
+    "message_id": 1862,
+    "name_id": 1861
+  },
+  {
+    "name": "楓真",
+    "message": "中文この火を二人で守っていきましょう",
+    "message_id": 1871,
+    "name_id": 1870
+  },
+  {
+    "name": "奈穂",
+    "message": "中文うん。じゃあ、ご希望通り、いったん楓真にバトンタッチ",
+    "message_id": 1900,
+    "name_id": 1899
+  },
+  {
+    "name": null,
+    "message": "中文差し出されたキャンドルを受け取る。",
+    "message_id": 1942
+  },
+  {
+    "name": "楓真",
+    "message": "中文ありがとうございます",
+    "message_id": 1951,
+    "name_id": 1950
+  },
+  {
+    "name": "奈穂",
+    "message": "中文パパとママが作った恋人の伝説を再現したいって、ずっとこだわってた",
+    "message_id": 1962,
+    "name_id": 1961
+  },
+  {
+    "name": "奈穂",
+    "message": "中文でも、こうなってみて「よかった」と思えたよ",
+    "message_id": 1973,
+    "name_id": 1972
+  },
+  {
+    "name": "奈穂",
+    "message": "中文教会と幸せの丘……素敵な場所が増えたってことだもん",
+    "message_id": 1984,
+    "name_id": 1983
+  },
+  {
+    "name": "奈穂",
+    "message": "中文伝説も語り継いでいくけど……",
+    "message_id": 1995,
+    "name_id": 1994
+  },
+  {
+    "name": "奈穂",
+    "message": "中文あたしたちはもっと身近な「あの人たちみたいな恋人になりたいね」って言われるようにさ",
+    "message_id": 2006,
+    "name_id": 2005
+  },
+  {
+    "name": "楓真",
+    "message": "中文いいですね。俺たちの子が東雲に入学する頃には、きっと伝説になっていますよ",
+    "message_id": 2015,
+    "name_id": 2014
+  },
+  {
+    "name": "奈穂",
+    "message": "中文また、すごいこと言った",
+    "message_id": 2026,
+    "name_id": 2025
+  },
+  {
+    "name": "楓真",
+    "message": "中文そこまで行きたい相手として、考えてますから",
+    "message_id": 2035,
+    "name_id": 2034
+  },
+  {
+    "name": null,
+    "message": "中文そう言いながらポケットからプレゼントを取り出し、先輩に渡した。",
+    "message_id": 2042
+  },
+  {
+    "name": "奈穂",
+    "message": "中文楓真……これ",
+    "message_id": 2069,
+    "name_id": 2068
+  },
+  {
+    "name": "楓真",
+    "message": "中文プレゼントです。教会で開催できなかったから代わりにと思ったんですけど、吹っ切れちゃいましたね",
+    "message_id": 2078,
+    "name_id": 2077
+  },
+  {
+    "name": "奈穂",
+    "message": "中文……ううん、嬉しい……楓真の言葉も、このプレゼントも……すごく嬉しい",
+    "message_id": 2105,
+    "name_id": 2104
+  },
+  {
+    "name": "楓真",
+    "message": "中文よかった。それ、オルゴールになってるんですよ",
+    "message_id": 2114,
+    "name_id": 2113
+  },
+  {
+    "name": null,
+    "message": "中文教会のデザインのオルゴールを。",
+    "message_id": 2121
+  },
+  {
+    "name": null,
+    "message": "中文先輩にこの瞬間に渡したいって思って。",
+    "message_id": 2128
+  },
+  {
+    "name": null,
+    "message": "中文十条寺先生にお願いして探してもらったものだ。",
+    "message_id": 2135
+  },
+  {
+    "name": null,
+    "message": "中文先輩が蓋になっている屋根を開いた。",
+    "message_id": 2161
+  },
+  {
+    "name": null,
+    "message": "中文オルゴールの音色が響き始める。",
+    "message_id": 2171
+  },
+  {
+    "name": "奈穂",
+    "message": "中文素敵……あたしたちのこと、祝福してくれてるみたい",
+    "message_id": 2182,
+    "name_id": 2181
+  },
+  {
+    "name": "奈穂",
+    "message": "中文大切にする、絶対する。宝物だよ",
+    "message_id": 2193,
+    "name_id": 2192
+  },
+  {
+    "name": "楓真",
+    "message": "中文よかった。帰ったら、このキャンドルと一緒に",
+    "message_id": 2202,
+    "name_id": 2201
+  },
+  {
+    "name": "奈穂",
+    "message": "中文うん。飾る。キャンドルも、記念日とかに灯そうね",
+    "message_id": 2213,
+    "name_id": 2212
+  },
+  {
+    "name": "楓真",
+    "message": "中文いいですね、それ",
+    "message_id": 2222,
+    "name_id": 2221
+  },
+  {
+    "name": "奈穂",
+    "message": "中文…………",
+    "message_id": 2233,
+    "name_id": 2232
+  },
+  {
+    "name": null,
+    "message": "中文先輩の頬が少し赤くなった気がした。キャンドルに照らされてではない。",
+    "message_id": 2240
+  },
+  {
+    "name": null,
+    "message": "中文きっと、同じことを考えている。",
+    "message_id": 2247
+  },
+  {
+    "name": "奈穂",
+    "message": "中文楓真……",
+    "message_id": 2274,
+    "name_id": 2273
+  },
+  {
+    "name": null,
+    "message": "中文目を閉じた先輩に、顔を寄せる。それはとても自然なことに思えた。",
+    "message_id": 2281
+  },
+  {
+    "name": "奈穂",
+    "message": "中文……んっ",
+    "message_id": 2292,
+    "name_id": 2291
+  },
+  {
+    "name": null,
+    "message": "中文柔らかな唇の感触は、ゾクゾクするほど気持ちよくて、幸せが満ちてくる。",
+    "message_id": 2299
+  },
+  {
+    "name": "奈穂",
+    "message": "中文ちゅ……っ……ふう、まぁ……",
+    "message_id": 2310,
+    "name_id": 2309
+  },
+  {
+    "name": null,
+    "message": "中文ほんの数秒のキスだったけど、きっとこのことは一生忘れない。",
+    "message_id": 2317
+  },
+  {
+    "name": "楓真",
+    "message": "中文また泣いちゃってる",
+    "message_id": 2342,
+    "name_id": 2341
+  },
+  {
+    "name": "奈穂",
+    "message": "中文だって……だってぇ……えへへへ",
+    "message_id": 2353,
+    "name_id": 2352
+  },
+  {
+    "name": null,
+    "message": "中文うまく言葉にならないみたいだ。",
+    "message_id": 2360
+  },
+  {
+    "name": null,
+    "message": "中文でも、その笑顔がすべてを物語っていた。",
+    "message_id": 2367
+  },
+  {
+    "name": "奈穂",
+    "message": "中文楓真、すごく嬉しそう",
+    "message_id": 2378,
+    "name_id": 2377
+  },
+  {
+    "name": "楓真",
+    "message": "中文先輩もね",
+    "message_id": 2387,
+    "name_id": 2386
+  },
+  {
+    "name": null,
+    "message": "中文まるで俺たちが笑い合うのを待っていたかのように花火が上がった。",
+    "message_id": 2396
+  },
+  {
+    "name": "奈穂",
+    "message": "中文はぁ～……きれーい",
+    "message_id": 2448,
+    "name_id": 2447
+  },
+  {
+    "name": "楓真",
+    "message": "中文恋会が厳選に厳選を重ねて選んだ花火ですからね",
+    "message_id": 2457,
+    "name_id": 2456
+  },
+  {
+    "name": "奈穂",
+    "message": "中文そっか、そういえばそうだった",
+    "message_id": 2468,
+    "name_id": 2467
+  },
+  {
+    "name": "楓真",
+    "message": "中文俺たち以外にカップルになった人、何組くらいいますかね",
+    "message_id": 2477,
+    "name_id": 2476
+  },
+  {
+    "name": "奈穂",
+    "message": "中文うーん、いっぱい。きっといっぱい！",
+    "message_id": 2488,
+    "name_id": 2487
+  },
+  {
+    "name": null,
+    "message": "中文実際、感触としていい雰囲気の男女は結構いた",
+    "message_id": 2495
+  },
+  {
+    "name": "奈穂",
+    "message": "中文よおし！　これからも恋会頑張っちゃおう！",
+    "message_id": 2516,
+    "name_id": 2515
+  },
+  {
+    "name": "楓真",
+    "message": "中文あははっ、先輩らしい",
+    "message_id": 2525,
+    "name_id": 2524
+  },
+  {
+    "name": "奈穂",
+    "message": "中文ていうか、楓真もよ！？",
+    "message_id": 2536,
+    "name_id": 2535
+  },
+  {
+    "name": "楓真",
+    "message": "中文もちろん、そのつもりですよ",
+    "message_id": 2545,
+    "name_id": 2544
+  }
+]

@@ -1,0 +1,507 @@
+[
+  {
+    "name": "楓真",
+    "message": "中文なんでだろう、必要以上に疲れた気がする",
+    "message_id": 38,
+    "name_id": 36
+  },
+  {
+    "name": null,
+    "message": "中文放課後もいい時間になった。",
+    "message_id": 48
+  },
+  {
+    "name": "楓真",
+    "message": "中文忙しくはなっても、楽になることはないだろうしな",
+    "message_id": 57,
+    "name_id": 56
+  },
+  {
+    "name": null,
+    "message": "中文渚も今日は遅くなると言ってたし。",
+    "message_id": 64
+  },
+  {
+    "name": null,
+    "message": "中文晩ご飯の準備は俺がした方がいいだろうな。",
+    "message_id": 71
+  },
+  {
+    "name": "楓真",
+    "message": "中文一応献立考えるか……",
+    "message_id": 80,
+    "name_id": 79
+  },
+  {
+    "name": null,
+    "message": "中文ちゃんとしたものを作って出さないと姉さんになにを言われるか分からないからな……。",
+    "message_id": 87
+  },
+  {
+    "name": "音羽",
+    "message": "中文……あら、茅野くん",
+    "message_id": 105,
+    "name_id": 104
+  },
+  {
+    "name": "楓真",
+    "message": "中文わわあぁぁー",
+    "message_id": 135,
+    "name_id": 124
+  },
+  {
+    "name": "音羽",
+    "message": "中文……",
+    "message_id": 186,
+    "name_id": 185
+  },
+  {
+    "name": "楓真",
+    "message": "中文……会長、もう脅かさないでくださいよ",
+    "message_id": 201,
+    "name_id": 200
+  },
+  {
+    "name": "音羽",
+    "message": "中文相変わらず失礼ね",
+    "message_id": 230,
+    "name_id": 229
+  },
+  {
+    "name": null,
+    "message": "中文会長はあの海の日以来、メガネからコンタクトに変えていて、未だに慣れないんだよな……。",
+    "message_id": 240
+  },
+  {
+    "name": "楓真",
+    "message": "中文すいません。今日は、もう上がりですか？",
+    "message_id": 249,
+    "name_id": 248
+  },
+  {
+    "name": null,
+    "message": "中文ちょっとドキドキしてしまうのは秘密だ。",
+    "message_id": 256
+  },
+  {
+    "name": "音羽",
+    "message": "中文まぁ、いいわ。そうよ、たまには早く帰れって、峯岸たちに言われたから",
+    "message_id": 285,
+    "name_id": 284
+  },
+  {
+    "name": "楓真",
+    "message": "中文じゃあ、他の人たちは……",
+    "message_id": 297,
+    "name_id": 296
+  },
+  {
+    "name": "音羽",
+    "message": "中文ええ。まだ仕事中よ",
+    "message_id": 326,
+    "name_id": 325
+  },
+  {
+    "name": "楓真",
+    "message": "中文そりゃご苦労さまです",
+    "message_id": 338,
+    "name_id": 337
+  },
+  {
+    "name": "音羽",
+    "message": "中文どこかの誰かさんたちが余計な仕事を増やしてくれないのを祈るばかりだわ",
+    "message_id": 367,
+    "name_id": 366
+  },
+  {
+    "name": "楓真",
+    "message": "中文ははははは",
+    "message_id": 379,
+    "name_id": 378
+  },
+  {
+    "name": "音羽",
+    "message": "中文それで今日は、恋会の活動終わり？",
+    "message_id": 467,
+    "name_id": 466
+  },
+  {
+    "name": null,
+    "message": "中文やっぱり聞いてくるよな。",
+    "message_id": 477
+  },
+  {
+    "name": null,
+    "message": "中文まあ当然といえば当然だな。",
+    "message_id": 484
+  },
+  {
+    "name": "楓真",
+    "message": "中文そうですね、今日は終わりです",
+    "message_id": 493,
+    "name_id": 492
+  },
+  {
+    "name": null,
+    "message": "中文ここは慎重に、ボロが出ないようにしないと。",
+    "message_id": 500
+  },
+  {
+    "name": "音羽",
+    "message": "中文ふーん",
+    "message_id": 529,
+    "name_id": 528
+  },
+  {
+    "name": "楓真",
+    "message": "中文まだまだ始まったばかりですし、それに俺の作業は指示待ちがほとんどなので",
+    "message_id": 541,
+    "name_id": 540
+  },
+  {
+    "name": "音羽",
+    "message": "中文茅野くんって、嘘が下手なのね",
+    "message_id": 570,
+    "name_id": 569
+  },
+  {
+    "name": "楓真",
+    "message": "中文えっ",
+    "message_id": 582,
+    "name_id": 581
+  },
+  {
+    "name": "楓真",
+    "message": "中文嘘って、なんでですか",
+    "message_id": 591,
+    "name_id": 590
+  },
+  {
+    "name": null,
+    "message": "中文どうしてばれてるんだ。",
+    "message_id": 598
+  },
+  {
+    "name": null,
+    "message": "中文俺、そんなに分かりやすいのか。",
+    "message_id": 605
+  },
+  {
+    "name": "音羽",
+    "message": "中文そんなに緊張しないでいいわよ、別に取って食おうってわけじゃないんだから",
+    "message_id": 634,
+    "name_id": 633
+  },
+  {
+    "name": "音羽",
+    "message": "中文聞いたって本当のことは教えてくれる気はないんでしょ、私も期待してないし",
+    "message_id": 663,
+    "name_id": 662
+  },
+  {
+    "name": "楓真",
+    "message": "中文なんというか、返事に困りますね",
+    "message_id": 675,
+    "name_id": 674
+  },
+  {
+    "name": "音羽",
+    "message": "中文まあ、いいわ。奈穂はまた余計なことを企んでるんでしょうけどあなたがなんとかしてくれるわよね",
+    "message_id": 704,
+    "name_id": 703
+  },
+  {
+    "name": "楓真",
+    "message": "中文いやぁー、そう言われましても",
+    "message_id": 716,
+    "name_id": 715
+  },
+  {
+    "name": "音羽",
+    "message": "中文頼りない返事ね",
+    "message_id": 745,
+    "name_id": 744
+  },
+  {
+    "name": "楓真",
+    "message": "中文俺は恋会のメンバーですからね。会長の気持ちは分からないでもないですが",
+    "message_id": 757,
+    "name_id": 756
+  },
+  {
+    "name": "音羽",
+    "message": "中文ふぅー、ほんとやっかいな人たちばかりね、恋会って",
+    "message_id": 786,
+    "name_id": 785
+  },
+  {
+    "name": "楓真",
+    "message": "中文そこはノーコメントでお願いします",
+    "message_id": 798,
+    "name_id": 797
+  },
+  {
+    "name": "音羽",
+    "message": "中文奈穂のことだからはりきりまくってるでしょ",
+    "message_id": 881,
+    "name_id": 880
+  },
+  {
+    "name": "楓真",
+    "message": "中文そうですね、いつも以上にはりきってる感じはしますね",
+    "message_id": 893,
+    "name_id": 892
+  },
+  {
+    "name": "音羽",
+    "message": "中文はぁー、そうよね",
+    "message_id": 937,
+    "name_id": 936
+  },
+  {
+    "name": null,
+    "message": "中文会長の盛大なため息。",
+    "message_id": 949
+  },
+  {
+    "name": null,
+    "message": "中文天翔先輩が元気だと会長の元気がなくなるのか。",
+    "message_id": 956
+  },
+  {
+    "name": null,
+    "message": "中文でも、どこか似てるなんだよなこの二人は。",
+    "message_id": 963
+  },
+  {
+    "name": "音羽",
+    "message": "中文去年は奈穂が風邪を引いて学園祭そのものを欠席したのよね。おかげで平穏無事な東祭になったのだけれど",
+    "message_id": 992,
+    "name_id": 991
+  },
+  {
+    "name": "楓真",
+    "message": "中文本人は相当悔しそうでしたけど",
+    "message_id": 1004,
+    "name_id": 1003
+  },
+  {
+    "name": "音羽",
+    "message": "中文相当にたちの悪い奴だったみたいね。一週間学園に来なかったんだから",
+    "message_id": 1033,
+    "name_id": 1032
+  },
+  {
+    "name": "楓真",
+    "message": "中文おかげで復帰後、散々愚痴をいわれましたよ",
+    "message_id": 1045,
+    "name_id": 1044
+  },
+  {
+    "name": "音羽",
+    "message": "中文まあ、奈穂らしいわね。被害が恋会内部で収まるのならこちらとしては願ったりだしね",
+    "message_id": 1074,
+    "name_id": 1073
+  },
+  {
+    "name": "音羽",
+    "message": "中文健全な東祭を行う為に今年もぜひ倒れてほしいわね",
+    "message_id": 1103,
+    "name_id": 1102
+  },
+  {
+    "name": "楓真",
+    "message": "中文酷いですね",
+    "message_id": 1115,
+    "name_id": 1114
+  },
+  {
+    "name": "音羽",
+    "message": "中文そうかしら、こちらの仕事が増えることを考えれば当然だと思うけどね",
+    "message_id": 1144,
+    "name_id": 1143
+  },
+  {
+    "name": "楓真",
+    "message": "中文みんなが楽しめる東祭にするのが一番だと思いますけど",
+    "message_id": 1156,
+    "name_id": 1155
+  },
+  {
+    "name": "音羽",
+    "message": "中文……そうね。茅野くんの言う通りね、学生会としてはそこを目指さないといけないか",
+    "message_id": 1185,
+    "name_id": 1184
+  },
+  {
+    "name": "音羽",
+    "message": "中文奈穂を含めた恋会のメンバーも楽しめるようにしてあげるのは大変そうね",
+    "message_id": 1214,
+    "name_id": 1213
+  },
+  {
+    "name": "楓真",
+    "message": "中文そこは、ほら、恋会と協力して",
+    "message_id": 1226,
+    "name_id": 1225
+  },
+  {
+    "name": "音羽",
+    "message": "中文そうね、恋会が私たち学生会に全面的に協力してくれれば丸く収まりそうね",
+    "message_id": 1255,
+    "name_id": 1254
+  },
+  {
+    "name": "楓真",
+    "message": "中文いやぁ～、それはどうでしょう",
+    "message_id": 1267,
+    "name_id": 1266
+  },
+  {
+    "name": "音羽",
+    "message": "中文あら。言い出したのは茅野くんなんだから、しっかり奈穂を説得してちょうだい",
+    "message_id": 1296,
+    "name_id": 1295
+  },
+  {
+    "name": null,
+    "message": "中文絶対に無理だよな、その説得。",
+    "message_id": 1306
+  },
+  {
+    "name": null,
+    "message": "中文なんか会長にもからかわれている感じだよな。",
+    "message_id": 1313
+  },
+  {
+    "name": "音羽",
+    "message": "中文じゃあ、ここで",
+    "message_id": 1396,
+    "name_id": 1395
+  },
+  {
+    "name": null,
+    "message": "中文そう言って会長は道を右に折れようとする。",
+    "message_id": 1406
+  },
+  {
+    "name": null,
+    "message": "中文そっちの道を俺は、よく知っていた。",
+    "message_id": 1413
+  },
+  {
+    "name": "楓真",
+    "message": "中文あれ？　会長の家ってそっちなんですか？",
+    "message_id": 1422,
+    "name_id": 1421
+  },
+  {
+    "name": "音羽",
+    "message": "中文いえ、ちょっと買いたいものがあるから",
+    "message_id": 1451,
+    "name_id": 1450
+  },
+  {
+    "name": "音羽",
+    "message": "中文忘れたの、私の家は奈穂の家の隣よ",
+    "message_id": 1480,
+    "name_id": 1479
+  },
+  {
+    "name": null,
+    "message": "中文そういえばそんなこと言ってたような。",
+    "message_id": 1490
+  },
+  {
+    "name": "楓真",
+    "message": "中文そ、そうでしたね",
+    "message_id": 1499,
+    "name_id": 1498
+  },
+  {
+    "name": "音羽",
+    "message": "中文……忘れてたのね、ま、いいけど",
+    "message_id": 1528,
+    "name_id": 1527
+  },
+  {
+    "name": "楓真",
+    "message": "中文いやぁ～、あまりにもショックなことだったんで記憶から欠如してたみたいです、あはは",
+    "message_id": 1540,
+    "name_id": 1539
+  },
+  {
+    "name": "音羽",
+    "message": "中文ふぅ～、そんな態度ばかりとってると奈穂にいいようにおもちゃにされるわよ",
+    "message_id": 1569,
+    "name_id": 1568
+  },
+  {
+    "name": "楓真",
+    "message": "中文……もう、されてると思います",
+    "message_id": 1581,
+    "name_id": 1580
+  },
+  {
+    "name": "音羽",
+    "message": "中文あら、茅野くんにそんな趣味があったなんて驚きだわ",
+    "message_id": 1610,
+    "name_id": 1609
+  },
+  {
+    "name": null,
+    "message": "中文まるで天翔先輩にあしらわれている感じがする。",
+    "message_id": 1620
+  },
+  {
+    "name": null,
+    "message": "中文幼馴染ってやっぱり似てしまう部分もあるのかな。",
+    "message_id": 1627
+  },
+  {
+    "name": null,
+    "message": "中文そんな風に思ってしまった。",
+    "message_id": 1634
+  },
+  {
+    "name": "音羽",
+    "message": "中文あんまり話すとまた茅野くんを喜ばすだけだからこの辺にしておくわ",
+    "message_id": 1663,
+    "name_id": 1662
+  },
+  {
+    "name": "楓真",
+    "message": "中文ははは",
+    "message_id": 1675,
+    "name_id": 1674
+  },
+  {
+    "name": "音羽",
+    "message": "中文学園祭準備、無茶しない程度に頑張ってね",
+    "message_id": 1704,
+    "name_id": 1703
+  },
+  {
+    "name": "楓真",
+    "message": "中文はい。会長もお手柔らかに",
+    "message_id": 1716,
+    "name_id": 1715
+  },
+  {
+    "name": "音羽",
+    "message": "中文それは、奈穂に言って頂戴。じゃあ、さようなら",
+    "message_id": 1745,
+    "name_id": 1744
+  },
+  {
+    "name": "楓真",
+    "message": "中文失礼します",
+    "message_id": 1782,
+    "name_id": 1781
+  },
+  {
+    "name": null,
+    "message": "中文そうして俺は自分の家へと足を向けた。",
+    "message_id": 1789
+  }
+]

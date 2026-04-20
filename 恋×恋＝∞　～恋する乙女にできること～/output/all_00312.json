@@ -1,0 +1,611 @@
+[
+  {
+    "name": "奈穂",
+    "message": "中文これ以上、勝手なことはしないでちょうだい",
+    "message_id": 62,
+    "name_id": 60
+  },
+  {
+    "name": "男子学生Ｄ",
+    "message": "中文はぁ？　なに言ってんだよ。俺たちはお前の手伝いをしてやってるんだろう",
+    "message_id": 80,
+    "name_id": 79
+  },
+  {
+    "name": "男子学生Ｅ",
+    "message": "中文そうそう、感謝して欲しいくらいだよ、奈穂ちゃん",
+    "message_id": 91,
+    "name_id": 90
+  },
+  {
+    "name": "奈穂",
+    "message": "中文誰も頼んでないわよ！　大体あたしがやってるのは、あんたたちのナンパサークルじゃないのよ",
+    "message_id": 120,
+    "name_id": 119
+  },
+  {
+    "name": "男子学生Ｅ",
+    "message": "中文何処が違うの？　男と女が並んだらすることはひとつっしょ",
+    "message_id": 134,
+    "name_id": 133
+  },
+  {
+    "name": "男子学生Ｄ",
+    "message": "中文天翔だって目的は一緒なんだろ",
+    "message_id": 145,
+    "name_id": 144
+  },
+  {
+    "name": null,
+    "message": "中文天翔先輩はあの時の先輩たちと口論になっていた。",
+    "message_id": 152
+  },
+  {
+    "name": null,
+    "message": "中文俺は、タイミングを失って出るに出られずそっと状況を伺う。",
+    "message_id": 159
+  },
+  {
+    "name": "奈穂",
+    "message": "中文はぁ、やれやれ。あんたたちみたいな“クズ”のイベント参加を認めたのがそもそもの間違いだわ。そりゃ音だって怒るわけよね",
+    "message_id": 188,
+    "name_id": 187
+  },
+  {
+    "name": "男子学生Ｄ",
+    "message": "中文クズぅー、言ってくれるじゃん天翔",
+    "message_id": 202,
+    "name_id": 201
+  },
+  {
+    "name": "奈穂",
+    "message": "中文クズにクズって言ってなにが悪いの。そんなんだから女子にもてないのよ",
+    "message_id": 231,
+    "name_id": 230
+  },
+  {
+    "name": "奈穂",
+    "message": "中文ああ、だからこの話に乗ったのか、そりゃ、ご苦労様。そうよね、クズじゃ誰も相手にしてくれないからねー必死にもなるわよねー",
+    "message_id": 260,
+    "name_id": 259
+  },
+  {
+    "name": "男子学生Ｅ",
+    "message": "中文おいおい、奈穂ちゃん、言っていいことと悪いことの区別もつかないのか",
+    "message_id": 274,
+    "name_id": 273
+  },
+  {
+    "name": "男子学生Ｄ",
+    "message": "中文ひとりでやってきたこと後悔させてやるぜ天翔",
+    "message_id": 285,
+    "name_id": 284
+  },
+  {
+    "name": null,
+    "message": "中文気付けば、天翔先輩が男子たちに取り囲まれている。ヤバイ、あいつら強硬手段に出る気だ。",
+    "message_id": 292
+  },
+  {
+    "name": "楓真",
+    "message": "中文待て！　やめろ！",
+    "message_id": 301,
+    "name_id": 300
+  },
+  {
+    "name": "奈穂",
+    "message": "中文えっ",
+    "message_id": 351,
+    "name_id": 350
+  },
+  {
+    "name": "男子学生Ｄ",
+    "message": "中文はぁ？　なんだこいつ",
+    "message_id": 368,
+    "name_id": 367
+  },
+  {
+    "name": "男子学生Ｅ",
+    "message": "中文コイツ、この前俺らの邪魔した奴だぜ。ちょうどいいじゃん、一緒にボコっちまおうぜ",
+    "message_id": 379,
+    "name_id": 378
+  },
+  {
+    "name": null,
+    "message": "中文そう言いながら携帯を取り出し、誰かと連絡を取っている。",
+    "message_id": 386
+  },
+  {
+    "name": null,
+    "message": "中文コイツら学園の外の“困った連中”ともつるんでいるのか。",
+    "message_id": 393
+  },
+  {
+    "name": "男子学生Ｄ",
+    "message": "中文おいおい、よそ見してちゃ危ないぜ！",
+    "message_id": 404,
+    "name_id": 403
+  },
+  {
+    "name": "楓真",
+    "message": "中文っ！",
+    "message_id": 425,
+    "name_id": 424
+  },
+  {
+    "name": null,
+    "message": "中文頭が揺れた。",
+    "message_id": 432
+  },
+  {
+    "name": null,
+    "message": "中文思いっきり顔を殴られている。",
+    "message_id": 439
+  },
+  {
+    "name": "奈穂",
+    "message": "中文ちょ、ちょっとなにしてるのよ！　彼は関係ないでしょ！",
+    "message_id": 468,
+    "name_id": 467
+  },
+  {
+    "name": "男子学生Ｄ",
+    "message": "中文関係あるね、こいつが勝手に首を突っ込んできたんだ。それに俺たちはこういうのが好きなんだよ",
+    "message_id": 482,
+    "name_id": 481
+  },
+  {
+    "name": null,
+    "message": "中文そう言うと俺の首に思いっ切り両手の拳が叩き付けられる。",
+    "message_id": 499
+  },
+  {
+    "name": null,
+    "message": "中文それからすぐに足が飛んできた。どうにか、身体を丸めて、痛みを逃す。",
+    "message_id": 506
+  },
+  {
+    "name": "楓真",
+    "message": "中文く……う……あ……",
+    "message_id": 515,
+    "name_id": 514
+  },
+  {
+    "name": null,
+    "message": "中文連続で蹴りが入れられる。まるっきりサッカーボールと同じ。",
+    "message_id": 522
+  },
+  {
+    "name": "男子学生Ｅ",
+    "message": "中文おい、車、来るってよ。そいつ適当でいいよ。それよりも奈穂ちゃんの相手をちゃ～んとしてあげないと",
+    "message_id": 533,
+    "name_id": 532
+  },
+  {
+    "name": "男子学生Ｄ",
+    "message": "中文そりゃ、いい",
+    "message_id": 544,
+    "name_id": 543
+  },
+  {
+    "name": "奈穂",
+    "message": "中文いいわ、あたしが相手してあげるから。彼を離しなさいよ",
+    "message_id": 573,
+    "name_id": 572
+  },
+  {
+    "name": "楓真",
+    "message": "中文ダメだっ！",
+    "message_id": 585,
+    "name_id": 584
+  },
+  {
+    "name": null,
+    "message": "中文俺は必死で男たちの足を捕まえる。",
+    "message_id": 592
+  },
+  {
+    "name": null,
+    "message": "中文すぐに思いっきりの蹴りが顔を捉え、口の中に鉄の味が広がる。",
+    "message_id": 609
+  },
+  {
+    "name": null,
+    "message": "中文それでも離さない。離せば、天翔先輩が酷い目に遭う。",
+    "message_id": 616
+  },
+  {
+    "name": "奈穂",
+    "message": "中文こ、この、や、やめなさいよ！　バカ！",
+    "message_id": 645,
+    "name_id": 644
+  },
+  {
+    "name": "男子学生Ｅ",
+    "message": "中文はいはい、奈穂ちゃんの相手は俺がしてあげるからねー、早くそいつ大人しくさせろよ",
+    "message_id": 659,
+    "name_id": 658
+  },
+  {
+    "name": "男子学生Ｄ",
+    "message": "中文そうだな、いつまでも野郎の相手なんてつまんねぇもんな。俺も天翔相手にする方がずっといいや",
+    "message_id": 670,
+    "name_id": 669
+  },
+  {
+    "name": "楓真",
+    "message": "中文や、やめろぉっ！",
+    "message_id": 679,
+    "name_id": 678
+  },
+  {
+    "name": null,
+    "message": "中文俺は必死に立ち上がり、男たちと天翔先輩の間に入った。",
+    "message_id": 686
+  },
+  {
+    "name": "男子学生Ｄ",
+    "message": "中文いい加減、うっとしいんだよクソガキっ！",
+    "message_id": 697,
+    "name_id": 696
+  },
+  {
+    "name": null,
+    "message": "中文男の拳が俺の顔を捉えた。",
+    "message_id": 733
+  },
+  {
+    "name": "奈穂",
+    "message": "中文茅野くんっ！！！",
+    "message_id": 750,
+    "name_id": 749
+  },
+  {
+    "name": "音羽",
+    "message": "中文そこまでよ！　暴力行為の現行犯！　確保！",
+    "message_id": 785,
+    "name_id": 784
+  },
+  {
+    "name": null,
+    "message": "中文わらわらと学生会の面々がやってくる。",
+    "message_id": 795
+  },
+  {
+    "name": null,
+    "message": "中文三年男子は慌てて逃げ出そうとするが、ここは屋上だ。逃げられる場所があるわけじゃない。",
+    "message_id": 802
+  },
+  {
+    "name": null,
+    "message": "中文それだけじゃない。外ではパトカーの音が響いている。",
+    "message_id": 809
+  },
+  {
+    "name": "楓真",
+    "message": "中文助かった……のかな",
+    "message_id": 847,
+    "name_id": 846
+  },
+  {
+    "name": "奈穂",
+    "message": "中文……うん、そうね",
+    "message_id": 876,
+    "name_id": 875
+  },
+  {
+    "name": null,
+    "message": "中文俺の崩れそうな身体を支えてくれる天翔先輩。",
+    "message_id": 886
+  },
+  {
+    "name": null,
+    "message": "中文なんだかホッとした。",
+    "message_id": 893
+  },
+  {
+    "name": null,
+    "message": "中文天翔先輩は、無事。",
+    "message_id": 900
+  },
+  {
+    "name": null,
+    "message": "中文俺が心配するようなことは無い。",
+    "message_id": 907
+  },
+  {
+    "name": "奈穂",
+    "message": "中文……茅野くんも、バカね。弱いのにあたしを助けようとするなんて",
+    "message_id": 936,
+    "name_id": 935
+  },
+  {
+    "name": "楓真",
+    "message": "中文んなこと言ったって、身体の方が先に出ちゃったんだからしょうがないじゃないですか",
+    "message_id": 948,
+    "name_id": 947
+  },
+  {
+    "name": "奈穂",
+    "message": "中文それをバカっていうのよ",
+    "message_id": 977,
+    "name_id": 976
+  },
+  {
+    "name": null,
+    "message": "中文そう言っているけれど、とても嬉しそうな顔をしていた。その笑顔を見られただけで、俺も安心できた。",
+    "message_id": 987
+  },
+  {
+    "name": "彩音",
+    "message": "中文……大丈夫？",
+    "message_id": 1016,
+    "name_id": 1015
+  },
+  {
+    "name": "楓真",
+    "message": "中文え、ええ……大丈夫です。身体は、痛いですけど……",
+    "message_id": 1028,
+    "name_id": 1027
+  },
+  {
+    "name": "音羽",
+    "message": "中文……奈穂、彼、あなたの仲間？",
+    "message_id": 1074,
+    "name_id": 1073
+  },
+  {
+    "name": "奈穂",
+    "message": "中文ええ、そうよ――",
+    "message_id": 1105,
+    "name_id": 1104
+  },
+  {
+    "name": null,
+    "message": "中文いきなりの宣言。",
+    "message_id": 1115
+  },
+  {
+    "name": null,
+    "message": "中文だけれど……",
+    "message_id": 1122
+  },
+  {
+    "name": "音羽",
+    "message": "中文そう。じゃあ、奈穂に任せていいわね。私は連中を警察に引き渡さなくちゃいけないから",
+    "message_id": 1153,
+    "name_id": 1152
+  },
+  {
+    "name": "奈穂",
+    "message": "中文了解。ごめんね、音",
+    "message_id": 1184,
+    "name_id": 1183
+  },
+  {
+    "name": "楓真",
+    "message": "中文……",
+    "message_id": 1196,
+    "name_id": 1195
+  },
+  {
+    "name": null,
+    "message": "中文素直に謝っている天翔先輩はなんだか新鮮に感じた。",
+    "message_id": 1203
+  },
+  {
+    "name": "奈穂",
+    "message": "中文ん？　なによ",
+    "message_id": 1234,
+    "name_id": 1233
+  },
+  {
+    "name": "楓真",
+    "message": "中文い、いえ。別に",
+    "message_id": 1246,
+    "name_id": 1245
+  },
+  {
+    "name": "彩音",
+    "message": "中文とっても素直な奈穂に驚いているんじゃない",
+    "message_id": 1276,
+    "name_id": 1275
+  },
+  {
+    "name": "楓真",
+    "message": "中文えっ！？",
+    "message_id": 1288,
+    "name_id": 1287
+  },
+  {
+    "name": "奈穂",
+    "message": "中文何よ、それ、とっても失礼な感じがするんですけど、気のせいかしら",
+    "message_id": 1317,
+    "name_id": 1316
+  },
+  {
+    "name": "楓真",
+    "message": "中文えっと、た、多分気のせいです、はい",
+    "message_id": 1329,
+    "name_id": 1328
+  },
+  {
+    "name": "奈穂",
+    "message": "中文なら、いいわ。気のせいにしておいてあげる。二度目はないから",
+    "message_id": 1358,
+    "name_id": 1357
+  },
+  {
+    "name": "楓真",
+    "message": "中文……",
+    "message_id": 1370,
+    "name_id": 1369
+  },
+  {
+    "name": "音羽",
+    "message": "中文二人とも全く問題ないみたいね。でも無茶しないでよ、私たちが大変な目に合うんだから",
+    "message_id": 1415,
+    "name_id": 1414
+  },
+  {
+    "name": "奈穂",
+    "message": "中文はーい",
+    "message_id": 1446,
+    "name_id": 1445
+  },
+  {
+    "name": null,
+    "message": "中文とりあえずこれで終わりかな。",
+    "message_id": 1489
+  },
+  {
+    "name": "奈穂",
+    "message": "中文楓真、でいいかな？",
+    "message_id": 1519,
+    "name_id": 1518
+  },
+  {
+    "name": "楓真",
+    "message": "中文へ？",
+    "message_id": 1531,
+    "name_id": 1530
+  },
+  {
+    "name": "奈穂",
+    "message": "中文あんたの呼び方よ。楓真でいいわよね、うん決めた、楓真で決定",
+    "message_id": 1560,
+    "name_id": 1559
+  },
+  {
+    "name": "楓真",
+    "message": "中文え、あ、ど、どうぞどうぞ。俺は、先輩でいいですか？",
+    "message_id": 1572,
+    "name_id": 1571
+  },
+  {
+    "name": "奈穂",
+    "message": "中文まぁ、かしこまるのは好きじゃないけれど、無理強いするほどじゃないしね。いいわよ",
+    "message_id": 1601,
+    "name_id": 1600
+  },
+  {
+    "name": "奈穂",
+    "message": "中文で、楓真。恋会に首突っ込んできてるみたいだけど、何か用？",
+    "message_id": 1630,
+    "name_id": 1629
+  },
+  {
+    "name": "楓真",
+    "message": "中文……まぁ、用といえば用なのかな。その、なんだって勝手にカップルを作ってるのか、知りたいというか、気になるというか",
+    "message_id": 1642,
+    "name_id": 1641
+  },
+  {
+    "name": "奈穂",
+    "message": "中文はぁ？　勝手になんてしてないわ、ちゃんと意味があるんだから",
+    "message_id": 1671,
+    "name_id": 1670
+  },
+  {
+    "name": "楓真",
+    "message": "中文……意味？",
+    "message_id": 1683,
+    "name_id": 1682
+  },
+  {
+    "name": "彩音",
+    "message": "中文奈穂、口で言ってもわからないと思うわ。彼がよければ見てもらえば",
+    "message_id": 1712,
+    "name_id": 1711
+  },
+  {
+    "name": "奈穂",
+    "message": "中文おー、ナイスアイデア、百聞は一見にしかずってね、いいわよね楓真",
+    "message_id": 1741,
+    "name_id": 1740
+  },
+  {
+    "name": null,
+    "message": "中文確かに知るのにはいい機会かもしれない。",
+    "message_id": 1751
+  },
+  {
+    "name": null,
+    "message": "中文俺はすぐに頷いた。",
+    "message_id": 1758
+  },
+  {
+    "name": "奈穂",
+    "message": "中文んじゃ、明日の放課後、クラブ棟の一番端にある恋愛応援委員会の委員会室に来て",
+    "message_id": 1787,
+    "name_id": 1786
+  },
+  {
+    "name": "楓真",
+    "message": "中文はい、わかりまし――",
+    "message_id": 1799,
+    "name_id": 1798
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文ししょうーーーーーーーーー、金剛伊佐美、助っ人に参上しましたっすーーーーーー！！！！",
+    "message_id": 1856,
+    "name_id": 1855
+  },
+  {
+    "name": null,
+    "message": "中文……。",
+    "message_id": 1866
+  },
+  {
+    "name": null,
+    "message": "中文…………。",
+    "message_id": 1873
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文あれ？",
+    "message_id": 1917,
+    "name_id": 1916
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文あれれ？　もしかして",
+    "message_id": 1974,
+    "name_id": 1973
+  },
+  {
+    "name": "彩音",
+    "message": "中文もう全部終わりましたよ",
+    "message_id": 2027,
+    "name_id": 2026
+  },
+  {
+    "name": "奈穂",
+    "message": "中文遅いのよ伊佐美",
+    "message_id": 2056,
+    "name_id": 2055
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文あーーーー、伊佐美一生の不覚っす。およよよよ……",
+    "message_id": 2085,
+    "name_id": 2084
+  },
+  {
+    "name": "奈穂",
+    "message": "中文あはは、じゃあね、楓真、待ってるから",
+    "message_id": 2114,
+    "name_id": 2113
+  },
+  {
+    "name": null,
+    "message": "中文なんだか胸がドキドキしてる。",
+    "message_id": 2155
+  },
+  {
+    "name": null,
+    "message": "中文でもそれは嫌な感じじゃなかった。",
+    "message_id": 2162
+  }
+]

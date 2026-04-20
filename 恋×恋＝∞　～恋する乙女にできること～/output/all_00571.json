@@ -1,0 +1,703 @@
+[
+  {
+    "name": null,
+    "message": "中文学園祭の準備もあるせいか、登校している学生の数は思った以上に多かった。",
+    "message_id": 36
+  },
+  {
+    "name": "楓真",
+    "message": "中文みんな、頑張ってるんだな",
+    "message_id": 48,
+    "name_id": 47
+  },
+  {
+    "name": null,
+    "message": "中文おっと、俺の目的地はここじゃないからな。",
+    "message_id": 55
+  },
+  {
+    "name": null,
+    "message": "中文学園を通り越し、目的の場所に向かった。",
+    "message_id": 62
+  },
+  {
+    "name": null,
+    "message": "中文よし、誰もいないみたいだな。",
+    "message_id": 94
+  },
+  {
+    "name": null,
+    "message": "中文周辺に学生会の、いや人がいないことを確認しながら、写真を撮っていく。",
+    "message_id": 101
+  },
+  {
+    "name": "楓真",
+    "message": "中文改めて見るとぼろいよなー",
+    "message_id": 110,
+    "name_id": 109
+  },
+  {
+    "name": null,
+    "message": "中文危ない場所なんかも確認しておいた方がいいな。",
+    "message_id": 117
+  },
+  {
+    "name": null,
+    "message": "中文結局、学生会が厳しく注意してくるのは安全管理の部分が多いからな。",
+    "message_id": 124
+  },
+  {
+    "name": "楓真",
+    "message": "中文こんなもんかな",
+    "message_id": 162,
+    "name_id": 161
+  },
+  {
+    "name": null,
+    "message": "中文出来る限り丁寧に周辺のチェックはした。",
+    "message_id": 169
+  },
+  {
+    "name": null,
+    "message": "中文天翔先輩ももちろんしてはいるだろうが。",
+    "message_id": 176
+  },
+  {
+    "name": "楓真",
+    "message": "中文慎重に慎重を重ねて、だもんな",
+    "message_id": 185,
+    "name_id": 184
+  },
+  {
+    "name": "楓真",
+    "message": "中文後は中か",
+    "message_id": 194,
+    "name_id": 193
+  },
+  {
+    "name": null,
+    "message": "中文もう一度辺りを見回して、誰もいないことを確認してから、古びた扉に手をかけた。",
+    "message_id": 201
+  },
+  {
+    "name": null,
+    "message": "中文外の暑さが嘘の様に涼やかな、そして静謐な空気が漂っている。",
+    "message_id": 242
+  },
+  {
+    "name": null,
+    "message": "中文ゴクッ―。",
+    "message_id": 249
+  },
+  {
+    "name": null,
+    "message": "中文正面に佇む彫像たちが久しぶりであろう来訪者に優しい眼差しを注いでくれているようだった。",
+    "message_id": 256
+  },
+  {
+    "name": "？？？",
+    "message": "中文きゅっ",
+    "message_id": 267,
+    "name_id": 266
+  },
+  {
+    "name": "楓真",
+    "message": "中文……ん？",
+    "message_id": 279,
+    "name_id": 278
+  },
+  {
+    "name": "？？？",
+    "message": "中文きゅ、きゅ、きゅっ！！",
+    "message_id": 290,
+    "name_id": 289
+  },
+  {
+    "name": "楓真",
+    "message": "中文わ、わ、わっ",
+    "message_id": 342,
+    "name_id": 341
+  },
+  {
+    "name": null,
+    "message": "中文いきなり顔にめがけて何かが飛び込んできた。",
+    "message_id": 349
+  },
+  {
+    "name": null,
+    "message": "中文必死にその物体を掴んで、投げる！！",
+    "message_id": 356
+  },
+  {
+    "name": "？？？",
+    "message": "中文きゅうぅぅぅぅん",
+    "message_id": 396,
+    "name_id": 395
+  },
+  {
+    "name": "楓真",
+    "message": "中文はぁはぁはぁはぁ",
+    "message_id": 408,
+    "name_id": 407
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文ひどいな",
+    "message_id": 425,
+    "name_id": 424
+  },
+  {
+    "name": null,
+    "message": "中文えっ――。",
+    "message_id": 435
+  },
+  {
+    "name": null,
+    "message": "中文突然誰かに、いや聞き慣れた声に振り向く。",
+    "message_id": 442
+  },
+  {
+    "name": "楓真",
+    "message": "中文姉さん",
+    "message_id": 451,
+    "name_id": 450
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文大丈夫だったか、あちゅ",
+    "message_id": 472,
+    "name_id": 471
+  },
+  {
+    "name": "あちゅ",
+    "message": "中文きゅっ",
+    "message_id": 493,
+    "name_id": 492
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文そうか、それはそうだな、いきなり投げられては驚くのも無理はない",
+    "message_id": 534,
+    "name_id": 533
+  },
+  {
+    "name": "あちゅ",
+    "message": "中文きゅきゅっ",
+    "message_id": 557,
+    "name_id": 556
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文確かに、せめて謝ってほしいものだな",
+    "message_id": 580,
+    "name_id": 579
+  },
+  {
+    "name": "楓真",
+    "message": "中文あ、ごめん。あちゅ、ちょっとびっくりしちゃって投げることはなかったな",
+    "message_id": 592,
+    "name_id": 591
+  },
+  {
+    "name": "あちゅ",
+    "message": "中文きゅっ、きゅきゅきゅ",
+    "message_id": 645,
+    "name_id": 644
+  },
+  {
+    "name": "楓真",
+    "message": "中文おっ",
+    "message_id": 657,
+    "name_id": 656
+  },
+  {
+    "name": null,
+    "message": "中文いつも姉さんの頭や肩が固定席のあちゅが俺の頭の上で飛び跳ねている。",
+    "message_id": 664
+  },
+  {
+    "name": "あちゅ",
+    "message": "中文きゅ、きゅっ、きゅ～♪",
+    "message_id": 706,
+    "name_id": 705
+  },
+  {
+    "name": "楓真",
+    "message": "中文許してくれたのかな",
+    "message_id": 721,
+    "name_id": 720
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文よかったな",
+    "message_id": 744,
+    "name_id": 743
+  },
+  {
+    "name": "楓真",
+    "message": "中文うん",
+    "message_id": 756,
+    "name_id": 755
+  },
+  {
+    "name": null,
+    "message": "中文姉さんの視線は一瞬だけ俺の方を向けられるが",
+    "message_id": 763
+  },
+  {
+    "name": null,
+    "message": "中文すぐに教会の方に向けられる。",
+    "message_id": 770
+  },
+  {
+    "name": "楓真",
+    "message": "中文姉さん？",
+    "message_id": 779,
+    "name_id": 778
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文……フウ、恋会の用事か",
+    "message_id": 802,
+    "name_id": 801
+  },
+  {
+    "name": "楓真",
+    "message": "中文え、あ、まぁ、そんなところかな",
+    "message_id": 814,
+    "name_id": 813
+  },
+  {
+    "name": null,
+    "message": "中文やっぱり姉さんにも隠しておいた方がいいのだろう。",
+    "message_id": 821
+  },
+  {
+    "name": null,
+    "message": "中文渚とか、平気で話してそうな気はするけど。",
+    "message_id": 828
+  },
+  {
+    "name": null,
+    "message": "中文一応、恋会の機密事項になるからな。",
+    "message_id": 835
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文また、無茶なことをしているようだな",
+    "message_id": 858,
+    "name_id": 857
+  },
+  {
+    "name": "楓真",
+    "message": "中文えっ、そ、そんなことはないけど。ははは……",
+    "message_id": 870,
+    "name_id": 869
+  },
+  {
+    "name": "あちゅ",
+    "message": "中文きゅきゅっ♪",
+    "message_id": 893,
+    "name_id": 892
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文あちゅもそうだといっている",
+    "message_id": 916,
+    "name_id": 915
+  },
+  {
+    "name": "楓真",
+    "message": "中文まあ、無茶といえば無茶かもしれないけど、出来ないとは思ってないし、なによりみんなに喜んでもらえると思うんだ",
+    "message_id": 928,
+    "name_id": 927
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文そうか",
+    "message_id": 951,
+    "name_id": 950
+  },
+  {
+    "name": null,
+    "message": "中文そう言ったきり姉さんはただそこに佇んでいるだけで。",
+    "message_id": 961
+  },
+  {
+    "name": null,
+    "message": "中文姉さんのことって知っているようで知らないことが多い。",
+    "message_id": 968
+  },
+  {
+    "name": null,
+    "message": "中文姉さんは俺や渚のことをちゃんと知ってくれているのに。",
+    "message_id": 975
+  },
+  {
+    "name": "楓真",
+    "message": "中文ねえさ……",
+    "message_id": 984,
+    "name_id": 983
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文……教会が光輝く時、真摯な思いは神に届く",
+    "message_id": 1031,
+    "name_id": 1030
+  },
+  {
+    "name": "楓真",
+    "message": "中文え",
+    "message_id": 1043,
+    "name_id": 1042
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文学園に纏わる伝説の一つにそういうものがある",
+    "message_id": 1054,
+    "name_id": 1053
+  },
+  {
+    "name": "楓真",
+    "message": "中文学園の伝説",
+    "message_id": 1066,
+    "name_id": 1065
+  },
+  {
+    "name": null,
+    "message": "中文どうして、姉さんが学園の伝説を。",
+    "message_id": 1073
+  },
+  {
+    "name": null,
+    "message": "中文いや、どうしてこのタイミングで。",
+    "message_id": 1080
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文ある女子学生と男子学生の恋物語",
+    "message_id": 1098,
+    "name_id": 1097
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文二人はとても仲がよく、誰もが羨むほどの間柄だったらしい",
+    "message_id": 1109,
+    "name_id": 1108
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文だが、その少女は不治の病にかかっていた。自分が長くないことを知っていた",
+    "message_id": 1120,
+    "name_id": 1119
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文その少女と結ばれることを願った男子はこの教会で結婚式を挙げることを決意した",
+    "message_id": 1138,
+    "name_id": 1137
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文仲間たちの協力もあり、無事結婚式を挙げた二人は幸せな時間を過ごすことが出来た",
+    "message_id": 1149,
+    "name_id": 1148
+  },
+  {
+    "name": "楓真",
+    "message": "中文……",
+    "message_id": 1161,
+    "name_id": 1160
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文でも、それは束の間。少女の病状は徐々に悪化し、もはや回復の見込みがなく誰もが諦めてしまう",
+    "message_id": 1179,
+    "name_id": 1178
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文その中で、男子学生は一人ここで祈り続けた",
+    "message_id": 1190,
+    "name_id": 1189
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文共に過ごせるのも最後だと感じたその日、少女は病院を抜け出し教会を訪れる",
+    "message_id": 1201,
+    "name_id": 1200
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文結婚式を挙げたこの教会をもう一度見ておきたかったのだろう、そして彼がここにいることを知っていたのだろう",
+    "message_id": 1212,
+    "name_id": 1211
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文二人はこの場所で抱きしめ合い、最後の祈りを告げる。それは感謝の言葉",
+    "message_id": 1223,
+    "name_id": 1222
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文その言葉に呼応するかのように、教会が光りを発し二人の前に、天使が舞い降りたという",
+    "message_id": 1241,
+    "name_id": 1240
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文そして天使は少女に奇跡を授ける",
+    "message_id": 1252,
+    "name_id": 1251
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文少女は天使の奇跡によって回復し彼と末永く暮らしたといわれている",
+    "message_id": 1263,
+    "name_id": 1262
+  },
+  {
+    "name": "楓真",
+    "message": "中文……",
+    "message_id": 1275,
+    "name_id": 1274
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文学園の創成期の話らしい",
+    "message_id": 1286,
+    "name_id": 1285
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文以来、学園ではこの奇跡に感謝と願いを込めて学祭の時期に蝋燭に火を灯し始めたといわれている",
+    "message_id": 1297,
+    "name_id": 1296
+  },
+  {
+    "name": "楓真",
+    "message": "中文キャンドルナイト……",
+    "message_id": 1309,
+    "name_id": 1308
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文ああ、昔は聖なる夜の祈りとか言われてた……",
+    "message_id": 1320,
+    "name_id": 1319
+  },
+  {
+    "name": null,
+    "message": "中文学園の伝説。",
+    "message_id": 1330
+  },
+  {
+    "name": null,
+    "message": "中文でも、天翔先輩が語った伝説と違う伝説。",
+    "message_id": 1337
+  },
+  {
+    "name": "楓真",
+    "message": "中文そう、なんだ……",
+    "message_id": 1346,
+    "name_id": 1345
+  },
+  {
+    "name": null,
+    "message": "中文姉さんの話が本当なのかそうでないのかはわからない。",
+    "message_id": 1353
+  },
+  {
+    "name": null,
+    "message": "中文でも、それは真実なんだろうと思う。",
+    "message_id": 1360
+  },
+  {
+    "name": null,
+    "message": "中文いや、それが真実であってほしいと思ってるのかもしれない。",
+    "message_id": 1367
+  },
+  {
+    "name": "あちゅ",
+    "message": "中文きゅ～",
+    "message_id": 1378,
+    "name_id": 1377
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文つまらなかったか",
+    "message_id": 1389,
+    "name_id": 1388
+  },
+  {
+    "name": "楓真",
+    "message": "中文ううん、そんなことは……でもどうして、突然",
+    "message_id": 1401,
+    "name_id": 1400
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文何故だろうな、ここの空気がそうさせたのかもしれない",
+    "message_id": 1412,
+    "name_id": 1411
+  },
+  {
+    "name": null,
+    "message": "中文そういった、姉さんは笑顔を浮かべて、でもその笑顔はどこか泣きそうにも見えた笑顔で。",
+    "message_id": 1422
+  },
+  {
+    "name": "楓真",
+    "message": "中文素敵な伝説だね",
+    "message_id": 1431,
+    "name_id": 1430
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文どうだろうな。こういった話は尾ひれがついているものだしな",
+    "message_id": 1442,
+    "name_id": 1441
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文……でもキャンドルの灯火はいつの時代も美しいと思うよ",
+    "message_id": 1453,
+    "name_id": 1452
+  },
+  {
+    "name": "楓真",
+    "message": "中文また、見てみたいな",
+    "message_id": 1465,
+    "name_id": 1464
+  },
+  {
+    "name": null,
+    "message": "中文心の底からそう思った。",
+    "message_id": 1472
+  },
+  {
+    "name": null,
+    "message": "中文天翔先輩が計画しているキャンドルナイト。",
+    "message_id": 1479
+  },
+  {
+    "name": null,
+    "message": "中文それが、姉さんの語ったものとは違う意味があるのかもしれないけれど。",
+    "message_id": 1486
+  },
+  {
+    "name": null,
+    "message": "中文姉さんの言ったようにその灯火は絶対にキレイだと思うから。",
+    "message_id": 1493
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文フウ",
+    "message_id": 1504,
+    "name_id": 1503
+  },
+  {
+    "name": "楓真",
+    "message": "中文なに？",
+    "message_id": 1516,
+    "name_id": 1515
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文･･････いや、何でもない",
+    "message_id": 1527,
+    "name_id": 1526
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文邪魔をして悪かったな、わたしはそろそろ行くよ",
+    "message_id": 1538,
+    "name_id": 1537
+  },
+  {
+    "name": "楓真",
+    "message": "中文ね、姉さん！",
+    "message_id": 1550,
+    "name_id": 1549
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文どうした",
+    "message_id": 1561,
+    "name_id": 1560
+  },
+  {
+    "name": "楓真",
+    "message": "中文……ごめん、俺もなんでもないや",
+    "message_id": 1573,
+    "name_id": 1572
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文そうか、あまり遅くならないうちに戻ってくるのだぞ。ナギの愚痴を聞くのは疲れるからな",
+    "message_id": 1584,
+    "name_id": 1583
+  },
+  {
+    "name": "楓真",
+    "message": "中文わかった。用事が終わったらすぐに帰るよ",
+    "message_id": 1596,
+    "name_id": 1595
+  },
+  {
+    "name": "あちゅ",
+    "message": "中文きゅきゅっ",
+    "message_id": 1607,
+    "name_id": 1606
+  },
+  {
+    "name": null,
+    "message": "中文再びあちゅが、俺の頭に飛び乗ってくる。",
+    "message_id": 1617
+  },
+  {
+    "name": "楓真",
+    "message": "中文お、お",
+    "message_id": 1626,
+    "name_id": 1625
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文フウの頭を気に入ったようだな。あちゅを頼む。一緒に連れて帰ってやってくれ",
+    "message_id": 1654,
+    "name_id": 1653
+  },
+  {
+    "name": "楓真",
+    "message": "中文わかった",
+    "message_id": 1666,
+    "name_id": 1665
+  },
+  {
+    "name": null,
+    "message": "中文姉さんは最後にもう一度、祭壇に目を向け、そのまま立ち去っていった。",
+    "message_id": 1673
+  },
+  {
+    "name": "あちゅ",
+    "message": "中文きゅぅぅぅん",
+    "message_id": 1749,
+    "name_id": 1748
+  },
+  {
+    "name": null,
+    "message": "中文どうしてだろう、さっきの姉さんはどこか遠いところに行ってしまう。",
+    "message_id": 1759
+  },
+  {
+    "name": null,
+    "message": "中文もう俺たちの元へは戻ってこなくなるんじゃないかとそんな風に感じてしまった。",
+    "message_id": 1766
+  },
+  {
+    "name": null,
+    "message": "中文そんなことなどあるはずがないのに。",
+    "message_id": 1773
+  }
+]

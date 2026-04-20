@@ -1,0 +1,468 @@
+[
+  {
+    "name": "英彰",
+    "message": "中文いやいや、これはすごいな",
+    "message_id": 86,
+    "name_id": 84
+  },
+  {
+    "name": "音羽",
+    "message": "中文ええ、本当にすごいです。奈穂たちはいつも私にはできないことを簡単にやってしまいます",
+    "message_id": 122,
+    "name_id": 121
+  },
+  {
+    "name": "英彰",
+    "message": "中文夢宮川さんには夢宮川さんにしかできないことがあると思うけど",
+    "message_id": 166,
+    "name_id": 165
+  },
+  {
+    "name": "音羽",
+    "message": "中文そんなこと",
+    "message_id": 198,
+    "name_id": 197
+  },
+  {
+    "name": "賢太",
+    "message": "中文先生の言う通りですよ、会長はいつも会長にしかできないことを簡単にやってますから",
+    "message_id": 242,
+    "name_id": 241
+  },
+  {
+    "name": "英彰",
+    "message": "中文学生たちの情熱というのは本当にすごいと思うよ、君も天翔さんも含めてね",
+    "message_id": 274,
+    "name_id": 273
+  },
+  {
+    "name": "音羽",
+    "message": "中文ありがとうございます先生",
+    "message_id": 318,
+    "name_id": 317
+  },
+  {
+    "name": "楓真",
+    "message": "中文会長、副会長。そろそろラストの仕上げにかかろうと思うんですけど",
+    "message_id": 330,
+    "name_id": 329
+  },
+  {
+    "name": "賢太",
+    "message": "中文了解、茅野くん。今行くよ",
+    "message_id": 383,
+    "name_id": 382
+  },
+  {
+    "name": "音羽",
+    "message": "中文ようやく最後ね",
+    "message_id": 415,
+    "name_id": 414
+  },
+  {
+    "name": "楓真",
+    "message": "中文会長、顔にやけてますよ",
+    "message_id": 427,
+    "name_id": 426
+  },
+  {
+    "name": "音羽",
+    "message": "中文っ！！　な、なに言ってるの、そんな馬鹿なことあるわけないでしょ！",
+    "message_id": 501,
+    "name_id": 500
+  },
+  {
+    "name": "音羽",
+    "message": "中文ほらっ、さっさと行くわよ。峯岸、茅野くん",
+    "message_id": 536,
+    "name_id": 535
+  },
+  {
+    "name": "賢太",
+    "message": "中文はいはい",
+    "message_id": 580,
+    "name_id": 579
+  },
+  {
+    "name": "楓真",
+    "message": "中文うっす",
+    "message_id": 592,
+    "name_id": 591
+  },
+  {
+    "name": "英彰",
+    "message": "中文青春だねぇ～",
+    "message_id": 691,
+    "name_id": 690
+  },
+  {
+    "name": "奈穂",
+    "message": "中文遅いわよ、もう始まっちゃうわよ。ん、なんで顔赤くしてるの？",
+    "message_id": 818,
+    "name_id": 817
+  },
+  {
+    "name": "音羽",
+    "message": "中文してません",
+    "message_id": 850,
+    "name_id": 849
+  },
+  {
+    "name": "彩音",
+    "message": "中文これで全員そろったわね",
+    "message_id": 882,
+    "name_id": 881
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文オッケーっす",
+    "message_id": 926,
+    "name_id": 925
+  },
+  {
+    "name": "渚",
+    "message": "中文わくわくわくわく♪",
+    "message_id": 946,
+    "name_id": 945
+  },
+  {
+    "name": "奈穂",
+    "message": "中文クリス、準備はいい",
+    "message_id": 1002,
+    "name_id": 1001
+  },
+  {
+    "name": "クリス",
+    "message": "中文はい、大丈夫とのことです",
+    "message_id": 1030,
+    "name_id": 1029
+  },
+  {
+    "name": "奈穂",
+    "message": "中文よーし、じゃあいくわよ",
+    "message_id": 1062,
+    "name_id": 1061
+  },
+  {
+    "name": "楓真",
+    "message": "中文カウントダウン開始！",
+    "message_id": 1085,
+    "name_id": 1084
+  },
+  {
+    "name": "渚",
+    "message": "中文五！",
+    "message_id": 1114,
+    "name_id": 1113
+  },
+  {
+    "name": "クリス",
+    "message": "中文四！",
+    "message_id": 1146,
+    "name_id": 1145
+  },
+  {
+    "name": "彩音",
+    "message": "中文三！",
+    "message_id": 1178,
+    "name_id": 1177
+  },
+  {
+    "name": "奈穂",
+    "message": "中文二！",
+    "message_id": 1210,
+    "name_id": 1209
+  },
+  {
+    "name": "楓真",
+    "message": "中文一！",
+    "message_id": 1230,
+    "name_id": 1229
+  },
+  {
+    "name": "全員",
+    "message": "中文ゼロ！！",
+    "message_id": 1306,
+    "name_id": 1302
+  },
+  {
+    "name": null,
+    "message": "中文夜空に大輪の花が咲き乱れる。",
+    "message_id": 1352
+  },
+  {
+    "name": null,
+    "message": "中文次から次へと途切れることなく。",
+    "message_id": 1359
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文おおーすごいっすーー",
+    "message_id": 1421,
+    "name_id": 1420
+  },
+  {
+    "name": "渚",
+    "message": "中文すごいすごいキレイだよ愛ちゃん",
+    "message_id": 1502,
+    "name_id": 1501
+  },
+  {
+    "name": "クリス",
+    "message": "中文はい、とてもキレイです",
+    "message_id": 1536,
+    "name_id": 1535
+  },
+  {
+    "name": "音羽",
+    "message": "中文こんなにキレイだなんて……",
+    "message_id": 1584,
+    "name_id": 1583
+  },
+  {
+    "name": "奈穂",
+    "message": "中文へへぇー、すごいでしょ",
+    "message_id": 1632,
+    "name_id": 1631
+  },
+  {
+    "name": "彩音",
+    "message": "中文どうして奈穂が偉そうにしてるの、これ全部クリスちゃんにお願いしたんでしょ",
+    "message_id": 1666,
+    "name_id": 1665
+  },
+  {
+    "name": "音羽",
+    "message": "中文奈穂、あなたクリスに迷惑かけたの",
+    "message_id": 1719,
+    "name_id": 1718
+  },
+  {
+    "name": "奈穂",
+    "message": "中文迷惑なんてかけてないって、ちょっとお願いしただけ、ね、クリス",
+    "message_id": 1764,
+    "name_id": 1763
+  },
+  {
+    "name": "クリス",
+    "message": "中文はい。お姉さま私迷惑はかけられてませんから。むしろお手伝いできてよかったです",
+    "message_id": 1781,
+    "name_id": 1780
+  },
+  {
+    "name": "奈穂",
+    "message": "中文ほらほら",
+    "message_id": 1812,
+    "name_id": 1811
+  },
+  {
+    "name": "音羽",
+    "message": "中文ぐぬぬ……今回はクリスに免じて不問にするわ",
+    "message_id": 1858,
+    "name_id": 1857
+  },
+  {
+    "name": "彩音",
+    "message": "中文せっかくこんな素敵な花火なんだから二人共喧嘩しないの",
+    "message_id": 1916,
+    "name_id": 1915
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文さっすが彩先輩きっちり手綱を握ってるっす",
+    "message_id": 1969,
+    "name_id": 1968
+  },
+  {
+    "name": "賢太",
+    "message": "中文会長の手綱も握られてるね",
+    "message_id": 2000,
+    "name_id": 1999
+  },
+  {
+    "name": "渚",
+    "message": "中文ほらほら、お兄ちゃんすごいよー",
+    "message_id": 2053,
+    "name_id": 2052
+  },
+  {
+    "name": "楓真",
+    "message": "中文ああ、すごいな",
+    "message_id": 2065,
+    "name_id": 2064
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文トキメキまくりっすー",
+    "message_id": 2117,
+    "name_id": 2116
+  },
+  {
+    "name": null,
+    "message": "中文普通の花火大会にも負けないくらいの、いやそれ以上かもしれない花火が夜空を彩っていく。",
+    "message_id": 2157
+  },
+  {
+    "name": null,
+    "message": "中文俺たちも、今日参加してくれたみんなが夜空を見上げている。",
+    "message_id": 2164
+  },
+  {
+    "name": null,
+    "message": "中文今日この日を無事に迎えられて。",
+    "message_id": 2171
+  },
+  {
+    "name": "楓真",
+    "message": "中文本当によかった",
+    "message_id": 2180,
+    "name_id": 2179
+  },
+  {
+    "name": null,
+    "message": "中文そういって俺はポケットからそれを取り出す。",
+    "message_id": 2187
+  },
+  {
+    "name": "奈穂",
+    "message": "中文楓真、それ",
+    "message_id": 2240,
+    "name_id": 2239
+  },
+  {
+    "name": "楓真",
+    "message": "中文はい、教会です",
+    "message_id": 2254,
+    "name_id": 2253
+  },
+  {
+    "name": null,
+    "message": "中文正確には教会のミニチュアオルゴール。",
+    "message_id": 2261
+  },
+  {
+    "name": "楓真",
+    "message": "中文教会の前で祈りを捧げたいなって",
+    "message_id": 2284,
+    "name_id": 2283
+  },
+  {
+    "name": "楓真",
+    "message": "中文俺にできるのはこれぐらいですから",
+    "message_id": 2293,
+    "name_id": 2292
+  },
+  {
+    "name": null,
+    "message": "中文そういって俺はオルゴールの蓋を開く。",
+    "message_id": 2311
+  },
+  {
+    "name": null,
+    "message": "中文周りにオルゴールのメロディがゆっくりと拡がる。",
+    "message_id": 2322
+  },
+  {
+    "name": null,
+    "message": "中文俺たちを包み込むように。",
+    "message_id": 2329
+  },
+  {
+    "name": "クリス",
+    "message": "中文キレイな音色です",
+    "message_id": 2382,
+    "name_id": 2381
+  },
+  {
+    "name": "彩音",
+    "message": "中文素敵ね",
+    "message_id": 2414,
+    "name_id": 2413
+  },
+  {
+    "name": "音羽",
+    "message": "中文本当に……",
+    "message_id": 2446,
+    "name_id": 2445
+  },
+  {
+    "name": null,
+    "message": "中文みんなその音色にしばし耳を傾けてくれている。",
+    "message_id": 2456
+  },
+  {
+    "name": "奈穂",
+    "message": "中文楓真って案外ロマンチストだったのね？",
+    "message_id": 2509,
+    "name_id": 2508
+  },
+  {
+    "name": "楓真",
+    "message": "中文そんなつもりはないですけどね、今日だけはいいかなって",
+    "message_id": 2521,
+    "name_id": 2520
+  },
+  {
+    "name": "奈穂",
+    "message": "中文うん、いいんじゃない今日ぐらいは",
+    "message_id": 2552,
+    "name_id": 2551
+  },
+  {
+    "name": "渚",
+    "message": "中文ロマンチストなお兄ちゃんも格好いいよ",
+    "message_id": 2586,
+    "name_id": 2585
+  },
+  {
+    "name": null,
+    "message": "中文花火の打ち上がる音とオルゴールの奏でるメロディ。",
+    "message_id": 2624
+  },
+  {
+    "name": null,
+    "message": "中文あまり合わない二つの音だけど、俺たちの心に響き続ける。",
+    "message_id": 2631
+  },
+  {
+    "name": null,
+    "message": "中文こうして俺たちが目指した東祭は幕を閉じた。",
+    "message_id": 2638
+  },
+  {
+    "name": null,
+    "message": "中文いろんなことがあったけど、悪くないなって思う。",
+    "message_id": 2647
+  },
+  {
+    "name": "楓真",
+    "message": "中文また明日からがんばらないとな",
+    "message_id": 2656,
+    "name_id": 2655
+  },
+  {
+    "name": null,
+    "message": "中文恋するみんなを応援するために。",
+    "message_id": 2663
+  },
+  {
+    "name": null,
+    "message": "中文俺は俺にできることを。",
+    "message_id": 2670
+  },
+  {
+    "name": null,
+    "message": "中文これからも。",
+    "message_id": 2677
+  },
+  {
+    "name": null,
+    "message": "中文仲間たちと一緒に……。",
+    "message_id": 2684
+  },
+  {
+    "name": null,
+    "message": "中文ＥＮＤ",
+    "message_id": 2692
+  }
+]

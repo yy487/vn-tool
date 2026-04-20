@@ -1,0 +1,336 @@
+[
+  {
+    "name": "渚",
+    "message": "中文お兄ちゃんっ！　一体どういうことなのっ！！",
+    "message_id": 62,
+    "name_id": 60
+  },
+  {
+    "name": null,
+    "message": "中文放課後になるや否や、渚が教室に飛び込んできた。",
+    "message_id": 76
+  },
+  {
+    "name": "渚",
+    "message": "中文お兄ちゃん、渚の目を見てちゃんと答えてっ！！",
+    "message_id": 105,
+    "name_id": 104
+  },
+  {
+    "name": "楓真",
+    "message": "中文いきなりなんだよ",
+    "message_id": 117,
+    "name_id": 116
+  },
+  {
+    "name": "渚",
+    "message": "中文いきなりもなにもありません。自分が何をしたか分かってるのっ",
+    "message_id": 146,
+    "name_id": 145
+  },
+  {
+    "name": "楓真",
+    "message": "中文……",
+    "message_id": 158,
+    "name_id": 157
+  },
+  {
+    "name": null,
+    "message": "中文絶賛悪いことといえばキャンドルナイトを実行するという計画だけど。",
+    "message_id": 165
+  },
+  {
+    "name": null,
+    "message": "中文それは学生会の会長の許可を得られる企画を作るということになってるから問題ないはず。",
+    "message_id": 172
+  },
+  {
+    "name": "楓真",
+    "message": "中文…………俺、なにかした？",
+    "message_id": 181,
+    "name_id": 180
+  },
+  {
+    "name": "賢太",
+    "message": "中文さあね、茅野くんは色々なところで色々なことをしているからね。その影響がどこかで色々と出たんじゃないかな",
+    "message_id": 234,
+    "name_id": 233
+  },
+  {
+    "name": "楓真",
+    "message": "中文なんだよそれは。俺は真面目に生きてるの",
+    "message_id": 246,
+    "name_id": 245
+  },
+  {
+    "name": "賢太",
+    "message": "中文ふむ、自覚がないというのが一番性質@r(2,たち)が悪い",
+    "message_id": 277,
+    "name_id": 276
+  },
+  {
+    "name": "楓真",
+    "message": "中文いってろ",
+    "message_id": 289,
+    "name_id": 288
+  },
+  {
+    "name": "渚",
+    "message": "中文はぐらかさないで",
+    "message_id": 318,
+    "name_id": 317
+  },
+  {
+    "name": null,
+    "message": "中文渚の怒りは頂点に達しようとしている。",
+    "message_id": 328
+  },
+  {
+    "name": "楓真",
+    "message": "中文だから、身に覚えがないんだよ。俺が何をしたっていうんだ",
+    "message_id": 337,
+    "name_id": 336
+  },
+  {
+    "name": "渚",
+    "message": "中文……お弁当",
+    "message_id": 366,
+    "name_id": 365
+  },
+  {
+    "name": "楓真",
+    "message": "中文お弁当？？",
+    "message_id": 378,
+    "name_id": 377
+  },
+  {
+    "name": "渚",
+    "message": "中文愛ちゃんがお兄ちゃんのためにお弁当作ってくるって",
+    "message_id": 407,
+    "name_id": 406
+  },
+  {
+    "name": "賢太",
+    "message": "中文へぇー",
+    "message_id": 441,
+    "name_id": 440
+  },
+  {
+    "name": "楓真",
+    "message": "中文ああ、なんかなりゆきでそういうことになったみたいだ",
+    "message_id": 453,
+    "name_id": 452
+  },
+  {
+    "name": "渚",
+    "message": "中文なんで、お弁当が欲しいなら渚に言えばいいじゃない。愛ちゃんとっても嬉しそうに「楓先輩の好きな食べ物なんですか」って聞いてくるんだよ",
+    "message_id": 490,
+    "name_id": 489
+  },
+  {
+    "name": "楓真",
+    "message": "中文いや、なんかクリスがやる気になっちゃって、ははは",
+    "message_id": 502,
+    "name_id": 501
+  },
+  {
+    "name": "渚",
+    "message": "中文ははは、じゃなーーーーーいっ",
+    "message_id": 531,
+    "name_id": 530
+  },
+  {
+    "name": "渚",
+    "message": "中文お弁当作る",
+    "message_id": 563,
+    "name_id": 562
+  },
+  {
+    "name": "楓真",
+    "message": "中文はい？",
+    "message_id": 575,
+    "name_id": 574
+  },
+  {
+    "name": "渚",
+    "message": "中文渚もお弁当作る。いいわよね",
+    "message_id": 604,
+    "name_id": 603
+  },
+  {
+    "name": "楓真",
+    "message": "中文弁当作るくらい俺の許可なんていらないだろ。あ、俺の分は大丈夫だから",
+    "message_id": 616,
+    "name_id": 615
+  },
+  {
+    "name": "渚",
+    "message": "中文お兄ちゃんのお弁当を作るに決まってるでしょーーーー！！！",
+    "message_id": 645,
+    "name_id": 644
+  },
+  {
+    "name": "楓真",
+    "message": "中文えっ！　だって",
+    "message_id": 657,
+    "name_id": 656
+  },
+  {
+    "name": "渚",
+    "message": "中文だってもへちまもなーーい！　愛ちゃんのお弁当は食べれて渚のお弁当は食べれないっていうの",
+    "message_id": 686,
+    "name_id": 685
+  },
+  {
+    "name": "楓真",
+    "message": "中文普通に二人分は量が多すぎるだろう",
+    "message_id": 698,
+    "name_id": 697
+  },
+  {
+    "name": "渚",
+    "message": "中文ううううううううう",
+    "message_id": 727,
+    "name_id": 726
+  },
+  {
+    "name": null,
+    "message": "中文いや、そんなに睨まれても。",
+    "message_id": 737
+  },
+  {
+    "name": "楓真",
+    "message": "中文俺がそんなに食べないのは渚が一番知ってるだろ。それに渚の料理は毎晩食べてるじゃないか",
+    "message_id": 746,
+    "name_id": 745
+  },
+  {
+    "name": "渚",
+    "message": "中文でもでも……",
+    "message_id": 775,
+    "name_id": 774
+  },
+  {
+    "name": "賢太",
+    "message": "中文交互に作ればいんじゃないかな",
+    "message_id": 829,
+    "name_id": 828
+  },
+  {
+    "name": "渚",
+    "message": "中文交互？",
+    "message_id": 861,
+    "name_id": 860
+  },
+  {
+    "name": "賢太",
+    "message": "中文ああ、明日はクリスくん、明後日は渚くんという具合にさ",
+    "message_id": 895,
+    "name_id": 894
+  },
+  {
+    "name": "楓真",
+    "message": "中文ちょ、待てこの野郎",
+    "message_id": 907,
+    "name_id": 906
+  },
+  {
+    "name": "渚",
+    "message": "中文うん、分かった。お兄ちゃん仕方ないから明後日にしてあげる。明後日は愛ちゃんに作ってもらったらダメだよ",
+    "message_id": 936,
+    "name_id": 935
+  },
+  {
+    "name": null,
+    "message": "中文そんなことを言われても。",
+    "message_id": 946
+  },
+  {
+    "name": null,
+    "message": "中文そもそもクリスにも作ってくれと頼んだわけではないんだけど。",
+    "message_id": 953
+  },
+  {
+    "name": "渚",
+    "message": "中文約束だからね、破ったら酷いからねっ",
+    "message_id": 982,
+    "name_id": 981
+  },
+  {
+    "name": null,
+    "message": "中文来た時の勢い同じく教室を飛び出していく渚。",
+    "message_id": 1020
+  },
+  {
+    "name": null,
+    "message": "中文クリスと喧嘩とかしないといいんだけど。",
+    "message_id": 1027
+  },
+  {
+    "name": null,
+    "message": "中文ま、あの二人は仲がいいから心配ないか。",
+    "message_id": 1034
+  },
+  {
+    "name": null,
+    "message": "中文心配といえば……。",
+    "message_id": 1041
+  },
+  {
+    "name": "賢太",
+    "message": "中文いやぁー、大変なことになったね茅野くん",
+    "message_id": 1078,
+    "name_id": 1077
+  },
+  {
+    "name": "楓真",
+    "message": "中文副会長、お前楽しんでるだろ",
+    "message_id": 1090,
+    "name_id": 1089
+  },
+  {
+    "name": "賢太",
+    "message": "中文東祭は楽しまないとね。準備の時から",
+    "message_id": 1119,
+    "name_id": 1118
+  },
+  {
+    "name": null,
+    "message": "中文くそっ、この野郎。",
+    "message_id": 1129
+  },
+  {
+    "name": null,
+    "message": "中文覚えてろよっ。",
+    "message_id": 1136
+  },
+  {
+    "name": "賢太",
+    "message": "中文それにしてもクリスくんとはね。大変だよ色々と",
+    "message_id": 1165,
+    "name_id": 1164
+  },
+  {
+    "name": "楓真",
+    "message": "中文既に大変だよ色々と",
+    "message_id": 1177,
+    "name_id": 1176
+  },
+  {
+    "name": "賢太",
+    "message": "中文困ったことがあったらいつでも相談に乗るよ。僕たちは親友だからね",
+    "message_id": 1206,
+    "name_id": 1205
+  },
+  {
+    "name": "楓真",
+    "message": "中文言ってろ",
+    "message_id": 1218,
+    "name_id": 1217
+  },
+  {
+    "name": null,
+    "message": "中文明日、無事に過ごせるといいな。",
+    "message_id": 1225
+  }
+]

@@ -1,0 +1,424 @@
+[
+  {
+    "name": "彩音",
+    "message": "中文ふぅ……これで、終わったかしら",
+    "message_id": 62,
+    "name_id": 60
+  },
+  {
+    "name": "楓真",
+    "message": "中文そう、ですね……これで、終わりですね",
+    "message_id": 78,
+    "name_id": 77
+  },
+  {
+    "name": "彩音",
+    "message": "中文茅野のおかげでとても綺麗になったわね",
+    "message_id": 107,
+    "name_id": 106
+  },
+  {
+    "name": "楓真",
+    "message": "中文はい",
+    "message_id": 119,
+    "name_id": 118
+  },
+  {
+    "name": "彩音",
+    "message": "中文でも、東雲祭の準備が始まったらまた散らかってしまうけどね",
+    "message_id": 148,
+    "name_id": 147
+  },
+  {
+    "name": "楓真",
+    "message": "中文その時は、みんなで片付ければいいんですよ。学祭が終わってから",
+    "message_id": 160,
+    "name_id": 159
+  },
+  {
+    "name": "彩音",
+    "message": "中文そうね",
+    "message_id": 189,
+    "name_id": 188
+  },
+  {
+    "name": null,
+    "message": "中文学祭か。",
+    "message_id": 199
+  },
+  {
+    "name": null,
+    "message": "中文もうそんな時期か。",
+    "message_id": 206
+  },
+  {
+    "name": null,
+    "message": "中文それが過ぎたら、夏休み。",
+    "message_id": 213
+  },
+  {
+    "name": null,
+    "message": "中文早いものだな、とぼんやり思う。",
+    "message_id": 220
+  },
+  {
+    "name": "楓真",
+    "message": "中文……",
+    "message_id": 229,
+    "name_id": 228
+  },
+  {
+    "name": "彩音",
+    "message": "中文……",
+    "message_id": 258,
+    "name_id": 257
+  },
+  {
+    "name": null,
+    "message": "中文掃除も終わり、会話が途切れる。",
+    "message_id": 268
+  },
+  {
+    "name": null,
+    "message": "中文そうするとさっきまでの緊張感が戻ってくる。戻ってこなくていいのに、と思うがしょうがない。",
+    "message_id": 275
+  },
+  {
+    "name": "楓真",
+    "message": "中文……それにしても遅いですね",
+    "message_id": 284,
+    "name_id": 283
+  },
+  {
+    "name": "彩音",
+    "message": "中文え、ええ。いつもより清掃場所も多いということだから、まだ時間がかかってるのよ",
+    "message_id": 313,
+    "name_id": 312
+  },
+  {
+    "name": "彩音",
+    "message": "中文いつもだったら私も茅野も、一緒に罰を受けているから、全員でやれば早いんだけどね",
+    "message_id": 342,
+    "name_id": 341
+  },
+  {
+    "name": "楓真",
+    "message": "中文三人だけですもんね。やっぱり俺たちも手伝えばよかったですかね",
+    "message_id": 354,
+    "name_id": 353
+  },
+  {
+    "name": "彩音",
+    "message": "中文そうね。でもその代わりに部屋が綺麗になったんだから、みんながそれで満足してくれるなら私はいいかな",
+    "message_id": 383,
+    "name_id": 382
+  },
+  {
+    "name": "楓真",
+    "message": "中文そう、ですね",
+    "message_id": 395,
+    "name_id": 394
+  },
+  {
+    "name": "彩音",
+    "message": "中文うふふ……",
+    "message_id": 424,
+    "name_id": 423
+  },
+  {
+    "name": "楓真",
+    "message": "中文……",
+    "message_id": 436,
+    "name_id": 435
+  },
+  {
+    "name": null,
+    "message": "中文気まずい。",
+    "message_id": 443
+  },
+  {
+    "name": null,
+    "message": "中文さっきから媛守先輩の顔をまともに見ることが出来ない……。",
+    "message_id": 450
+  },
+  {
+    "name": null,
+    "message": "中文媛守先輩の治療をするどころか逆に介抱される羽目になってしまったし。",
+    "message_id": 457
+  },
+  {
+    "name": null,
+    "message": "中文それに……。",
+    "message_id": 464
+  },
+  {
+    "name": "楓真",
+    "message": "中文……ゴクッ",
+    "message_id": 508,
+    "name_id": 507
+  },
+  {
+    "name": null,
+    "message": "中文先輩のパン――。",
+    "message_id": 515
+  },
+  {
+    "name": "彩音",
+    "message": "中文こほん、茅野",
+    "message_id": 532,
+    "name_id": 531
+  },
+  {
+    "name": "楓真",
+    "message": "中文は、はいっ！",
+    "message_id": 599,
+    "name_id": 598
+  },
+  {
+    "name": "彩音",
+    "message": "中文今、不埒なことを想像していなかった",
+    "message_id": 628,
+    "name_id": 627
+  },
+  {
+    "name": "楓真",
+    "message": "中文そ、そんなことないです。とてもステキな光景を……",
+    "message_id": 640,
+    "name_id": 639
+  },
+  {
+    "name": "彩音",
+    "message": "中文忘れなさい、いいわね！",
+    "message_id": 669,
+    "name_id": 668
+  },
+  {
+    "name": "楓真",
+    "message": "中文は、はい！",
+    "message_id": 681,
+    "name_id": 680
+  },
+  {
+    "name": "彩音",
+    "message": "中文……もう、私がどれだけ恥ずかしかったと思ってるのよ",
+    "message_id": 710,
+    "name_id": 709
+  },
+  {
+    "name": null,
+    "message": "中文わぁー、先輩が目茶苦茶睨んでる。",
+    "message_id": 720
+  },
+  {
+    "name": null,
+    "message": "中文ダメだ、ちゃんと忘れないと今後が大変なことになりそうだ。",
+    "message_id": 727
+  },
+  {
+    "name": "彩音",
+    "message": "中文う、うぅ、うぅぅ……",
+    "message_id": 756,
+    "name_id": 755
+  },
+  {
+    "name": "楓真",
+    "message": "中文忘れます！　全部忘れっ……",
+    "message_id": 768,
+    "name_id": 767
+  },
+  {
+    "name": null,
+    "message": "中文――コンコン。",
+    "message_id": 778
+  },
+  {
+    "name": "クリス",
+    "message": "中文あのぉ、ごめんください。こちら、恋愛応援委員会のお部屋でよろしいでしょうか？",
+    "message_id": 858,
+    "name_id": 857
+  },
+  {
+    "name": "楓真",
+    "message": "中文えっ！　クリス！　ど、どうしたの？",
+    "message_id": 870,
+    "name_id": 869
+  },
+  {
+    "name": "クリス",
+    "message": "中文あらあら、楓先輩じゃないですか、どうしてこちらにいらっしゃるんですか？",
+    "message_id": 899,
+    "name_id": 898
+  },
+  {
+    "name": "楓真",
+    "message": "中文えっ、お、俺、恋会のメンバーだから",
+    "message_id": 911,
+    "name_id": 910
+  },
+  {
+    "name": "クリス",
+    "message": "中文そうでした！　楓先輩にお会いできて嬉しいです♪",
+    "message_id": 959,
+    "name_id": 958
+  },
+  {
+    "name": null,
+    "message": "中文まるで子犬のようにニコニコしながら俺の側に寄ってくる。",
+    "message_id": 986
+  },
+  {
+    "name": "楓真",
+    "message": "中文クリスはどうして、ここに来たの？",
+    "message_id": 995,
+    "name_id": 994
+  },
+  {
+    "name": "クリス",
+    "message": "中文はい、お迎えです",
+    "message_id": 1024,
+    "name_id": 1023
+  },
+  {
+    "name": "楓真",
+    "message": "中文迎え？",
+    "message_id": 1036,
+    "name_id": 1035
+  },
+  {
+    "name": "クリス",
+    "message": "中文はい。今日は渚ちゃんとお茶をする約束をしていたのですが、待っても待っても連絡がこなくて……とてもとても困っていたのです",
+    "message_id": 1065,
+    "name_id": 1064
+  },
+  {
+    "name": "楓真",
+    "message": "中文携帯に連絡とかなかったの？",
+    "message_id": 1077,
+    "name_id": 1076
+  },
+  {
+    "name": "クリス",
+    "message": "中文……あ、そうでした！　携帯電話がありました！",
+    "message_id": 1106,
+    "name_id": 1105
+  },
+  {
+    "name": null,
+    "message": "中文……今まで気付かなかったのか。",
+    "message_id": 1116
+  },
+  {
+    "name": "クリス",
+    "message": "中文……はい。入っています。でも、遅れるとしかメールには書いていません。どう遅れるのか、どうして遅れるのか、書いていないので困ります",
+    "message_id": 1145,
+    "name_id": 1144
+  },
+  {
+    "name": "楓真",
+    "message": "中文い、いや、遅刻するって分かればいいんじゃないかな？",
+    "message_id": 1157,
+    "name_id": 1156
+  },
+  {
+    "name": "クリス",
+    "message": "中文ダメです、ダメダメです楓先輩。理由が分からないとどんな気持ちで待っていたらいいのか悩んでしまいます",
+    "message_id": 1186,
+    "name_id": 1185
+  },
+  {
+    "name": "クリス",
+    "message": "中文それに、渚ちゃんの理由によってはお茶菓子も変えないといけませんし、あ、でもお茶は私が飲みたいものでいいって渚ちゃんがいってくれてますから変えませんけれど",
+    "message_id": 1215,
+    "name_id": 1214
+  },
+  {
+    "name": "楓真",
+    "message": "中文そ、そうなんだ……",
+    "message_id": 1227,
+    "name_id": 1226
+  },
+  {
+    "name": null,
+    "message": "中文……やれやれ。",
+    "message_id": 1234
+  },
+  {
+    "name": null,
+    "message": "中文渚からの連絡は俺も、媛守先輩にも届いてはいない。まだ時間が掛かるだろう。",
+    "message_id": 1241
+  },
+  {
+    "name": "彩音",
+    "message": "中文渚ちゃんたちは、先生から頼まれごとをされてお手伝いに行ってるの、まだ時間がかかると思うわ",
+    "message_id": 1287,
+    "name_id": 1286
+  },
+  {
+    "name": "クリス",
+    "message": "中文おー、そうなのですか。渚ちゃんは偉いですね、先生のお手伝いするなんて",
+    "message_id": 1318,
+    "name_id": 1317
+  },
+  {
+    "name": "楓真",
+    "message": "中文いやぁ、偉くはないんだけどな",
+    "message_id": 1330,
+    "name_id": 1329
+  },
+  {
+    "name": "彩音",
+    "message": "中文クリスちゃん、私のこと覚えているかしら？　奈穂の友人で媛守彩音よ",
+    "message_id": 1361,
+    "name_id": 1360
+  },
+  {
+    "name": "クリス",
+    "message": "中文はい。覚えています。名前は今覚えました",
+    "message_id": 1392,
+    "name_id": 1391
+  },
+  {
+    "name": "彩音",
+    "message": "中文そう。これからよろしくね。良かったら渚ちゃんが来るまで、ここで待っているのはどうかしら？",
+    "message_id": 1423,
+    "name_id": 1422
+  },
+  {
+    "name": "楓真",
+    "message": "中文……！",
+    "message_id": 1435,
+    "name_id": 1434
+  },
+  {
+    "name": null,
+    "message": "中文なるほど。それはいいアイデアだ。",
+    "message_id": 1442
+  },
+  {
+    "name": null,
+    "message": "中文このまま先輩と二人きりだと墓穴をたくさん掘ってしまいそうだったし、クリスがいてくれると媛守先輩も色々と助かるだろうし。",
+    "message_id": 1449
+  },
+  {
+    "name": "楓真",
+    "message": "中文そうだな。渚が帰ってくるまで一緒にいてくれると嬉しい",
+    "message_id": 1458,
+    "name_id": 1457
+  },
+  {
+    "name": "クリス",
+    "message": "中文はいっ！　お言葉に甘えさせていただきます。じゃあ、ちょっと待っていて下さいね――",
+    "message_id": 1489,
+    "name_id": 1488
+  },
+  {
+    "name": null,
+    "message": "中文そう言い、クリスは軽い足取りで委員会室を出ていく。カバンでも取ってくるのだろう。",
+    "message_id": 1526
+  },
+  {
+    "name": null,
+    "message": "中文俺たちは、ちょっとほっとしながらクリスを待つことにした。",
+    "message_id": 1533
+  }
+]

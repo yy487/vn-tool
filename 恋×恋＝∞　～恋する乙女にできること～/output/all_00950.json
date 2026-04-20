@@ -1,0 +1,554 @@
+[
+  {
+    "name": null,
+    "message": "中文会長の好意で視察という名の休憩をもらったのはいいんだけど。",
+    "message_id": 38
+  },
+  {
+    "name": null,
+    "message": "中文ここまでは間違いなくみんな楽しんでくれている。それもとても嬉しいことなんだけど。",
+    "message_id": 47
+  },
+  {
+    "name": "楓真",
+    "message": "中文……何をしているんだろうか",
+    "message_id": 57,
+    "name_id": 56
+  },
+  {
+    "name": "クリス",
+    "message": "中文さささっ",
+    "message_id": 119,
+    "name_id": 118
+  },
+  {
+    "name": "クリス",
+    "message": "中文じぃぃーー",
+    "message_id": 166,
+    "name_id": 165
+  },
+  {
+    "name": null,
+    "message": "中文気づいたらクリスがずっと後ろをつけてきている。",
+    "message_id": 179
+  },
+  {
+    "name": null,
+    "message": "中文というかあれは隠れているつもりなんだろうか。",
+    "message_id": 186
+  },
+  {
+    "name": "クリス",
+    "message": "中文あ、すいません。ちょっと通して頂けると嬉しいです",
+    "message_id": 209,
+    "name_id": 208
+  },
+  {
+    "name": "クリス",
+    "message": "中文楓先輩が見えなくなっちゃいます",
+    "message_id": 237,
+    "name_id": 236
+  },
+  {
+    "name": null,
+    "message": "中文あ、クリスが人ごみに紛れて身動きが取れなくなってる。",
+    "message_id": 250
+  },
+  {
+    "name": "クリス",
+    "message": "中文あのぉー、すみません。通してください",
+    "message_id": 288,
+    "name_id": 287
+  },
+  {
+    "name": "楓真",
+    "message": "中文すいません、ちょっと通してください",
+    "message_id": 302,
+    "name_id": 301
+  },
+  {
+    "name": null,
+    "message": "中文ちょっと強引に人の波をかき分けクリスの腕を掴む。",
+    "message_id": 320
+  },
+  {
+    "name": "クリス",
+    "message": "中文あっ",
+    "message_id": 344,
+    "name_id": 343
+  },
+  {
+    "name": "楓真",
+    "message": "中文ほらっ、こっち",
+    "message_id": 356,
+    "name_id": 355
+  },
+  {
+    "name": "クリス",
+    "message": "中文ありがとうございます、楓先輩",
+    "message_id": 377,
+    "name_id": 376
+  },
+  {
+    "name": null,
+    "message": "中文クリスがいつもの笑顔で俺を見つめてくる。",
+    "message_id": 387
+  },
+  {
+    "name": null,
+    "message": "中文うっー。",
+    "message_id": 394
+  },
+  {
+    "name": null,
+    "message": "中文クリスに見つめられるなんて慣れているはずなのに。",
+    "message_id": 401
+  },
+  {
+    "name": null,
+    "message": "中文急激に顔が熱くなっていくのを感じる。",
+    "message_id": 408
+  },
+  {
+    "name": "楓真",
+    "message": "中文こほん、それでクリスはなにをしていたのかな？",
+    "message_id": 417,
+    "name_id": 416
+  },
+  {
+    "name": "クリス",
+    "message": "中文監視です",
+    "message_id": 453,
+    "name_id": 452
+  },
+  {
+    "name": "楓真",
+    "message": "中文監視……なんで？",
+    "message_id": 467,
+    "name_id": 466
+  },
+  {
+    "name": "クリス",
+    "message": "中文なぜって、私はお姉さまから楓先輩の監視を任されていますから。目を離してはいけないんです",
+    "message_id": 488,
+    "name_id": 487
+  },
+  {
+    "name": null,
+    "message": "中文確かにそんなこともあったような気がするけど。",
+    "message_id": 498
+  },
+  {
+    "name": null,
+    "message": "中文まだ続いていたのか。",
+    "message_id": 505
+  },
+  {
+    "name": "楓真",
+    "message": "中文いや、もう監視は必要ないかな、とか思うんだけどどうかな",
+    "message_id": 514,
+    "name_id": 513
+  },
+  {
+    "name": "クリス",
+    "message": "中文……",
+    "message_id": 535,
+    "name_id": 534
+  },
+  {
+    "name": "クリス",
+    "message": "中文分かりました。それでは楓先輩、よろしければ私と学園祭を周っていただけませんか",
+    "message_id": 559,
+    "name_id": 558
+  },
+  {
+    "name": "楓真",
+    "message": "中文お、俺と",
+    "message_id": 571,
+    "name_id": 570
+  },
+  {
+    "name": "クリス",
+    "message": "中文はい、楓先輩とです",
+    "message_id": 607,
+    "name_id": 606
+  },
+  {
+    "name": "楓真",
+    "message": "中文……俺でよければ",
+    "message_id": 621,
+    "name_id": 620
+  },
+  {
+    "name": "クリス",
+    "message": "中文ありがとうございます。それではお願いしますね",
+    "message_id": 644,
+    "name_id": 643
+  },
+  {
+    "name": null,
+    "message": "中文えっ！？",
+    "message_id": 654
+  },
+  {
+    "name": null,
+    "message": "中文そういうとクリスは隣にくる自然に腕を絡めてくる。",
+    "message_id": 661
+  },
+  {
+    "name": "クリス",
+    "message": "中文行きましょう。色々と案内してくださいね",
+    "message_id": 684,
+    "name_id": 683
+  },
+  {
+    "name": "楓真",
+    "message": "中文……",
+    "message_id": 696,
+    "name_id": 695
+  },
+  {
+    "name": null,
+    "message": "中文クリスがピタッっという表現がぴったりくるくらいにくっついている。",
+    "message_id": 703
+  },
+  {
+    "name": null,
+    "message": "中文ありえないほどの柔らかくてそれでいて弾力のある感触が脳を支配している。",
+    "message_id": 710
+  },
+  {
+    "name": "クリス",
+    "message": "中文あそこはなにを売っているのですか",
+    "message_id": 733,
+    "name_id": 732
+  },
+  {
+    "name": "クリス",
+    "message": "中文楓先輩、とってもいい匂いがしていますよ",
+    "message_id": 761,
+    "name_id": 760
+  },
+  {
+    "name": null,
+    "message": "中文歩く度に、何かを尋ねてくる度にその大きすぎる感触が形を変えながら迫ってくる。",
+    "message_id": 773
+  },
+  {
+    "name": null,
+    "message": "中文こ、これはやばい、やばすぎる。",
+    "message_id": 780
+  },
+  {
+    "name": null,
+    "message": "中文気を抜くと意識が飛んでしまう……。",
+    "message_id": 787
+  },
+  {
+    "name": "クリス",
+    "message": "中文ちゃんと聞いてくれていますか",
+    "message_id": 810,
+    "name_id": 809
+  },
+  {
+    "name": null,
+    "message": "中文むぎゅー。",
+    "message_id": 820
+  },
+  {
+    "name": null,
+    "message": "中文わわわっ！",
+    "message_id": 827
+  },
+  {
+    "name": null,
+    "message": "中文今までとは比較にならないくらいに強く強く押し付けられ、腕がめり込んでしまっている。",
+    "message_id": 834
+  },
+  {
+    "name": "楓真",
+    "message": "中文ク、クリス",
+    "message_id": 843,
+    "name_id": 842
+  },
+  {
+    "name": "クリス",
+    "message": "中文楓先輩、こちらをちゃんと見て下さい",
+    "message_id": 864,
+    "name_id": 863
+  },
+  {
+    "name": null,
+    "message": "中文思わず声をかけるもクリスの顔を見ることが出来ない。",
+    "message_id": 874
+  },
+  {
+    "name": null,
+    "message": "中文クリスを見ると必然的に腕をめり込ませている原因をまともに見ることになってします。",
+    "message_id": 881
+  },
+  {
+    "name": "楓真",
+    "message": "中文当たってるから、その、だから",
+    "message_id": 890,
+    "name_id": 889
+  },
+  {
+    "name": "クリス",
+    "message": "中文楓先輩、私の目を見て仰ってください。そんな風にされては悲しいです",
+    "message_id": 911,
+    "name_id": 910
+  },
+  {
+    "name": null,
+    "message": "中文クリスの寂しそうな声が俺の良心を苛んでいく。",
+    "message_id": 921
+  },
+  {
+    "name": null,
+    "message": "中文顔だ、クリスの顔だけを見ればいいんだから。",
+    "message_id": 928
+  },
+  {
+    "name": "楓真",
+    "message": "中文クリス、腕に当たってるからそんなに強く抱きしめないでくれ",
+    "message_id": 937,
+    "name_id": 936
+  },
+  {
+    "name": "クリス",
+    "message": "中文……",
+    "message_id": 958,
+    "name_id": 957
+  },
+  {
+    "name": "楓真",
+    "message": "中文……",
+    "message_id": 970,
+    "name_id": 969
+  },
+  {
+    "name": null,
+    "message": "中文あれ？",
+    "message_id": 977
+  },
+  {
+    "name": null,
+    "message": "中文クリスは上目遣いのまま頬を染めている。",
+    "message_id": 984
+  },
+  {
+    "name": null,
+    "message": "中文伝わったよな。恥ずかしさに気づいて動けなくなっちゃったとか。",
+    "message_id": 991
+  },
+  {
+    "name": "クリス",
+    "message": "中文……わざとです",
+    "message_id": 1012,
+    "name_id": 1011
+  },
+  {
+    "name": "楓真",
+    "message": "中文えっ",
+    "message_id": 1024,
+    "name_id": 1023
+  },
+  {
+    "name": null,
+    "message": "中文クリスは更に胸を押し付けるようにしてくる。",
+    "message_id": 1031
+  },
+  {
+    "name": "楓真",
+    "message": "中文ちょ、ちょっとクリス",
+    "message_id": 1040,
+    "name_id": 1039
+  },
+  {
+    "name": "クリス",
+    "message": "中文充電中なんです",
+    "message_id": 1061,
+    "name_id": 1060
+  },
+  {
+    "name": "クリス",
+    "message": "中文楓先輩に触れていないと力が出ないんです。だから我慢して下さい",
+    "message_id": 1085,
+    "name_id": 1084
+  },
+  {
+    "name": "楓真",
+    "message": "中文クリス",
+    "message_id": 1097,
+    "name_id": 1096
+  },
+  {
+    "name": null,
+    "message": "中文クリスはいやいやと駄々をこねるように首を横に振る。",
+    "message_id": 1104
+  },
+  {
+    "name": null,
+    "message": "中文なんだろう、この可愛すぎる生き物は。",
+    "message_id": 1111
+  },
+  {
+    "name": "楓真",
+    "message": "中文クリス",
+    "message_id": 1120,
+    "name_id": 1119
+  },
+  {
+    "name": "クリス",
+    "message": "中文いやです",
+    "message_id": 1141,
+    "name_id": 1140
+  },
+  {
+    "name": "楓真",
+    "message": "中文いいよ、このままで。でも大丈夫？",
+    "message_id": 1153,
+    "name_id": 1152
+  },
+  {
+    "name": null,
+    "message": "中文もちろん胸を押し付けてる状態がということで。",
+    "message_id": 1160
+  },
+  {
+    "name": "クリス",
+    "message": "中文は、恥ずかしいですけど……今はこのままでいいです",
+    "message_id": 1181,
+    "name_id": 1180
+  },
+  {
+    "name": "楓真",
+    "message": "中文そっか。じゃあ俺もクリスから充電だな",
+    "message_id": 1193,
+    "name_id": 1192
+  },
+  {
+    "name": "クリス",
+    "message": "中文えっちです",
+    "message_id": 1214,
+    "name_id": 1213
+  },
+  {
+    "name": "楓真",
+    "message": "中文ええー、そんなこと言われても",
+    "message_id": 1226,
+    "name_id": 1225
+  },
+  {
+    "name": "クリス",
+    "message": "中文楓先輩は腕を動かしちゃダメですからね",
+    "message_id": 1247,
+    "name_id": 1246
+  },
+  {
+    "name": null,
+    "message": "中文それはそれで拷問だな。",
+    "message_id": 1257
+  },
+  {
+    "name": null,
+    "message": "中文でも、クリスがそれを望むならいいか。",
+    "message_id": 1264
+  },
+  {
+    "name": "楓真",
+    "message": "中文ありがとな、クリス",
+    "message_id": 1273,
+    "name_id": 1272
+  },
+  {
+    "name": "クリス",
+    "message": "中文なんのお礼ですか",
+    "message_id": 1294,
+    "name_id": 1293
+  },
+  {
+    "name": "楓真",
+    "message": "中文うーん、秘密",
+    "message_id": 1306,
+    "name_id": 1305
+  },
+  {
+    "name": "クリス",
+    "message": "中文むー、秘密ですか",
+    "message_id": 1327,
+    "name_id": 1326
+  },
+  {
+    "name": null,
+    "message": "中文今日まで傍にいてくれてありがとうなんて恥ずかしくていえないよな。",
+    "message_id": 1337
+  },
+  {
+    "name": "クリス",
+    "message": "中文ありがとうございます、楓先輩",
+    "message_id": 1358,
+    "name_id": 1357
+  },
+  {
+    "name": "楓真",
+    "message": "中文なんのお礼？",
+    "message_id": 1370,
+    "name_id": 1369
+  },
+  {
+    "name": "クリス",
+    "message": "中文ふふっ、秘密です♪",
+    "message_id": 1406,
+    "name_id": 1405
+  },
+  {
+    "name": "楓真",
+    "message": "中文っ！？",
+    "message_id": 1420,
+    "name_id": 1419
+  },
+  {
+    "name": null,
+    "message": "中文クリスの答えは分かっていたけど。",
+    "message_id": 1427
+  },
+  {
+    "name": null,
+    "message": "中文そんなに嬉しそうな顔で言われるとは思ってなかった。",
+    "message_id": 1434
+  },
+  {
+    "name": null,
+    "message": "中文その笑顔を見た瞬間、俺は……。",
+    "message_id": 1441
+  },
+  {
+    "name": "クリス",
+    "message": "中文真似っこです。ふふふっ",
+    "message_id": 1462,
+    "name_id": 1461
+  },
+  {
+    "name": "クリス",
+    "message": "中文さあ、行きましょう。ちゃんと私をエスコートしてくださいね",
+    "message_id": 1486,
+    "name_id": 1485
+  },
+  {
+    "name": null,
+    "message": "中文クリスが傍にいてくれる。",
+    "message_id": 1496
+  },
+  {
+    "name": null,
+    "message": "中文そのことがそのことを感じられる今が震えてしまうほどに。",
+    "message_id": 1503
+  },
+  {
+    "name": null,
+    "message": "中文嬉しかった。",
+    "message_id": 1510
+  }
+]

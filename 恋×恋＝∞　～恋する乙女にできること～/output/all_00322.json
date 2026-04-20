@@ -1,0 +1,399 @@
+[
+  {
+    "name": null,
+    "message": "中文一組の男女が向き合っている。",
+    "message_id": 38
+  },
+  {
+    "name": null,
+    "message": "中文夕焼けを背景にし、逆光でその表情までは伺うことは出来ない。",
+    "message_id": 47
+  },
+  {
+    "name": null,
+    "message": "中文でも――。",
+    "message_id": 54
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文いけっ！　行くっす！　押せ押せっすー",
+    "message_id": 110,
+    "name_id": 109
+  },
+  {
+    "name": "奈穂",
+    "message": "中文うるさい伊佐美",
+    "message_id": 139,
+    "name_id": 138
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文ぐっ、すいません師匠ー",
+    "message_id": 168,
+    "name_id": 167
+  },
+  {
+    "name": "彩音",
+    "message": "中文いい感じみたいね",
+    "message_id": 209,
+    "name_id": 208
+  },
+  {
+    "name": null,
+    "message": "中文そう、二人が話している場所まで距離はある。",
+    "message_id": 223
+  },
+  {
+    "name": null,
+    "message": "中文それでも、彼らを取り巻く空気が柔らかいことを俺でも感じることができた。",
+    "message_id": 230
+  },
+  {
+    "name": "楓真",
+    "message": "中文……",
+    "message_id": 239,
+    "name_id": 238
+  },
+  {
+    "name": "奈穂",
+    "message": "中文よし、後はいいわ",
+    "message_id": 268,
+    "name_id": 267
+  },
+  {
+    "name": "楓真",
+    "message": "中文ええっ！　もういいんですか。まだ上手くいったかどうか分からないじゃないですか",
+    "message_id": 280,
+    "name_id": 279
+  },
+  {
+    "name": "奈穂",
+    "message": "中文あたし達にできるのはここまでよ。ほら、カバン取りに戻るわよ",
+    "message_id": 309,
+    "name_id": 308
+  },
+  {
+    "name": "楓真",
+    "message": "中文でもっ",
+    "message_id": 321,
+    "name_id": 320
+  },
+  {
+    "name": null,
+    "message": "中文天翔先輩は媛守先輩と連れ立って校舎に向って歩き出す。",
+    "message_id": 357
+  },
+  {
+    "name": null,
+    "message": "中文こんな中途半端でいいのか。",
+    "message_id": 364
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文行くよ、かやっち",
+    "message_id": 393,
+    "name_id": 392
+  },
+  {
+    "name": "楓真",
+    "message": "中文金剛、これでいいのか？",
+    "message_id": 405,
+    "name_id": 404
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文かやっちもまだまだだねー、おっ、ほら見てみなよ",
+    "message_id": 434,
+    "name_id": 433
+  },
+  {
+    "name": null,
+    "message": "中文金剛に促されて視線を向けると――。",
+    "message_id": 447
+  },
+  {
+    "name": null,
+    "message": "中文二人が並んで歩き始めていた。",
+    "message_id": 454
+  },
+  {
+    "name": null,
+    "message": "中文手を繋いでいるわけでもないし、キスをしているわけでもない。",
+    "message_id": 461
+  },
+  {
+    "name": null,
+    "message": "中文それでも、二人の影は恋人同士のそれにしか見えなかった。",
+    "message_id": 468
+  },
+  {
+    "name": "彩音",
+    "message": "中文お疲れさま",
+    "message_id": 558,
+    "name_id": 557
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文お疲れっすー",
+    "message_id": 587,
+    "name_id": 586
+  },
+  {
+    "name": "奈穂",
+    "message": "中文お疲れ、みんなありがとう。おかげでなんとかなったかな",
+    "message_id": 616,
+    "name_id": 615
+  },
+  {
+    "name": "彩音",
+    "message": "中文そうね、後はあの二人に任せて大丈夫でしょう",
+    "message_id": 645,
+    "name_id": 644
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文くぅ～～、いいことした後は気分がいいっす",
+    "message_id": 674,
+    "name_id": 673
+  },
+  {
+    "name": "楓真",
+    "message": "中文……",
+    "message_id": 686,
+    "name_id": 685
+  },
+  {
+    "name": "奈穂",
+    "message": "中文さてと、感想は？",
+    "message_id": 739,
+    "name_id": 738
+  },
+  {
+    "name": null,
+    "message": "中文天翔先輩をはじめ媛守先輩も金剛も俺に視線を向ける。",
+    "message_id": 749
+  },
+  {
+    "name": "楓真",
+    "message": "中文……あれで終わりですか",
+    "message_id": 758,
+    "name_id": 757
+  },
+  {
+    "name": "奈穂",
+    "message": "中文そうねぇー、アフターケアが必要な状況になったら動くけど",
+    "message_id": 787,
+    "name_id": 786
+  },
+  {
+    "name": "彩音",
+    "message": "中文とりあえず終わりでいいと思うわ",
+    "message_id": 816,
+    "name_id": 815
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文うんうん",
+    "message_id": 845,
+    "name_id": 844
+  },
+  {
+    "name": "楓真",
+    "message": "中文あの二人はカップルになったんでしょうか",
+    "message_id": 857,
+    "name_id": 856
+  },
+  {
+    "name": "奈穂",
+    "message": "中文どうだろうねー",
+    "message_id": 886,
+    "name_id": 885
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文いえいえ、ばっちりっすよー。師匠のやることに間違いないっす",
+    "message_id": 915,
+    "name_id": 914
+  },
+  {
+    "name": "彩音",
+    "message": "中文ある意味、間違いだらけかもしれないけどね",
+    "message_id": 944,
+    "name_id": 943
+  },
+  {
+    "name": "奈穂",
+    "message": "中文あー、彩音それ酷い",
+    "message_id": 973,
+    "name_id": 972
+  },
+  {
+    "name": "楓真",
+    "message": "中文先輩たちはカップルを作りたいんじゃないですか",
+    "message_id": 985,
+    "name_id": 984
+  },
+  {
+    "name": "奈穂",
+    "message": "中文恋を応援する。恋の素晴らしさを知ってもらう",
+    "message_id": 1014,
+    "name_id": 1013
+  },
+  {
+    "name": "彩音",
+    "message": "中文上手く恋人同士になれれば、それにこしたことはないのだけれど",
+    "message_id": 1043,
+    "name_id": 1042
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文そうそう簡単にはいかないっすよねー",
+    "message_id": 1072,
+    "name_id": 1071
+  },
+  {
+    "name": "奈穂",
+    "message": "中文上手くいっても失敗しても恋したことって絶対に損にはならないと思うの",
+    "message_id": 1101,
+    "name_id": 1100
+  },
+  {
+    "name": "奈穂",
+    "message": "中文学園を卒業しても、仕事をするようになっても、おじいちゃんおばあちゃんになってもいつでも恋するチャンスはあると思う",
+    "message_id": 1130,
+    "name_id": 1129
+  },
+  {
+    "name": "奈穂",
+    "message": "中文でも、今この瞬間、恋することは今しかできない。その手伝いが出来ればいいなって、違うか、手伝うんだ全力で！！",
+    "message_id": 1159,
+    "name_id": 1158
+  },
+  {
+    "name": null,
+    "message": "中文天翔先輩はとてもいい笑顔で、",
+    "message_id": 1169
+  },
+  {
+    "name": null,
+    "message": "中文そして後の二人も同じように笑顔を浮かべて、俺はただ見惚れてしまっていた。",
+    "message_id": 1176
+  },
+  {
+    "name": "楓真",
+    "message": "中文上手くいえないけど、先輩たちってすごいなと思います",
+    "message_id": 1185,
+    "name_id": 1184
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文おおー、かやっちに尊敬されてしまった",
+    "message_id": 1238,
+    "name_id": 1237
+  },
+  {
+    "name": "楓真",
+    "message": "中文尊敬してるのかは分からないけど",
+    "message_id": 1250,
+    "name_id": 1249
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文そこは素直に尊敬しまくってる、金剛愛してるーとか叫ばないとダメダメっす",
+    "message_id": 1279,
+    "name_id": 1278
+  },
+  {
+    "name": "楓真",
+    "message": "中文いやいやいやいや",
+    "message_id": 1291,
+    "name_id": 1290
+  },
+  {
+    "name": "奈穂",
+    "message": "中文あら、伊佐美は楓真のこと好きなの、だったら頑張っちゃうんだけど♪",
+    "message_id": 1339,
+    "name_id": 1338
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文いやいやいやいや、あたしは師匠一筋っす！",
+    "message_id": 1397,
+    "name_id": 1396
+  },
+  {
+    "name": "楓真",
+    "message": "中文……",
+    "message_id": 1409,
+    "name_id": 1408
+  },
+  {
+    "name": "彩音",
+    "message": "中文奈穂、伊佐美ちゃん、茅野が困ってるわよ",
+    "message_id": 1438,
+    "name_id": 1437
+  },
+  {
+    "name": "奈穂",
+    "message": "中文ごめんごめん、続きどうぞ",
+    "message_id": 1491,
+    "name_id": 1490
+  },
+  {
+    "name": "楓真",
+    "message": "中文はぁ、えっと",
+    "message_id": 1503,
+    "name_id": 1502
+  },
+  {
+    "name": null,
+    "message": "中文気を抜くとこの人たちのペースに振り回されっぱなしになってしまうな。",
+    "message_id": 1510
+  },
+  {
+    "name": null,
+    "message": "中文俺はゆっくりと深呼吸する。",
+    "message_id": 1517
+  },
+  {
+    "name": "楓真",
+    "message": "中文先輩たちが、恋会が周りから色々と噂されているの聞きました。正直あまりいい話しばかりじゃなかった",
+    "message_id": 1526,
+    "name_id": 1525
+  },
+  {
+    "name": "楓真",
+    "message": "中文でも、なにか気になってました。だから自分の目で確かめようって",
+    "message_id": 1535,
+    "name_id": 1534
+  },
+  {
+    "name": "楓真",
+    "message": "中文今でもはっきり分かってるわけじゃないです。ただ、噂はやっぱり噂だったなとは思います",
+    "message_id": 1544,
+    "name_id": 1543
+  },
+  {
+    "name": null,
+    "message": "中文三人とも真剣にそして優しい表情で俺の声に耳を傾けてくれているのが分かる。",
+    "message_id": 1551
+  },
+  {
+    "name": "奈穂",
+    "message": "中文それで、どうするのかしら楓真は？",
+    "message_id": 1604,
+    "name_id": 1603
+  },
+  {
+    "name": "楓真",
+    "message": "中文天翔先輩はどうして恋愛応援委員会を作ったんですか",
+    "message_id": 1616,
+    "name_id": 1615
+  },
+  {
+    "name": "奈穂",
+    "message": "中文だって恋しないなんてもったいないじゃない！",
+    "message_id": 1645,
+    "name_id": 1644
+  }
+]

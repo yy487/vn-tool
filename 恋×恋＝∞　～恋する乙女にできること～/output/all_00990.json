@@ -1,0 +1,973 @@
+[
+  {
+    "name": "楓真",
+    "message": "中文こんなところにいたのか",
+    "message_id": 40,
+    "name_id": 38
+  },
+  {
+    "name": "渚",
+    "message": "中文……お兄ちゃん",
+    "message_id": 74,
+    "name_id": 73
+  },
+  {
+    "name": null,
+    "message": "中文キャンドルナイトでの天翔先輩の演説の後、渚の姿が見えなくなった。",
+    "message_id": 85
+  },
+  {
+    "name": null,
+    "message": "中文でも不思議と不安はなかった。",
+    "message_id": 92
+  },
+  {
+    "name": "渚",
+    "message": "中文よくわかったね",
+    "message_id": 121,
+    "name_id": 120
+  },
+  {
+    "name": "楓真",
+    "message": "中文ただの勘だけどな",
+    "message_id": 133,
+    "name_id": 132
+  },
+  {
+    "name": "渚",
+    "message": "中文勘で見つかっちゃうんだ",
+    "message_id": 162,
+    "name_id": 161
+  },
+  {
+    "name": "楓真",
+    "message": "中文渚を探すのは俺の得意分野だからな",
+    "message_id": 174,
+    "name_id": 173
+  },
+  {
+    "name": "渚",
+    "message": "中文あはは、そういえばそうだね。渚が迷子になった時見つけてくれるは絶対にお兄ちゃんだった",
+    "message_id": 224,
+    "name_id": 223
+  },
+  {
+    "name": "楓真",
+    "message": "中文ああ、どうしてか父さんも母さんも渚のこと見つけられなくてな。後でなぜか俺が父さんに怒られたこともあったよ",
+    "message_id": 239,
+    "name_id": 238
+  },
+  {
+    "name": "渚",
+    "message": "中文なんで？",
+    "message_id": 268,
+    "name_id": 267
+  },
+  {
+    "name": "楓真",
+    "message": "中文渚を最初に見つけるのは父さんの役目だって言ってさ。息子は引っ込んでろてな具合だった",
+    "message_id": 280,
+    "name_id": 279
+  },
+  {
+    "name": "渚",
+    "message": "中文お父さんらしい。でも一回もなかったよね、お父さんが最初に見つけてくれたの",
+    "message_id": 309,
+    "name_id": 308
+  },
+  {
+    "name": "楓真",
+    "message": "中文全戦全勝中だからな、今も記録更新中だ",
+    "message_id": 321,
+    "name_id": 320
+  },
+  {
+    "name": "渚",
+    "message": "中文もう渚は迷子になんてならないよ",
+    "message_id": 350,
+    "name_id": 349
+  },
+  {
+    "name": "楓真",
+    "message": "中文それはどうかなー、渚は意外と抜けてるところがあるからな",
+    "message_id": 362,
+    "name_id": 361
+  },
+  {
+    "name": "渚",
+    "message": "中文そんなことないもん",
+    "message_id": 406,
+    "name_id": 405
+  },
+  {
+    "name": "楓真",
+    "message": "中文いや、そんなことあるんだ。だからずっと渚を見守らせてほしい",
+    "message_id": 420,
+    "name_id": 419
+  },
+  {
+    "name": "渚",
+    "message": "中文えっ",
+    "message_id": 449,
+    "name_id": 448
+  },
+  {
+    "name": "渚",
+    "message": "中文や、やだなぁー。もうなに言ってるのお兄ちゃん",
+    "message_id": 481,
+    "name_id": 480
+  },
+  {
+    "name": "渚",
+    "message": "中文東祭が上手くいってるからって可愛い妹をからかっちゃダメなんだよ",
+    "message_id": 513,
+    "name_id": 512
+  },
+  {
+    "name": "楓真",
+    "message": "中文からかってないよ。渚の言う通り、可愛い妹をからかうはずないだろ",
+    "message_id": 525,
+    "name_id": 524
+  },
+  {
+    "name": "渚",
+    "message": "中文……",
+    "message_id": 554,
+    "name_id": 553
+  },
+  {
+    "name": "楓真",
+    "message": "中文これからも一番近くで、渚のこと守らせてほしい",
+    "message_id": 566,
+    "name_id": 565
+  },
+  {
+    "name": "渚",
+    "message": "中文…………いもうと、としてだよね",
+    "message_id": 595,
+    "name_id": 594
+  },
+  {
+    "name": "渚",
+    "message": "中文これからも兄妹仲良く頑張っていこうというお兄ちゃんの所信表明みたいな",
+    "message_id": 627,
+    "name_id": 626
+  },
+  {
+    "name": "楓真",
+    "message": "中文渚は妹だよ",
+    "message_id": 639,
+    "name_id": 638
+  },
+  {
+    "name": "渚",
+    "message": "中文あ、……うん、そうだよね",
+    "message_id": 668,
+    "name_id": 667
+  },
+  {
+    "name": "楓真",
+    "message": "中文でも、ただの妹じゃない。この世で一番大事な女の子だ",
+    "message_id": 680,
+    "name_id": 679
+  },
+  {
+    "name": "渚",
+    "message": "中文……",
+    "message_id": 709,
+    "name_id": 708
+  },
+  {
+    "name": "楓真",
+    "message": "中文ずっと一緒に暮らしてきたからさ。なにか劇的に変わるってことはないかもしれない",
+    "message_id": 721,
+    "name_id": 720
+  },
+  {
+    "name": "楓真",
+    "message": "中文でも、俺の気持ちは凄く変わってる。もう前には戻れないし戻りたくない",
+    "message_id": 730,
+    "name_id": 729
+  },
+  {
+    "name": "渚",
+    "message": "中文どんな風に変わってるの",
+    "message_id": 759,
+    "name_id": 758
+  },
+  {
+    "name": "楓真",
+    "message": "中文渚と一緒にキャンドルナイトの火を灯したい",
+    "message_id": 771,
+    "name_id": 770
+  },
+  {
+    "name": "渚",
+    "message": "中文……渚と",
+    "message_id": 800,
+    "name_id": 799
+  },
+  {
+    "name": "楓真",
+    "message": "中文ああ、伝説通りになるかなんてわからないけど、俺たちが伝説になるくらいの気持ちでいっぱいだ",
+    "message_id": 812,
+    "name_id": 811
+  },
+  {
+    "name": "楓真",
+    "message": "中文どうだ",
+    "message_id": 821,
+    "name_id": 820
+  },
+  {
+    "name": "渚",
+    "message": "中文どうだって？",
+    "message_id": 850,
+    "name_id": 849
+  },
+  {
+    "name": "楓真",
+    "message": "中文ここで俺と一緒にキャンドルナイトしてくれないか",
+    "message_id": 862,
+    "name_id": 861
+  },
+  {
+    "name": "渚",
+    "message": "中文だって、いいの？",
+    "message_id": 891,
+    "name_id": 890
+  },
+  {
+    "name": "楓真",
+    "message": "中文いいに決まってるだろ。俺が渚にお願いしてるんだぞ",
+    "message_id": 903,
+    "name_id": 902
+  },
+  {
+    "name": "渚",
+    "message": "中文渚、お兄ちゃんの妹だよ",
+    "message_id": 932,
+    "name_id": 931
+  },
+  {
+    "name": "楓真",
+    "message": "中文もちろん分かってるぞ",
+    "message_id": 944,
+    "name_id": 943
+  },
+  {
+    "name": "楓真",
+    "message": "中文渚は俺の妹で、この世で一番大事な女の子だっていったろ",
+    "message_id": 953,
+    "name_id": 952
+  },
+  {
+    "name": "渚",
+    "message": "中文うん、うん",
+    "message_id": 982,
+    "name_id": 981
+  },
+  {
+    "name": "楓真",
+    "message": "中文俺とキャンドルナイトの火灯してくれるか",
+    "message_id": 994,
+    "name_id": 993
+  },
+  {
+    "name": "渚",
+    "message": "中文お願いします、お兄ちゃん。渚と一緒にしてください",
+    "message_id": 1023,
+    "name_id": 1022
+  },
+  {
+    "name": "楓真",
+    "message": "中文ありがとう渚",
+    "message_id": 1035,
+    "name_id": 1034
+  },
+  {
+    "name": null,
+    "message": "中文俺は用意しておいたキャンドルグラスを渚に手渡す。",
+    "message_id": 1042
+  },
+  {
+    "name": "楓真",
+    "message": "中文じゃあ、灯すぞ",
+    "message_id": 1051,
+    "name_id": 1050
+  },
+  {
+    "name": "渚",
+    "message": "中文うん",
+    "message_id": 1080,
+    "name_id": 1079
+  },
+  {
+    "name": null,
+    "message": "中文ポケットからマッチを取り出し火をつける。",
+    "message_id": 1092
+  },
+  {
+    "name": null,
+    "message": "中文内心、緊張していたのだが一回で火を灯すことができた。",
+    "message_id": 1102
+  },
+  {
+    "name": "渚",
+    "message": "中文…………",
+    "message_id": 1131,
+    "name_id": 1130
+  },
+  {
+    "name": null,
+    "message": "中文炎が渚と俺の間でゆらゆらと揺れている。",
+    "message_id": 1141
+  },
+  {
+    "name": "渚",
+    "message": "中文きれい",
+    "message_id": 1170,
+    "name_id": 1169
+  },
+  {
+    "name": "楓真",
+    "message": "中文ああ、綺麗だな",
+    "message_id": 1182,
+    "name_id": 1181
+  },
+  {
+    "name": null,
+    "message": "中文キャンドルナイトの炎に照らされた渚はいつもよりずっとずっと綺麗だった。",
+    "message_id": 1189
+  },
+  {
+    "name": "楓真",
+    "message": "中文ドキドキしてる",
+    "message_id": 1198,
+    "name_id": 1197
+  },
+  {
+    "name": "渚",
+    "message": "中文お兄ちゃん",
+    "message_id": 1227,
+    "name_id": 1226
+  },
+  {
+    "name": "楓真",
+    "message": "中文こうして渚といるだけでドキドキしてる",
+    "message_id": 1239,
+    "name_id": 1238
+  },
+  {
+    "name": "渚",
+    "message": "中文渚も……すごいドキドキしてる。心臓が飛び出ちゃいそう",
+    "message_id": 1268,
+    "name_id": 1267
+  },
+  {
+    "name": "楓真",
+    "message": "中文幸せにするから",
+    "message_id": 1280,
+    "name_id": 1279
+  },
+  {
+    "name": "渚",
+    "message": "中文もう心がふわふわで幸せな気持ちでいっぱいだよ",
+    "message_id": 1309,
+    "name_id": 1308
+  },
+  {
+    "name": "渚",
+    "message": "中文お兄ちゃんにいっぱいいっぱい貰っちゃった",
+    "message_id": 1341,
+    "name_id": 1340
+  },
+  {
+    "name": "渚",
+    "message": "中文お兄ちゃん、渚はねお兄ちゃんのこと一人の男の人として大好きです",
+    "message_id": 1374,
+    "name_id": 1373
+  },
+  {
+    "name": "渚",
+    "message": "中文ずっとずっと大好きだった",
+    "message_id": 1406,
+    "name_id": 1405
+  },
+  {
+    "name": "渚",
+    "message": "中文いつからかなんて思い出せないくらい前からずっとずっと大好きでした",
+    "message_id": 1438,
+    "name_id": 1437
+  },
+  {
+    "name": "楓真",
+    "message": "中文俺も大好きだよ",
+    "message_id": 1450,
+    "name_id": 1449
+  },
+  {
+    "name": "渚",
+    "message": "中文お兄ちゃんの彼女になりたいです。彼女にしてください",
+    "message_id": 1479,
+    "name_id": 1478
+  },
+  {
+    "name": null,
+    "message": "中文グラスを持つ渚の手がかすかに震えている。",
+    "message_id": 1489
+  },
+  {
+    "name": null,
+    "message": "中文自分の両手でゆっくりとその手を包み込む。",
+    "message_id": 1496
+  },
+  {
+    "name": "楓真",
+    "message": "中文俺の彼女になって下さい",
+    "message_id": 1505,
+    "name_id": 1504
+  },
+  {
+    "name": "渚",
+    "message": "中文っ……お、お兄ちゃ……",
+    "message_id": 1534,
+    "name_id": 1533
+  },
+  {
+    "name": null,
+    "message": "中文渚の頬から一筋の涙が零れる。",
+    "message_id": 1544
+  },
+  {
+    "name": "楓真",
+    "message": "中文バカだな、泣くなよ",
+    "message_id": 1553,
+    "name_id": 1552
+  },
+  {
+    "name": "渚",
+    "message": "中文だって嬉しすぎるんだもん",
+    "message_id": 1582,
+    "name_id": 1581
+  },
+  {
+    "name": "渚",
+    "message": "中文だってだって、お兄ちゃんの彼女になれるなんて思ってなかったんだもん",
+    "message_id": 1614,
+    "name_id": 1613
+  },
+  {
+    "name": "渚",
+    "message": "中文夢でしかないって、ひっく……ぐすっ…",
+    "message_id": 1646,
+    "name_id": 1645
+  },
+  {
+    "name": null,
+    "message": "中文そこまで思っていてくれたことに嬉しさが溢れてくる。",
+    "message_id": 1656
+  },
+  {
+    "name": null,
+    "message": "中文そして早くこうしてあげられなかったことに申し訳なさも。",
+    "message_id": 1663
+  },
+  {
+    "name": null,
+    "message": "中文指で渚の涙をそっと拭いながら。",
+    "message_id": 1670
+  },
+  {
+    "name": "楓真",
+    "message": "中文抱きしめていいか",
+    "message_id": 1679,
+    "name_id": 1678
+  },
+  {
+    "name": "渚",
+    "message": "中文えっ、あ、でも",
+    "message_id": 1708,
+    "name_id": 1707
+  },
+  {
+    "name": "楓真",
+    "message": "中文ダメか",
+    "message_id": 1720,
+    "name_id": 1719
+  },
+  {
+    "name": "渚",
+    "message": "中文全然ダメじゃないよ。抱きしめてほしいけどこれ、どうしよう",
+    "message_id": 1749,
+    "name_id": 1748
+  },
+  {
+    "name": null,
+    "message": "中文そういって炎が揺らめくキャンドルグラスをおずおずと差し出してくる。",
+    "message_id": 1759
+  },
+  {
+    "name": null,
+    "message": "中文うっ！",
+    "message_id": 1766
+  },
+  {
+    "name": "楓真",
+    "message": "中文危ないよな",
+    "message_id": 1775,
+    "name_id": 1774
+  },
+  {
+    "name": "渚",
+    "message": "中文うん、危ないと思う",
+    "message_id": 1804,
+    "name_id": 1803
+  },
+  {
+    "name": "楓真",
+    "message": "中文だよな、今の気持ちのままだと結構激しくいっちゃいそうだからな",
+    "message_id": 1816,
+    "name_id": 1815
+  },
+  {
+    "name": "渚",
+    "message": "中文激しいの",
+    "message_id": 1845,
+    "name_id": 1844
+  },
+  {
+    "name": "楓真",
+    "message": "中文ああ、こうガバッと",
+    "message_id": 1857,
+    "name_id": 1856
+  },
+  {
+    "name": "渚",
+    "message": "中文それは絶対に危ないね。二人で火傷しちゃうよ",
+    "message_id": 1886,
+    "name_id": 1885
+  },
+  {
+    "name": "楓真",
+    "message": "中文可愛い彼女に火傷させるわけにはいかないからな、ここは我慢するか",
+    "message_id": 1898,
+    "name_id": 1897
+  },
+  {
+    "name": "渚",
+    "message": "中文彼女……えへへ",
+    "message_id": 1927,
+    "name_id": 1926
+  },
+  {
+    "name": "渚",
+    "message": "中文今度いっぱい抱きしめてね。渚もいっぱい抱きしめてあげるから",
+    "message_id": 1959,
+    "name_id": 1958
+  },
+  {
+    "name": "楓真",
+    "message": "中文おお",
+    "message_id": 1971,
+    "name_id": 1970
+  },
+  {
+    "name": null,
+    "message": "中文普通に地面にグラスを置けばいいのだが、俺も渚もその選択はなかった。",
+    "message_id": 1978
+  },
+  {
+    "name": null,
+    "message": "中文二人で灯したこのキャンドルは。大事な宝物なのだから。",
+    "message_id": 1985
+  },
+  {
+    "name": "渚",
+    "message": "中文どうしよっか",
+    "message_id": 2014,
+    "name_id": 2013
+  },
+  {
+    "name": "楓真",
+    "message": "中文ちょっと貸して",
+    "message_id": 2026,
+    "name_id": 2025
+  },
+  {
+    "name": "渚",
+    "message": "中文う、うん。はい",
+    "message_id": 2055,
+    "name_id": 2054
+  },
+  {
+    "name": null,
+    "message": "中文差し出されたキャンドルを受け取る。",
+    "message_id": 2065
+  },
+  {
+    "name": null,
+    "message": "中文そして渚の身体をそっと抱きしめて。",
+    "message_id": 2072
+  },
+  {
+    "name": "楓真",
+    "message": "中文学園の伝説、それはある男女の恋物語",
+    "message_id": 2113,
+    "name_id": 2112
+  },
+  {
+    "name": "楓真",
+    "message": "中文二人はとても仲がよくて、みんなが羨ましがるくらいだった",
+    "message_id": 2122,
+    "name_id": 2121
+  },
+  {
+    "name": "楓真",
+    "message": "中文でもその少女は不治の病にかかっていた。自分が長くないことを知っていた",
+    "message_id": 2131,
+    "name_id": 2130
+  },
+  {
+    "name": "渚",
+    "message": "中文それって……",
+    "message_id": 2142,
+    "name_id": 2141
+  },
+  {
+    "name": "楓真",
+    "message": "中文彼女と結ばれることを願った男子はあの教会で結婚式を挙げる",
+    "message_id": 2151,
+    "name_id": 2150
+  },
+  {
+    "name": "楓真",
+    "message": "中文でも少女の病は進行して回復の見込みはなくなってしまう",
+    "message_id": 2160,
+    "name_id": 2159
+  },
+  {
+    "name": "楓真",
+    "message": "中文一緒に過ごすことが最後だと分かっていた二人は教会で最後の祈りを告げる。それは感謝の言葉",
+    "message_id": 2169,
+    "name_id": 2168
+  },
+  {
+    "name": "楓真",
+    "message": "中文その時、教会が光り、天使が舞い降り少女に奇跡を授ける",
+    "message_id": 2178,
+    "name_id": 2177
+  },
+  {
+    "name": "楓真",
+    "message": "中文少女が天使の奇跡によって回復し彼と末永く暮らした",
+    "message_id": 2187,
+    "name_id": 2186
+  },
+  {
+    "name": "渚",
+    "message": "中文学園の伝説？　奈穂先輩がいってたのと全然違うよ",
+    "message_id": 2198,
+    "name_id": 2197
+  },
+  {
+    "name": "楓真",
+    "message": "中文もっともっと古い時代の話",
+    "message_id": 2207,
+    "name_id": 2206
+  },
+  {
+    "name": "楓真",
+    "message": "中文やっぱり、教会と伝説って深い関係があったんだなって",
+    "message_id": 2216,
+    "name_id": 2215
+  },
+  {
+    "name": "楓真",
+    "message": "中文でも俺たちはここで幸せの丘で火を灯した",
+    "message_id": 2225,
+    "name_id": 2224
+  },
+  {
+    "name": "渚",
+    "message": "中文うん",
+    "message_id": 2236,
+    "name_id": 2235
+  },
+  {
+    "name": "楓真",
+    "message": "中文後悔なんて全然してないけど、やっぱり教会のご威光もプラスするともっといいかなって思ってさ",
+    "message_id": 2245,
+    "name_id": 2244
+  },
+  {
+    "name": "渚",
+    "message": "中文どういうこと？",
+    "message_id": 2281,
+    "name_id": 2280
+  },
+  {
+    "name": "楓真",
+    "message": "中文手を出して",
+    "message_id": 2293,
+    "name_id": 2292
+  },
+  {
+    "name": null,
+    "message": "中文俺のいいたいことが分からないんだろう。",
+    "message_id": 2300
+  },
+  {
+    "name": null,
+    "message": "中文きょとんとした表情のまま、渚が手を差し出してくる。",
+    "message_id": 2307
+  },
+  {
+    "name": "楓真",
+    "message": "中文はい",
+    "message_id": 2316,
+    "name_id": 2315
+  },
+  {
+    "name": null,
+    "message": "中文そういいながらポケットからプレゼントを取り出し、渚に渡した。",
+    "message_id": 2323
+  },
+  {
+    "name": "渚",
+    "message": "中文お兄ちゃん……これ",
+    "message_id": 2352,
+    "name_id": 2351
+  },
+  {
+    "name": "楓真",
+    "message": "中文プレゼント。本物には敵わないかもしれないけど俺と渚も教会の前で誓いを果たしたい",
+    "message_id": 2364,
+    "name_id": 2363
+  },
+  {
+    "name": "渚",
+    "message": "中文……嬉しいよ、こんな、に……バカぁー、お兄ちゃん格好つけすぎだよぉー",
+    "message_id": 2393,
+    "name_id": 2392
+  },
+  {
+    "name": "楓真",
+    "message": "中文兄は妹の前では格好をつけたい生き物なんだよ",
+    "message_id": 2405,
+    "name_id": 2404
+  },
+  {
+    "name": "渚",
+    "message": "中文バカ……あ、これって",
+    "message_id": 2434,
+    "name_id": 2433
+  },
+  {
+    "name": null,
+    "message": "中文気づいたようだ。",
+    "message_id": 2444
+  },
+  {
+    "name": "楓真",
+    "message": "中文うん、オルゴールになってるんだ",
+    "message_id": 2453,
+    "name_id": 2452
+  },
+  {
+    "name": null,
+    "message": "中文渚が蓋になっている屋根を開く。",
+    "message_id": 2460
+  },
+  {
+    "name": null,
+    "message": "中文オルゴールの音色が響き始める。",
+    "message_id": 2498
+  },
+  {
+    "name": null,
+    "message": "中文周りの喧騒が遠くなり、二人をゆったりとしたメロディが包む。",
+    "message_id": 2505
+  },
+  {
+    "name": "渚",
+    "message": "中文わぁー…、すごい……すごいよ",
+    "message_id": 2516,
+    "name_id": 2515
+  },
+  {
+    "name": "楓真",
+    "message": "中文俺たちのこと祝福してくれてるみたいだろ",
+    "message_id": 2525,
+    "name_id": 2524
+  },
+  {
+    "name": "渚",
+    "message": "中文うん、うん。これ大切にする。宝物にするよ",
+    "message_id": 2536,
+    "name_id": 2535
+  },
+  {
+    "name": "楓真",
+    "message": "中文このキャンドルもな",
+    "message_id": 2545,
+    "name_id": 2544
+  },
+  {
+    "name": "渚",
+    "message": "中文うんうん。どっちも大事な宝物だよ",
+    "message_id": 2556,
+    "name_id": 2555
+  },
+  {
+    "name": "楓真",
+    "message": "中文…………",
+    "message_id": 2565,
+    "name_id": 2564
+  },
+  {
+    "name": "渚",
+    "message": "中文…………",
+    "message_id": 2576,
+    "name_id": 2575
+  },
+  {
+    "name": null,
+    "message": "中文渚のことを見つめる。",
+    "message_id": 2583
+  },
+  {
+    "name": null,
+    "message": "中文渚が俺を見つめている。",
+    "message_id": 2590
+  },
+  {
+    "name": null,
+    "message": "中文そっと目を閉じた渚に、自然と唇が触れる。",
+    "message_id": 2597
+  },
+  {
+    "name": "渚",
+    "message": "中文んっ……む……っ…、ふわぁ……",
+    "message_id": 2625,
+    "name_id": 2624
+  },
+  {
+    "name": null,
+    "message": "中文初めてのキスはもっともっと緊張するかと思っていたけど心はとても落ち着いたままで。",
+    "message_id": 2632
+  },
+  {
+    "name": null,
+    "message": "中文でも、幸せという気持ちが次から次へと溢れてきて。",
+    "message_id": 2639
+  },
+  {
+    "name": null,
+    "message": "中文忘れることのできない瞬間になった。",
+    "message_id": 2646
+  },
+  {
+    "name": "楓真",
+    "message": "中文泣くなよ",
+    "message_id": 2655,
+    "name_id": 2654
+  },
+  {
+    "name": "渚",
+    "message": "中文お兄ちゃんも泣いてるよ",
+    "message_id": 2682,
+    "name_id": 2681
+  },
+  {
+    "name": "楓真",
+    "message": "中文これは嬉し涙だからいいんだよ",
+    "message_id": 2691,
+    "name_id": 2690
+  },
+  {
+    "name": "渚",
+    "message": "中文じゃあ、渚もいいんだね。だってこんなに嬉しいんだもん",
+    "message_id": 2702,
+    "name_id": 2701
+  },
+  {
+    "name": "渚",
+    "message": "中文わぁ～、すごい",
+    "message_id": 2760,
+    "name_id": 2759
+  },
+  {
+    "name": null,
+    "message": "中文涙を流しながらも笑顔で空を見上げる。",
+    "message_id": 2767
+  },
+  {
+    "name": null,
+    "message": "中文俺たちのキスが終わるのを待っていたかのように大輪の花火が夜空を飾る。",
+    "message_id": 2774
+  },
+  {
+    "name": "楓真",
+    "message": "中文すごい、思った以上に力入ってるな",
+    "message_id": 2783,
+    "name_id": 2782
+  },
+  {
+    "name": "渚",
+    "message": "中文奈穂先輩が愛ちゃんに頼んだみたい",
+    "message_id": 2794,
+    "name_id": 2793
+  },
+  {
+    "name": null,
+    "message": "中文なるほど。",
+    "message_id": 2801
+  },
+  {
+    "name": null,
+    "message": "中文それならこの規模も納得だ。",
+    "message_id": 2808
+  },
+  {
+    "name": "楓真",
+    "message": "中文クリスに感謝しないとな、こんなにすごいのが見れるなんて",
+    "message_id": 2817,
+    "name_id": 2816
+  },
+  {
+    "name": "渚",
+    "message": "中文だね、でも今は渚のことを見てほしい",
+    "message_id": 2828,
+    "name_id": 2827
+  },
+  {
+    "name": "楓真",
+    "message": "中文我が儘な彼女だな",
+    "message_id": 2837,
+    "name_id": 2836
+  },
+  {
+    "name": "渚",
+    "message": "中文優しい彼氏に期待してます",
+    "message_id": 2848,
+    "name_id": 2847
+  },
+  {
+    "name": "楓真",
+    "message": "中文これからもよろしく、可愛い彼女",
+    "message_id": 2857,
+    "name_id": 2856
+  },
+  {
+    "name": "渚",
+    "message": "中文うん。渚はお兄ちゃんの彼女だもん",
+    "message_id": 2868,
+    "name_id": 2867
+  },
+  {
+    "name": null,
+    "message": "中文俺はもう一度、愛しい「彼女」と口づけを交わした。",
+    "message_id": 2894
+  }
+]

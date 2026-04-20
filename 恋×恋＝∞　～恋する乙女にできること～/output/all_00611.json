@@ -1,0 +1,635 @@
+[
+  {
+    "name": null,
+    "message": "中文逃げ出してしまった。",
+    "message_id": 53
+  },
+  {
+    "name": null,
+    "message": "中文自分がこんなに情けない人間だとは知らなかった。",
+    "message_id": 62
+  },
+  {
+    "name": "奈穂",
+    "message": "中文……あたし、どうして、ひっく",
+    "message_id": 93,
+    "name_id": 92
+  },
+  {
+    "name": "奈穂",
+    "message": "中文どうして……こん、な、ううぅ……",
+    "message_id": 126,
+    "name_id": 125
+  },
+  {
+    "name": "奈穂",
+    "message": "中文あたし、あたしは……",
+    "message_id": 158,
+    "name_id": 157
+  },
+  {
+    "name": "奈穂",
+    "message": "中文……楓真",
+    "message_id": 190,
+    "name_id": 189
+  },
+  {
+    "name": null,
+    "message": "中文楓真に怪我までさせて。",
+    "message_id": 200
+  },
+  {
+    "name": null,
+    "message": "中文あたしは何のために今まで。",
+    "message_id": 207
+  },
+  {
+    "name": "奈穂",
+    "message": "中文今、まで……がんばってきたのに……",
+    "message_id": 236,
+    "name_id": 235
+  },
+  {
+    "name": "奈穂",
+    "message": "中文うう、ううぅぅぅ、うわぁぁぁぁん",
+    "message_id": 268,
+    "name_id": 267
+  },
+  {
+    "name": null,
+    "message": "中文悔しかった。",
+    "message_id": 278
+  },
+  {
+    "name": null,
+    "message": "中文何も出来ない自分が、出来なかった自分が。",
+    "message_id": 285
+  },
+  {
+    "name": null,
+    "message": "中文勝手に頬を流れる涙も。",
+    "message_id": 292
+  },
+  {
+    "name": null,
+    "message": "中文ただただ悔しかった。",
+    "message_id": 299
+  },
+  {
+    "name": "英彰",
+    "message": "中文ふぅ、やれやれ",
+    "message_id": 362,
+    "name_id": 361
+  },
+  {
+    "name": "英彰",
+    "message": "中文いやだね、こういうのは",
+    "message_id": 394,
+    "name_id": 393
+  },
+  {
+    "name": "楓真",
+    "message": "中文う、ううん",
+    "message_id": 443,
+    "name_id": 442
+  },
+  {
+    "name": "クリス",
+    "message": "中文あ、楓先輩。渚ちゃん、楓先輩目が覚めました",
+    "message_id": 472,
+    "name_id": 471
+  },
+  {
+    "name": "渚",
+    "message": "中文ホントっ、お兄ちゃん大丈夫、痛いとこない、意識はっきりしてる、渚のことちゃんとわかる",
+    "message_id": 504,
+    "name_id": 503
+  },
+  {
+    "name": "楓真",
+    "message": "中文わ、わわわ、なぎ、さ、ちょっと",
+    "message_id": 526,
+    "name_id": 525
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文なぎっち、落ちつくっす、そんなに揺するとまたかやっちが闇の世界に戻ってしまうっす",
+    "message_id": 543,
+    "name_id": 542
+  },
+  {
+    "name": "渚",
+    "message": "中文あー、お兄ちゃん死んじゃだめーー",
+    "message_id": 575,
+    "name_id": 574
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文いやいや、首を絞めたらホントにかやっちが死んでしまうっす",
+    "message_id": 607,
+    "name_id": 606
+  },
+  {
+    "name": "彩音",
+    "message": "中文渚ちゃん、落ち着きなさい",
+    "message_id": 639,
+    "name_id": 638
+  },
+  {
+    "name": "楓真",
+    "message": "中文ふう、びっくりした、なんだよ突然",
+    "message_id": 651,
+    "name_id": 650
+  },
+  {
+    "name": "クリス",
+    "message": "中文なんだよ、ではありまぜん。もう私心臓が止まってしまったのですよ",
+    "message_id": 704,
+    "name_id": 703
+  },
+  {
+    "name": "彩音",
+    "message": "中文クリスちゃん、心臓が止まったらダメだから",
+    "message_id": 750,
+    "name_id": 749
+  },
+  {
+    "name": "クリス",
+    "message": "中文あらら",
+    "message_id": 784,
+    "name_id": 783
+  },
+  {
+    "name": "楓真",
+    "message": "中文なんだか大げさだな、みんな",
+    "message_id": 796,
+    "name_id": 795
+  },
+  {
+    "name": "渚",
+    "message": "中文なに、のんきなこと言ってるのよ、んもう、すっごいすっごい心配したんだからね",
+    "message_id": 833,
+    "name_id": 832
+  },
+  {
+    "name": "楓真",
+    "message": "中文心配……あ、そうだ！　天翔先輩は",
+    "message_id": 845,
+    "name_id": 844
+  },
+  {
+    "name": null,
+    "message": "中文首を横にふる媛守先輩。",
+    "message_id": 874
+  },
+  {
+    "name": "楓真",
+    "message": "中文そう、ですか",
+    "message_id": 897,
+    "name_id": 896
+  },
+  {
+    "name": "彩音",
+    "message": "中文それよりも、今は茅野のことよ。大丈夫？　痛みはまだある？",
+    "message_id": 926,
+    "name_id": 925
+  },
+  {
+    "name": "楓真",
+    "message": "中文あ、はい、大丈夫です",
+    "message_id": 938,
+    "name_id": 937
+  },
+  {
+    "name": "渚",
+    "message": "中文もうお兄ちゃんは無茶ばっかりするんだから",
+    "message_id": 989,
+    "name_id": 988
+  },
+  {
+    "name": "楓真",
+    "message": "中文ごめんな心配かけたみたいだな、みんなもすいませんでした",
+    "message_id": 1001,
+    "name_id": 1000
+  },
+  {
+    "name": "彩音",
+    "message": "中文茅野が謝ることはないわ",
+    "message_id": 1032,
+    "name_id": 1031
+  },
+  {
+    "name": "渚",
+    "message": "中文そうだよ、悪いのは奈穂先輩だもん",
+    "message_id": 1064,
+    "name_id": 1063
+  },
+  {
+    "name": "楓真",
+    "message": "中文渚っ！",
+    "message_id": 1076,
+    "name_id": 1075
+  },
+  {
+    "name": "渚",
+    "message": "中文あ、……ごめん",
+    "message_id": 1105,
+    "name_id": 1104
+  },
+  {
+    "name": "楓真",
+    "message": "中文うん、誰が悪いわけでもないんだ、今回のことは絶対に",
+    "message_id": 1117,
+    "name_id": 1116
+  },
+  {
+    "name": "楓真",
+    "message": "中文みんなも天翔先輩のことは責めないでくれると嬉しいです",
+    "message_id": 1126,
+    "name_id": 1125
+  },
+  {
+    "name": "彩音",
+    "message": "中文奈穂が一番ショックだったのは間違いないもの",
+    "message_id": 1157,
+    "name_id": 1156
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文師匠の気持ちを考えると……悔しいっす",
+    "message_id": 1197,
+    "name_id": 1196
+  },
+  {
+    "name": null,
+    "message": "中文先ほどと同じ重苦しい空気が部屋を満たす。",
+    "message_id": 1207
+  },
+  {
+    "name": "渚",
+    "message": "中文ねえ、愛ちゃん",
+    "message_id": 1258,
+    "name_id": 1257
+  },
+  {
+    "name": "クリス",
+    "message": "中文なんでしょうか",
+    "message_id": 1304,
+    "name_id": 1303
+  },
+  {
+    "name": "渚",
+    "message": "中文会長さんたちに、渚たちの計画を知らせたのって誰？",
+    "message_id": 1350,
+    "name_id": 1349
+  },
+  {
+    "name": "楓真",
+    "message": "中文渚！？",
+    "message_id": 1362,
+    "name_id": 1361
+  },
+  {
+    "name": "渚",
+    "message": "中文だって気になるでしょお兄ちゃんも、伊佐美ちゃんも、彩音先輩だって",
+    "message_id": 1391,
+    "name_id": 1390
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文それは、そうっすけど",
+    "message_id": 1411,
+    "name_id": 1410
+  },
+  {
+    "name": null,
+    "message": "中文みんなの視線がクリスに集まる。",
+    "message_id": 1421
+  },
+  {
+    "name": "クリス",
+    "message": "中文ごめんなさい、皆さん。私もいえお姉さまも誰からの情報か分からないのです",
+    "message_id": 1452,
+    "name_id": 1451
+  },
+  {
+    "name": "彩音",
+    "message": "中文どういうこと",
+    "message_id": 1472,
+    "name_id": 1471
+  },
+  {
+    "name": "クリス",
+    "message": "中文学生会に匿名での山のような資料が送られてきたんです",
+    "message_id": 1506,
+    "name_id": 1505
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文誰からの情報かも分からないものにあたしたちはめちゃめちゃにされたっすか",
+    "message_id": 1546,
+    "name_id": 1545
+  },
+  {
+    "name": "彩音",
+    "message": "中文伊佐美ちゃん",
+    "message_id": 1600,
+    "name_id": 1599
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文うっ",
+    "message_id": 1634,
+    "name_id": 1633
+  },
+  {
+    "name": "彩音",
+    "message": "中文音羽のことだから、その資料の信憑性は疑ったんでしょ",
+    "message_id": 1666,
+    "name_id": 1665
+  },
+  {
+    "name": "クリス",
+    "message": "中文はい。その資料に皆さんと関係した方の情報もありましたので、一つ一つ確認はされていました。それに",
+    "message_id": 1706,
+    "name_id": 1705
+  },
+  {
+    "name": "渚",
+    "message": "中文それに？",
+    "message_id": 1726,
+    "name_id": 1725
+  },
+  {
+    "name": "クリス",
+    "message": "中文同じ資料が先生たちにも送られていたみたいで",
+    "message_id": 1758,
+    "name_id": 1757
+  },
+  {
+    "name": "彩音",
+    "message": "中文学園の動きもいつも以上に早かったということね",
+    "message_id": 1790,
+    "name_id": 1789
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文そんなものに振り回されるなんて学園も学生会もたいしたことないっす",
+    "message_id": 1844,
+    "name_id": 1843
+  },
+  {
+    "name": "彩音",
+    "message": "中文でもかなり正確な情報だったのは間違いないわ",
+    "message_id": 1876,
+    "name_id": 1875
+  },
+  {
+    "name": "渚",
+    "message": "中文犯人捜しましょう、彩音先輩",
+    "message_id": 1910,
+    "name_id": 1909
+  },
+  {
+    "name": "彩音",
+    "message": "中文仮に情報を流した人を見つけても私たちへの決定が覆るわけじゃない",
+    "message_id": 1942,
+    "name_id": 1941
+  },
+  {
+    "name": "渚",
+    "message": "中文それは……",
+    "message_id": 1976,
+    "name_id": 1975
+  },
+  {
+    "name": "彩音",
+    "message": "中文これからどうしていくのか、それを考えて",
+    "message_id": 2008,
+    "name_id": 2007
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文でもでも彩先輩、恋会の活動は禁止されてるっす",
+    "message_id": 2028,
+    "name_id": 2027
+  },
+  {
+    "name": "彩音",
+    "message": "中文だから、恋会としてではなく、それぞれがどうしていたいのか自分で考えましょう",
+    "message_id": 2060,
+    "name_id": 2059
+  },
+  {
+    "name": "渚",
+    "message": "中文自分で",
+    "message_id": 2094,
+    "name_id": 2093
+  },
+  {
+    "name": "彩音",
+    "message": "中文渚ちゃんにとっては始めての東祭なんだから",
+    "message_id": 2126,
+    "name_id": 2125
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文無念っす",
+    "message_id": 2146,
+    "name_id": 2145
+  },
+  {
+    "name": "彩音",
+    "message": "中文茅野もそれでいい",
+    "message_id": 2186,
+    "name_id": 2185
+  },
+  {
+    "name": "楓真",
+    "message": "中文分かりました。まだ頭が混乱しているのでゆっくり考えたいと思います",
+    "message_id": 2198,
+    "name_id": 2197
+  },
+  {
+    "name": "彩音",
+    "message": "中文ええ、それでいいと思う",
+    "message_id": 2227,
+    "name_id": 2226
+  },
+  {
+    "name": "クリス",
+    "message": "中文……ごめんなさい、楓先輩、みなさん",
+    "message_id": 2259,
+    "name_id": 2258
+  },
+  {
+    "name": "楓真",
+    "message": "中文クリスが謝ることじゃないよ",
+    "message_id": 2271,
+    "name_id": 2270
+  },
+  {
+    "name": null,
+    "message": "中文でも東祭はどうなるんだろう。",
+    "message_id": 2286
+  },
+  {
+    "name": null,
+    "message": "中文どうしていけばいいんだろうか。",
+    "message_id": 2293
+  },
+  {
+    "name": "英彰",
+    "message": "中文茅野、目が覚めたか",
+    "message_id": 2365,
+    "name_id": 2364
+  },
+  {
+    "name": "楓真",
+    "message": "中文あ、先生。すいません迷惑かけたみたいで",
+    "message_id": 2380,
+    "name_id": 2379
+  },
+  {
+    "name": "英彰",
+    "message": "中文いやいや、先生に迷惑をかけるのも学生の仕事ですよ",
+    "message_id": 2409,
+    "name_id": 2408
+  },
+  {
+    "name": "楓真",
+    "message": "中文いやぁー、それはどうなんでしょう",
+    "message_id": 2421,
+    "name_id": 2420
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文マジっすか、英ちゃん先生にはもっと迷惑をかけてもいいすっか！",
+    "message_id": 2472,
+    "name_id": 2471
+  },
+  {
+    "name": "英彰",
+    "message": "中文いやぁ～、金剛さんは少し控えてもらえると助かるかな、と。あはははは",
+    "message_id": 2506,
+    "name_id": 2505
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文えー、先生が学生を差別しちゃダメっすよ、ちゃんと平等に、っす",
+    "message_id": 2538,
+    "name_id": 2537
+  },
+  {
+    "name": "楓真",
+    "message": "中文だったら控えろ。金剛は普段から迷惑掛け通しじゃないか",
+    "message_id": 2550,
+    "name_id": 2549
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文なんですとー、怪我人だと思って甘い顔していればこの仕打ち、かやっちは鬼っすー",
+    "message_id": 2593,
+    "name_id": 2592
+  },
+  {
+    "name": "楓真",
+    "message": "中文いつ甘い顔をしていた",
+    "message_id": 2605,
+    "name_id": 2604
+  },
+  {
+    "name": "英彰",
+    "message": "中文はいはい、ここは保健室だからねー、出来れば騒がないでもらえると助かるかな",
+    "message_id": 2636,
+    "name_id": 2635
+  },
+  {
+    "name": "楓真",
+    "message": "中文大体、金剛はいつも場をかき回してばかりなんだから少しは自重しろ",
+    "message_id": 2648,
+    "name_id": 2647
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文おおー、かやっちの分際で言いたい放題っす。怪我人ならなにを言っても許されると思ってるっすか",
+    "message_id": 2677,
+    "name_id": 2676
+  },
+  {
+    "name": "英彰",
+    "message": "中文いや、だからですね",
+    "message_id": 2723,
+    "name_id": 2722
+  },
+  {
+    "name": "彩音",
+    "message": "中文伊佐美ちゃん、茅野止めなさい。茅野は怪我してるんだから安静にしなさい",
+    "message_id": 2763,
+    "name_id": 2762
+  },
+  {
+    "name": "楓真",
+    "message": "中文すいません",
+    "message_id": 2775,
+    "name_id": 2774
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文ケケケ",
+    "message_id": 2826,
+    "name_id": 2825
+  },
+  {
+    "name": "彩音",
+    "message": "中文伊佐美ちゃんもよ",
+    "message_id": 2858,
+    "name_id": 2857
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文すいません",
+    "message_id": 2911,
+    "name_id": 2910
+  },
+  {
+    "name": "英彰",
+    "message": "中文ありがとう、媛守さん",
+    "message_id": 2954,
+    "name_id": 2953
+  },
+  {
+    "name": "渚",
+    "message": "中文英先生、情けない",
+    "message_id": 2974,
+    "name_id": 2973
+  },
+  {
+    "name": "英彰",
+    "message": "中文ははははは、ここは媛守さんがしっかりしてるということで",
+    "message_id": 3006,
+    "name_id": 3005
+  },
+  {
+    "name": "英彰",
+    "message": "中文茅野、無理をしないように、気をつけて帰りなさい",
+    "message_id": 3038,
+    "name_id": 3037
+  },
+  {
+    "name": "楓真",
+    "message": "中文はい、ありがとうございます",
+    "message_id": 3050,
+    "name_id": 3049
+  },
+  {
+    "name": null,
+    "message": "中文もう一度、ちゃんと天翔先輩と話をしないとな。",
+    "message_id": 3065
+  },
+  {
+    "name": null,
+    "message": "中文このままでいいわけないからな。",
+    "message_id": 3072
+  }
+]

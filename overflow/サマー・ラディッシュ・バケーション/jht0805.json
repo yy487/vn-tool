@@ -1,0 +1,506 @@
+[
+  {
+    "name": "",
+    "message": "ふぅ……。",
+    "resource_no": "0",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "しかし、驚いたな。",
+    "resource_no": "1",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "母さんに言い寄ってたやつが、神楽さんの婚約者だったなんて……。",
+    "resource_no": "2",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "訳あって暫く会ってなかったみたいだけど……あの様子じゃ、まだ神楽さんにも、少しは未練あるっぽいような……。",
+    "resource_no": "3",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "それにつけこむあの男ときたら……許せん。",
+    "resource_no": "4",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "うちの母さんにも言い寄ってるくせに……。",
+    "resource_no": "5",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "ああ。　思い出すだけで腹が立ってきた。",
+    "resource_no": "6",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "嫌なことは思い出さないようにするとして……。",
+    "resource_no": "7",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "これから、何しようかな。",
+    "resource_no": "8",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "電話する|移動する|寝る",
+    "resource_no": "9",
+    "_type": "select"
+  },
+  {
+    "name": "",
+    "message": "しかし、神楽さんは結婚してなかったのか……。",
+    "resource_no": "10",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "だとしたら、俺にもチャンスが……。",
+    "resource_no": "11",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "って、一途に待ってる婚約者がいるって言ってたっけ。",
+    "resource_no": "12",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "ふぅ……。　ちょっと落ち込んでみたり。",
+    "resource_no": "13",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "さて、これから何をしようかな。",
+    "resource_no": "14",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "電話する|移動する|寝る",
+    "resource_no": "15",
+    "_type": "select"
+  },
+  {
+    "name": "",
+    "message": "電話するか。",
+    "resource_no": "16",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "どこにかけようかな……。",
+    "resource_no": "17",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "サマーラディッシュ|踊子の部屋|やめる",
+    "resource_no": "18",
+    "_type": "select"
+  },
+  {
+    "name": "",
+    "message": "サマーラディッシュに電話しよう。",
+    "resource_no": "19",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "いるかな。",
+    "resource_no": "20",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "はい。　サマーラディッシュです。",
+    "resource_no": "21",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "あ。　神楽さんですか？　です。",
+    "resource_no": "22",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "あら、くん。　どうしたの？",
+    "resource_no": "23",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "あ、いえ……。",
+    "resource_no": "24",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "心配になって……とは言えないよな。",
+    "resource_no": "25",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "何となく……。",
+    "resource_no": "26",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "うふふ。　変な子ね。",
+    "resource_no": "27",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "はぁ……。",
+    "resource_no": "28",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "丁度帰り支度してたの。　何かあるなら、くんの部屋に寄るわよ？",
+    "resource_no": "29",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "いえ。　用事はないです……。",
+    "resource_no": "30",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "そう。　それじゃ、お疲れさま。",
+    "resource_no": "31",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "はい。　お疲れさまでした。",
+    "resource_no": "32",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "はぁ……。",
+    "resource_no": "33",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "あの男とのことが気になるけど……俺が話をするのは、ちょっと筋違いな気がするし……。",
+    "resource_no": "34",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "あぁ。　困ったな……。",
+    "resource_no": "35",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "はぁ。　困るばかりで、どうしようもないし、寝るか……。",
+    "resource_no": "36",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "踊子の部屋は……っと。",
+    "resource_no": "37",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "流石、寮。　内線があるぞ。",
+    "resource_no": "38",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "内線にかけてみよう。",
+    "resource_no": "39",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "いないかな……？",
+    "resource_no": "40",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "もしもし？",
+    "resource_no": "41",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "あっ。　踊子？",
+    "resource_no": "42",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "どうしたの？",
+    "resource_no": "43",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "いや……なんとなく、かけてみたんだけど。",
+    "resource_no": "44",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "ごめんなさい。　今、お客さんが来てるの。",
+    "resource_no": "45",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "お客さん……？",
+    "resource_no": "46",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "ほら、さっき帰り際に会った……お母さんの知り合いの人。",
+    "resource_no": "47",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "何ぃーーーーーっ！？　アイツが？",
+    "resource_no": "48",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "そうなの。　私とお話したいって。",
+    "resource_no": "49",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "だめだよ。　あんなやつ、部屋に入れたりしたら。",
+    "resource_no": "50",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "でも……お母さんのことで、話がしたいって言うし……。",
+    "resource_no": "51",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "とにかく、そこに行くから！　ちょっと待ってて！",
+    "resource_no": "52",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "わかった。　待ってる。",
+    "resource_no": "53",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "はーい。",
+    "resource_no": "54",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "おじゃまします。",
+    "resource_no": "55",
+    "_type": "message"
+  },
+  {
+    "name": "ST_YHK1a",
+    "message": "くん。",
+    "resource_no": "56",
+    "_type": "message"
+  },
+  {
+    "name": "ST_TMR2a",
+    "message": "やぁ。　君も来たか。",
+    "resource_no": "57",
+    "_type": "message"
+  },
+  {
+    "name": "ST_TMR2a",
+    "message": "来たか、じゃないっ！　どういうつもりだ？",
+    "resource_no": "58",
+    "_type": "message"
+  },
+  {
+    "name": "ST_TMR4a",
+    "message": "何が？",
+    "resource_no": "59",
+    "_type": "message"
+  },
+  {
+    "name": "ST_TMR4a",
+    "message": "踊子に、変なちょっかい出したら、俺が許さないぞ。",
+    "resource_no": "60",
+    "_type": "message"
+  },
+  {
+    "name": "ST_TMR2a",
+    "message": "おお、怖い怖い。　しょうがないな。　帰るよ。",
+    "resource_no": "61",
+    "_type": "message"
+  },
+  {
+    "name": "ST_TMR2a",
+    "message": "ふんっ。",
+    "resource_no": "62",
+    "_type": "message"
+  },
+  {
+    "name": "ST_TMR2a",
+    "message": "それじゃね。　踊子ちゃん。",
+    "resource_no": "63",
+    "_type": "message"
+  },
+  {
+    "name": "ST_YHK2a",
+    "message": "あ、はい。　さよなら。",
+    "resource_no": "64",
+    "_type": "message"
+  },
+  {
+    "name": "ST_YHK2a",
+    "message": "ふぅ……間一髪だった。",
+    "resource_no": "65",
+    "_type": "message"
+  },
+  {
+    "name": "ST_YHK4a",
+    "message": "……ねえ、。",
+    "resource_no": "66",
+    "_type": "message"
+  },
+  {
+    "name": "ST_YHK4a",
+    "message": "何？",
+    "resource_no": "67",
+    "_type": "message"
+  },
+  {
+    "name": "ST_YHK4a",
+    "message": "って、あの人に当たりキツいよね。",
+    "resource_no": "68",
+    "_type": "message"
+  },
+  {
+    "name": "ST_YHK4a",
+    "message": "アイツには、あのぐらいでいいんだよ！　踊子まで、うちの母さんのようにダマされたりしたら……。",
+    "resource_no": "69",
+    "_type": "message"
+  },
+  {
+    "name": "ST_YHK2a",
+    "message": "うふふ。　大丈夫よ。",
+    "resource_no": "70",
+    "_type": "message"
+  },
+  {
+    "name": "ST_YHK2a",
+    "message": "だといいけど……それじゃ、帰るよ。",
+    "resource_no": "71",
+    "_type": "message"
+  },
+  {
+    "name": "ST_YHK1a",
+    "message": "うん。　おやすみなさい。",
+    "resource_no": "72",
+    "_type": "message"
+  },
+  {
+    "name": "ST_YHK1a",
+    "message": "おやすみ。",
+    "resource_no": "73",
+    "_type": "message"
+  },
+  {
+    "name": "ST_YHK1a",
+    "message": "ふぅ……。",
+    "resource_no": "74",
+    "_type": "message"
+  },
+  {
+    "name": "ST_YHK1a",
+    "message": "さっき会ったばっかりなのに、もう踊子の部屋にまであがりこむなんて……油断も隙もないな。",
+    "resource_no": "75",
+    "_type": "message"
+  },
+  {
+    "name": "ST_YHK1a",
+    "message": "はぁ……どっと疲れたよ。",
+    "resource_no": "76",
+    "_type": "message"
+  },
+  {
+    "name": "ST_YHK1a",
+    "message": "もう寝よう……。",
+    "resource_no": "77",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "そうだな。　電話はやめよう。",
+    "resource_no": "78",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "それで……どうしようかな。",
+    "resource_no": "79",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "移動する|寝る",
+    "resource_no": "80",
+    "_type": "select"
+  },
+  {
+    "name": "",
+    "message": "そうだな。　バイト初日で、まだ全然疲れてないし、出かけよう。",
+    "resource_no": "81",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "そうだな。　もう寝よう……。",
+    "resource_no": "82",
+    "_type": "message"
+  },
+  {
+    "name": "",
+    "message": "むにゃむにゃ……。",
+    "resource_no": "83",
+    "_type": "message"
+  }
+]

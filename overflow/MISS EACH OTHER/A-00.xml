@@ -1,0 +1,9779 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Script>
+<TextResource>
+<TextRes NO="0">職員室</TextRes>
+<TextRes NO="1">A-01a.xml</TextRes>
+<TextRes NO="2">先生</TextRes>
+<TextRes NO="3">ったく、二人とも……</TextRes>
+<TextRes NO="4">瑤二</TextRes>
+<TextRes NO="5">はぁ</TextRes>
+<TextRes NO="6">もうすぐ卒業だってのに、どうしてお前たちはいつも騒がしいの？</TextRes>
+<TextRes NO="7">もうすぐ卒業だってのに、</TextRes>
+<TextRes NO="8">どうしてお前たちはいつも騒がしいの？</TextRes>
+<TextRes NO="9">みさお</TextRes>
+<TextRes NO="10">ん？</TextRes>
+<TextRes NO="11">二人ともって言わないで下さい。　私は何もしてません</TextRes>
+<TextRes NO="12">…そうだったわね</TextRes>
+<TextRes NO="13">んだよ。　俺が何したってんだよ</TextRes>
+<TextRes NO="14">校則違反でしょ。　それにクラスの女の子にいやがらせ。　っていうか、セクハラ</TextRes>
+<TextRes NO="15">校則違反でしょ。　それにクラスの女の子にいやがらせ。</TextRes>
+<TextRes NO="16">っていうか、セクハラ</TextRes>
+<TextRes NO="17">してねーよ</TextRes>
+<TextRes NO="18">してるの。　アンタって、存在自体がセクハラの塊みたいなものじゃない。　アンタの頭の中、いやらしいことしか詰まってないんじゃない？</TextRes>
+<TextRes NO="19">してるの。　アンタって、存在自体がセクハラの塊みたい</TextRes>
+<TextRes NO="20">なものじゃない</TextRes>
+<TextRes NO="21">アンタの頭の中、いやらしいことしか</TextRes>
+<TextRes NO="22">詰まってないんじゃない？</TextRes>
+<TextRes NO="23">んだと！</TextRes>
+<TextRes NO="24">こら。　柴、おちつきなさい</TextRes>
+<TextRes NO="25">お前はね、いちいち細かいの。　お前の言うこと聞いてりゃ、学食の食券偽造すんのも、購買でつり銭ゴマかすのも、全部校則違反だっての</TextRes>
+<TextRes NO="26">お前はね、いちいち細かいの。</TextRes>
+<TextRes NO="27">お前の言うこと聞いてりゃ、学食の食券偽造すんのも――</TextRes>
+<TextRes NO="28">購買でつり銭ゴマかすのも、全部校則違反だっての</TextRes>
+<TextRes NO="29">それは校則違反以前に犯罪よ</TextRes>
+<TextRes NO="30">やべ</TextRes>
+<TextRes NO="31">とにかく、私は女子が迷惑してるので、代表して言いに来ただけですから</TextRes>
+<TextRes NO="32">とにかく、私は女子が迷惑してるので、</TextRes>
+<TextRes NO="33">代表して言いに来ただけですから</TextRes>
+<TextRes NO="34">はぁ。　わかったわ</TextRes>
+<TextRes NO="35">それじゃ、私はまだ委員会の仕事残ってますから</TextRes>
+<TextRes NO="36">そう。　引き留めて悪かったわね</TextRes>
+<TextRes NO="37">いえ。　失礼します</TextRes>
+<TextRes NO="38">怖っ</TextRes>
+<TextRes NO="39">…そうね</TextRes>
+<TextRes NO="40">なんだ。　先生も怖いんじゃん</TextRes>
+<TextRes NO="41">馬鹿。　森を怒らせてるのは柴でしょ</TextRes>
+<TextRes NO="42">や。　俺は別に騒ぐ気は全然ないんですけど</TextRes>
+<TextRes NO="43">うそばっかり</TextRes>
+<TextRes NO="44">ホントっすよ。　もう、授業中だって、置物みたいにじーっとしてるでしょ</TextRes>
+<TextRes NO="45">ホントっすよ。　もう、授業中だって、</TextRes>
+<TextRes NO="46">置物みたいにじーっとしてるでしょ</TextRes>
+<TextRes NO="47">じっとって……関端先生が、ついに柴が起きてる姿を見ないまま３年間が終わりそうだって、嘆いてたわよ</TextRes>
+<TextRes NO="48">じっとって……関端先生が、ついに柴が起きてる姿を</TextRes>
+<TextRes NO="49">見ないまま３年間が終わりそうだって、嘆いてたわよ</TextRes>
+<TextRes NO="50">げ。　気づかれてないと思ってたのに</TextRes>
+<TextRes NO="51">気づかない訳ないでしょ……全く、柴と話してると頭が痛くなってくるわ</TextRes>
+<TextRes NO="52">気づかない訳ないでしょ……</TextRes>
+<TextRes NO="53">全く、柴と話してると頭が痛くなってくるわ</TextRes>
+<TextRes NO="54">あ。　頭痛薬ありますよ。　半分は俺の優しさで出来てるっぽいヤツ</TextRes>
+<TextRes NO="55">あ。　頭痛薬ありますよ。</TextRes>
+<TextRes NO="56">半分は俺の優しさで出来てるっぽいヤツ</TextRes>
+<TextRes NO="57">いりません。　とにかく卒業までもう間近なんだから、おとなしくしてなさい。　わかった？</TextRes>
+<TextRes NO="58">いりません。　とにかく卒業までもう間近なんだから、</TextRes>
+<TextRes NO="59">おとなしくしてなさい。　わかった？</TextRes>
+<TextRes NO="60">へーい</TextRes>
+<TextRes NO="61">はぁ。　柴も、もう帰っていいわよ</TextRes>
+<TextRes NO="62">……あの、先生</TextRes>
+<TextRes NO="63">何？</TextRes>
+<TextRes NO="64">カメラ…</TextRes>
+<TextRes NO="65">あっ。　そうだったわね</TextRes>
+<TextRes NO="66">とか言って、先生実は持ち逃げする気だったでしょ</TextRes>
+<TextRes NO="67">しません！</TextRes>
+<TextRes NO="68">こんなボロでも、兄貴の借り物なんで、あげられないんスよ</TextRes>
+<TextRes NO="69">こんなボロでも、兄貴の借り物なんで、</TextRes>
+<TextRes NO="70">あげられないんスよ</TextRes>
+<TextRes NO="71">だから、いらないって言ってるでしょ</TextRes>
+<TextRes NO="72">じゃ</TextRes>
+<TextRes NO="73">待ちなさい</TextRes>
+<TextRes NO="74">はい？</TextRes>
+<TextRes NO="75">そのデジカメに写ってる写真を見たんだけど</TextRes>
+<TextRes NO="76">うわ。　先生、それプライバシーの侵害っス</TextRes>
+<TextRes NO="77">あのね。　カメラ取り上げられた理由判ってる？</TextRes>
+<TextRes NO="78">校則違反っすよね</TextRes>
+<TextRes NO="79">それもあるけど</TextRes>
+<TextRes NO="80">他にありましたっけ？</TextRes>
+<TextRes NO="81">森が言ってたわよ。　柴がクラスの女子のスカートの中を盗撮してるって</TextRes>
+<TextRes NO="82">森が言ってたわよ。</TextRes>
+<TextRes NO="83">柴がクラスの女子のスカートの中を盗撮してるって</TextRes>
+<TextRes NO="84">うわ。　それ、アイツの言いがかりなんで、信じないで下さいよ</TextRes>
+<TextRes NO="85">うわ。　それ、アイツの言いがかりなんで、</TextRes>
+<TextRes NO="86">信じないで下さいよ</TextRes>
+<TextRes NO="87">そうは思うけど。　一応調べさせて貰ったの</TextRes>
+<TextRes NO="88">カメラを持ってくるのは校則違反だけど。　気持ちは判るわ</TextRes>
+<TextRes NO="89">カメラを持ってくるのは校則違反だけど。</TextRes>
+<TextRes NO="90">気持ちは判るわ</TextRes>
+<TextRes NO="91">……</TextRes>
+<TextRes NO="92">もうすぐ卒業だし、写真の一枚も欲しくなったってことよね</TextRes>
+<TextRes NO="93">もうすぐ卒業だし、</TextRes>
+<TextRes NO="94">写真の一枚も欲しくなったってことよね</TextRes>
+<TextRes NO="95">はぁ……</TextRes>
+<TextRes NO="96">ふふ</TextRes>
+<TextRes NO="97">……先生</TextRes>
+<TextRes NO="98">わかってるわよ。　誰にも言わない</TextRes>
+<TextRes NO="99">どうも</TextRes>
+<TextRes NO="100">ああ、それと</TextRes>
+<TextRes NO="101">まだ有るんスか。　勘弁して下さいよ</TextRes>
+<TextRes NO="102">せっかくの写真なんだし、その写真……卒業アルバムに入れて貰ったらどう？</TextRes>
+<TextRes NO="103">せっかくの写真なんだし、</TextRes>
+<TextRes NO="104">その写真……卒業アルバムに入れて貰ったらどう？</TextRes>
+<TextRes NO="105">うえー</TextRes>
+<TextRes NO="106">そう言わないで。　ね？</TextRes>
+<TextRes NO="107">結構です</TextRes>
+<TextRes NO="108">ほら、もしかしたらそれがきっかけで……</TextRes>
+<TextRes NO="109">じゃ、俺帰りますんで</TextRes>
+<TextRes NO="110">まだ森が残ってる筈よ。　相談してみなさい</TextRes>
+<TextRes NO="111">はぁ！？　どうして、アイツに？</TextRes>
+<TextRes NO="112">森は、アルバムの編集委員よ。　今頃まだうちのクラスの分を整理してるんじゃないかしら</TextRes>
+<TextRes NO="113">森は、アルバムの編集委員よ。　今頃まだ</TextRes>
+<TextRes NO="114">うちのクラスの分を整理してるんじゃないかしら</TextRes>
+<TextRes NO="115">アイツ、そんなことしてるんですか</TextRes>
+<TextRes NO="116">写真を使うかどうかはともかく、一人で大変そうだから、手伝ってあげなさい</TextRes>
+<TextRes NO="117">写真を使うかどうかはともかく、</TextRes>
+<TextRes NO="118">一人で大変そうだから、手伝ってあげなさい</TextRes>
+<TextRes NO="119">えー。　面倒臭い</TextRes>
+<TextRes NO="120">まぁまぁ、そう言わないで……</TextRes>
+<TextRes NO="121">でも、俺にも用事ってモノがあって、瑤二の用事？</TextRes>
+<TextRes NO="122">はいはい。　もういいから、帰りなさい</TextRes>
+<TextRes NO="123">失礼しまーす</TextRes>
+</TextResource>
+<Resource>
+<ChapterName>0</ChapterName>
+<VoiceFile>Sound/A-00.SND</VoiceFile>
+<FrameLength>5615</FrameLength>
+<SelectStartTime>5495</SelectStartTime>
+<SelectEndTime>5591</SelectEndTime>
+</Resource>
+<Code>
+<CALC>
+<SET>
+<GLOBAL>SCR_A_00</GLOBAL>
+<INT>1</INT>
+</SET>
+</CALC>
+<CALC>
+<SET>
+<LOCAL>L_MISAO_MAX</LOCAL>
+<INT>17</INT>
+</SET>
+</CALC>
+<CALC>
+<SET>
+<LOCAL>L_MISAO</LOCAL>
+<INT>3</INT>
+</SET>
+</CALC>
+<FUNC NAME="SetTimeoutScript">
+<STRRES>1</STRRES>
+</FUNC>
+</Code>
+<Frame TIME="0">
+<Bgm VOL="0">Sound/meo02.bgm</Bgm>
+<Objects>
+<base00 CREATE="Movie" FILE="Graphic/A-00_00.m1v" DEPTH="0" />
+</Objects>
+</Frame>
+<Frame TIME="48">
+<Log NAME="2" MESS="3" />
+<Text MESS="3" />
+<Objects>
+<base00 ERASE="TRUE" />
+<base01 CREATE="Movie" FILE="Graphic/A-00_01.m1v" DEPTH="0" />
+</Objects>
+</Frame>
+<Frame TIME="94">
+<EraseText/>
+<Log NAME="4" MESS="5" />
+<Text MESS="5" />
+</Frame>
+<Frame TIME="119">
+<EraseText/>
+</Frame>
+<Frame TIME="125">
+<Log NAME="2" MESS="6" />
+<Text MESS="7" />
+<Text MESS="8" />
+</Frame>
+<Frame TIME="225">
+<EraseText/>
+</Frame>
+<Frame TIME="229">
+<Log NAME="9" MESS="2" />
+<Text MESS="2" />
+</Frame>
+<Frame TIME="251">
+<EraseText/>
+</Frame>
+<Frame TIME="256">
+<Log NAME="2" MESS="10" />
+<Text MESS="10" />
+</Frame>
+<Frame TIME="266">
+<EraseText/>
+</Frame>
+<Frame TIME="269">
+<Log NAME="9" MESS="11" />
+<Text MESS="11" />
+</Frame>
+<Frame TIME="364">
+<EraseText/>
+<Log NAME="2" MESS="12" />
+<Text MESS="12" />
+<Objects>
+<base01 ERASE="TRUE" />
+<base02 CREATE="Movie" FILE="Graphic/A-00_02.m1v" DEPTH="0" />
+</Objects>
+</Frame>
+<Frame TIME="398">
+<EraseText/>
+</Frame>
+<Frame TIME="402">
+<Log NAME="4" MESS="13" />
+<Text MESS="13" />
+<Objects>
+<L00 CREATE="Layer" POS="187.0,15.0" SIZE="265.0,329.0" DEPTH="10" >
+<WAKUD CREATE="Image" FILE="Graphic/D.SFD" DEPTH="100" />
+<I00 CREATE="Image" FILE="Graphic/s03.sfd" SIZE="265.0,329.0" VIEW="0.0,0.0,421.0,522.675471698113" />
+</L00>
+<base02 ERASE="TRUE" />
+<base03 CREATE="Movie" FILE="Graphic/A-00_03.m1v" DEPTH="0" />
+</Objects>
+</Frame>
+<Frame TIME="403">
+<Objects>
+<L00 POS="188.470588235294,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="404">
+<Objects>
+<L00 POS="189.941176470588,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="405">
+<Objects>
+<L00 POS="191.411764705882,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="406">
+<Objects>
+<L00 POS="192.882352941176,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="407">
+<Objects>
+<L00 POS="194.352941176471,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="408">
+<Objects>
+<L00 POS="195.823529411765,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="409">
+<Objects>
+<L00 POS="197.294117647059,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="410">
+<Objects>
+<L00 POS="198.764705882353,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="411">
+<Objects>
+<L00 POS="200.235294117647,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="412">
+<Objects>
+<L00 POS="201.705882352941,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="413">
+<Objects>
+<L00 POS="203.176470588235,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="414">
+<Objects>
+<L00 POS="204.647058823529,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="415">
+<Objects>
+<L00 POS="206.117647058824,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="416">
+<Objects>
+<L00 POS="207.588235294118,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="417">
+<Objects>
+<L00 POS="209.058823529412,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="418">
+<Objects>
+<L00 POS="210.529411764706,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="419">
+<Objects>
+<L00 POS="212.0,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="420">
+<Objects>
+<L00 POS="213.470588235294,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="421">
+<Objects>
+<L00 POS="214.941176470588,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="422">
+<Objects>
+<L00 POS="216.411764705882,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="423">
+<Objects>
+<L00 POS="217.882352941176,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="424">
+<Objects>
+<L00 POS="219.352941176471,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="425">
+<Objects>
+<L00 POS="220.823529411765,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="426">
+<Objects>
+<L00 POS="222.294117647059,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="427">
+<Objects>
+<L00 POS="223.764705882353,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="428">
+<Objects>
+<L00 POS="225.235294117647,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="429">
+<Objects>
+<L00 POS="226.705882352941,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="430">
+<Objects>
+<L00 POS="228.176470588235,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="431">
+<Objects>
+<L00 POS="229.647058823529,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="432">
+<Objects>
+<L00 POS="231.117647058824,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="433">
+<Objects>
+<L00 POS="232.588235294118,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="434">
+<Objects>
+<L00 POS="234.058823529412,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="435">
+<Objects>
+<L00 POS="235.529411764706,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="436">
+<Objects>
+<L00 POS="237.0,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="437">
+<Objects>
+<L00 POS="238.470588235294,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="438">
+<Objects>
+<L00 POS="239.941176470588,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="439">
+<Objects>
+<L00 POS="241.411764705882,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="440">
+<Objects>
+<L00 POS="242.882352941176,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="441">
+<Objects>
+<L00 POS="244.352941176471,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="442">
+<Objects>
+<L00 POS="245.823529411765,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="443">
+<Objects>
+<L00 POS="247.294117647059,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="444">
+<Objects>
+<L00 POS="248.764705882353,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="445">
+<Objects>
+<L00 POS="250.235294117647,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="446">
+<Objects>
+<L00 POS="251.705882352941,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="447">
+<Objects>
+<L00 POS="253.176470588235,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="448">
+<Objects>
+<L00 POS="254.647058823529,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="449">
+<Objects>
+<L00 POS="256.117647058824,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="450">
+<Objects>
+<L00 POS="257.588235294118,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="451">
+<Objects>
+<L00 POS="259.058823529412,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="452">
+<Objects>
+<L00 POS="260.529411764706,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="453">
+<Objects>
+<L00 POS="262.0,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="454">
+<Objects>
+<L00 POS="263.470588235294,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="455">
+<Objects>
+<L00 POS="264.941176470588,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="456">
+<Objects>
+<L00 POS="266.411764705882,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="457">
+<Objects>
+<L00 POS="267.882352941176,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="458">
+<Objects>
+<L00 POS="270.823529411765,15.0" DIFF="255,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="459">
+<Objects>
+<L00 POS="272.294117647059,15.0" DIFF="233,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="460">
+<Objects>
+<L00 POS="273.764705882353,15.0" DIFF="212,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="461">
+<Objects>
+<L00 POS="275.235294117647,15.0" DIFF="191,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="462">
+<Objects>
+<L00 POS="276.705882352941,15.0" DIFF="170,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="463">
+<Objects>
+<L00 POS="278.176470588235,15.0" DIFF="148,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="464">
+<Objects>
+<L00 POS="279.647058823529,15.0" DIFF="127,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="465">
+<Objects>
+<L00 POS="281.117647058824,15.0" DIFF="106,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="466">
+<Objects>
+<L00 POS="282.588235294118,15.0" DIFF="85,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="467">
+<Objects>
+<L00 POS="284.058823529412,15.0" DIFF="63,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="468">
+<Objects>
+<L00 POS="285.529411764706,15.0" DIFF="42,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="469">
+<Objects>
+<L00 POS="287.0,15.0" DIFF="21,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="470">
+<Objects>
+<L00 ERASE="TRUE" />
+</Objects>
+</Frame>
+<Frame TIME="471">
+<EraseText/>
+<Log NAME="9" MESS="14" />
+<Text MESS="15" />
+<Text MESS="16" />
+<Objects>
+<L00 DIFF="0,255,255,255" />
+<L01 CREATE="Layer" POS="20.0,15.0" SIZE="265.0,329.0" DEPTH="10" >
+<WAKUD CREATE="Image" FILE="Graphic/D.SFD" DEPTH="100" />
+<I00 CREATE="Image" FILE="Graphic/s21s.sfd" SIZE="265.0,329.0" VIEW="60.0,10.0,481.0,532.675471698113" />
+</L01>
+</Objects>
+</Frame>
+<Frame TIME="472">
+<Objects>
+<L01 POS="22.6171875,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="473">
+<Objects>
+<L01 POS="25.234375,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="474">
+<Objects>
+<L01 POS="27.8515625,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="475">
+<Objects>
+<L01 POS="30.46875,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="476">
+<Objects>
+<L01 POS="33.0859375,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="477">
+<Objects>
+<L01 POS="35.703125,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="478">
+<Objects>
+<L01 POS="38.3203125,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="479">
+<Objects>
+<L01 POS="40.9375,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="480">
+<Objects>
+<L01 POS="43.5546875,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="481">
+<Objects>
+<L01 POS="46.171875,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="482">
+<Objects>
+<L01 POS="48.7890625,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="483">
+<Objects>
+<L01 POS="51.40625,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="484">
+<Objects>
+<L01 POS="54.0234375,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="485">
+<Objects>
+<L01 POS="56.640625,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="486">
+<Objects>
+<L01 POS="59.2578125,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="487">
+<Objects>
+<L01 POS="61.875,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="488">
+<Objects>
+<L01 POS="64.4921875,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="489">
+<Objects>
+<L01 POS="67.109375,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="490">
+<Objects>
+<L01 POS="69.7265625,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="491">
+<Objects>
+<L01 POS="72.34375,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="492">
+<Objects>
+<L01 POS="74.9609375,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="493">
+<Objects>
+<L01 POS="77.578125,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="494">
+<Objects>
+<L01 POS="80.1953125,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="495">
+<Objects>
+<L01 POS="82.8125,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="496">
+<Objects>
+<L01 POS="85.4296875,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="497">
+<Objects>
+<L01 POS="88.046875,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="498">
+<Objects>
+<L01 POS="90.6640625,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="499">
+<Objects>
+<L01 POS="93.28125,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="500">
+<Objects>
+<L01 POS="95.8984375,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="501">
+<Objects>
+<L01 POS="98.515625,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="502">
+<Objects>
+<L01 POS="101.1328125,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="503">
+<Objects>
+<L01 POS="103.75,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="504">
+<Objects>
+<L01 POS="106.3671875,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="505">
+<Objects>
+<L01 POS="108.984375,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="506">
+<Objects>
+<L01 POS="111.6015625,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="507">
+<Objects>
+<L01 POS="114.21875,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="508">
+<Objects>
+<L01 POS="116.8359375,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="509">
+<Objects>
+<L01 POS="119.453125,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="510">
+<Objects>
+<L01 POS="122.0703125,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="511">
+<Objects>
+<L01 POS="124.6875,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="512">
+<Objects>
+<L01 POS="127.3046875,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="513">
+<Objects>
+<L01 POS="129.921875,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="514">
+<Objects>
+<L01 POS="132.5390625,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="515">
+<Objects>
+<L01 POS="135.15625,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="516">
+<Objects>
+<L01 POS="137.7734375,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="517">
+<Objects>
+<L01 POS="140.390625,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="518">
+<Objects>
+<L01 POS="143.0078125,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="519">
+<Objects>
+<L01 POS="145.625,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="520">
+<Objects>
+<L01 POS="148.2421875,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="521">
+<Objects>
+<L01 POS="150.859375,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="522">
+<Objects>
+<L01 POS="153.4765625,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="523">
+<Objects>
+<L01 POS="156.09375,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="524">
+<Objects>
+<L01 POS="158.7109375,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="525">
+<Objects>
+<L01 POS="161.328125,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="526">
+<Objects>
+<L01 POS="163.9453125,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="527">
+<Objects>
+<L01 POS="166.5625,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="528">
+<Objects>
+<L01 POS="169.1796875,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="529">
+<Objects>
+<L01 POS="171.796875,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="530">
+<Objects>
+<L01 POS="174.4140625,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="531">
+<Objects>
+<L01 POS="177.03125,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="532">
+<Objects>
+<L01 POS="179.6484375,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="533">
+<Objects>
+<L01 POS="182.265625,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="534">
+<Objects>
+<L01 POS="184.8828125,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="535">
+<Objects>
+<L01 POS="187.5,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="536">
+<Objects>
+<L01 POS="190.1171875,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="537">
+<Objects>
+<L01 POS="192.734375,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="538">
+<Objects>
+<L01 POS="195.3515625,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="539">
+<Objects>
+<L01 POS="197.96875,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="540">
+<Objects>
+<L01 POS="200.5859375,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="541">
+<Objects>
+<L01 POS="203.203125,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="542">
+<Objects>
+<L01 POS="205.8203125,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="543">
+<Objects>
+<L01 POS="208.4375,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="544">
+<Objects>
+<L01 POS="211.0546875,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="545">
+<Objects>
+<L01 POS="213.671875,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="546">
+<Objects>
+<L01 POS="216.2890625,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="547">
+<Objects>
+<L01 POS="218.90625,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="548">
+<Objects>
+<L01 POS="221.5234375,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="549">
+<Objects>
+<L01 POS="224.140625,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="550">
+<Objects>
+<L01 POS="226.7578125,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="551">
+<Objects>
+<L01 POS="229.375,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="552">
+<Objects>
+<L01 POS="231.9921875,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="553">
+<Objects>
+<L01 POS="234.609375,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="554">
+<Objects>
+<L01 POS="237.2265625,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="555">
+<Objects>
+<L01 POS="239.84375,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="556">
+<Objects>
+<L01 POS="242.4609375,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="557">
+<Objects>
+<L01 POS="245.078125,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="558">
+<Objects>
+<L01 POS="247.6953125,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="559">
+<Objects>
+<L01 POS="250.3125,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="560">
+<Objects>
+<L01 POS="252.9296875,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="561">
+<Objects>
+<L01 POS="255.546875,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="562">
+<Objects>
+<L01 POS="258.1640625,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="563">
+<Objects>
+<L01 POS="260.78125,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="564">
+<Objects>
+<L01 POS="263.3984375,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="565">
+<Objects>
+<L01 POS="266.015625,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="566">
+<Objects>
+<L01 POS="268.6328125,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="567">
+<Objects>
+<L01 POS="271.25,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="568">
+<Objects>
+<L01 POS="273.8671875,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="569">
+<Objects>
+<L01 POS="276.484375,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="570">
+<Objects>
+<L01 POS="279.1015625,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="571">
+<Objects>
+<L01 POS="281.71875,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="572">
+<Objects>
+<L01 POS="284.3359375,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="573">
+<Objects>
+<L01 POS="286.953125,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="574">
+<Objects>
+<L01 POS="289.5703125,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="575">
+<Objects>
+<L01 POS="292.1875,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="576">
+<Objects>
+<L01 POS="294.8046875,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="577">
+<Objects>
+<L01 POS="297.421875,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="578">
+<Objects>
+<L01 POS="300.0390625,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="579">
+<Objects>
+<L01 POS="302.65625,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="580">
+<Objects>
+<L01 POS="305.2734375,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="581">
+<Objects>
+<L01 POS="307.890625,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="582">
+<Objects>
+<L01 POS="310.5078125,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="583">
+<Objects>
+<L01 POS="313.125,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="584">
+<Objects>
+<L01 POS="315.7421875,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="585">
+<Objects>
+<L01 POS="318.359375,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="586">
+<Objects>
+<L01 POS="320.9765625,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="587">
+<Objects>
+<L01 POS="326.2109375,15.0" DIFF="255,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="588">
+<Objects>
+<L01 POS="328.828125,15.0" DIFF="233,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="589">
+<Objects>
+<L01 POS="331.4453125,15.0" DIFF="212,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="590">
+<Objects>
+<L01 POS="334.0625,15.0" DIFF="191,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="591">
+<Objects>
+<L01 POS="336.6796875,15.0" DIFF="170,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="592">
+<Objects>
+<L01 POS="339.296875,15.0" DIFF="148,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="593">
+<Objects>
+<L01 POS="341.9140625,15.0" DIFF="127,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="594">
+<Objects>
+<L01 POS="344.53125,15.0" DIFF="106,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="595">
+<Objects>
+<L01 POS="347.1484375,15.0" DIFF="85,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="596">
+<Objects>
+<L01 POS="349.765625,15.0" DIFF="63,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="597">
+<Objects>
+<L01 POS="352.3828125,15.0" DIFF="42,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="598">
+<EraseText/>
+<Objects>
+<L01 POS="355.0,15.0" DIFF="0,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="599">
+<Objects>
+<L01 ERASE="TRUE" />
+</Objects>
+</Frame>
+<Frame TIME="600">
+<Log NAME="4" MESS="17" />
+<Text MESS="17" />
+<Objects>
+<L02 CREATE="Layer" POS="187.0,15.0" SIZE="265.0,329.0" DEPTH="10" >
+<WAKUD CREATE="Image" FILE="Graphic/D.SFD" DEPTH="100" />
+<I00 CREATE="Image" FILE="Graphic/s03.sfd" SIZE="265.0,329.0" VIEW="0.0,0.0,421.0,522.675471698113" />
+</L02>
+</Objects>
+</Frame>
+<Frame TIME="624">
+<Objects>
+<L02 DIFF="255,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="625">
+<Objects>
+<L02 DIFF="233,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="626">
+<Objects>
+<L02 DIFF="212,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="627">
+<Objects>
+<L02 DIFF="191,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="628">
+<Objects>
+<L02 DIFF="170,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="629">
+<Objects>
+<L02 DIFF="148,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="630">
+<Objects>
+<L02 DIFF="127,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="631">
+<Objects>
+<L02 DIFF="106,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="632">
+<Objects>
+<L02 DIFF="85,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="633">
+<Objects>
+<L02 DIFF="63,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="634">
+<Objects>
+<L02 DIFF="42,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="635">
+<Objects>
+<L02 DIFF="21,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="636">
+<EraseText/>
+<Objects>
+<L02 ERASE="TRUE" />
+</Objects>
+</Frame>
+<Frame TIME="637">
+<Log NAME="9" MESS="18" />
+<Text MESS="19" />
+<Text MESS="20" />
+<Objects>
+<L02 DIFF="0,255,255,255" />
+<L03 CREATE="Layer" POS="318.0,0.0" SIZE="302.0,360.0" DEPTH="10" >
+<WAKUA CREATE="Image" FILE="Graphic/A.SFD" DEPTH="100" />
+<I00 CREATE="Image" FILE="Graphic/s21s.sfd" SIZE="302.0,360.0" VIEW="60.0,10.0,481.0,511.854304635762" />
+</L03>
+</Objects>
+</Frame>
+<Frame TIME="638">
+<Objects>
+<L03 POS="316.669642857143,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="639">
+<Objects>
+<L03 POS="315.339285714286,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="640">
+<Objects>
+<L03 POS="314.008928571429,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="641">
+<Objects>
+<L03 POS="312.678571428571,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="642">
+<Objects>
+<L03 POS="311.348214285714,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="643">
+<Objects>
+<L03 POS="310.017857142857,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="644">
+<Objects>
+<L03 POS="308.6875,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="645">
+<Objects>
+<L03 POS="307.357142857143,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="646">
+<Objects>
+<L03 POS="306.026785714286,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="647">
+<Objects>
+<L03 POS="304.696428571429,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="648">
+<Objects>
+<L03 POS="303.366071428571,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="649">
+<Objects>
+<L03 POS="302.035714285714,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="650">
+<Objects>
+<L03 POS="300.705357142857,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="651">
+<Objects>
+<L03 POS="299.375,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="652">
+<Objects>
+<L03 POS="298.044642857143,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="653">
+<Objects>
+<L03 POS="296.714285714286,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="654">
+<Objects>
+<L03 POS="295.383928571429,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="655">
+<Objects>
+<L03 POS="294.053571428571,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="656">
+<Objects>
+<L03 POS="292.723214285714,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="657">
+<Objects>
+<L03 POS="291.392857142857,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="658">
+<Objects>
+<L03 POS="290.0625,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="659">
+<Objects>
+<L03 POS="288.732142857143,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="660">
+<Objects>
+<L03 POS="287.401785714286,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="661">
+<Objects>
+<L03 POS="286.071428571429,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="662">
+<Objects>
+<L03 POS="284.741071428571,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="663">
+<Objects>
+<L03 POS="283.410714285714,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="664">
+<Objects>
+<L03 POS="282.080357142857,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="665">
+<Objects>
+<L03 POS="280.75,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="666">
+<Objects>
+<L03 POS="279.419642857143,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="667">
+<Objects>
+<L03 POS="278.089285714286,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="668">
+<Objects>
+<L03 POS="276.758928571429,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="669">
+<Objects>
+<L03 POS="275.428571428571,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="670">
+<Objects>
+<L03 POS="274.098214285714,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="671">
+<Objects>
+<L03 POS="272.767857142857,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="672">
+<Objects>
+<L03 POS="271.4375,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="673">
+<Objects>
+<L03 POS="270.107142857143,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="674">
+<Objects>
+<L03 POS="268.776785714286,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="675">
+<Objects>
+<L03 POS="267.446428571429,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="676">
+<Objects>
+<L03 POS="266.116071428571,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="677">
+<Objects>
+<L03 POS="264.785714285714,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="678">
+<Objects>
+<L03 POS="263.455357142857,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="679">
+<Objects>
+<L03 POS="262.125,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="680">
+<Objects>
+<L03 POS="260.794642857143,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="681">
+<Objects>
+<L03 POS="259.464285714286,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="682">
+<Objects>
+<L03 POS="258.133928571429,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="683">
+<Objects>
+<L03 POS="256.803571428571,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="684">
+<Objects>
+<L03 POS="255.473214285714,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="685">
+<Objects>
+<L03 POS="254.142857142857,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="686">
+<Objects>
+<L03 POS="252.8125,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="687">
+<Objects>
+<L03 POS="251.482142857143,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="688">
+<Objects>
+<L03 POS="250.151785714286,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="689">
+<Objects>
+<L03 POS="248.821428571429,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="690">
+<Objects>
+<L03 POS="247.491071428571,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="691">
+<Objects>
+<L03 POS="246.160714285714,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="692">
+<Objects>
+<L03 POS="244.830357142857,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="693">
+<Objects>
+<L03 POS="243.5,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="694">
+<Objects>
+<L03 POS="242.169642857143,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="695">
+<Objects>
+<L03 POS="240.839285714286,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="696">
+<Objects>
+<L03 POS="239.508928571429,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="697">
+<Objects>
+<L03 POS="238.178571428571,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="698">
+<Objects>
+<L03 POS="236.848214285714,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="699">
+<Objects>
+<L03 POS="235.517857142857,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="700">
+<Objects>
+<L03 POS="234.1875,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="701">
+<Objects>
+<L03 POS="232.857142857143,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="702">
+<Objects>
+<L03 POS="231.526785714286,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="703">
+<Objects>
+<L03 POS="230.196428571429,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="704">
+<Objects>
+<L03 POS="228.866071428571,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="705">
+<Objects>
+<L03 POS="227.535714285714,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="706">
+<Objects>
+<L03 POS="226.205357142857,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="707">
+<Objects>
+<L03 POS="224.875,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="708">
+<Objects>
+<L03 POS="223.544642857143,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="709">
+<Objects>
+<L03 POS="222.214285714286,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="710">
+<Objects>
+<L03 POS="220.883928571429,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="711">
+<Objects>
+<L03 POS="219.553571428571,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="712">
+<Objects>
+<L03 POS="218.223214285714,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="713">
+<Objects>
+<L03 POS="216.892857142857,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="714">
+<Objects>
+<L03 POS="215.5625,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="715">
+<Objects>
+<L03 POS="214.232142857143,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="716">
+<Objects>
+<L03 POS="212.901785714286,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="717">
+<Objects>
+<L03 POS="211.571428571429,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="718">
+<Objects>
+<L03 POS="210.241071428571,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="719">
+<Objects>
+<L03 POS="208.910714285714,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="720">
+<Objects>
+<L03 POS="207.580357142857,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="721">
+<Objects>
+<L03 POS="206.25,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="722">
+<Objects>
+<L03 POS="204.919642857143,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="723">
+<Objects>
+<L03 POS="203.589285714286,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="724">
+<Objects>
+<L03 POS="202.258928571429,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="725">
+<Objects>
+<L03 POS="200.928571428571,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="726">
+<Objects>
+<L03 POS="199.598214285714,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="727">
+<Objects>
+<L03 POS="198.267857142857,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="728">
+<Objects>
+<L03 POS="196.9375,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="729">
+<Objects>
+<L03 POS="195.607142857143,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="730">
+<Objects>
+<L03 POS="194.276785714286,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="731">
+<Objects>
+<L03 POS="192.946428571429,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="732">
+<Objects>
+<L03 POS="191.616071428571,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="733">
+<Objects>
+<L03 POS="190.285714285714,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="734">
+<Objects>
+<L03 POS="188.955357142857,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="735">
+<Objects>
+<L03 POS="187.625,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="736">
+<Objects>
+<L03 POS="186.294642857143,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="737">
+<Objects>
+<L03 POS="184.964285714286,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="738">
+<Objects>
+<L03 POS="183.633928571429,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="739">
+<Objects>
+<L03 POS="182.303571428571,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="740">
+<Objects>
+<L03 POS="180.973214285714,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="741">
+<Objects>
+<L03 POS="179.642857142857,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="742">
+<Objects>
+<L03 POS="178.3125,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="743">
+<Objects>
+<L03 POS="176.982142857143,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="744">
+<Objects>
+<L03 POS="175.651785714286,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="745">
+<Objects>
+<L03 POS="174.321428571429,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="746">
+<Objects>
+<L03 POS="172.991071428571,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="747">
+<Objects>
+<L03 POS="171.660714285714,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="748">
+<Objects>
+<L03 POS="170.330357142857,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="749">
+<Objects>
+<L03 POS="169.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="750">
+<Objects>
+<L03 POS="167.669642857143,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="751">
+<Objects>
+<L03 POS="166.339285714286,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="752">
+<Objects>
+<L03 POS="165.008928571429,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="753">
+<Objects>
+<L03 POS="163.678571428571,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="754">
+<Objects>
+<L03 POS="162.348214285714,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="755">
+<Objects>
+<L03 POS="161.017857142857,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="756">
+<Objects>
+<L03 POS="159.6875,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="757">
+<Objects>
+<L03 POS="158.357142857143,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="758">
+<Objects>
+<L03 POS="157.026785714286,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="759">
+<Objects>
+<L03 POS="155.696428571429,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="760">
+<Objects>
+<L03 POS="154.366071428571,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="761">
+<Objects>
+<L03 POS="153.035714285714,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="762">
+<Objects>
+<L03 POS="151.705357142857,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="763">
+<Objects>
+<L03 POS="150.375,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="764">
+<Objects>
+<L03 POS="149.044642857143,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="765">
+<Objects>
+<L03 POS="147.714285714286,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="766">
+<Objects>
+<L03 POS="146.383928571429,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="767">
+<Objects>
+<L03 POS="145.053571428571,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="768">
+<Text MESS="21" />
+<Text MESS="22" />
+<Objects>
+<L03 POS="142.392857142857,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="769">
+<Objects>
+<L03 POS="141.0625,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="770">
+<Objects>
+<L03 POS="139.732142857143,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="771">
+<Objects>
+<L03 POS="138.401785714286,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="772">
+<Objects>
+<L03 POS="137.071428571429,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="773">
+<Objects>
+<L03 POS="135.741071428571,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="774">
+<Objects>
+<L03 POS="134.410714285714,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="775">
+<Objects>
+<L03 POS="133.080357142857,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="776">
+<Objects>
+<L03 POS="131.75,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="777">
+<Objects>
+<L03 POS="130.419642857143,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="778">
+<Objects>
+<L03 POS="129.089285714286,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="779">
+<Objects>
+<L03 POS="127.758928571429,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="780">
+<Objects>
+<L03 POS="126.428571428571,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="781">
+<Objects>
+<L03 POS="125.098214285714,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="782">
+<Objects>
+<L03 POS="123.767857142857,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="783">
+<Objects>
+<L03 POS="122.4375,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="784">
+<Objects>
+<L03 POS="121.107142857143,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="785">
+<Objects>
+<L03 POS="119.776785714286,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="786">
+<Objects>
+<L03 POS="118.446428571429,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="787">
+<Objects>
+<L03 POS="117.116071428571,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="788">
+<Objects>
+<L03 POS="115.785714285714,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="789">
+<Objects>
+<L03 POS="114.455357142857,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="790">
+<Objects>
+<L03 POS="113.125,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="791">
+<Objects>
+<L03 POS="111.794642857143,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="792">
+<Objects>
+<L03 POS="110.464285714286,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="793">
+<Objects>
+<L03 POS="109.133928571429,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="794">
+<Objects>
+<L03 POS="107.803571428571,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="795">
+<Objects>
+<L03 POS="106.473214285714,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="796">
+<Objects>
+<L03 POS="105.142857142857,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="797">
+<Objects>
+<L03 POS="103.8125,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="798">
+<Objects>
+<L03 POS="102.482142857143,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="799">
+<Objects>
+<L03 POS="101.151785714286,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="800">
+<Objects>
+<L03 POS="99.8214285714286,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="801">
+<Objects>
+<L03 POS="98.4910714285714,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="802">
+<Objects>
+<L03 POS="97.1607142857143,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="803">
+<Objects>
+<L03 POS="95.8303571428571,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="804">
+<Objects>
+<L03 POS="94.5,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="805">
+<Objects>
+<L03 POS="93.1696428571429,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="806">
+<Objects>
+<L03 POS="91.8392857142857,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="807">
+<Objects>
+<L03 POS="90.5089285714286,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="808">
+<Objects>
+<L03 POS="89.1785714285714,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="809">
+<Objects>
+<L03 POS="87.8482142857143,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="810">
+<Objects>
+<L03 POS="86.5178571428571,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="811">
+<Objects>
+<L03 POS="85.1875,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="812">
+<Objects>
+<L03 POS="83.8571428571429,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="813">
+<Objects>
+<L03 POS="82.5267857142857,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="814">
+<Objects>
+<L03 POS="81.1964285714286,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="815">
+<Objects>
+<L03 POS="79.8660714285714,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="816">
+<Objects>
+<L03 POS="78.5357142857143,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="817">
+<Objects>
+<L03 POS="77.2053571428571,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="818">
+<Objects>
+<L03 POS="75.875,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="819">
+<Objects>
+<L03 POS="74.5446428571429,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="820">
+<Objects>
+<L03 POS="73.2142857142857,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="821">
+<Objects>
+<L03 POS="71.8839285714286,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="822">
+<Objects>
+<L03 POS="70.5535714285714,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="823">
+<Objects>
+<L03 POS="69.2232142857143,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="824">
+<Objects>
+<L03 POS="67.8928571428571,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="825">
+<Objects>
+<L03 POS="66.5625,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="826">
+<Objects>
+<L03 POS="65.2321428571429,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="827">
+<Objects>
+<L03 POS="63.9017857142857,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="828">
+<Objects>
+<L03 POS="62.5714285714286,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="829">
+<Objects>
+<L03 POS="61.2410714285714,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="830">
+<Objects>
+<L03 POS="59.9107142857143,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="831">
+<Objects>
+<L03 POS="58.5803571428571,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="832">
+<Objects>
+<L03 POS="57.25,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="833">
+<Objects>
+<L03 POS="55.9196428571429,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="834">
+<Objects>
+<L03 POS="54.5892857142857,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="835">
+<Objects>
+<L03 POS="53.2589285714286,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="836">
+<Objects>
+<L03 POS="51.9285714285714,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="837">
+<Objects>
+<L03 POS="50.5982142857143,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="838">
+<Objects>
+<L03 POS="49.2678571428571,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="839">
+<Objects>
+<L03 POS="47.9375,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="840">
+<Objects>
+<L03 POS="46.6071428571429,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="841">
+<Objects>
+<L03 POS="45.2767857142857,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="842">
+<Objects>
+<L03 POS="43.9464285714286,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="843">
+<Objects>
+<L03 POS="42.6160714285714,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="844">
+<Objects>
+<L03 POS="41.2857142857143,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="845">
+<Objects>
+<L03 POS="39.9553571428571,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="846">
+<Objects>
+<L03 POS="38.625,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="847">
+<Objects>
+<L03 POS="37.2946428571429,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="848">
+<Objects>
+<L03 POS="35.9642857142857,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="849">
+<Objects>
+<L03 POS="33.3035714285714,0.0" DIFF="255,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="850">
+<Objects>
+<L03 POS="31.9732142857143,0.0" DIFF="233,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="851">
+<Objects>
+<L03 POS="30.6428571428571,0.0" DIFF="212,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="852">
+<Objects>
+<L03 POS="29.3125,0.0" DIFF="191,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="853">
+<Objects>
+<L03 POS="27.9821428571429,0.0" DIFF="170,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="854">
+<Objects>
+<L03 POS="26.6517857142857,0.0" DIFF="148,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="855">
+<Objects>
+<L03 POS="25.3214285714286,0.0" DIFF="127,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="856">
+<Objects>
+<L03 POS="23.9910714285714,0.0" DIFF="106,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="857">
+<Objects>
+<L03 POS="22.6607142857143,0.0" DIFF="85,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="858">
+<Objects>
+<L03 POS="21.3303571428571,0.0" DIFF="63,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="859">
+<Objects>
+<L03 POS="20.0,0.0" DIFF="42,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="860">
+<Objects>
+<L03 DIFF="21,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="861">
+<EraseText/>
+<Objects>
+<L03 ERASE="TRUE" />
+</Objects>
+</Frame>
+<Frame TIME="862">
+<Log NAME="4" MESS="23" />
+<Text MESS="23" />
+<Objects>
+<L03 DIFF="0,255,255,255" />
+<L04 CREATE="Layer" POS="169.0,0.0" SIZE="302.0,360.0" DEPTH="10" >
+<WAKUA CREATE="Image" FILE="Graphic/A.SFD" DEPTH="100" />
+<I04 CREATE="Image" FILE="Graphic/s03.sfd" SIZE="302.0,360.0" VIEW="0.0,0.0,421.0,501.854304635762" />
+</L04>
+</Objects>
+</Frame>
+<Frame TIME="877">
+<Objects>
+<L04 DIFF="255,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="878">
+<Objects>
+<L04 DIFF="233,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="879">
+<Objects>
+<L04 DIFF="212,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="880">
+<Objects>
+<L04 DIFF="191,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="881">
+<Objects>
+<L04 DIFF="170,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="882">
+<Objects>
+<L04 DIFF="148,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="883">
+<Objects>
+<L04 DIFF="127,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="884">
+<Objects>
+<L04 DIFF="106,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="885">
+<Objects>
+<L04 DIFF="85,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="886">
+<Objects>
+<L04 DIFF="63,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="887">
+<Objects>
+<L04 DIFF="42,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="888">
+<Objects>
+<L04 DIFF="21,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="889">
+<EraseText/>
+<Objects>
+<L04 ERASE="TRUE" />
+</Objects>
+</Frame>
+<Frame TIME="890">
+<Log NAME="2" MESS="24" />
+<Text MESS="24" />
+<Objects>
+<L04 DIFF="0,255,255,255" />
+<base03 ERASE="TRUE" />
+<base04 CREATE="Movie" FILE="Graphic/A-00_04.m1v" DEPTH="0" />
+</Objects>
+</Frame>
+<Frame TIME="942">
+<EraseText/>
+</Frame>
+<Frame TIME="948">
+<Objects>
+<base05 CREATE="Movie" FILE="Graphic/A-00_05.m1v" DEPTH="0" />
+<base04 ERASE="TRUE" />
+</Objects>
+</Frame>
+<Frame TIME="959">
+<Log NAME="4" MESS="25" />
+<Text MESS="26" />
+<Text MESS="27" />
+<Objects>
+<L05 CREATE="Layer" POS="355.0,15.0" SIZE="265.0,329.0" DEPTH="10" >
+<I50 CREATE="Image" FILE="Graphic/s06.sfd" SIZE="265.0,329.0" VIEW="40.0,5.0,461.0,527.675471698113" />
+<WAKUD CREATE="Image" FILE="Graphic/D.SFD" DEPTH="100" />
+</L05>
+</Objects>
+</Frame>
+<Frame TIME="960">
+<Objects>
+<L05 POS="353.649193548387,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="961">
+<Objects>
+<L05 POS="352.298387096774,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="962">
+<Objects>
+<L05 POS="350.947580645161,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="963">
+<Objects>
+<L05 POS="349.596774193548,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="964">
+<Objects>
+<L05 POS="348.245967741935,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="965">
+<Objects>
+<L05 POS="346.895161290323,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="966">
+<Objects>
+<L05 POS="345.54435483871,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="967">
+<Objects>
+<L05 POS="344.193548387097,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="968">
+<Objects>
+<L05 POS="342.842741935484,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="969">
+<Objects>
+<L05 POS="341.491935483871,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="970">
+<Objects>
+<L05 POS="340.141129032258,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="971">
+<Objects>
+<L05 POS="338.790322580645,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="972">
+<Objects>
+<L05 POS="337.439516129032,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="973">
+<Objects>
+<L05 POS="336.088709677419,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="974">
+<Objects>
+<L05 POS="334.737903225806,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="975">
+<Objects>
+<L05 POS="333.387096774194,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="976">
+<Objects>
+<L05 POS="332.036290322581,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="977">
+<Objects>
+<L05 POS="330.685483870968,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="978">
+<Objects>
+<L05 POS="329.334677419355,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="979">
+<Objects>
+<L05 POS="327.983870967742,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="980">
+<Objects>
+<L05 POS="326.633064516129,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="981">
+<Objects>
+<L05 POS="325.282258064516,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="982">
+<Objects>
+<L05 POS="323.931451612903,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="983">
+<Objects>
+<L05 POS="322.58064516129,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="984">
+<Objects>
+<L05 POS="321.229838709677,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="985">
+<Objects>
+<L05 POS="319.879032258065,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="986">
+<Objects>
+<L05 POS="318.528225806452,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="987">
+<Objects>
+<L05 POS="317.177419354839,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="988">
+<Objects>
+<L05 POS="315.826612903226,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="989">
+<Objects>
+<L05 POS="314.475806451613,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="990">
+<Objects>
+<L05 POS="313.125,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="991">
+<Objects>
+<L05 POS="311.774193548387,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="992">
+<Objects>
+<L05 POS="310.423387096774,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="993">
+<Objects>
+<L05 POS="309.072580645161,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="994">
+<Objects>
+<L05 POS="307.721774193548,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="995">
+<Objects>
+<L05 POS="306.370967741935,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="996">
+<Objects>
+<L05 POS="305.020161290323,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="997">
+<Objects>
+<L05 POS="303.66935483871,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="998">
+<Objects>
+<L05 POS="302.318548387097,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="999">
+<Objects>
+<L05 POS="300.967741935484,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1000">
+<Objects>
+<L05 POS="299.616935483871,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1001">
+<Objects>
+<L05 POS="298.266129032258,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1002">
+<Objects>
+<L05 POS="296.915322580645,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1003">
+<Objects>
+<L05 POS="295.564516129032,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1004">
+<Objects>
+<L05 POS="294.213709677419,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1005">
+<Objects>
+<L05 POS="292.862903225806,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1006">
+<Objects>
+<L05 POS="291.512096774194,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1007">
+<Objects>
+<L05 POS="290.161290322581,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1008">
+<Objects>
+<L05 POS="288.810483870968,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1009">
+<Objects>
+<L05 POS="287.459677419355,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1010">
+<Objects>
+<L05 POS="286.108870967742,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1011">
+<Objects>
+<L05 POS="284.758064516129,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1012">
+<Objects>
+<L05 POS="283.407258064516,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1013">
+<Objects>
+<L05 POS="282.056451612903,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1014">
+<Objects>
+<L05 POS="280.70564516129,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1015">
+<Objects>
+<L05 POS="279.354838709677,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1016">
+<Objects>
+<L05 POS="278.004032258065,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1017">
+<Objects>
+<L05 POS="276.653225806452,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1018">
+<Objects>
+<L05 POS="275.302419354839,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1019">
+<Objects>
+<L05 POS="273.951612903226,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1020">
+<Objects>
+<L05 POS="272.600806451613,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1021">
+<Objects>
+<L05 POS="271.25,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1022">
+<Objects>
+<L05 POS="269.899193548387,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1023">
+<Objects>
+<L05 POS="268.548387096774,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1024">
+<Objects>
+<L05 POS="267.197580645161,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1025">
+<Objects>
+<L05 POS="265.846774193548,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1026">
+<Objects>
+<L05 POS="264.495967741935,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1027">
+<Objects>
+<L05 POS="263.145161290323,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1028">
+<Objects>
+<L05 POS="261.79435483871,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1029">
+<Objects>
+<L05 POS="260.443548387097,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1030">
+<Objects>
+<L05 POS="259.092741935484,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1031">
+<Objects>
+<L05 POS="257.741935483871,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1032">
+<Objects>
+<L05 POS="256.391129032258,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1033">
+<Objects>
+<L05 POS="255.040322580645,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1034">
+<Objects>
+<L05 POS="253.689516129032,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1035">
+<Objects>
+<L05 POS="252.338709677419,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1036">
+<Objects>
+<L05 POS="250.987903225806,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1037">
+<Objects>
+<L05 POS="249.637096774194,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1038">
+<Objects>
+<L05 POS="248.286290322581,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1039">
+<Objects>
+<L05 POS="246.935483870968,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1040">
+<Objects>
+<L05 POS="245.584677419355,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1041">
+<Objects>
+<L05 POS="244.233870967742,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1042">
+<Objects>
+<L05 POS="242.883064516129,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1043">
+<Objects>
+<L05 POS="241.532258064516,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1044">
+<Objects>
+<L05 POS="240.181451612903,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1045">
+<Objects>
+<L05 POS="238.83064516129,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1046">
+<Objects>
+<L05 POS="237.479838709677,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1047">
+<Objects>
+<L05 POS="236.129032258065,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1048">
+<Objects>
+<L05 POS="234.778225806452,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1049">
+<Objects>
+<L05 POS="233.427419354839,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1050">
+<Objects>
+<L05 POS="232.076612903226,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1051">
+<Objects>
+<L05 POS="230.725806451613,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1052">
+<Objects>
+<L05 POS="229.375,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1053">
+<Objects>
+<L05 POS="228.024193548387,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1054">
+<Objects>
+<L05 POS="226.673387096774,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1055">
+<Objects>
+<L05 POS="225.322580645161,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1056">
+<Objects>
+<L05 POS="223.971774193548,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1057">
+<Objects>
+<L05 POS="222.620967741935,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1058">
+<Objects>
+<L05 POS="221.270161290323,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1059">
+<Objects>
+<L05 POS="219.91935483871,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1060">
+<Objects>
+<L05 POS="218.568548387097,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1061">
+<Objects>
+<L05 POS="217.217741935484,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1062">
+<Objects>
+<L05 POS="215.866935483871,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1063">
+<Objects>
+<L05 POS="214.516129032258,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1064">
+<Objects>
+<L05 POS="213.165322580645,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1065">
+<Objects>
+<L05 POS="211.814516129032,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1066">
+<Objects>
+<L05 POS="210.463709677419,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1067">
+<Objects>
+<L05 POS="209.112903225806,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1068">
+<Objects>
+<L05 POS="207.762096774194,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1069">
+<Objects>
+<L05 POS="206.411290322581,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1070">
+<Objects>
+<L05 POS="205.060483870968,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1071">
+<Objects>
+<L05 POS="203.709677419355,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1072">
+<Objects>
+<L05 POS="202.358870967742,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1073">
+<Objects>
+<L05 POS="201.008064516129,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1074">
+<Objects>
+<L05 POS="199.657258064516,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1075">
+<Objects>
+<L05 POS="198.306451612903,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1076">
+<Objects>
+<L05 POS="196.95564516129,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1077">
+<Objects>
+<L05 POS="195.604838709677,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1078">
+<Objects>
+<L05 POS="194.254032258065,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1079">
+<Objects>
+<L05 POS="192.903225806452,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1080">
+<Objects>
+<L05 POS="191.552419354839,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1081">
+<Objects>
+<L05 POS="190.201612903226,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1082">
+<Objects>
+<L05 POS="188.850806451613,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1083">
+<Objects>
+<L05 POS="187.5,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1084">
+<Objects>
+<L05 POS="186.149193548387,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1085">
+<Objects>
+<L05 POS="184.798387096774,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1086">
+<Objects>
+<L05 POS="183.447580645161,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1087">
+<Objects>
+<L05 POS="182.096774193548,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1088">
+<Objects>
+<L05 POS="180.745967741935,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1089">
+<Objects>
+<L05 POS="179.395161290323,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1090">
+<Objects>
+<L05 POS="178.04435483871,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1091">
+<Objects>
+<L05 POS="176.693548387097,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1092">
+<Objects>
+<L05 POS="175.342741935484,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1093">
+<Objects>
+<L05 POS="173.991935483871,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1094">
+<Objects>
+<L05 POS="172.641129032258,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1095">
+<Objects>
+<L05 POS="171.290322580645,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1096">
+<Objects>
+<L05 POS="169.939516129032,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1097">
+<Objects>
+<L05 POS="168.588709677419,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1098">
+<Objects>
+<L05 POS="167.237903225806,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1099">
+<Objects>
+<L05 POS="165.887096774194,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1100">
+<Objects>
+<L05 POS="164.536290322581,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1101">
+<Objects>
+<L05 POS="163.185483870968,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1102">
+<Objects>
+<L05 POS="161.834677419355,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1103">
+<Objects>
+<L05 POS="160.483870967742,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1104">
+<Objects>
+<L05 POS="159.133064516129,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1105">
+<Objects>
+<L05 POS="157.782258064516,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1106">
+<Text MESS="28" />
+<Objects>
+<L05 POS="155.08064516129,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1107">
+<Objects>
+<L05 POS="153.729838709677,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1108">
+<Objects>
+<L05 POS="152.379032258065,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1109">
+<Objects>
+<L05 POS="151.028225806452,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1110">
+<Objects>
+<L05 POS="149.677419354839,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1111">
+<Objects>
+<L05 POS="148.326612903226,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1112">
+<Objects>
+<L05 POS="146.975806451613,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1113">
+<Objects>
+<L05 POS="145.625,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1114">
+<Objects>
+<L05 POS="144.274193548387,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1115">
+<Objects>
+<L05 POS="142.923387096774,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1116">
+<Objects>
+<L05 POS="141.572580645161,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1117">
+<Objects>
+<L05 POS="140.221774193548,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1118">
+<Objects>
+<L05 POS="138.870967741935,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1119">
+<Objects>
+<L05 POS="137.520161290323,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1120">
+<Objects>
+<L05 POS="136.16935483871,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1121">
+<Objects>
+<L05 POS="134.818548387097,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1122">
+<Objects>
+<L05 POS="133.467741935484,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1123">
+<Objects>
+<L05 POS="132.116935483871,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1124">
+<Objects>
+<L05 POS="130.766129032258,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1125">
+<Objects>
+<L05 POS="129.415322580645,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1126">
+<Objects>
+<L05 POS="128.064516129032,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1127">
+<Objects>
+<L05 POS="126.713709677419,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1128">
+<Objects>
+<L05 POS="125.362903225806,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1129">
+<Objects>
+<L05 POS="124.012096774194,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1130">
+<Objects>
+<L05 POS="122.661290322581,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1131">
+<Objects>
+<L05 POS="121.310483870968,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1132">
+<Objects>
+<L05 POS="119.959677419355,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1133">
+<Objects>
+<L05 POS="118.608870967742,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1134">
+<Objects>
+<L05 POS="117.258064516129,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1135">
+<Objects>
+<L05 POS="115.907258064516,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1136">
+<Objects>
+<L05 POS="114.556451612903,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1137">
+<Objects>
+<L05 POS="113.20564516129,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1138">
+<Objects>
+<L05 POS="111.854838709677,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1139">
+<Objects>
+<L05 POS="110.504032258065,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1140">
+<Objects>
+<L05 POS="109.153225806452,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1141">
+<Objects>
+<L05 POS="107.802419354839,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1142">
+<Objects>
+<L05 POS="106.451612903226,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1143">
+<Objects>
+<L05 POS="105.100806451613,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1144">
+<Objects>
+<L05 POS="103.75,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1145">
+<Objects>
+<L05 POS="102.399193548387,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1146">
+<Objects>
+<L05 POS="101.048387096774,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1147">
+<Objects>
+<L05 POS="99.6975806451613,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1148">
+<Objects>
+<L05 POS="98.3467741935484,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1149">
+<Objects>
+<L05 POS="96.9959677419355,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1150">
+<Objects>
+<L05 POS="95.6451612903226,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1151">
+<Objects>
+<L05 POS="94.2943548387097,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1152">
+<Objects>
+<L05 POS="92.9435483870968,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1153">
+<Objects>
+<L05 POS="91.5927419354839,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1154">
+<Objects>
+<L05 POS="90.241935483871,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1155">
+<Objects>
+<L05 POS="88.891129032258,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1156">
+<Objects>
+<L05 POS="87.5403225806452,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1157">
+<Objects>
+<L05 POS="86.1895161290323,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1158">
+<Objects>
+<L05 POS="84.8387096774194,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1159">
+<Objects>
+<L05 POS="83.4879032258065,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1160">
+<Objects>
+<L05 POS="82.1370967741935,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1161">
+<Objects>
+<L05 POS="80.7862903225806,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1162">
+<Objects>
+<L05 POS="79.4354838709677,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1163">
+<Objects>
+<L05 POS="78.0846774193548,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1164">
+<Objects>
+<L05 POS="76.733870967742,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1165">
+<Objects>
+<L05 POS="75.383064516129,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1166">
+<Objects>
+<L05 POS="74.0322580645161,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1167">
+<Objects>
+<L05 POS="72.6814516129032,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1168">
+<Objects>
+<L05 POS="71.3306451612903,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1169">
+<Objects>
+<L05 POS="69.9798387096774,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1170">
+<Objects>
+<L05 POS="68.6290322580645,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1171">
+<Objects>
+<L05 POS="67.2782258064516,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1172">
+<Objects>
+<L05 POS="65.9274193548387,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1173">
+<Objects>
+<L05 POS="64.5766129032258,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1174">
+<Objects>
+<L05 POS="63.2258064516129,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1175">
+<Objects>
+<L05 POS="61.875,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1176">
+<Objects>
+<L05 POS="60.5241935483871,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1177">
+<Objects>
+<L05 POS="59.1733870967742,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1178">
+<Objects>
+<L05 POS="57.8225806451613,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1179">
+<Objects>
+<L05 POS="56.4717741935484,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1180">
+<Objects>
+<L05 POS="55.1209677419355,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1181">
+<Objects>
+<L05 POS="53.7701612903226,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1182">
+<Objects>
+<L05 POS="52.4193548387097,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1183">
+<Objects>
+<L05 POS="51.0685483870968,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1184">
+<Objects>
+<L05 POS="49.7177419354839,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1185">
+<Objects>
+<L05 POS="48.366935483871,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1186">
+<Objects>
+<L05 POS="47.016129032258,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1187">
+<Objects>
+<L05 POS="45.6653225806452,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1188">
+<Objects>
+<L05 POS="44.3145161290323,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1189">
+<Objects>
+<L05 POS="42.9637096774194,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1190">
+<Objects>
+<L05 POS="41.6129032258065,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1191">
+<Objects>
+<L05 POS="40.2620967741935,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1192">
+<Objects>
+<L05 POS="38.9112903225806,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1193">
+<Objects>
+<L05 POS="37.5604838709677,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1194">
+<Objects>
+<L05 POS="36.2096774193548,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="1195">
+<Objects>
+<L05 POS="33.508064516129,15.0" DIFF="255,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="1196">
+<Objects>
+<L05 POS="32.1572580645161,15.0" DIFF="233,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="1197">
+<Objects>
+<L05 POS="30.8064516129032,15.0" DIFF="212,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="1198">
+<Objects>
+<L05 POS="29.4556451612903,15.0" DIFF="191,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="1199">
+<Objects>
+<L05 POS="28.1048387096774,15.0" DIFF="170,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="1200">
+<Objects>
+<L05 POS="26.7540322580645,15.0" DIFF="148,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="1201">
+<Objects>
+<L05 POS="25.4032258064516,15.0" DIFF="127,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="1202">
+<Objects>
+<L05 POS="24.0524193548387,15.0" DIFF="106,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="1203">
+<Objects>
+<L05 POS="22.7016129032258,15.0" DIFF="85,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="1204">
+<Objects>
+<L05 POS="21.3508064516129,15.0" DIFF="63,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="1205">
+<Objects>
+<L05 POS="20.0,15.0" DIFF="42,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="1206">
+<Objects>
+<L05 DIFF="21,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="1207">
+<EraseText/>
+<Objects>
+<L05 ERASE="TRUE" />
+</Objects>
+</Frame>
+<Frame TIME="1208">
+<Log NAME="2" MESS="29" />
+<Text MESS="29" />
+<Objects>
+<L05 DIFF="0,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="1269">
+<EraseText/>
+</Frame>
+<Frame TIME="1275">
+<Log NAME="4" MESS="30" />
+<Text MESS="30" />
+<Objects>
+<L06 CREATE="Layer" POS="27.0,15.0" SIZE="265.0,329.0" DEPTH="10" >
+<I60 CREATE="Image" FILE="Graphic/s04.sfd" SIZE="265.0,329.0" VIEW="60.0,0.0,481.0,522.675471698113" />
+<WAKUD CREATE="Image" FILE="Graphic/D.SFD" DEPTH="100" />
+</L06>
+</Objects>
+</Frame>
+<Frame TIME="1277">
+<Objects>
+<L06 DIFF="255,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="1278">
+<Objects>
+<L06 DIFF="233,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="1279">
+<Objects>
+<L06 DIFF="212,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="1280">
+<Objects>
+<L06 DIFF="191,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="1281">
+<Objects>
+<L06 DIFF="170,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="1282">
+<Objects>
+<L06 DIFF="148,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="1283">
+<Objects>
+<L06 DIFF="127,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="1284">
+<Objects>
+<L06 DIFF="106,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="1285">
+<EraseText/>
+<Objects>
+<L06 DIFF="63,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="1286">
+<Objects>
+<L06 DIFF="42,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="1287">
+<Objects>
+<L06 DIFF="21,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="1288">
+<Objects>
+<L06 DIFF="0,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="1289">
+<Objects>
+<L06 ERASE="TRUE" />
+</Objects>
+</Frame>
+<Frame TIME="1290">
+<Log NAME="9" MESS="31" />
+<Text MESS="32" />
+<Text MESS="33" />
+<Objects>
+<base05 ERASE="TRUE" />
+<base06 CREATE="Movie" FILE="Graphic/A-00_06.m1v" DEPTH="0" />
+</Objects>
+</Frame>
+<Frame TIME="1412">
+<EraseText/>
+</Frame>
+<Frame TIME="1418">
+<Log NAME="2" MESS="34" />
+<Text MESS="34" />
+</Frame>
+<Frame TIME="1473">
+<EraseText/>
+</Frame>
+<Frame TIME="1477">
+<Log NAME="9" MESS="35" />
+<Text MESS="35" />
+</Frame>
+<Frame TIME="1541">
+<EraseText/>
+</Frame>
+<Frame TIME="1542">
+<Log NAME="2" MESS="36" />
+<Text MESS="36" />
+<Objects>
+<base06 ERASE="TRUE" />
+<base07 CREATE="Movie" FILE="Graphic/A-00_07.m1v" DEPTH="0" />
+</Objects>
+</Frame>
+<Frame TIME="1597">
+<EraseText/>
+</Frame>
+<Frame TIME="1605">
+<Log NAME="9" MESS="37" />
+<Text MESS="37" />
+</Frame>
+<Frame TIME="1655">
+<EraseText/>
+</Frame>
+<Frame TIME="1694">
+<Log NAME="4" MESS="38" />
+<Text MESS="38" />
+</Frame>
+<Frame TIME="1720">
+<EraseText/>
+</Frame>
+<Frame TIME="1722">
+<Log NAME="2" MESS="39" />
+<Text MESS="39" />
+</Frame>
+<Frame TIME="1746">
+<EraseText/>
+</Frame>
+<Frame TIME="1752">
+<Log NAME="4" MESS="40" />
+<Text MESS="40" />
+<Objects>
+<base07 ERASE="TRUE" />
+<base08 CREATE="Movie" FILE="Graphic/A-00_08.m1v" DEPTH="0" />
+<L07 CREATE="Layer" POS="328.0,0.0" SIZE="302.0,360.0" DEPTH="10" >
+<WAKUA CREATE="Image" FILE="Graphic/A.SFD" DEPTH="100" />
+<I70 CREATE="Image" FILE="Graphic/s02.sfd" SIZE="302.0,360.0" VIEW="0.0,5.0,421.0,506.854304635762" />
+</L07>
+</Objects>
+</Frame>
+<Frame TIME="1753">
+<Objects>
+<L07 POS="327.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1754">
+<Objects>
+<L07 POS="326.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1755">
+<Objects>
+<L07 POS="325.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1756">
+<Objects>
+<L07 POS="324.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1757">
+<Objects>
+<L07 POS="323.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1758">
+<Objects>
+<L07 POS="322.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1759">
+<Objects>
+<L07 POS="321.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1760">
+<Objects>
+<L07 POS="320.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1761">
+<Objects>
+<L07 POS="319.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1762">
+<Objects>
+<L07 POS="318.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1763">
+<Objects>
+<L07 POS="317.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1764">
+<Objects>
+<L07 POS="316.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1765">
+<Objects>
+<L07 POS="315.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1766">
+<Objects>
+<L07 POS="314.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1767">
+<Objects>
+<L07 POS="313.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1768">
+<Objects>
+<L07 POS="312.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1769">
+<Objects>
+<L07 POS="311.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1770">
+<Objects>
+<L07 POS="310.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1771">
+<Objects>
+<L07 POS="309.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1772">
+<Objects>
+<L07 POS="308.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1773">
+<Objects>
+<L07 POS="307.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1774">
+<Objects>
+<L07 POS="306.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1775">
+<Objects>
+<L07 POS="305.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1776">
+<Objects>
+<L07 POS="304.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1777">
+<Objects>
+<L07 POS="303.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1778">
+<Objects>
+<L07 POS="302.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1779">
+<Objects>
+<L07 POS="301.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1780">
+<Objects>
+<L07 POS="300.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1781">
+<Objects>
+<L07 POS="299.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1782">
+<Objects>
+<L07 POS="298.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1783">
+<Objects>
+<L07 POS="297.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1784">
+<Objects>
+<L07 POS="296.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1785">
+<Objects>
+<L07 POS="295.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1786">
+<Objects>
+<L07 POS="294.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1787">
+<Objects>
+<L07 POS="293.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1788">
+<Objects>
+<L07 POS="292.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1789">
+<Objects>
+<L07 POS="291.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1790">
+<Objects>
+<L07 POS="290.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1791">
+<Objects>
+<L07 POS="289.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1792">
+<Objects>
+<L07 POS="288.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1793">
+<Objects>
+<L07 POS="286.0,0.0" DIFF="255,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="1794">
+<Objects>
+<L07 POS="285.0,0.0" DIFF="233,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="1795">
+<Objects>
+<L07 POS="284.0,0.0" DIFF="212,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="1796">
+<Objects>
+<L07 POS="283.0,0.0" DIFF="191,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="1797">
+<Objects>
+<L07 POS="282.0,0.0" DIFF="170,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="1798">
+<Objects>
+<L07 POS="281.0,0.0" DIFF="148,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="1799">
+<Objects>
+<L07 POS="280.0,0.0" DIFF="127,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="1800">
+<Objects>
+<L07 POS="279.0,0.0" DIFF="106,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="1801">
+<Objects>
+<L07 POS="278.0,0.0" DIFF="85,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="1802">
+<Objects>
+<L07 POS="277.0,0.0" DIFF="63,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="1803">
+<Objects>
+<L07 POS="276.0,0.0" DIFF="42,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="1804">
+<Objects>
+<L07 POS="275.0,0.0" DIFF="21,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="1805">
+<EraseText/>
+<Objects>
+<L07 ERASE="TRUE" />
+</Objects>
+</Frame>
+<Frame TIME="1806">
+<Log NAME="2" MESS="41" />
+<Text MESS="41" />
+<Objects>
+<base08 ERASE="TRUE" />
+<base09 CREATE="Movie" FILE="Graphic/A-00_09.m1v" DEPTH="0" />
+<L07 DIFF="0,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="1872">
+<EraseText/>
+<Log NAME="4" MESS="42" />
+<Text MESS="42" />
+<Objects>
+<base09 ERASE="TRUE" />
+<base10 CREATE="Movie" FILE="Graphic/A-00_10.m1v" DEPTH="0" />
+<L08 CREATE="Layer" POS="275.0,0.0" SIZE="302.0,360.0" DEPTH="10" >
+<I80 CREATE="Image" FILE="Graphic/s02w.sfd" SIZE="302.0,360.0" VIEW="0.0,5.0,421.0,506.854304635762" />
+<WAKUA CREATE="Image" FILE="Graphic/A.SFD" DEPTH="100" />
+</L08>
+</Objects>
+</Frame>
+<Frame TIME="1873">
+<Objects>
+<L08 POS="274.016393442623,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1874">
+<Objects>
+<L08 POS="273.032786885246,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1875">
+<Objects>
+<L08 POS="272.049180327869,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1876">
+<Objects>
+<L08 POS="271.065573770492,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1877">
+<Objects>
+<L08 POS="270.081967213115,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1878">
+<Objects>
+<L08 POS="269.098360655738,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1879">
+<Objects>
+<L08 POS="268.114754098361,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1880">
+<Objects>
+<L08 POS="267.131147540984,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1881">
+<Objects>
+<L08 POS="266.147540983607,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1882">
+<Objects>
+<L08 POS="265.16393442623,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1883">
+<Objects>
+<L08 POS="264.180327868852,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1884">
+<Objects>
+<L08 POS="263.196721311475,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1885">
+<Objects>
+<L08 POS="262.213114754098,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1886">
+<Objects>
+<L08 POS="261.229508196721,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1887">
+<Objects>
+<L08 POS="260.245901639344,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1888">
+<Objects>
+<L08 POS="259.262295081967,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1889">
+<Objects>
+<L08 POS="258.27868852459,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1890">
+<Objects>
+<L08 POS="257.295081967213,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1891">
+<Objects>
+<L08 POS="256.311475409836,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1892">
+<Objects>
+<L08 POS="255.327868852459,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1893">
+<Objects>
+<L08 POS="254.344262295082,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1894">
+<Objects>
+<L08 POS="253.360655737705,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1895">
+<Objects>
+<L08 POS="252.377049180328,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1896">
+<Objects>
+<L08 POS="251.393442622951,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1897">
+<Objects>
+<L08 POS="250.409836065574,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1898">
+<Objects>
+<L08 POS="249.426229508197,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1899">
+<Objects>
+<L08 POS="248.44262295082,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1900">
+<Objects>
+<L08 POS="247.459016393443,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1901">
+<Objects>
+<L08 POS="246.475409836066,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1902">
+<Objects>
+<L08 POS="245.491803278689,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1903">
+<Objects>
+<L08 POS="244.508196721311,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1904">
+<Objects>
+<L08 POS="243.524590163934,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1905">
+<Objects>
+<L08 POS="242.540983606557,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1906">
+<Objects>
+<L08 POS="241.55737704918,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1907">
+<Objects>
+<L08 POS="240.573770491803,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1908">
+<Objects>
+<L08 POS="239.590163934426,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1909">
+<Objects>
+<L08 POS="238.606557377049,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1910">
+<Objects>
+<L08 POS="237.622950819672,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1911">
+<Objects>
+<L08 POS="236.639344262295,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1912">
+<Objects>
+<L08 POS="235.655737704918,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1913">
+<Objects>
+<L08 POS="234.672131147541,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1914">
+<Objects>
+<L08 POS="233.688524590164,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1915">
+<Objects>
+<L08 POS="232.704918032787,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1916">
+<Objects>
+<L08 POS="231.72131147541,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1917">
+<Objects>
+<L08 POS="230.737704918033,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1918">
+<Objects>
+<L08 POS="229.754098360656,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1919">
+<Objects>
+<L08 POS="228.770491803279,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1920">
+<Objects>
+<L08 POS="227.786885245902,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1921">
+<Objects>
+<L08 POS="226.803278688525,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1922">
+<Objects>
+<L08 POS="225.819672131148,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1923">
+<Objects>
+<L08 POS="224.83606557377,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1924">
+<Objects>
+<L08 POS="223.852459016393,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1925">
+<Objects>
+<L08 POS="222.868852459016,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1926">
+<Objects>
+<L08 POS="221.885245901639,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1927">
+<Objects>
+<L08 POS="220.901639344262,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1928">
+<Objects>
+<L08 POS="219.918032786885,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1929">
+<Objects>
+<L08 POS="218.934426229508,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1930">
+<Objects>
+<L08 POS="217.950819672131,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1931">
+<Objects>
+<L08 POS="216.967213114754,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1932">
+<Objects>
+<L08 POS="215.983606557377,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1933">
+<Objects>
+<L08 POS="215.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1934">
+<Objects>
+<L08 POS="214.016393442623,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1935">
+<Objects>
+<L08 POS="213.032786885246,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1936">
+<Objects>
+<L08 POS="212.049180327869,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1937">
+<Objects>
+<L08 POS="211.065573770492,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1938">
+<Objects>
+<L08 POS="210.081967213115,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1939">
+<Objects>
+<L08 POS="209.098360655738,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1940">
+<Objects>
+<L08 POS="208.114754098361,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1941">
+<Objects>
+<L08 POS="207.131147540984,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1942">
+<Objects>
+<L08 POS="206.147540983607,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1943">
+<Objects>
+<L08 POS="205.16393442623,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1944">
+<Objects>
+<L08 POS="204.180327868852,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1945">
+<Objects>
+<L08 POS="203.196721311475,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1946">
+<Objects>
+<L08 POS="202.213114754098,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1947">
+<Objects>
+<L08 POS="201.229508196721,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1948">
+<Objects>
+<L08 POS="200.245901639344,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1949">
+<Objects>
+<L08 POS="199.262295081967,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1950">
+<Objects>
+<L08 POS="198.27868852459,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1951">
+<Objects>
+<L08 POS="197.295081967213,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1952">
+<Objects>
+<L08 POS="196.311475409836,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1953">
+<Objects>
+<L08 POS="195.327868852459,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1954">
+<Objects>
+<L08 POS="194.344262295082,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1955">
+<Objects>
+<L08 POS="193.360655737705,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1956">
+<Objects>
+<L08 POS="192.377049180328,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1957">
+<Objects>
+<L08 POS="191.393442622951,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1958">
+<Objects>
+<L08 POS="190.409836065574,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1959">
+<Objects>
+<L08 POS="189.426229508197,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1960">
+<Objects>
+<L08 POS="188.44262295082,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1961">
+<Objects>
+<L08 POS="187.459016393443,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1962">
+<Objects>
+<L08 POS="186.475409836066,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1963">
+<Objects>
+<L08 POS="185.491803278689,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1964">
+<Objects>
+<L08 POS="184.508196721311,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1965">
+<Objects>
+<L08 POS="183.524590163934,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1966">
+<Objects>
+<L08 POS="182.540983606557,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1967">
+<Objects>
+<L08 POS="181.55737704918,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1968">
+<Objects>
+<L08 POS="180.573770491803,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1969">
+<Objects>
+<L08 POS="179.590163934426,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1970">
+<Objects>
+<L08 POS="178.606557377049,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1971">
+<Objects>
+<L08 POS="177.622950819672,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1972">
+<Objects>
+<L08 POS="176.639344262295,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1973">
+<Objects>
+<L08 POS="175.655737704918,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1974">
+<Objects>
+<L08 POS="173.688524590164,0.0" DIFF="255,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="1975">
+<Objects>
+<L08 POS="172.704918032787,0.0" DIFF="233,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="1976">
+<Objects>
+<L08 POS="171.72131147541,0.0" DIFF="212,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="1977">
+<Objects>
+<L08 POS="170.737704918033,0.0" DIFF="191,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="1978">
+<Objects>
+<L08 POS="169.754098360656,0.0" DIFF="170,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="1979">
+<Objects>
+<L08 POS="168.770491803279,0.0" DIFF="148,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="1980">
+<Objects>
+<L08 POS="167.786885245902,0.0" DIFF="127,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="1981">
+<Objects>
+<L08 POS="166.803278688525,0.0" DIFF="106,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="1982">
+<Objects>
+<L08 POS="165.819672131148,0.0" DIFF="85,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="1983">
+<Objects>
+<L08 POS="164.83606557377,0.0" DIFF="63,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="1984">
+<Objects>
+<L08 POS="163.852459016393,0.0" DIFF="42,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="1985">
+<Objects>
+<L08 POS="162.868852459016,0.0" DIFF="21,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="1986">
+<EraseText/>
+<Objects>
+<base10 ERASE="TRUE" />
+<base11 CREATE="Movie" FILE="Graphic/A-00_11.m1v" DEPTH="0" />
+<L08 ERASE="TRUE" />
+</Objects>
+</Frame>
+<Frame TIME="1987">
+<Objects>
+<L08 POS="159.918032786885,0.0" DIFF="0,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="1988">
+<Objects>
+<L08 POS="158.934426229508,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1989">
+<Objects>
+<L08 POS="157.950819672131,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1990">
+<Objects>
+<L08 POS="156.967213114754,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1991">
+<Objects>
+<L08 POS="155.983606557377,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1992">
+<Objects>
+<L08 POS="155.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="1995">
+<Log NAME="2" MESS="43" />
+<Text MESS="43" />
+</Frame>
+<Frame TIME="2022">
+<EraseText/>
+</Frame>
+<Frame TIME="2028">
+<Log NAME="4" MESS="44" />
+<Text MESS="45" />
+<Text MESS="46" />
+<Objects>
+<base11 ERASE="TRUE" />
+<base12 CREATE="Movie" FILE="Graphic/A-00_12.m1v" DEPTH="0" />
+<L09 CREATE="Layer" POS="155.0,0.0" SIZE="302.0,360.0" DEPTH="10" >
+<I90 CREATE="Image" FILE="Graphic/s02w.sfd" SIZE="302.0,360.0" VIEW="0.0,5.0,421.0,506.854304635762" />
+<WAKUA CREATE="Image" FILE="Graphic/A.SFD" DEPTH="100" />
+</L09>
+</Objects>
+</Frame>
+<Frame TIME="2029">
+<Objects>
+<L09 POS="153.982300884956,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2030">
+<Objects>
+<L09 POS="152.964601769911,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2031">
+<Objects>
+<L09 POS="151.946902654867,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2032">
+<Objects>
+<L09 POS="150.929203539823,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2033">
+<Objects>
+<L09 POS="149.911504424779,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2034">
+<Objects>
+<L09 POS="148.893805309735,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2035">
+<Objects>
+<L09 POS="147.87610619469,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2036">
+<Objects>
+<L09 POS="146.858407079646,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2037">
+<Objects>
+<L09 POS="145.840707964602,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2038">
+<Objects>
+<L09 POS="144.823008849558,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2039">
+<Objects>
+<L09 POS="143.805309734513,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2040">
+<Objects>
+<L09 POS="142.787610619469,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2041">
+<Objects>
+<L09 POS="141.769911504425,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2042">
+<Objects>
+<L09 POS="140.752212389381,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2043">
+<Objects>
+<L09 POS="139.734513274336,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2044">
+<Objects>
+<L09 POS="138.716814159292,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2045">
+<Objects>
+<L09 POS="137.699115044248,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2046">
+<Objects>
+<L09 POS="136.681415929204,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2047">
+<Objects>
+<L09 POS="135.663716814159,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2048">
+<Objects>
+<L09 POS="134.646017699115,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2049">
+<Objects>
+<L09 POS="133.628318584071,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2050">
+<Objects>
+<L09 POS="132.610619469027,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2051">
+<Objects>
+<L09 POS="131.592920353982,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2052">
+<Objects>
+<L09 POS="130.575221238938,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2053">
+<Objects>
+<L09 POS="129.557522123894,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2054">
+<Objects>
+<L09 POS="128.53982300885,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2055">
+<Objects>
+<L09 POS="127.522123893805,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2056">
+<Objects>
+<L09 POS="126.504424778761,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2057">
+<Objects>
+<L09 POS="125.486725663717,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2058">
+<Objects>
+<L09 POS="124.469026548673,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2059">
+<Objects>
+<L09 POS="123.451327433628,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2060">
+<Objects>
+<L09 POS="122.433628318584,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2061">
+<Objects>
+<L09 POS="121.41592920354,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2062">
+<Objects>
+<L09 POS="120.398230088496,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2063">
+<Objects>
+<L09 POS="119.380530973451,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2064">
+<Objects>
+<L09 POS="118.362831858407,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2065">
+<Objects>
+<L09 POS="117.345132743363,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2066">
+<Objects>
+<L09 POS="116.327433628319,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2067">
+<Objects>
+<L09 POS="115.309734513274,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2068">
+<Objects>
+<L09 POS="114.29203539823,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2069">
+<Objects>
+<L09 POS="113.274336283186,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2070">
+<Objects>
+<L09 POS="112.256637168142,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2071">
+<Objects>
+<L09 POS="111.238938053097,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2072">
+<Objects>
+<L09 POS="110.221238938053,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2073">
+<Objects>
+<L09 POS="109.203539823009,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2074">
+<Objects>
+<L09 POS="108.185840707965,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2075">
+<Objects>
+<L09 POS="107.16814159292,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2076">
+<Objects>
+<L09 POS="106.150442477876,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2077">
+<Objects>
+<L09 POS="105.132743362832,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2078">
+<Objects>
+<L09 POS="104.115044247788,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2079">
+<Objects>
+<L09 POS="103.097345132743,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2080">
+<Objects>
+<L09 POS="102.079646017699,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2081">
+<Objects>
+<L09 POS="101.061946902655,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2082">
+<Objects>
+<L09 POS="100.044247787611,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2083">
+<Objects>
+<L09 POS="99.0265486725664,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2084">
+<Objects>
+<L09 POS="98.0088495575221,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2085">
+<Objects>
+<L09 POS="96.9911504424779,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2086">
+<Objects>
+<L09 POS="95.9734513274336,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2087">
+<Objects>
+<L09 POS="94.9557522123894,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2088">
+<Objects>
+<L09 POS="93.9380530973451,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2089">
+<Objects>
+<L09 POS="92.9203539823009,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2090">
+<Objects>
+<L09 POS="91.9026548672566,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2091">
+<Objects>
+<L09 POS="90.8849557522124,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2092">
+<Objects>
+<L09 POS="89.8672566371681,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2093">
+<Objects>
+<L09 POS="88.8495575221239,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2094">
+<Objects>
+<L09 POS="87.8318584070797,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2095">
+<Objects>
+<L09 POS="86.8141592920354,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2096">
+<Objects>
+<L09 POS="85.7964601769911,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2097">
+<Objects>
+<L09 POS="84.7787610619469,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2098">
+<Objects>
+<L09 POS="83.7610619469027,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2099">
+<Objects>
+<L09 POS="82.7433628318584,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2100">
+<Objects>
+<L09 POS="81.7256637168142,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2101">
+<Objects>
+<L09 POS="80.7079646017699,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2102">
+<Objects>
+<L09 POS="79.6902654867257,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2103">
+<Objects>
+<L09 POS="78.6725663716814,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2104">
+<Objects>
+<L09 POS="77.6548672566372,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2105">
+<Objects>
+<L09 POS="76.6371681415929,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2106">
+<Objects>
+<L09 POS="75.6194690265487,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2107">
+<Objects>
+<L09 POS="74.6017699115044,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2108">
+<Objects>
+<L09 POS="73.5840707964602,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2109">
+<Objects>
+<L09 POS="72.5663716814159,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2110">
+<Objects>
+<L09 POS="71.5486725663717,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2111">
+<Objects>
+<L09 POS="70.5309734513274,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2112">
+<Objects>
+<L09 POS="69.5132743362832,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2113">
+<Objects>
+<L09 POS="68.4955752212389,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2114">
+<Objects>
+<L09 POS="67.4778761061947,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2115">
+<Objects>
+<L09 POS="66.4601769911504,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2116">
+<Objects>
+<L09 POS="65.4424778761062,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2117">
+<Objects>
+<L09 POS="64.4247787610619,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2118">
+<Objects>
+<L09 POS="63.4070796460177,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2119">
+<Objects>
+<L09 POS="62.3893805309735,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2120">
+<Objects>
+<L09 POS="61.3716814159292,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2121">
+<Objects>
+<L09 POS="60.353982300885,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2122">
+<Objects>
+<L09 POS="59.3362831858407,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2123">
+<Objects>
+<L09 POS="58.3185840707965,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2124">
+<Objects>
+<L09 POS="57.3008849557522,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2125">
+<Objects>
+<L09 POS="56.283185840708,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2126">
+<Objects>
+<L09 POS="55.2654867256637,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2127">
+<Objects>
+<L09 POS="54.2477876106195,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2128">
+<Objects>
+<L09 POS="53.2300884955752,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="2129">
+<Objects>
+<L09 POS="51.1946902654867,0.0" DIFF="255,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="2130">
+<Objects>
+<L09 POS="50.1769911504425,0.0" DIFF="233,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="2131">
+<Objects>
+<L09 POS="49.1592920353982,0.0" DIFF="212,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="2132">
+<Objects>
+<L09 POS="48.141592920354,0.0" DIFF="191,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="2133">
+<Objects>
+<L09 POS="47.1238938053097,0.0" DIFF="170,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="2134">
+<Objects>
+<L09 POS="46.1061946902655,0.0" DIFF="148,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="2135">
+<Objects>
+<L09 POS="45.0884955752212,0.0" DIFF="127,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="2136">
+<Objects>
+<L09 POS="44.070796460177,0.0" DIFF="106,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="2137">
+<Objects>
+<L09 POS="43.0530973451327,0.0" DIFF="85,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="2138">
+<Objects>
+<L09 POS="42.0353982300885,0.0" DIFF="63,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="2139">
+<Objects>
+<L09 POS="41.0176991150443,0.0" DIFF="42,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="2140">
+<Objects>
+<L09 POS="40.0,0.0" DIFF="21,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="2141">
+<EraseText/>
+<Objects>
+<L09 ERASE="TRUE" />
+</Objects>
+</Frame>
+<Frame TIME="2142">
+<Log NAME="2" MESS="47" />
+<Text MESS="48" />
+<Text MESS="49" />
+<Objects>
+<base12 ERASE="TRUE" />
+<base13 CREATE="Movie" FILE="Graphic/A-00_13.m1v" DEPTH="0" />
+<L09 DIFF="0,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="2333">
+<EraseText/>
+</Frame>
+<Frame TIME="2334">
+<Log NAME="4" MESS="50" />
+<Text MESS="50" />
+<Objects>
+<base13 ERASE="TRUE" />
+<base14 CREATE="Movie" FILE="Graphic/A-00_14.m1v" DEPTH="0" />
+</Objects>
+</Frame>
+<Frame TIME="2404">
+<EraseText/>
+</Frame>
+<Frame TIME="2405">
+<Log NAME="2" MESS="51" />
+<Text MESS="52" />
+<Text MESS="53" />
+</Frame>
+<Frame TIME="2540">
+<EraseText/>
+</Frame>
+<Frame TIME="2542">
+<Log NAME="4" MESS="54" />
+<Text MESS="55" />
+<Text MESS="56" />
+</Frame>
+<Frame TIME="2646">
+<EraseText/>
+</Frame>
+<Frame TIME="2648">
+<Log NAME="2" MESS="57" />
+<Text MESS="58" />
+<Text MESS="59" />
+</Frame>
+<Frame TIME="2787">
+<EraseText/>
+</Frame>
+<Frame TIME="2791">
+<Log NAME="4" MESS="60" />
+<Text MESS="60" />
+</Frame>
+<Frame TIME="2810">
+<EraseText/>
+</Frame>
+<Frame TIME="2812">
+<Log NAME="2" MESS="61" />
+<Text MESS="61" />
+</Frame>
+<Frame TIME="2873">
+<EraseText/>
+</Frame>
+<Frame TIME="2874">
+<Log NAME="4" MESS="62" />
+<Text MESS="62" />
+<Objects>
+<base14 ERASE="TRUE" />
+<base15 CREATE="Movie" FILE="Graphic/A-00_15.m1v" DEPTH="0" />
+</Objects>
+</Frame>
+<Frame TIME="2922">
+<EraseText/>
+</Frame>
+<Frame TIME="2927">
+<Log NAME="2" MESS="63" />
+<Text MESS="63" />
+</Frame>
+<Frame TIME="2947">
+<EraseText/>
+</Frame>
+<Frame TIME="2948">
+<Log NAME="4" MESS="64" />
+<Text MESS="64" />
+</Frame>
+<Frame TIME="2972">
+<EraseText/>
+</Frame>
+<Frame TIME="2974">
+<Log NAME="2" MESS="65" />
+<Text MESS="65" />
+</Frame>
+<Frame TIME="3011">
+<EraseText/>
+</Frame>
+<Frame TIME="3012">
+<Log NAME="4" MESS="66" />
+<Text MESS="66" />
+<Objects>
+<L10 CREATE="Layer" POS="330.0,0.0" SIZE="302.0,360.0" DEPTH="10" >
+<WAKUA CREATE="Image" FILE="Graphic/A.SFD" DEPTH="100" />
+<I100 CREATE="Image" FILE="Graphic/s02.sfd" SIZE="302.0,360.0" VIEW="0.0,5.0,421.0,506.854304635762" />
+</L10>
+<base16 CREATE="Movie" FILE="Graphic/A-00_16.m1v" DEPTH="0" />
+<base15 ERASE="TRUE" />
+</Objects>
+</Frame>
+<Frame TIME="3013">
+<Objects>
+<L10 POS="328.837209302326,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3014">
+<Objects>
+<L10 POS="327.674418604651,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3015">
+<Objects>
+<L10 POS="326.511627906977,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3016">
+<Objects>
+<L10 POS="325.348837209302,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3017">
+<Objects>
+<L10 POS="324.186046511628,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3018">
+<Objects>
+<L10 POS="323.023255813953,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3019">
+<Objects>
+<L10 POS="321.860465116279,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3020">
+<Objects>
+<L10 POS="320.697674418605,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3021">
+<Objects>
+<L10 POS="319.53488372093,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3022">
+<Objects>
+<L10 POS="318.372093023256,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3023">
+<Objects>
+<L10 POS="317.209302325581,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3024">
+<Objects>
+<L10 POS="316.046511627907,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3025">
+<Objects>
+<L10 POS="314.883720930233,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3026">
+<Objects>
+<L10 POS="313.720930232558,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3027">
+<Objects>
+<L10 POS="312.558139534884,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3028">
+<Objects>
+<L10 POS="311.395348837209,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3029">
+<Objects>
+<L10 POS="310.232558139535,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3030">
+<Objects>
+<L10 POS="309.06976744186,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3031">
+<Objects>
+<L10 POS="307.906976744186,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3032">
+<Objects>
+<L10 POS="306.744186046512,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3033">
+<Objects>
+<L10 POS="305.581395348837,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3034">
+<Objects>
+<L10 POS="304.418604651163,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3035">
+<Objects>
+<L10 POS="303.255813953488,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3036">
+<Objects>
+<L10 POS="302.093023255814,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3037">
+<Objects>
+<L10 POS="300.93023255814,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3038">
+<Objects>
+<L10 POS="299.767441860465,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3039">
+<Objects>
+<L10 POS="298.604651162791,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3040">
+<Objects>
+<L10 POS="297.441860465116,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3041">
+<Objects>
+<L10 POS="296.279069767442,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3042">
+<Objects>
+<L10 POS="295.116279069767,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3043">
+<Objects>
+<L10 POS="293.953488372093,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3044">
+<Objects>
+<L10 POS="292.790697674419,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3045">
+<Objects>
+<L10 POS="291.627906976744,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3046">
+<Objects>
+<L10 POS="290.46511627907,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3047">
+<Objects>
+<L10 POS="289.302325581395,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3048">
+<Objects>
+<L10 POS="288.139534883721,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3049">
+<Objects>
+<L10 POS="286.976744186047,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3050">
+<Objects>
+<L10 POS="285.813953488372,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3051">
+<Objects>
+<L10 POS="284.651162790698,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3052">
+<Objects>
+<L10 POS="283.488372093023,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3053">
+<Objects>
+<L10 POS="282.325581395349,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3054">
+<Objects>
+<L10 POS="281.162790697674,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3055">
+<Objects>
+<L10 POS="280.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3056">
+<Objects>
+<L10 POS="278.837209302326,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3057">
+<Objects>
+<L10 POS="277.674418604651,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3058">
+<Objects>
+<L10 POS="276.511627906977,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3059">
+<Objects>
+<L10 POS="275.348837209302,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3060">
+<Objects>
+<L10 POS="274.186046511628,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3061">
+<Objects>
+<L10 POS="273.023255813953,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3062">
+<Objects>
+<L10 POS="271.860465116279,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3063">
+<Objects>
+<L10 POS="270.697674418605,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3064">
+<Objects>
+<L10 POS="269.53488372093,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3065">
+<Objects>
+<L10 POS="268.372093023256,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3066">
+<Objects>
+<L10 POS="267.209302325581,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3067">
+<Objects>
+<L10 POS="266.046511627907,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3068">
+<Objects>
+<L10 POS="264.883720930233,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3069">
+<Objects>
+<L10 POS="263.720930232558,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3070">
+<Objects>
+<L10 POS="262.558139534884,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3071">
+<Objects>
+<L10 POS="261.395348837209,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3072">
+<Objects>
+<L10 POS="260.232558139535,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3073">
+<Objects>
+<L10 POS="259.06976744186,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3074">
+<Objects>
+<L10 POS="257.906976744186,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3075">
+<Objects>
+<L10 POS="256.744186046512,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3076">
+<Objects>
+<L10 POS="255.581395348837,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3077">
+<Objects>
+<L10 POS="254.418604651163,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3078">
+<Objects>
+<L10 POS="253.255813953488,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3079">
+<Objects>
+<L10 POS="252.093023255814,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3080">
+<Objects>
+<L10 POS="250.93023255814,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3081">
+<Objects>
+<L10 POS="249.767441860465,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3082">
+<Objects>
+<L10 POS="248.604651162791,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3083">
+<Objects>
+<L10 POS="247.441860465116,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3084">
+<Objects>
+<L10 POS="246.279069767442,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3085">
+<Objects>
+<L10 POS="245.116279069767,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3086">
+<Objects>
+<L10 POS="242.790697674419,0.0" DIFF="255,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3087">
+<Objects>
+<L10 POS="241.627906976744,0.0" DIFF="233,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3088">
+<Objects>
+<L10 POS="240.46511627907,0.0" DIFF="212,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3089">
+<Objects>
+<L10 POS="239.302325581395,0.0" DIFF="191,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3090">
+<Objects>
+<L10 POS="238.139534883721,0.0" DIFF="170,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3091">
+<Objects>
+<L10 POS="236.976744186047,0.0" DIFF="148,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3092">
+<Objects>
+<L10 POS="235.813953488372,0.0" DIFF="127,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3093">
+<Objects>
+<L10 POS="234.651162790698,0.0" DIFF="106,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3094">
+<Objects>
+<L10 POS="233.488372093023,0.0" DIFF="85,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3095">
+<Objects>
+<L10 POS="232.325581395349,0.0" DIFF="63,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3096">
+<Objects>
+<L10 POS="231.162790697674,0.0" DIFF="42,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3097">
+<Objects>
+<L10 POS="230.0,0.0" DIFF="21,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3098">
+<EraseText/>
+<Objects>
+<L10 ERASE="TRUE" />
+</Objects>
+</Frame>
+<Frame TIME="3099">
+<Log NAME="2" MESS="67" />
+<Text MESS="67" />
+<Objects>
+<L10 DIFF="0,255,255,255" />
+<Lt0 CREATE="Layer" POS="169.0,0.0" SIZE="302.0,360.0" DEPTH="10" >
+<WAKUA CREATE="Image" FILE="Graphic/A.SFD" DEPTH="100" />
+<It0 CREATE="Image" FILE="Graphic/s17a.sfd" SIZE="302.0,360.0" VIEW="12.0,60.0,501.0,642.913907284768" />
+</Lt0>
+</Objects>
+</Frame>
+<Frame TIME="3125">
+<EraseText/>
+</Frame>
+<Frame TIME="3127">
+<Objects>
+<Lt0 ERASE="TRUE" />
+</Objects>
+</Frame>
+<Frame TIME="3128">
+<Log NAME="4" MESS="68" />
+<Text MESS="69" />
+<Text MESS="70" />
+<Objects>
+<L11 CREATE="Layer" POS="230.0,0.0" SIZE="302.0,360.0" DEPTH="10" >
+<WAKUA CREATE="Image" FILE="Graphic/A.SFD" DEPTH="100" />
+<I110 CREATE="Image" FILE="Graphic/s02.sfd" SIZE="302.0,360.0" VIEW="0.0,5.0,421.0,506.854304635762" />
+</L11>
+</Objects>
+</Frame>
+<Frame TIME="3129">
+<Objects>
+<L11 POS="228.823529411765,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3130">
+<Objects>
+<L11 POS="227.647058823529,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3131">
+<Objects>
+<L11 POS="226.470588235294,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3132">
+<Objects>
+<L11 POS="225.294117647059,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3133">
+<Objects>
+<L11 POS="224.117647058824,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3134">
+<Objects>
+<L11 POS="222.941176470588,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3135">
+<Objects>
+<L11 POS="221.764705882353,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3136">
+<Objects>
+<L11 POS="220.588235294118,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3137">
+<Objects>
+<L11 POS="219.411764705882,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3138">
+<Objects>
+<L11 POS="218.235294117647,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3139">
+<Objects>
+<L11 POS="217.058823529412,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3140">
+<Objects>
+<L11 POS="215.882352941176,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3141">
+<Objects>
+<L11 POS="214.705882352941,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3142">
+<Objects>
+<L11 POS="213.529411764706,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3143">
+<Objects>
+<L11 POS="212.352941176471,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3144">
+<Objects>
+<L11 POS="211.176470588235,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3145">
+<Objects>
+<L11 POS="210.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3146">
+<Objects>
+<L11 POS="208.823529411765,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3147">
+<Objects>
+<L11 POS="207.647058823529,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3148">
+<Objects>
+<L11 POS="206.470588235294,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3149">
+<Objects>
+<L11 POS="205.294117647059,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3150">
+<Objects>
+<L11 POS="204.117647058824,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3151">
+<Objects>
+<L11 POS="202.941176470588,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3152">
+<Objects>
+<L11 POS="201.764705882353,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3153">
+<Objects>
+<L11 POS="200.588235294118,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3154">
+<Objects>
+<L11 POS="199.411764705882,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3155">
+<Objects>
+<L11 POS="198.235294117647,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3156">
+<Objects>
+<L11 POS="197.058823529412,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3157">
+<Objects>
+<L11 POS="195.882352941176,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3158">
+<Objects>
+<L11 POS="194.705882352941,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3159">
+<Objects>
+<L11 POS="193.529411764706,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3160">
+<Objects>
+<L11 POS="192.352941176471,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3161">
+<Objects>
+<L11 POS="191.176470588235,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3162">
+<Objects>
+<L11 POS="190.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3163">
+<Objects>
+<L11 POS="188.823529411765,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3164">
+<Objects>
+<L11 POS="187.647058823529,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3165">
+<Objects>
+<L11 POS="186.470588235294,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3166">
+<Objects>
+<L11 POS="185.294117647059,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3167">
+<Objects>
+<L11 POS="184.117647058824,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3168">
+<Objects>
+<L11 POS="182.941176470588,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3169">
+<Objects>
+<L11 POS="181.764705882353,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3170">
+<Objects>
+<L11 POS="180.588235294118,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3171">
+<Objects>
+<L11 POS="179.411764705882,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3172">
+<Objects>
+<L11 POS="178.235294117647,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3173">
+<Objects>
+<L11 POS="177.058823529412,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3174">
+<Objects>
+<L11 POS="175.882352941176,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3175">
+<Objects>
+<L11 POS="174.705882352941,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3176">
+<Objects>
+<L11 POS="173.529411764706,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3177">
+<Objects>
+<L11 POS="172.352941176471,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3178">
+<Objects>
+<L11 POS="171.176470588235,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3179">
+<Objects>
+<L11 POS="170.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3180">
+<Objects>
+<L11 POS="168.823529411765,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3181">
+<Objects>
+<L11 POS="167.647058823529,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3182">
+<Objects>
+<L11 POS="166.470588235294,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3183">
+<Objects>
+<L11 POS="165.294117647059,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3184">
+<Objects>
+<L11 POS="164.117647058824,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3185">
+<Objects>
+<L11 POS="162.941176470588,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3186">
+<Objects>
+<L11 POS="161.764705882353,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3187">
+<Objects>
+<L11 POS="160.588235294118,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3188">
+<Objects>
+<L11 POS="159.411764705882,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3189">
+<Objects>
+<L11 POS="158.235294117647,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3190">
+<Objects>
+<L11 POS="157.058823529412,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3191">
+<Objects>
+<L11 POS="155.882352941176,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3192">
+<Objects>
+<L11 POS="154.705882352941,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3193">
+<Objects>
+<L11 POS="153.529411764706,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3194">
+<Objects>
+<L11 POS="152.352941176471,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3195">
+<Objects>
+<L11 POS="151.176470588235,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3196">
+<Objects>
+<L11 POS="150.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3197">
+<Objects>
+<L11 POS="148.823529411765,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3198">
+<Objects>
+<L11 POS="147.647058823529,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3199">
+<Objects>
+<L11 POS="146.470588235294,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3200">
+<Objects>
+<L11 POS="145.294117647059,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3201">
+<Objects>
+<L11 POS="142.941176470588,0.0" DIFF="255,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3202">
+<Objects>
+<L11 POS="141.764705882353,0.0" DIFF="233,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3203">
+<Objects>
+<L11 POS="140.588235294118,0.0" DIFF="212,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3204">
+<Objects>
+<L11 POS="139.411764705882,0.0" DIFF="191,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3205">
+<Objects>
+<L11 POS="138.235294117647,0.0" DIFF="170,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3206">
+<Objects>
+<L11 POS="137.058823529412,0.0" DIFF="148,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3207">
+<Objects>
+<L11 POS="135.882352941176,0.0" DIFF="127,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3208">
+<Objects>
+<L11 POS="134.705882352941,0.0" DIFF="106,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3209">
+<Objects>
+<L11 POS="133.529411764706,0.0" DIFF="85,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3210">
+<Objects>
+<L11 POS="132.352941176471,0.0" DIFF="63,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3211">
+<Objects>
+<L11 POS="131.176470588235,0.0" DIFF="42,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3212">
+<Objects>
+<L11 POS="130.0,0.0" DIFF="21,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3213">
+<EraseText/>
+<Objects>
+<L11 ERASE="TRUE" />
+</Objects>
+</Frame>
+<Frame TIME="3214">
+<Log NAME="2" MESS="71" />
+<Text MESS="71" />
+<Objects>
+<L11 DIFF="0,255,255,255" />
+<Lt1 CREATE="Layer" POS="169.0,0.0" SIZE="302.0,360.0" DEPTH="10" >
+<WAKUA CREATE="Image" FILE="Graphic/A.SFD" DEPTH="100" />
+<It1 CREATE="Image" FILE="Graphic/s17a.sfd" SIZE="302.0,360.0" VIEW="12.0,60.0,501.0,642.913907284768" />
+</Lt1>
+</Objects>
+</Frame>
+<Frame TIME="3273">
+<EraseText/>
+<Objects>
+<Lt1 ERASE="TRUE" />
+</Objects>
+</Frame>
+<Frame TIME="3274">
+<Log NAME="4" MESS="72" />
+<Text MESS="72" />
+<Objects>
+<L12 CREATE="Layer" POS="130.0,0.0" SIZE="302.0,360.0" DEPTH="10" >
+<WAKUA CREATE="Image" FILE="Graphic/A.SFD" DEPTH="100" />
+<I120 CREATE="Image" FILE="Graphic/s02.sfd" SIZE="302.0,360.0" VIEW="0.0,5.0,421.0,506.854304635762" />
+</L12>
+</Objects>
+</Frame>
+<Frame TIME="3275">
+<Objects>
+<L12 POS="124.545454545455,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3276">
+<Objects>
+<L12 POS="119.090909090909,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3277">
+<Objects>
+<L12 POS="113.636363636364,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3278">
+<Objects>
+<L12 POS="108.181818181818,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3279">
+<Objects>
+<L12 POS="102.727272727273,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3280">
+<Objects>
+<L12 POS="97.2727272727273,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3281">
+<Objects>
+<L12 POS="91.8181818181818,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3282">
+<Objects>
+<L12 POS="86.3636363636364,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3283">
+<Objects>
+<L12 POS="80.9090909090909,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3284">
+<Objects>
+<L12 POS="75.4545454545455,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3285">
+<EraseText/>
+<Objects>
+<L12 ERASE="TRUE" />
+</Objects>
+</Frame>
+<Frame TIME="3286">
+<Log NAME="2" MESS="73" />
+<Text MESS="73" />
+<Objects>
+<L12 POS="70.0,0.0" />
+<Lt2 CREATE="Layer" POS="169.0,0.0" SIZE="302.0,360.0" DEPTH="10" >
+<WAKUA CREATE="Image" FILE="Graphic/A.SFD" DEPTH="100" />
+<It2 CREATE="Image" FILE="Graphic/s17a.sfd" SIZE="302.0,360.0" VIEW="12.0,60.0,501.0,642.913907284768" />
+</Lt2>
+</Objects>
+</Frame>
+<Frame TIME="3306">
+<EraseText/>
+<Objects>
+<Lt2 ERASE="TRUE" />
+</Objects>
+</Frame>
+<Frame TIME="3307">
+<Log NAME="4" MESS="74" />
+<Text MESS="74" />
+<Objects>
+<L13 CREATE="Layer" POS="70.0,0.0" SIZE="302.0,360.0" DEPTH="10" >
+<WAKUA CREATE="Image" FILE="Graphic/A.SFD" DEPTH="100" />
+<I130 CREATE="Image" FILE="Graphic/s02.sfd" SIZE="302.0,360.0" VIEW="0.0,5.0,421.0,506.854304635762" />
+</L13>
+</Objects>
+</Frame>
+<Frame TIME="3308">
+<Objects>
+<L13 POS="65.6666666666667,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3309">
+<Objects>
+<L13 POS="61.3333333333333,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3310">
+<Objects>
+<L13 POS="57.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3311">
+<Objects>
+<L13 POS="52.6666666666667,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3312">
+<Objects>
+<L13 POS="48.3333333333333,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3313">
+<Objects>
+<L13 POS="44.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3314">
+<Objects>
+<L13 POS="39.6666666666667,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3315">
+<Objects>
+<L13 POS="35.3333333333333,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3316">
+<Objects>
+<L13 POS="31.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3317">
+<Objects>
+<L13 POS="26.6666666666667,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3318">
+<Objects>
+<L13 POS="22.3333333333333,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3319">
+<Objects>
+<L13 POS="18.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3320">
+<Objects>
+<L13 POS="13.6666666666667,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3321">
+<Objects>
+<L13 POS="9.33333333333334,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3322">
+<EraseText/>
+<Objects>
+<L13 ERASE="TRUE" />
+</Objects>
+</Frame>
+<Frame TIME="3323">
+<Log NAME="2" MESS="75" />
+<Text MESS="75" />
+<Objects>
+<Lt3 CREATE="Layer" POS="169.0,0.0" SIZE="302.0,360.0" DEPTH="10" >
+<WAKUA CREATE="Image" FILE="Graphic/A.SFD" DEPTH="100" />
+<It3 CREATE="Image" FILE="Graphic/s17.sfd" SIZE="302.0,360.0" VIEW="12.0,60.0,501.0,642.913907284768" />
+</Lt3>
+<L13 POS="5.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3389">
+<EraseText/>
+</Frame>
+<Frame TIME="3392">
+<Objects>
+<Lt3 ERASE="TRUE" />
+</Objects>
+</Frame>
+<Frame TIME="3393">
+<Log NAME="4" MESS="76" />
+<Text MESS="76" />
+<Objects>
+<L14 CREATE="Layer" POS="10.0,0.0" SIZE="302.0,360.0" DEPTH="10" >
+<WAKUA CREATE="Image" FILE="Graphic/A.SFD" DEPTH="100" />
+<I140 CREATE="Image" FILE="Graphic/s36.sfd" SIZE="302.0,360.0" VIEW="45.0,15.0,466.0,516.854304635762" />
+</L14>
+</Objects>
+</Frame>
+<Frame TIME="3394">
+<Objects>
+<L14 POS="11.7910447761194,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3395">
+<Objects>
+<L14 POS="13.5820895522388,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3396">
+<Objects>
+<L14 POS="15.3731343283582,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3397">
+<Objects>
+<L14 POS="17.1641791044776,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3398">
+<Objects>
+<L14 POS="18.955223880597,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3399">
+<Objects>
+<L14 POS="20.7462686567164,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3400">
+<Objects>
+<L14 POS="22.5373134328358,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3401">
+<Objects>
+<L14 POS="24.3283582089552,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3402">
+<Objects>
+<L14 POS="26.1194029850746,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3403">
+<Objects>
+<L14 POS="27.910447761194,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3404">
+<Objects>
+<L14 POS="29.7014925373134,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3405">
+<Objects>
+<L14 POS="31.4925373134328,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3406">
+<Objects>
+<L14 POS="33.2835820895522,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3407">
+<Objects>
+<L14 POS="35.0746268656716,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3408">
+<Objects>
+<L14 POS="36.865671641791,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3409">
+<Objects>
+<L14 POS="38.6567164179104,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3410">
+<Objects>
+<L14 POS="40.4477611940299,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3411">
+<Objects>
+<L14 POS="42.2388059701493,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3412">
+<Objects>
+<L14 POS="44.0298507462687,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3413">
+<Objects>
+<L14 POS="45.8208955223881,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3414">
+<Objects>
+<L14 POS="47.6119402985075,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3415">
+<Objects>
+<L14 POS="49.4029850746269,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3416">
+<Objects>
+<L14 POS="51.1940298507463,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3417">
+<Objects>
+<L14 POS="52.9850746268657,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3418">
+<Objects>
+<L14 POS="54.7761194029851,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3419">
+<Objects>
+<L14 POS="56.5671641791045,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3420">
+<Objects>
+<L14 POS="58.3582089552239,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3421">
+<Objects>
+<L14 POS="60.1492537313433,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3422">
+<Objects>
+<L14 POS="61.9402985074627,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3423">
+<Objects>
+<L14 POS="63.7313432835821,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3424">
+<Objects>
+<L14 POS="65.5223880597015,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3425">
+<Objects>
+<L14 POS="67.3134328358209,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3426">
+<Objects>
+<L14 POS="69.1044776119403,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3427">
+<Objects>
+<L14 POS="70.8955223880597,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3428">
+<Objects>
+<L14 POS="72.6865671641791,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3429">
+<Objects>
+<L14 POS="74.4776119402985,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3430">
+<Objects>
+<L14 POS="76.2686567164179,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3431">
+<Objects>
+<L14 POS="78.0597014925373,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3432">
+<Objects>
+<L14 POS="79.8507462686567,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3433">
+<Objects>
+<L14 POS="81.6417910447761,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3434">
+<Objects>
+<L14 POS="83.4328358208955,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3435">
+<Objects>
+<L14 POS="85.2238805970149,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3436">
+<Objects>
+<L14 POS="87.0149253731343,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3437">
+<Objects>
+<L14 POS="88.8059701492537,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3438">
+<Objects>
+<L14 POS="90.5970149253731,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3439">
+<Objects>
+<L14 POS="92.3880597014925,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3440">
+<Objects>
+<L14 POS="94.1791044776119,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3441">
+<Objects>
+<L14 POS="95.9701492537313,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3442">
+<Objects>
+<L14 POS="97.7611940298507,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3443">
+<Objects>
+<L14 POS="99.5522388059701,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3444">
+<Objects>
+<L14 POS="101.34328358209,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3445">
+<Objects>
+<L14 POS="103.134328358209,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3446">
+<Objects>
+<L14 POS="104.925373134328,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3447">
+<Objects>
+<L14 POS="106.716417910448,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3448">
+<Objects>
+<L14 POS="110.298507462687,0.0" DIFF="255,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3449">
+<Objects>
+<L14 POS="112.089552238806,0.0" DIFF="233,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3450">
+<Objects>
+<L14 POS="113.880597014925,0.0" DIFF="212,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3451">
+<Objects>
+<L14 POS="115.671641791045,0.0" DIFF="191,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3452">
+<Objects>
+<L14 POS="117.462686567164,0.0" DIFF="170,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3453">
+<Objects>
+<L14 POS="119.253731343284,0.0" DIFF="148,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3454">
+<Objects>
+<L14 POS="121.044776119403,0.0" DIFF="127,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3455">
+<Objects>
+<L14 POS="122.835820895522,0.0" DIFF="106,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3456">
+<Objects>
+<L14 POS="124.626865671642,0.0" DIFF="85,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3457">
+<Objects>
+<L14 POS="126.417910447761,0.0" DIFF="63,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3458">
+<Objects>
+<L14 POS="128.208955223881,0.0" DIFF="42,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3459">
+<Objects>
+<L14 POS="130.0,0.0" DIFF="21,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3460">
+<Objects>
+<L14 ERASE="TRUE" />
+</Objects>
+</Frame>
+<Frame TIME="3461">
+<EraseText/>
+<Log NAME="2" MESS="77" />
+<Text MESS="77" />
+<Objects>
+<Lt4 CREATE="Layer" POS="169.0,0.0" SIZE="302.0,360.0" DEPTH="10" >
+<WAKUA CREATE="Image" FILE="Graphic/A.SFD" DEPTH="100" />
+<It4 CREATE="Image" FILE="Graphic/s17a.sfd" SIZE="302.0,360.0" VIEW="12.0,60.0,501.0,642.913907284768" />
+</Lt4>
+<L14 DIFF="0,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3543">
+<EraseText/>
+<Objects>
+<Lt4 ERASE="TRUE" />
+</Objects>
+</Frame>
+<Frame TIME="3544">
+<Log NAME="4" MESS="78" />
+<Text MESS="78" />
+<Objects>
+<L15 CREATE="Layer" POS="130.0,0.0" SIZE="302.0,360.0" DEPTH="10" >
+<WAKUA CREATE="Image" FILE="Graphic/A.SFD" DEPTH="100" />
+<I150 CREATE="Image" FILE="Graphic/s02.sfd" SIZE="302.0,360.0" VIEW="0.0,5.0,421.0,506.854304635762" />
+</L15>
+</Objects>
+</Frame>
+<Frame TIME="3545">
+<Objects>
+<L15 POS="132.631578947368,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3546">
+<Objects>
+<L15 POS="135.263157894737,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3547">
+<Objects>
+<L15 POS="137.894736842105,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3548">
+<Objects>
+<L15 POS="140.526315789474,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3549">
+<Objects>
+<L15 POS="143.157894736842,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3550">
+<Objects>
+<L15 POS="145.789473684211,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3551">
+<Objects>
+<L15 POS="148.421052631579,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3552">
+<Objects>
+<L15 POS="151.052631578947,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3553">
+<Objects>
+<L15 POS="153.684210526316,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3554">
+<Objects>
+<L15 POS="156.315789473684,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3555">
+<Objects>
+<L15 POS="158.947368421053,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3556">
+<Objects>
+<L15 POS="161.578947368421,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3557">
+<Objects>
+<L15 POS="164.210526315789,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3558">
+<Objects>
+<L15 POS="166.842105263158,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3559">
+<Objects>
+<L15 POS="169.473684210526,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3560">
+<Objects>
+<L15 POS="172.105263157895,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3561">
+<Objects>
+<L15 POS="174.736842105263,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3562">
+<Objects>
+<L15 POS="177.368421052632,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3563">
+<Objects>
+<L15 POS="180.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3564">
+<Objects>
+<L15 POS="182.631578947368,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3565">
+<Objects>
+<L15 POS="185.263157894737,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3566">
+<Objects>
+<L15 POS="187.894736842105,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3567">
+<Objects>
+<L15 POS="190.526315789474,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3568">
+<Objects>
+<L15 POS="193.157894736842,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3569">
+<Objects>
+<L15 POS="195.789473684211,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3570">
+<Objects>
+<L15 POS="201.052631578947,0.0" DIFF="255,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3571">
+<Objects>
+<L15 POS="203.684210526316,0.0" DIFF="233,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3572">
+<Objects>
+<L15 POS="206.315789473684,0.0" DIFF="212,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3573">
+<Objects>
+<L15 POS="208.947368421053,0.0" DIFF="191,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3574">
+<Objects>
+<L15 POS="211.578947368421,0.0" DIFF="170,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3575">
+<Objects>
+<L15 POS="214.210526315789,0.0" DIFF="148,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3576">
+<Objects>
+<L15 POS="216.842105263158,0.0" DIFF="127,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3577">
+<Objects>
+<L15 POS="219.473684210526,0.0" DIFF="106,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3578">
+<Objects>
+<L15 POS="222.105263157895,0.0" DIFF="85,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3579">
+<Objects>
+<L15 POS="224.736842105263,0.0" DIFF="63,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3580">
+<Objects>
+<L15 POS="227.368421052632,0.0" DIFF="42,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3581">
+<EraseText/>
+<Objects>
+<L15 POS="230.0,0.0" DIFF="0,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3582">
+<Objects>
+<L15 ERASE="TRUE" />
+</Objects>
+</Frame>
+<Frame TIME="3583">
+<Log NAME="2" MESS="79" />
+<Text MESS="79" />
+<Objects>
+<Lt5 CREATE="Layer" POS="169.0,0.0" SIZE="302.0,360.0" DEPTH="10" >
+<WAKUA CREATE="Image" FILE="Graphic/A.SFD" DEPTH="100" />
+<It5 CREATE="Image" FILE="Graphic/s17a.sfd" SIZE="302.0,360.0" VIEW="12.0,60.0,501.0,642.913907284768" />
+</Lt5>
+</Objects>
+</Frame>
+<Frame TIME="3615">
+<EraseText/>
+<Objects>
+<Lt5 ERASE="TRUE" />
+</Objects>
+</Frame>
+<Frame TIME="3617">
+<Log NAME="4" MESS="80" />
+<Text MESS="80" />
+<Objects>
+<L16 CREATE="Layer" POS="230.0,0.0" SIZE="302.0,360.0" DEPTH="10" >
+<WAKUA CREATE="Image" FILE="Graphic/A.SFD" DEPTH="100" />
+<I160 CREATE="Image" FILE="Graphic/s02.sfd" SIZE="302.0,360.0" VIEW="0.0,5.0,421.0,506.854304635762" />
+</L16>
+</Objects>
+</Frame>
+<Frame TIME="3618">
+<Objects>
+<L16 POS="232.272727272727,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3619">
+<Objects>
+<L16 POS="234.545454545455,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3620">
+<Objects>
+<L16 POS="236.818181818182,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3621">
+<Objects>
+<L16 POS="239.090909090909,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3622">
+<Objects>
+<L16 POS="241.363636363636,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3623">
+<Objects>
+<L16 POS="243.636363636364,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3624">
+<Objects>
+<L16 POS="245.909090909091,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3625">
+<Objects>
+<L16 POS="248.181818181818,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3626">
+<Objects>
+<L16 POS="250.454545454545,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3627">
+<Objects>
+<L16 POS="252.727272727273,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3628">
+<Objects>
+<L16 POS="255.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3629">
+<Objects>
+<L16 POS="257.272727272727,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3630">
+<Objects>
+<L16 POS="259.545454545455,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3631">
+<Objects>
+<L16 POS="261.818181818182,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3632">
+<Objects>
+<L16 POS="264.090909090909,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3633">
+<Objects>
+<L16 POS="266.363636363636,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3634">
+<Objects>
+<L16 POS="268.636363636364,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3635">
+<Objects>
+<L16 POS="270.909090909091,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3636">
+<Objects>
+<L16 POS="273.181818181818,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3637">
+<Objects>
+<L16 POS="275.454545454545,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3638">
+<Objects>
+<L16 POS="277.727272727273,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3639">
+<Objects>
+<L16 POS="280.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3640">
+<Objects>
+<L16 POS="282.272727272727,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3641">
+<Objects>
+<L16 POS="284.545454545455,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3642">
+<Objects>
+<L16 POS="286.818181818182,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3643">
+<Objects>
+<L16 POS="289.090909090909,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3644">
+<Objects>
+<L16 POS="291.363636363636,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3645">
+<Objects>
+<L16 POS="293.636363636364,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3646">
+<Objects>
+<L16 POS="295.909090909091,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3647">
+<Objects>
+<L16 POS="298.181818181818,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3648">
+<Objects>
+<L16 POS="300.454545454545,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3649">
+<Objects>
+<L16 POS="305.0,0.0" DIFF="255,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3650">
+<Objects>
+<L16 POS="307.272727272727,0.0" DIFF="233,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3651">
+<Objects>
+<L16 POS="309.545454545455,0.0" DIFF="212,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3652">
+<Objects>
+<L16 POS="311.818181818182,0.0" DIFF="191,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3653">
+<Objects>
+<L16 POS="314.090909090909,0.0" DIFF="170,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3654">
+<Objects>
+<L16 POS="316.363636363636,0.0" DIFF="148,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3655">
+<Objects>
+<L16 POS="318.636363636364,0.0" DIFF="127,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3656">
+<Objects>
+<L16 POS="320.909090909091,0.0" DIFF="106,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3657">
+<Objects>
+<L16 POS="323.181818181818,0.0" DIFF="85,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3658">
+<EraseText/>
+<Objects>
+<L16 POS="327.727272727273,0.0" DIFF="42,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3659">
+<Objects>
+<L16 POS="330.0,0.0" DIFF="21,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3660">
+<Objects>
+<L16 DIFF="0,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="3661">
+<Objects>
+<L16 ERASE="TRUE" />
+</Objects>
+</Frame>
+<Frame TIME="3662">
+<Log NAME="2" MESS="81" />
+<Text MESS="82" />
+<Text MESS="83" />
+<Objects>
+<Lt6 CREATE="Layer" POS="169.0,0.0" SIZE="302.0,360.0" DEPTH="10" >
+<It6 CREATE="Image" FILE="Graphic/s17a.sfd" SIZE="302.0,360.0" VIEW="12.0,60.0,501.0,642.913907284768" />
+<WAKUA CREATE="Image" FILE="Graphic/A.SFD" DEPTH="100" />
+</Lt6>
+</Objects>
+</Frame>
+<Frame TIME="3779">
+<EraseText/>
+<Objects>
+<Lt6 ERASE="TRUE" />
+</Objects>
+</Frame>
+<Frame TIME="3780">
+<Log NAME="4" MESS="84" />
+<Text MESS="85" />
+<Text MESS="86" />
+<Objects>
+<L17 CREATE="Layer" POS="116.0,0.0" SIZE="408.0,360.0" DEPTH="10" >
+<I170 CREATE="Image" FILE="Graphic/s37.sfd" SIZE="408.0,360.0" VIEW="32.0,92.0,501.0,505.823529411765" />
+<WAKUE CREATE="Image" FILE="Graphic/E.SFD" DEPTH="100" />
+</L17>
+</Objects>
+</Frame>
+<Frame TIME="3875">
+<EraseText/>
+<Objects>
+<L17 ERASE="TRUE" />
+</Objects>
+</Frame>
+<Frame TIME="3876">
+<Log NAME="2" MESS="87" />
+<Text MESS="87" />
+<Objects>
+<L_DB00 CREATE="Layer" POS="328.0,0.0" SIZE="302.0,360.0" DEPTH="10" >
+<WAKUA CREATE="Image" FILE="Graphic/A.SFD" DEPTH="100" />
+<I_DB00 CREATE="Image" FILE="Graphic/s17.sfd" SIZE="302.0,360.0" VIEW="12.0,60.0,501.0,642.913907284768" />
+</L_DB00>
+</Objects>
+</Frame>
+<Frame TIME="3948">
+<EraseText/>
+</Frame>
+<Frame TIME="3951">
+<Log NAME="4" MESS="5" />
+<Text MESS="5" />
+<Objects>
+<L_DB01 CREATE="Layer" POS="8.0,0.0" SIZE="302.0,360.0" DEPTH="10" >
+<WAKUA CREATE="Image" FILE="Graphic/A.SFD" DEPTH="100" />
+<I_DB01 CREATE="Image" FILE="Graphic/s02.sfd" SIZE="302.0,360.0" VIEW="0.0,5.0,421.0,506.854304635762" />
+</L_DB01>
+</Objects>
+</Frame>
+<Frame TIME="3969">
+<EraseText/>
+</Frame>
+<Frame TIME="3970">
+<Log NAME="2" MESS="88" />
+<Text MESS="89" />
+<Text MESS="90" />
+</Frame>
+<Frame TIME="3971">
+<Objects>
+<L_DB00 POS="327.808510638298,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3972">
+<Objects>
+<L_DB00 POS="327.617021276596,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3973">
+<Objects>
+<L_DB00 POS="327.425531914894,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3974">
+<Objects>
+<L_DB00 POS="327.234042553192,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3975">
+<Objects>
+<L_DB00 POS="327.042553191489,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3976">
+<Objects>
+<L_DB00 POS="326.851063829787,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3977">
+<Objects>
+<L_DB00 POS="326.659574468085,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3978">
+<Objects>
+<L_DB00 POS="326.468085106383,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3979">
+<Objects>
+<L_DB00 POS="326.276595744681,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3980">
+<Objects>
+<L_DB00 POS="326.085106382979,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3981">
+<Objects>
+<L_DB00 POS="325.893617021277,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3982">
+<Objects>
+<L_DB00 POS="325.702127659574,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3983">
+<Objects>
+<L_DB00 POS="325.510638297872,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3984">
+<Objects>
+<L_DB00 POS="325.31914893617,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3985">
+<Objects>
+<L_DB00 POS="325.127659574468,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3986">
+<Objects>
+<L_DB00 POS="324.936170212766,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3987">
+<Objects>
+<L_DB00 POS="324.744680851064,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3988">
+<Objects>
+<L_DB00 POS="324.553191489362,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3989">
+<Objects>
+<L_DB00 POS="324.36170212766,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3990">
+<Objects>
+<L_DB00 POS="324.170212765957,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3991">
+<Objects>
+<L_DB00 POS="323.978723404255,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3992">
+<Objects>
+<L_DB00 POS="323.787234042553,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3993">
+<Objects>
+<L_DB00 POS="323.595744680851,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3994">
+<Objects>
+<L_DB00 POS="323.404255319149,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3995">
+<Objects>
+<L_DB00 POS="323.212765957447,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3996">
+<Objects>
+<L_DB00 POS="323.021276595745,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3997">
+<Objects>
+<L_DB00 POS="322.829787234043,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3998">
+<Objects>
+<L_DB00 POS="322.63829787234,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="3999">
+<Objects>
+<L_DB00 POS="322.446808510638,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4000">
+<Objects>
+<L_DB00 POS="322.255319148936,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4001">
+<Objects>
+<L_DB00 POS="322.063829787234,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4002">
+<Objects>
+<L_DB00 POS="321.872340425532,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4003">
+<Objects>
+<L_DB00 POS="321.68085106383,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4004">
+<Objects>
+<L_DB00 POS="321.489361702128,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4005">
+<Objects>
+<L_DB00 POS="321.297872340426,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4006">
+<Objects>
+<L_DB00 POS="321.106382978723,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4007">
+<Objects>
+<L_DB00 POS="320.914893617021,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4008">
+<Objects>
+<L_DB00 POS="320.723404255319,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4009">
+<Objects>
+<L_DB00 POS="320.531914893617,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4010">
+<Objects>
+<L_DB00 POS="320.340425531915,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4011">
+<Objects>
+<L_DB00 POS="320.148936170213,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4012">
+<Objects>
+<L_DB00 POS="319.957446808511,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4013">
+<Objects>
+<L_DB00 POS="319.765957446808,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4014">
+<Objects>
+<L_DB00 POS="319.574468085106,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4015">
+<Objects>
+<L_DB00 POS="319.382978723404,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4016">
+<Objects>
+<L_DB00 POS="319.191489361702,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4017">
+<Objects>
+<L_DB00 POS="319.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4018">
+<Objects>
+<L_DB00 POS="318.808510638298,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4019">
+<Objects>
+<L_DB00 POS="318.617021276596,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4020">
+<Objects>
+<L_DB00 POS="318.425531914894,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4021">
+<Objects>
+<L_DB00 POS="318.234042553192,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4022">
+<Objects>
+<L_DB00 POS="318.042553191489,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4023">
+<Objects>
+<L_DB00 POS="317.851063829787,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4024">
+<Objects>
+<L_DB00 POS="317.659574468085,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4025">
+<Objects>
+<L_DB00 POS="317.468085106383,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4026">
+<Objects>
+<L_DB00 POS="317.276595744681,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4027">
+<Objects>
+<L_DB00 POS="317.085106382979,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4028">
+<Objects>
+<L_DB00 POS="316.893617021277,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4029">
+<Objects>
+<L_DB00 POS="316.702127659574,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4030">
+<Objects>
+<L_DB00 POS="316.510638297872,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4031">
+<Objects>
+<L_DB00 POS="316.31914893617,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4032">
+<Objects>
+<L_DB00 POS="316.127659574468,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4033">
+<Objects>
+<L_DB00 POS="315.936170212766,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4034">
+<Objects>
+<L_DB00 POS="315.744680851064,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4035">
+<Objects>
+<L_DB00 POS="315.553191489362,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4036">
+<Objects>
+<L_DB00 POS="315.36170212766,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4037">
+<Objects>
+<L_DB00 POS="315.170212765957,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4038">
+<Objects>
+<L_DB00 POS="314.978723404255,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4039">
+<Objects>
+<L_DB00 POS="314.787234042553,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4040">
+<Objects>
+<L_DB00 POS="314.595744680851,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4041">
+<Objects>
+<L_DB00 POS="314.404255319149,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4042">
+<Objects>
+<L_DB00 POS="314.212765957447,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4043">
+<Objects>
+<L_DB00 POS="314.021276595745,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4044">
+<Objects>
+<L_DB00 POS="313.829787234043,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4045">
+<Objects>
+<L_DB00 POS="313.63829787234,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4046">
+<Objects>
+<L_DB00 POS="313.446808510638,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4047">
+<Objects>
+<L_DB00 POS="313.255319148936,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4048">
+<Objects>
+<L_DB00 POS="313.063829787234,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4049">
+<Objects>
+<L_DB00 POS="312.872340425532,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4050">
+<Objects>
+<L_DB00 POS="312.68085106383,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4051">
+<Objects>
+<L_DB00 POS="312.489361702128,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4052">
+<Objects>
+<L_DB00 POS="312.297872340426,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4053">
+<EraseText/>
+<Objects>
+<L_DB00 POS="311.914893617021,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4054">
+<Log NAME="4" MESS="91" />
+<Objects>
+<L_DB00 POS="311.531914893617,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4055">
+<Objects>
+<L_DB00 POS="311.340425531915,0.0" />
+<L_DB01 POS="7.2,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4056">
+<Objects>
+<L_DB00 POS="311.148936170213,0.0" />
+<L_DB01 POS="6.4,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4057">
+<Objects>
+<L_DB00 POS="310.957446808511,0.0" />
+<L_DB01 POS="5.6,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4058">
+<Objects>
+<L_DB00 POS="310.765957446808,0.0" />
+<L_DB01 POS="4.8,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4059">
+<Objects>
+<L_DB00 POS="310.574468085106,0.0" />
+<L_DB01 POS="4.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4060">
+<Objects>
+<L_DB00 POS="310.382978723404,0.0" />
+<L_DB01 POS="3.2,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4061">
+<Objects>
+<L_DB00 POS="310.191489361702,0.0" />
+<L_DB01 POS="2.4,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4062">
+<Objects>
+<L_DB00 POS="310.0,0.0" />
+<L_DB01 POS="1.6,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4063">
+<Objects>
+<L_DB01 POS="0.8,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4064">
+<Objects>
+<base16 ERASE="TRUE" />
+<base17 CREATE="Movie" FILE="Graphic/A-00_17.m1v" DEPTH="0" />
+<L_DB00 ERASE="TRUE" />
+<L_DB01 ERASE="TRUE" />
+</Objects>
+</Frame>
+<Frame TIME="4065">
+<Objects>
+<L_DB01 POS="0.0,0.0" />
+</Objects>
+</Frame>
+<Frame TIME="4069">
+<Log NAME="2" MESS="92" />
+<Text MESS="93" />
+<Text MESS="94" />
+</Frame>
+<Frame TIME="4168">
+<EraseText/>
+</Frame>
+<Frame TIME="4171">
+<Log NAME="4" MESS="95" />
+</Frame>
+<Frame TIME="4197">
+<Log NAME="2" MESS="96" />
+</Frame>
+<Frame TIME="4212">
+<Log NAME="4" MESS="97" />
+<Text MESS="97" />
+<Objects>
+<base17 ERASE="TRUE" />
+<base18 CREATE="Movie" FILE="Graphic/A-00_18.m1v" DEPTH="0" />
+<L18 CREATE="Layer" POS="169.0,0.0" SIZE="302.0,360.0" DEPTH="10" >
+<I180 CREATE="Image" FILE="Graphic/s05.sfd" SIZE="302.0,360.0" VIEW="40.0,0.0,461.0,501.854304635762" />
+<WAKUA CREATE="Image" FILE="Graphic/A.SFD" DEPTH="100" />
+</L18>
+</Objects>
+</Frame>
+<Frame TIME="4247">
+<EraseText/>
+<Objects>
+<L18 ERASE="TRUE" />
+</Objects>
+</Frame>
+<Frame TIME="4248">
+<Objects>
+<base18 ERASE="TRUE" />
+<base19 CREATE="Movie" FILE="Graphic/A-00_19.m1v" DEPTH="0" />
+</Objects>
+</Frame>
+<Frame TIME="4258">
+<Log NAME="2" MESS="98" />
+<Text MESS="98" />
+</Frame>
+<Frame TIME="4322">
+<EraseText/>
+</Frame>
+<Frame TIME="4325">
+<Log NAME="4" MESS="99" />
+<Text MESS="99" />
+<Objects>
+<L19 CREATE="Layer" POS="20.0,15.0" SIZE="265.0,329.0" DEPTH="10" >
+<WAKUD CREATE="Image" FILE="Graphic/D.SFD" DEPTH="100" />
+<I190 CREATE="Image" FILE="Graphic/s08.sfd" SIZE="265.0,329.0" VIEW="90.0,5.0,511.0,527.675471698113" />
+</L19>
+</Objects>
+</Frame>
+<Frame TIME="4326">
+<Objects>
+<L19 POS="21.0526315789474,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4327">
+<Objects>
+<L19 POS="22.1052631578947,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4328">
+<Objects>
+<L19 POS="23.1578947368421,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4329">
+<Objects>
+<L19 POS="24.2105263157895,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4330">
+<Objects>
+<L19 POS="25.2631578947368,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4331">
+<Objects>
+<L19 POS="26.3157894736842,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4332">
+<Objects>
+<L19 POS="27.3684210526316,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4333">
+<Objects>
+<L19 POS="28.4210526315789,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4334">
+<Objects>
+<L19 POS="29.4736842105263,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4335">
+<Objects>
+<L19 POS="30.5263157894737,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4336">
+<Objects>
+<L19 POS="31.5789473684211,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4337">
+<Objects>
+<L19 POS="32.6315789473684,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4338">
+<Objects>
+<L19 POS="33.6842105263158,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4339">
+<Objects>
+<L19 POS="34.7368421052632,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4340">
+<Objects>
+<L19 POS="35.7894736842105,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4341">
+<Objects>
+<L19 POS="36.8421052631579,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4342">
+<Objects>
+<L19 POS="37.8947368421053,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4343">
+<Objects>
+<L19 POS="38.9473684210526,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4344">
+<Objects>
+<L19 POS="40.0,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4345">
+<Objects>
+<L19 POS="41.0526315789474,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4346">
+<Objects>
+<L19 POS="42.1052631578947,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4347">
+<Objects>
+<L19 POS="43.1578947368421,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4348">
+<Objects>
+<L19 POS="44.2105263157895,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4349">
+<Objects>
+<L19 POS="45.2631578947368,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4350">
+<Objects>
+<L19 POS="46.3157894736842,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4351">
+<EraseText/>
+<Objects>
+<L19 POS="48.4210526315789,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4352">
+<Objects>
+<L19 POS="49.4736842105263,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4353">
+<Objects>
+<L19 POS="50.5263157894737,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4354">
+<Objects>
+<L19 POS="51.5789473684211,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4355">
+<Objects>
+<L19 POS="52.6315789473684,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4356">
+<Objects>
+<L19 POS="53.6842105263158,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4357">
+<Objects>
+<L19 POS="54.7368421052632,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4358">
+<Objects>
+<L19 POS="55.7894736842105,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4359">
+<Log NAME="2" MESS="100" />
+<Text MESS="100" />
+<Objects>
+<L19 POS="57.8947368421053,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4360">
+<Objects>
+<L19 POS="58.9473684210526,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4361">
+<Objects>
+<L19 POS="60.0,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4362">
+<Objects>
+<L19 POS="61.0526315789474,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4363">
+<Objects>
+<L19 POS="62.1052631578947,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4364">
+<Objects>
+<L19 POS="63.1578947368421,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4365">
+<Objects>
+<L19 POS="64.2105263157895,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4366">
+<Objects>
+<L19 POS="65.2631578947368,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4367">
+<Objects>
+<L19 POS="66.3157894736842,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4368">
+<Objects>
+<L19 POS="67.3684210526316,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4369">
+<Objects>
+<L19 POS="68.4210526315789,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4370">
+<Objects>
+<L19 POS="69.4736842105263,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4371">
+<Objects>
+<L19 POS="70.5263157894737,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4372">
+<Objects>
+<L19 POS="71.5789473684211,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4373">
+<Objects>
+<L19 POS="72.6315789473684,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4374">
+<Objects>
+<L19 POS="73.6842105263158,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4375">
+<Objects>
+<L19 POS="74.7368421052632,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4376">
+<Objects>
+<L19 POS="75.7894736842105,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4377">
+<Objects>
+<L19 POS="76.8421052631579,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4378">
+<Objects>
+<L19 POS="77.8947368421053,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4379">
+<Objects>
+<L19 POS="78.9473684210526,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4380">
+<Objects>
+<L19 POS="80.0,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4381">
+<Objects>
+<L19 POS="81.0526315789474,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4382">
+<Objects>
+<L19 POS="82.1052631578947,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4383">
+<Objects>
+<L19 POS="83.1578947368421,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4384">
+<Objects>
+<L19 POS="84.2105263157895,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4385">
+<Objects>
+<L19 POS="85.2631578947368,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4386">
+<Objects>
+<L19 POS="86.3157894736842,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4387">
+<Objects>
+<L19 POS="87.3684210526316,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4388">
+<Objects>
+<L19 POS="88.4210526315789,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4389">
+<Objects>
+<L19 POS="89.4736842105263,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4390">
+<Objects>
+<L19 POS="90.5263157894737,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4391">
+<Objects>
+<L19 POS="91.5789473684211,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4392">
+<Objects>
+<L19 POS="92.6315789473684,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4393">
+<Objects>
+<L19 POS="93.6842105263158,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4394">
+<Objects>
+<L19 POS="94.7368421052632,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4395">
+<Objects>
+<L19 POS="95.7894736842105,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4396">
+<EraseText/>
+<Objects>
+<L19 POS="97.8947368421053,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4397">
+<Objects>
+<L19 POS="98.9473684210526,15.0" />
+</Objects>
+</Frame>
+<Frame TIME="4398">
+<Objects>
+<L19 POS="100.0,15.0" >
+<I191 CREATE="Image" FILE="Graphic/s09.sfd" SIZE="265.0,329.0" VIEW="85.0,0.0,506.0,522.675471698113" DIFF="0,255,255,255" DEPTH="11" />
+<I190 DEPTH="10" />
+</L19>
+</Objects>
+</Frame>
+<Frame TIME="4399">
+<Objects>
+<L19>
+<I191 DIFF="42,255,255,255" />
+</L19>
+</Objects>
+</Frame>
+<Frame TIME="4400">
+<Objects>
+<L19>
+<I191 DIFF="85,255,255,255" />
+</L19>
+</Objects>
+</Frame>
+<Frame TIME="4401">
+<Log NAME="4" MESS="101" />
+<Text MESS="101" />
+<Objects>
+<L19>
+<I191 DIFF="170,255,255,255" />
+</L19>
+</Objects>
+</Frame>
+<Frame TIME="4402">
+<Objects>
+<L19>
+<I191 DIFF="212,255,255,255" />
+</L19>
+</Objects>
+</Frame>
+<Frame TIME="4403">
+<Objects>
+<L19>
+<I191 DIFF="255,255,255,255" />
+</L19>
+</Objects>
+</Frame>
+<Frame TIME="4404">
+<Objects>
+<L19>
+<I190 ERASE="TRUE" />
+</L19>
+</Objects>
+</Frame>
+<Frame TIME="4484">
+<EraseText/>
+</Frame>
+<Frame TIME="4488">
+<Log NAME="2" MESS="102" />
+<Text MESS="103" />
+<Text MESS="104" />
+</Frame>
+<Frame TIME="4610">
+<EraseText/>
+</Frame>
+<Frame TIME="4613">
+<Log NAME="4" MESS="105" />
+<Text MESS="105" />
+</Frame>
+<Frame TIME="4643">
+<EraseText/>
+</Frame>
+<Frame TIME="4645">
+<Log NAME="2" MESS="106" />
+<Text MESS="106" />
+</Frame>
+<Frame TIME="4696">
+<EraseText/>
+</Frame>
+<Frame TIME="4697">
+<Objects>
+<L19 ERASE="TRUE" />
+</Objects>
+</Frame>
+<Frame TIME="4698">
+<Log NAME="4" MESS="107" />
+<Text MESS="107" />
+<Objects>
+<base19 ERASE="TRUE" />
+<base20 CREATE="Movie" FILE="Graphic/A-00_20.m1v" DEPTH="0" />
+</Objects>
+</Frame>
+<Frame TIME="4723">
+<EraseText/>
+</Frame>
+<Frame TIME="4725">
+<Log NAME="2" MESS="108" />
+<Text MESS="108" />
+</Frame>
+<Frame TIME="4791">
+<EraseText/>
+</Frame>
+<Frame TIME="4792">
+<Log NAME="4" MESS="109" />
+<Text MESS="109" />
+</Frame>
+<Frame TIME="4837">
+<EraseText/>
+</Frame>
+<Frame TIME="4838">
+<Log NAME="2" MESS="110" />
+<Text MESS="110" />
+</Frame>
+<Frame TIME="4906">
+<EraseText/>
+</Frame>
+<Frame TIME="4908">
+<Log NAME="4" MESS="111" />
+<Text MESS="111" />
+<Objects>
+<base20 ERASE="TRUE" />
+<base21 CREATE="Movie" FILE="Graphic/A-00_21.m1v" DEPTH="0" />
+<L20 CREATE="Layer" POS="169.0,0.0" SIZE="302.0,360.0" DEPTH="10" >
+<WAKUA CREATE="Image" FILE="Graphic/A.SFD" DEPTH="100" />
+<I200 CREATE="Image" FILE="Graphic/s37.sfd" SIZE="302.0,360.0" VIEW="40.0,10.0,461.0,511.854304635762" />
+</L20>
+</Objects>
+</Frame>
+<Frame TIME="4943">
+<Objects>
+<L20 DIFF="255,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="4944">
+<Objects>
+<L20 DIFF="233,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="4945">
+<Objects>
+<L20 DIFF="212,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="4946">
+<Objects>
+<L20 DIFF="191,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="4947">
+<Objects>
+<L20 DIFF="170,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="4948">
+<Objects>
+<L20 DIFF="148,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="4949">
+<Objects>
+<L20 DIFF="127,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="4950">
+<Objects>
+<L20 DIFF="106,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="4951">
+<Objects>
+<L20 DIFF="85,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="4952">
+<Objects>
+<L20 DIFF="63,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="4953">
+<Objects>
+<L20 DIFF="42,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="4954">
+<Objects>
+<L20 DIFF="21,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="4955">
+<EraseText/>
+<Objects>
+<L20 ERASE="TRUE" />
+</Objects>
+</Frame>
+<Frame TIME="4956">
+<Log NAME="2" MESS="112" />
+<Text MESS="113" />
+<Text MESS="114" />
+<Objects>
+<L20 DIFF="0,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="5095">
+<EraseText/>
+</Frame>
+<Frame TIME="5096">
+<Log NAME="4" MESS="115" />
+<Text MESS="115" />
+</Frame>
+<Frame TIME="5148">
+<EraseText/>
+</Frame>
+<Frame TIME="5150">
+<Log NAME="2" MESS="116" />
+<Text MESS="117" />
+<Text MESS="118" />
+</Frame>
+<Frame TIME="5273">
+<EraseText/>
+</Frame>
+<Frame TIME="5274">
+<Log NAME="4" MESS="119" />
+<Text MESS="119" />
+<Objects>
+<L21 CREATE="Layer" POS="340.0,20.0" SIZE="265.0,329.0" DEPTH="10" >
+<WAKUD CREATE="Image" FILE="Graphic/D.SFD" DEPTH="100" />
+<I210 CREATE="Image" FILE="Graphic/s36.sfd" SIZE="265.0,329.0" VIEW="45.0,15.0,466.0,537.675471698113" />
+</L21>
+</Objects>
+</Frame>
+<Frame TIME="5275">
+<Objects>
+<L21 POS="340.135746606335,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5276">
+<Objects>
+<L21 POS="340.27149321267,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5277">
+<Objects>
+<L21 POS="340.407239819005,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5278">
+<Objects>
+<L21 POS="340.542986425339,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5279">
+<Objects>
+<L21 POS="340.678733031674,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5280">
+<Objects>
+<L21 POS="340.814479638009,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5281">
+<Objects>
+<L21 POS="340.950226244344,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5282">
+<Objects>
+<L21 POS="341.085972850679,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5283">
+<Objects>
+<L21 POS="341.221719457014,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5284">
+<Objects>
+<L21 POS="341.357466063348,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5285">
+<Objects>
+<L21 POS="341.493212669683,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5286">
+<Objects>
+<L21 POS="341.628959276018,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5287">
+<Objects>
+<L21 POS="341.764705882353,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5288">
+<Objects>
+<L21 POS="341.900452488688,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5289">
+<Objects>
+<L21 POS="342.036199095023,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5290">
+<Objects>
+<L21 POS="342.171945701357,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5291">
+<Objects>
+<L21 POS="342.307692307692,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5292">
+<Objects>
+<L21 POS="342.443438914027,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5293">
+<Objects>
+<L21 POS="342.579185520362,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5294">
+<Objects>
+<L21 POS="342.714932126697,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5295">
+<Objects>
+<L21 POS="342.850678733032,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5296">
+<Objects>
+<L21 POS="342.986425339367,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5297">
+<Objects>
+<L21 POS="343.122171945701,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5298">
+<Objects>
+<L21 POS="343.257918552036,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5299">
+<Objects>
+<L21 POS="343.393665158371,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5300">
+<Objects>
+<L21 POS="343.529411764706,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5301">
+<Objects>
+<L21 POS="343.665158371041,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5302">
+<Objects>
+<L21 POS="343.800904977376,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5303">
+<Objects>
+<L21 POS="343.93665158371,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5304">
+<Objects>
+<L21 POS="344.072398190045,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5305">
+<Objects>
+<L21 POS="344.20814479638,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5306">
+<Objects>
+<L21 POS="344.343891402715,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5307">
+<Objects>
+<L21 POS="344.47963800905,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5308">
+<Objects>
+<L21 POS="344.615384615385,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5309">
+<Objects>
+<L21 POS="344.751131221719,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5310">
+<Objects>
+<L21 POS="344.886877828054,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5311">
+<Objects>
+<L21 POS="345.022624434389,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5312">
+<Objects>
+<L21 POS="345.158371040724,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5313">
+<Objects>
+<L21 POS="345.294117647059,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5314">
+<EraseText/>
+<Objects>
+<L21 POS="345.565610859729,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5315">
+<Log NAME="2" MESS="120" />
+<Text MESS="120" />
+<Objects>
+<L21 POS="345.837104072398,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5316">
+<Objects>
+<L21 POS="345.972850678733,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5317">
+<Objects>
+<L21 POS="346.108597285068,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5318">
+<Objects>
+<L21 POS="346.244343891403,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5319">
+<Objects>
+<L21 POS="346.380090497738,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5320">
+<Objects>
+<L21 POS="346.515837104072,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5321">
+<Objects>
+<L21 POS="346.651583710407,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5322">
+<Objects>
+<L21 POS="346.787330316742,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5323">
+<Objects>
+<L21 POS="346.923076923077,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5324">
+<Objects>
+<L21 POS="347.058823529412,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5325">
+<Objects>
+<L21 POS="347.194570135747,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5326">
+<Objects>
+<L21 POS="347.330316742081,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5327">
+<Objects>
+<L21 POS="347.466063348416,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5328">
+<Objects>
+<L21 POS="347.601809954751,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5329">
+<Objects>
+<L21 POS="347.737556561086,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5330">
+<Objects>
+<L21 POS="347.873303167421,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5331">
+<Objects>
+<L21 POS="348.009049773756,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5332">
+<Objects>
+<L21 POS="348.14479638009,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5333">
+<Objects>
+<L21 POS="348.280542986425,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5334">
+<Objects>
+<L21 POS="348.41628959276,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5335">
+<Objects>
+<L21 POS="348.552036199095,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5336">
+<Objects>
+<L21 POS="348.68778280543,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5337">
+<Objects>
+<L21 POS="348.823529411765,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5338">
+<Objects>
+<L21 POS="348.9592760181,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5339">
+<Objects>
+<L21 POS="349.095022624434,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5340">
+<Objects>
+<L21 POS="349.230769230769,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5341">
+<Objects>
+<L21 POS="349.366515837104,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5342">
+<Objects>
+<L21 POS="349.502262443439,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5343">
+<Objects>
+<L21 POS="349.638009049774,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5344">
+<Objects>
+<L21 POS="349.773755656109,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5345">
+<Objects>
+<L21 POS="349.909502262443,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5346">
+<Objects>
+<L21 POS="350.045248868778,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5347">
+<Objects>
+<L21 POS="350.180995475113,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5348">
+<Objects>
+<L21 POS="350.316742081448,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5349">
+<Objects>
+<L21 POS="350.452488687783,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5350">
+<Objects>
+<L21 POS="350.588235294118,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5351">
+<Objects>
+<L21 POS="350.723981900452,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5352">
+<Objects>
+<L21 POS="350.859728506787,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5353">
+<Objects>
+<L21 POS="350.995475113122,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5354">
+<Objects>
+<L21 POS="351.131221719457,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5355">
+<Objects>
+<L21 POS="351.266968325792,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5356">
+<Objects>
+<L21 POS="351.402714932127,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5357">
+<Objects>
+<L21 POS="351.538461538462,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5358">
+<Objects>
+<L21 POS="351.674208144796,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5359">
+<Objects>
+<L21 POS="351.809954751131,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5360">
+<Objects>
+<L21 POS="351.945701357466,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5361">
+<Objects>
+<L21 POS="352.081447963801,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5362">
+<Objects>
+<L21 POS="352.217194570136,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5363">
+<Objects>
+<L21 POS="352.352941176471,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5364">
+<Objects>
+<L21 POS="352.488687782805,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5365">
+<Objects>
+<L21 POS="352.62443438914,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5366">
+<Objects>
+<L21 POS="352.760180995475,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5367">
+<Objects>
+<L21 POS="352.89592760181,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5368">
+<Objects>
+<L21 POS="353.031674208145,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5369">
+<Objects>
+<L21 POS="353.16742081448,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5370">
+<Objects>
+<L21 POS="353.303167420814,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5371">
+<Objects>
+<L21 POS="353.438914027149,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5372">
+<Objects>
+<L21 POS="353.574660633484,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5373">
+<Objects>
+<L21 POS="353.710407239819,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5374">
+<Objects>
+<L21 POS="353.846153846154,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5375">
+<EraseText/>
+<Objects>
+<L21 POS="354.117647058824,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5376">
+<Objects>
+<L21 POS="354.253393665158,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5377">
+<Objects>
+<L21 POS="354.389140271493,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5378">
+<Objects>
+<L21 POS="354.524886877828,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5379">
+<Objects>
+<L21 POS="354.660633484163,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5380">
+<Objects>
+<L21 POS="354.796380090498,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5381">
+<Objects>
+<L21 POS="354.932126696833,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5382">
+<Objects>
+<L21 POS="355.067873303167,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5383">
+<Log NAME="4" MESS="121" />
+<Text MESS="121" />
+<Objects>
+<L21 POS="355.339366515837,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5384">
+<Objects>
+<L21 POS="355.475113122172,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5385">
+<Objects>
+<L21 POS="355.610859728507,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5386">
+<Objects>
+<L21 POS="355.746606334842,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5387">
+<Objects>
+<L21 POS="355.882352941176,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5388">
+<Objects>
+<L21 POS="356.018099547511,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5389">
+<Objects>
+<L21 POS="356.153846153846,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5390">
+<Objects>
+<L21 POS="356.289592760181,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5391">
+<Objects>
+<L21 POS="356.425339366516,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5392">
+<Objects>
+<L21 POS="356.561085972851,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5393">
+<Objects>
+<L21 POS="356.696832579186,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5394">
+<Objects>
+<L21 POS="356.83257918552,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5395">
+<Objects>
+<L21 POS="356.968325791855,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5396">
+<Objects>
+<L21 POS="357.10407239819,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5397">
+<Objects>
+<L21 POS="357.239819004525,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5398">
+<Objects>
+<L21 POS="357.37556561086,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5399">
+<Objects>
+<L21 POS="357.511312217195,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5400">
+<Objects>
+<L21 POS="357.647058823529,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5401">
+<Objects>
+<L21 POS="357.782805429864,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5402">
+<Objects>
+<L21 POS="357.918552036199,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5403">
+<Objects>
+<L21 POS="358.054298642534,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5404">
+<Objects>
+<L21 POS="358.190045248869,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5405">
+<Objects>
+<L21 POS="358.325791855204,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5406">
+<Objects>
+<L21 POS="358.461538461538,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5407">
+<Objects>
+<L21 POS="358.597285067873,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5408">
+<Objects>
+<L21 POS="358.733031674208,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5409">
+<Objects>
+<L21 POS="358.868778280543,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5410">
+<Objects>
+<L21 POS="359.004524886878,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5411">
+<Objects>
+<L21 POS="359.140271493213,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5412">
+<Objects>
+<L21 POS="359.276018099548,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5413">
+<Objects>
+<L21 POS="359.411764705882,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5414">
+<Objects>
+<L21 POS="359.547511312217,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5415">
+<Objects>
+<L21 POS="359.683257918552,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5416">
+<Objects>
+<L21 POS="359.819004524887,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5417">
+<Objects>
+<L21 POS="359.954751131222,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5418">
+<Objects>
+<L21 POS="360.090497737557,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5419">
+<Objects>
+<L21 POS="360.226244343891,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5420">
+<Objects>
+<L21 POS="360.361990950226,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5421">
+<Objects>
+<L21 POS="360.497737556561,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5422">
+<Objects>
+<L21 POS="360.633484162896,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5423">
+<Objects>
+<L21 POS="360.769230769231,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5424">
+<Objects>
+<L21 POS="360.904977375566,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5425">
+<Objects>
+<L21 POS="361.0407239819,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5426">
+<Objects>
+<L21 POS="361.176470588235,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5427">
+<Objects>
+<L21 POS="361.31221719457,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5428">
+<Objects>
+<L21 POS="361.447963800905,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5429">
+<Objects>
+<L21 POS="361.58371040724,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5430">
+<Objects>
+<L21 POS="361.719457013575,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5431">
+<Objects>
+<L21 POS="361.85520361991,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5432">
+<Objects>
+<L21 POS="361.990950226244,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5433">
+<Objects>
+<L21 POS="362.126696832579,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5434">
+<Objects>
+<L21 POS="362.262443438914,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5435">
+<Objects>
+<L21 POS="362.398190045249,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5436">
+<Objects>
+<L21 POS="362.533936651584,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5437">
+<Objects>
+<L21 POS="362.669683257919,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5438">
+<Objects>
+<L21 POS="362.805429864253,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5439">
+<Objects>
+<L21 POS="362.941176470588,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5440">
+<Objects>
+<L21 POS="363.076923076923,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5441">
+<Objects>
+<L21 POS="363.212669683258,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5442">
+<Objects>
+<L21 POS="363.348416289593,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5443">
+<Objects>
+<L21 POS="363.484162895928,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5444">
+<Objects>
+<L21 POS="363.619909502262,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5445">
+<Objects>
+<L21 POS="363.755656108597,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5446">
+<Objects>
+<L21 POS="363.891402714932,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5447">
+<Objects>
+<L21 POS="364.027149321267,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5448">
+<Objects>
+<L21 POS="364.162895927602,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5449">
+<Objects>
+<L21 POS="364.298642533937,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5450">
+<Objects>
+<L21 POS="364.434389140271,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5451">
+<Objects>
+<L21 POS="364.570135746606,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5452">
+<Objects>
+<L21 POS="364.705882352941,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5453">
+<Objects>
+<L21 POS="364.841628959276,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5454">
+<Objects>
+<L21 POS="364.977375565611,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5455">
+<Objects>
+<L21 POS="365.113122171946,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5456">
+<Objects>
+<L21 POS="365.248868778281,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5457">
+<Objects>
+<L21 POS="365.384615384615,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5458">
+<Objects>
+<L21 POS="365.52036199095,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5459">
+<Objects>
+<L21 POS="365.656108597285,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5460">
+<Objects>
+<L21 POS="365.79185520362,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5461">
+<Objects>
+<L21 POS="365.927601809955,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5462">
+<Objects>
+<L21 POS="366.06334841629,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5463">
+<Objects>
+<L21 POS="366.199095022624,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5464">
+<Objects>
+<L21 POS="366.334841628959,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5465">
+<Objects>
+<L21 POS="366.470588235294,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5466">
+<Objects>
+<L21 POS="366.606334841629,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5467">
+<Objects>
+<L21 POS="366.742081447964,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5468">
+<Objects>
+<L21 POS="366.877828054299,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5469">
+<Objects>
+<L21 POS="367.013574660633,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5470">
+<Objects>
+<L21 POS="367.149321266968,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5471">
+<Objects>
+<L21 POS="367.285067873303,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5472">
+<Objects>
+<L21 POS="367.420814479638,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5473">
+<Objects>
+<L21 POS="367.556561085973,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5474">
+<Objects>
+<L21 POS="367.692307692308,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5475">
+<Objects>
+<L21 POS="367.828054298643,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5476">
+<Objects>
+<L21 POS="367.963800904977,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5477">
+<Objects>
+<L21 POS="368.099547511312,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5478">
+<Objects>
+<L21 POS="368.235294117647,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5479">
+<Objects>
+<L21 POS="368.371040723982,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5480">
+<Objects>
+<L21 POS="368.506787330317,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5481">
+<Objects>
+<L21 POS="368.642533936652,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5482">
+<Objects>
+<L21 POS="368.778280542986,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5483">
+<Objects>
+<L21 POS="368.914027149321,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5484">
+<Objects>
+<L21 POS="369.049773755656,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5485">
+<Objects>
+<L21 POS="369.185520361991,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5486">
+<Objects>
+<L21 POS="369.321266968326,20.0" />
+</Objects>
+</Frame>
+<Frame TIME="5487">
+<Objects>
+<L21 POS="369.592760180995,20.0" DIFF="255,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="5488">
+<Objects>
+<L21 POS="369.72850678733,20.0" DIFF="233,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="5489">
+<Objects>
+<L21 POS="369.864253393665,20.0" DIFF="212,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="5490">
+<Objects>
+<L21 POS="370.0,20.0" DIFF="191,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="5491">
+<Objects>
+<L21 DIFF="170,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="5492">
+<Objects>
+<L21 DIFF="148,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="5493">
+<Objects>
+<L21 DIFF="127,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="5494">
+<Objects>
+<L21 DIFF="106,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="5495">
+<EraseText/>
+<Objects>
+<L21 DIFF="63,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="5496">
+<Objects>
+<L21 DIFF="42,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="5497">
+<Objects>
+<L21 DIFF="21,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="5498">
+<Objects>
+<L21 DIFF="0,255,255,255" />
+</Objects>
+</Frame>
+<Frame TIME="5499">
+<Objects>
+<L21 ERASE="TRUE" />
+</Objects>
+</Frame>
+<Frame TIME="5500">
+<Log NAME="2" MESS="122" />
+<Text MESS="122" />
+</Frame>
+<Frame TIME="5556">
+<EraseText/>
+<Objects>
+<base21 ERASE="TRUE" />
+<base22 CREATE="Movie" FILE="Graphic/A-00_22.m1v" DEPTH="0" />
+</Objects>
+</Frame>
+<Frame TIME="5559">
+<Log NAME="4" MESS="123" />
+<Text MESS="123" />
+</Frame>
+<Frame TIME="5592">
+<BgmStop/>
+</Frame>
+<Frame TIME="5615">
+<EraseText/>
+</Frame>
+</Script>

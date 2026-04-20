@@ -1,0 +1,545 @@
+[
+  {
+    "name": null,
+    "message": "中文すっかり遅くなってしまった。",
+    "message_id": 33
+  },
+  {
+    "name": null,
+    "message": "中文まぁ、今夜は渚も遅いはずだから、怒られる心配はないが……電気がついてるってことは姉さんは帰ってるんだな。",
+    "message_id": 42
+  },
+  {
+    "name": "楓真",
+    "message": "中文ただいま～",
+    "message_id": 69,
+    "name_id": 68
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文おかえり、フウ",
+    "message_id": 90,
+    "name_id": 89
+  },
+  {
+    "name": "楓真",
+    "message": "中文ただいま。……あれ、うまそうな匂い",
+    "message_id": 103,
+    "name_id": 102
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文なんだ、その意外そうな顔は",
+    "message_id": 145,
+    "name_id": 144
+  },
+  {
+    "name": "楓真",
+    "message": "中文あ、いや、晩飯は渚が帰ってきてからだろうと思ってたから",
+    "message_id": 160,
+    "name_id": 159
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文たまにはあたしが作ってもいいだろう。……ダメか？",
+    "message_id": 181,
+    "name_id": 180
+  },
+  {
+    "name": "楓真",
+    "message": "中文いや、全然。むしろありがとう",
+    "message_id": 193,
+    "name_id": 192
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文ん。じゃあ、着替えて、うがい手洗い",
+    "message_id": 214,
+    "name_id": 213
+  },
+  {
+    "name": "楓真",
+    "message": "中文は～い",
+    "message_id": 226,
+    "name_id": 225
+  },
+  {
+    "name": null,
+    "message": "中文なんかさっきの母親みたいだったな。",
+    "message_id": 257
+  },
+  {
+    "name": null,
+    "message": "中文ちょっと苦笑しつつ制服をハンガーにかけて、着替えに手を伸ばす。",
+    "message_id": 269
+  },
+  {
+    "name": null,
+    "message": "中文ていうか、もしかして姉さんと二人きりで食事って実は珍しくないか？",
+    "message_id": 276
+  },
+  {
+    "name": null,
+    "message": "中文普段、食事中はあんまり自分から話さないで相槌が多いし……",
+    "message_id": 283
+  },
+  {
+    "name": "楓真",
+    "message": "中文…………",
+    "message_id": 292,
+    "name_id": 291
+  },
+  {
+    "name": null,
+    "message": "中文いや、家族に緊張してどうする。",
+    "message_id": 299
+  },
+  {
+    "name": "楓真",
+    "message": "中文お待たせ",
+    "message_id": 335,
+    "name_id": 334
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文ちょうどいいタイミングだ",
+    "message_id": 356,
+    "name_id": 355
+  },
+  {
+    "name": null,
+    "message": "中文味噌汁をテーブルに置いた姉さんが席に着いた。",
+    "message_id": 379
+  },
+  {
+    "name": "楓真",
+    "message": "中文じゃあ……いただきま～す",
+    "message_id": 388,
+    "name_id": 387
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文いただきます",
+    "message_id": 409,
+    "name_id": 408
+  },
+  {
+    "name": null,
+    "message": "中文純和風の晩飯だ。焼き魚に野菜の煮込み、冷や奴。",
+    "message_id": 421
+  },
+  {
+    "name": "楓真",
+    "message": "中文和食とは、かなり意外",
+    "message_id": 432,
+    "name_id": 431
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文……ネットで作り方を調べた",
+    "message_id": 453,
+    "name_id": 452
+  },
+  {
+    "name": "楓真",
+    "message": "中文なるほど。それですぐ作れるというのはすごいよ",
+    "message_id": 465,
+    "name_id": 464
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文レシピというのはそういうものじゃないか？",
+    "message_id": 501,
+    "name_id": 500
+  },
+  {
+    "name": null,
+    "message": "中文そう言えるっていうことは基本的な料理センスがあるってことだ。レシピ通りにやってるのに失敗する人だって中にはいる。",
+    "message_id": 513
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文……フウ、いい機会だし、少し話があるんだが",
+    "message_id": 537,
+    "name_id": 536
+  },
+  {
+    "name": "楓真",
+    "message": "中文ん？　何？",
+    "message_id": 549,
+    "name_id": 548
+  },
+  {
+    "name": null,
+    "message": "中文モグモグしながら俺を見つめた姉さんが、呑みこんでから口を開いた。",
+    "message_id": 556
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文学園祭の……いや、おまえたちがやろうとしているイベントについてだ",
+    "message_id": 580,
+    "name_id": 579
+  },
+  {
+    "name": "楓真",
+    "message": "中文うん",
+    "message_id": 592,
+    "name_id": 591
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文なぜそこまでして成功させたいんだ？",
+    "message_id": 613,
+    "name_id": 612
+  },
+  {
+    "name": null,
+    "message": "中文その話か……。",
+    "message_id": 623
+  },
+  {
+    "name": null,
+    "message": "中文なんとなくではあるけど、姉さんが恋会の活動を快く思っていないことは伝わってきていた。",
+    "message_id": 630
+  },
+  {
+    "name": "楓真",
+    "message": "中文一言で言うなら、俺が恋会のメンバーだからだよ",
+    "message_id": 639,
+    "name_id": 638
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文これはフウのイベントじゃない。強いて言うならあの……天翔奈穂という子のイベントじゃないか",
+    "message_id": 660,
+    "name_id": 659
+  },
+  {
+    "name": "楓真",
+    "message": "中文俺も最初はそう思ってた",
+    "message_id": 672,
+    "name_id": 671
+  },
+  {
+    "name": "楓真",
+    "message": "中文でも、今はもう「俺たちの」イベントなんだ。それを強く再確認できる出来事もあったし",
+    "message_id": 681,
+    "name_id": 680
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文それは？",
+    "message_id": 702,
+    "name_id": 701
+  },
+  {
+    "name": "楓真",
+    "message": "中文学生会に中止の勧告を受けた時に、ちょっとみんなの気持ちがピタッとはまらなくなってさ……",
+    "message_id": 714,
+    "name_id": 713
+  },
+  {
+    "name": "楓真",
+    "message": "中文それで一時バラバラになったんだけど、見つめ直す時間ができた分、自分の立ち位置とか、なぜ恋会に参加しているのかとか",
+    "message_id": 723,
+    "name_id": 722
+  },
+  {
+    "name": "楓真",
+    "message": "中文そういうことを考えるきっかけになった",
+    "message_id": 732,
+    "name_id": 731
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文……フウは、どういう結論を出した？",
+    "message_id": 753,
+    "name_id": 752
+  },
+  {
+    "name": "楓真",
+    "message": "中文……ちょっと恥ずかしいけど、姉さんだから言うよ",
+    "message_id": 765,
+    "name_id": 764
+  },
+  {
+    "name": "楓真",
+    "message": "中文俺、天翔先輩と同じものを見ていたい",
+    "message_id": 774,
+    "name_id": 773
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文自分を押し殺すと？",
+    "message_id": 795,
+    "name_id": 794
+  },
+  {
+    "name": "楓真",
+    "message": "中文そうじゃない。自分の心の赴くところを考えたら、あの人がいるんだ",
+    "message_id": 807,
+    "name_id": 806
+  },
+  {
+    "name": "楓真",
+    "message": "中文一年と少し一緒にいて、価値観の共有もしてきたし、励まされてもきた。俺も、先輩を放っておけないと思ってるし",
+    "message_id": 816,
+    "name_id": 815
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文どうして天翔のことをそこまで気にかけるんだ？",
+    "message_id": 837,
+    "name_id": 836
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文はっきり言ってしまえば、天翔はフウを振り回すだけだ",
+    "message_id": 861,
+    "name_id": 860
+  },
+  {
+    "name": "楓真",
+    "message": "中文……俺のことを心配して言ってくれてるんだよな？　ありがとう",
+    "message_id": 873,
+    "name_id": 872
+  },
+  {
+    "name": null,
+    "message": "中文念を押すと、姉さんは少し俯いた。",
+    "message_id": 888
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文そう、心配だ",
+    "message_id": 909,
+    "name_id": 908
+  },
+  {
+    "name": "楓真",
+    "message": "中文姉さんは天翔先輩のことをよく知っているというわけじゃないから、まわりに広まってる評判が気になるんだろうと思う",
+    "message_id": 921,
+    "name_id": 920
+  },
+  {
+    "name": "楓真",
+    "message": "中文姉さん以外にも、「よくあの人についていけるね」って言われることは多いし、ある程度そう思われるのは仕方ないと思ってる",
+    "message_id": 930,
+    "name_id": 929
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文そ、そうだろう",
+    "message_id": 951,
+    "name_id": 950
+  },
+  {
+    "name": "楓真",
+    "message": "中文だけどね、姉さん。俺は恋会が好きだ",
+    "message_id": 963,
+    "name_id": 962
+  },
+  {
+    "name": "楓真",
+    "message": "中文天翔先輩の標榜する恋会の理念、って言ったら大げさかもしれないけど、そういうものが好きだ",
+    "message_id": 972,
+    "name_id": 971
+  },
+  {
+    "name": "楓真",
+    "message": "中文一緒に活動していく価値があると思ってる。俺がそうしたい、今はそうはっきり言える",
+    "message_id": 981,
+    "name_id": 980
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文天翔奈穂は今後、おまえたちを危難にさらすかもしれない",
+    "message_id": 1002,
+    "name_id": 1001
+  },
+  {
+    "name": "楓真",
+    "message": "中文これはさっき言った再確認ができたから言えることだけど……",
+    "message_id": 1014,
+    "name_id": 1013
+  },
+  {
+    "name": "楓真",
+    "message": "中文俺や仲間がいれば、「これはいけない」と思った時に先輩を止めることができる",
+    "message_id": 1023,
+    "name_id": 1022
+  },
+  {
+    "name": "楓真",
+    "message": "中文もし承知の上で「やってみよう！」と行動して失敗したら、それは全員の責任だよ",
+    "message_id": 1032,
+    "name_id": 1031
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文彼女のことが、好きなのか？",
+    "message_id": 1068,
+    "name_id": 1067
+  },
+  {
+    "name": "楓真",
+    "message": "中文へ？",
+    "message_id": 1082,
+    "name_id": 1081
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文……異性としての意識があるのか",
+    "message_id": 1103,
+    "name_id": 1102
+  },
+  {
+    "name": "楓真",
+    "message": "中文……そ、そこまで答えないとダメ？",
+    "message_id": 1115,
+    "name_id": 1114
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文…………",
+    "message_id": 1136,
+    "name_id": 1135
+  },
+  {
+    "name": null,
+    "message": "中文姉さんが何を思ってか冷や奴に箸を刺して、掻き回した。豆腐がボロボロになっていく。",
+    "message_id": 1148
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文強制はしない",
+    "message_id": 1172,
+    "name_id": 1171
+  },
+  {
+    "name": null,
+    "message": "中文数十秒後、搾り出すようにそれだけ言われた。",
+    "message_id": 1182
+  },
+  {
+    "name": "楓真",
+    "message": "中文正直、まだよくわからない",
+    "message_id": 1191,
+    "name_id": 1190
+  },
+  {
+    "name": null,
+    "message": "中文原型を失った豆腐を、姉さんが仕方なさそうに掻き込む。",
+    "message_id": 1198
+  },
+  {
+    "name": "楓真",
+    "message": "中文好きか嫌いかで言えば、当然好きだよ。言葉を選んで言うなら、なぜか惹かれる、かな",
+    "message_id": 1207,
+    "name_id": 1206
+  },
+  {
+    "name": "楓真",
+    "message": "中文今までそういう観点で考えたことなかったから、参ったな",
+    "message_id": 1216,
+    "name_id": 1215
+  },
+  {
+    "name": "楓真",
+    "message": "中文姉さんの今の一言で……意識しちゃうかもしれない",
+    "message_id": 1225,
+    "name_id": 1224
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文ぶげほっ！",
+    "message_id": 1268,
+    "name_id": 1267
+  },
+  {
+    "name": "楓真",
+    "message": "中文うわっ！",
+    "message_id": 1280,
+    "name_id": 1279
+  },
+  {
+    "name": null,
+    "message": "中文豆腐だったものがこっちまで飛んできた。",
+    "message_id": 1287
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文……すまん",
+    "message_id": 1311,
+    "name_id": 1310
+  },
+  {
+    "name": "楓真",
+    "message": "中文いや、ティッシュ取って",
+    "message_id": 1323,
+    "name_id": 1322
+  },
+  {
+    "name": null,
+    "message": "中文ティッシュ箱がテーブルの真ん中に置かれ、しばし拭き掃除タイムとなった。",
+    "message_id": 1338
+  },
+  {
+    "name": null,
+    "message": "中文今のって……姉さんが動揺したってことか？",
+    "message_id": 1345
+  },
+  {
+    "name": "楓真",
+    "message": "中文もしよかったらさ、姉さんも手伝ってほしい",
+    "message_id": 1354,
+    "name_id": 1353
+  },
+  {
+    "name": "楓真",
+    "message": "中文そうしたら、もっと俺たちのことをわかってもらえると思う。一緒にいるだけでも……",
+    "message_id": 1363,
+    "name_id": 1362
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文…………",
+    "message_id": 1384,
+    "name_id": 1383
+  },
+  {
+    "name": null,
+    "message": "中文姉さんはそれに対しては返事をせず、食事を再開した。",
+    "message_id": 1396
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文料理の味は……どうだ？",
+    "message_id": 1419,
+    "name_id": 1418
+  },
+  {
+    "name": "楓真",
+    "message": "中文あ、うん。おいしい",
+    "message_id": 1431,
+    "name_id": 1430
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文そうか",
+    "message_id": 1452,
+    "name_id": 1451
+  },
+  {
+    "name": "楓真",
+    "message": "中文でも冷や奴は掻き混ぜる食べ物じゃないと思う",
+    "message_id": 1464,
+    "name_id": 1463
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文……そうだな",
+    "message_id": 1485,
+    "name_id": 1484
+  }
+]

@@ -1,0 +1,378 @@
+[
+  {
+    "name": null,
+    "message": "中文渚が恋会に見習いという形で参加して暫く経った。",
+    "message_id": 38
+  },
+  {
+    "name": null,
+    "message": "中文色々と頑張っているみたいだが、どれも上手くいっていない。",
+    "message_id": 47
+  },
+  {
+    "name": null,
+    "message": "中文今日は買い出しを命じられたので、素直に出かけている。",
+    "message_id": 54
+  },
+  {
+    "name": "楓真",
+    "message": "中文前は、あんなにごねてたのに……",
+    "message_id": 97,
+    "name_id": 96
+  },
+  {
+    "name": "奈穂",
+    "message": "中文結果的に楓真がフォローしたでしょ？　渚ってば、プライド高いけど、お兄ちゃんのこと大好きよね",
+    "message_id": 119,
+    "name_id": 118
+  },
+  {
+    "name": "楓真",
+    "message": "中文まぁ、妹ですし。俺も渚のことは好きですよ",
+    "message_id": 131,
+    "name_id": 130
+  },
+  {
+    "name": "奈穂",
+    "message": "中文ふぅ……楓真って……",
+    "message_id": 152,
+    "name_id": 151
+  },
+  {
+    "name": "楓真",
+    "message": "中文はい？",
+    "message_id": 164,
+    "name_id": 163
+  },
+  {
+    "name": "奈穂",
+    "message": "中文いや、いいわ。こういうのは本人が気付くまで放置ってのが筋だからね",
+    "message_id": 185,
+    "name_id": 184
+  },
+  {
+    "name": "楓真",
+    "message": "中文はぁ……",
+    "message_id": 197,
+    "name_id": 196
+  },
+  {
+    "name": null,
+    "message": "中文何を言われているかは分からない。",
+    "message_id": 204
+  },
+  {
+    "name": null,
+    "message": "中文取り敢えず、今は渚の問題だ。",
+    "message_id": 245
+  },
+  {
+    "name": null,
+    "message": "中文渚は相変わらず失敗ばかりしている。",
+    "message_id": 252
+  },
+  {
+    "name": null,
+    "message": "中文今日も色々とやらかした。だからこその買い出しだったのだ。",
+    "message_id": 259
+  },
+  {
+    "name": "楓真",
+    "message": "中文あの、すみません。渚は恋会に向いてないんじゃないですか？　俺にはそう思えるんですけれど……",
+    "message_id": 268,
+    "name_id": 267
+  },
+  {
+    "name": "奈穂",
+    "message": "中文うーん……まだそこまで言い切れないけど……",
+    "message_id": 289,
+    "name_id": 288
+  },
+  {
+    "name": "楓真",
+    "message": "中文天翔先輩はどう思ってるんですか？",
+    "message_id": 301,
+    "name_id": 300
+  },
+  {
+    "name": "奈穂",
+    "message": "中文まだなんとも",
+    "message_id": 322,
+    "name_id": 321
+  },
+  {
+    "name": "楓真",
+    "message": "中文なんとも？",
+    "message_id": 334,
+    "name_id": 333
+  },
+  {
+    "name": "奈穂",
+    "message": "中文まだ慣れていないだけかも知れないし",
+    "message_id": 355,
+    "name_id": 354
+  },
+  {
+    "name": "楓真",
+    "message": "中文そうでしょうか……",
+    "message_id": 367,
+    "name_id": 366
+  },
+  {
+    "name": null,
+    "message": "中文俺はここで押し切っても良かった。渚には恨まれるかもしれないし、家での風当たりが強くなるかもしれない。",
+    "message_id": 374
+  },
+  {
+    "name": null,
+    "message": "中文だが、恋会に所属するデメリットを、まだ一年の渚に与えていいものかどうか。それに渚は、女の子だし、これまでを考えると、些か不安は残る。",
+    "message_id": 381
+  },
+  {
+    "name": "楓真",
+    "message": "中文俺としては、少し悩んでいて――",
+    "message_id": 396,
+    "name_id": 395
+  },
+  {
+    "name": null,
+    "message": "中文だけれど、天翔先輩は俺の方はちっとも見ず、ただ考え込んでいるような感じだった。",
+    "message_id": 403
+  },
+  {
+    "name": null,
+    "message": "中文俺は黙って彼女が口を開くのを待つ。",
+    "message_id": 410
+  },
+  {
+    "name": "奈穂",
+    "message": "中文――！　うん、慣れていないだけ……それに渚は本番に強いタイプだと思うのよね。実践テストにしましょう！",
+    "message_id": 431,
+    "name_id": 430
+  },
+  {
+    "name": "楓真",
+    "message": "中文じ、実践テストぉっ！？",
+    "message_id": 443,
+    "name_id": 442
+  },
+  {
+    "name": "奈穂",
+    "message": "中文これよ！",
+    "message_id": 464,
+    "name_id": 463
+  },
+  {
+    "name": null,
+    "message": "中文バーンと登場音が付きそうなぐらい強く掲げられた天翔先輩の手には一組の恋会データが握られていた。",
+    "message_id": 476
+  },
+  {
+    "name": null,
+    "message": "中文それは確か、凄く難しい案件だったんじゃ……。",
+    "message_id": 483
+  },
+  {
+    "name": "奈穂",
+    "message": "中文案ずるより産むが易し。こういうのは、実際にやってもらった方が効果が出るのよ！",
+    "message_id": 507,
+    "name_id": 506
+  },
+  {
+    "name": "楓真",
+    "message": "中文で、でも、そのトリアージ、相当レベルが高いと思うけれど……",
+    "message_id": 519,
+    "name_id": 518
+  },
+  {
+    "name": null,
+    "message": "中文タグの色は、黒。",
+    "message_id": 526
+  },
+  {
+    "name": null,
+    "message": "中文現在、恋会が抱えている案件の中で難しい部類で、先送りにするか、こちら側から断るか、判断を保留しているレベルだ。",
+    "message_id": 533
+  },
+  {
+    "name": "奈穂",
+    "message": "中文やってみないと分からないでしょう",
+    "message_id": 554,
+    "name_id": 553
+  },
+  {
+    "name": "楓真",
+    "message": "中文そ、そうだけど……",
+    "message_id": 566,
+    "name_id": 565
+  },
+  {
+    "name": "奈穂",
+    "message": "中文よし。取り敢えず、このフォローは楓真ね！",
+    "message_id": 587,
+    "name_id": 586
+  },
+  {
+    "name": "楓真",
+    "message": "中文え！　な、何でですか！",
+    "message_id": 599,
+    "name_id": 598
+  },
+  {
+    "name": "奈穂",
+    "message": "中文あんたの妹でしょ。ちゃんと面倒を見なさい！",
+    "message_id": 620,
+    "name_id": 619
+  },
+  {
+    "name": "楓真",
+    "message": "中文試験官である天翔先輩が見るべきじゃ……",
+    "message_id": 632,
+    "name_id": 631
+  },
+  {
+    "name": "奈穂",
+    "message": "中文あたしが手を貸したらテストにならないでしょう",
+    "message_id": 653,
+    "name_id": 652
+  },
+  {
+    "name": null,
+    "message": "中文……確かに。",
+    "message_id": 663
+  },
+  {
+    "name": null,
+    "message": "中文はぁ、これは相当面倒な事になったぞ。",
+    "message_id": 670
+  },
+  {
+    "name": null,
+    "message": "中文天翔先輩がなぜかノリノリになってるのが一層不安を掻き立てるのだった。",
+    "message_id": 677
+  },
+  {
+    "name": "奈穂",
+    "message": "中文渚にはこの二人をカップルにするフォローをしてもらいますーーー！！",
+    "message_id": 744,
+    "name_id": 743
+  },
+  {
+    "name": "渚",
+    "message": "中文はい！　やります、頑張りますーー！",
+    "message_id": 767,
+    "name_id": 766
+  },
+  {
+    "name": null,
+    "message": "中文熱く闘志を燃やしている渚を横目に俺は天翔先輩の手からデータを受け取りその内容に目を通した。",
+    "message_id": 777
+  },
+  {
+    "name": null,
+    "message": "中文トリアージタグの色が黒なんて、正直見たことが無かった。まだ見る必要は無いものだと思っていた。",
+    "message_id": 784
+  },
+  {
+    "name": "楓真",
+    "message": "中文なになに……",
+    "message_id": 801,
+    "name_id": 800
+  },
+  {
+    "name": null,
+    "message": "中文今回のターゲットは――。",
+    "message_id": 808
+  },
+  {
+    "name": null,
+    "message": "中文「今井僚」「東條かすみ」。",
+    "message_id": 815
+  },
+  {
+    "name": null,
+    "message": "中文二人は幼馴染でクラスも一緒。",
+    "message_id": 822
+  },
+  {
+    "name": null,
+    "message": "中文東條さんが今井くんのことが好きで恋会に依頼してきたということ。",
+    "message_id": 829
+  },
+  {
+    "name": null,
+    "message": "中文こちらの調査によると、今井くんは東條さんに対しては妹的な感情のみで恋愛感情はないらしい。",
+    "message_id": 836
+  },
+  {
+    "name": null,
+    "message": "中文東條さんは、大人しめで、自分の気持ちを素直に表現するのが苦手らしい。",
+    "message_id": 845
+  },
+  {
+    "name": null,
+    "message": "中文今井くんは、バスケ部のレギュラー。行動的で男女問わず人気がある。",
+    "message_id": 852
+  },
+  {
+    "name": null,
+    "message": "中文彼は、はっきりしない東條さんに少し苛ついている。もう少しハキハキした方がいいと感じているみたいだ。",
+    "message_id": 859
+  },
+  {
+    "name": null,
+    "message": "中文そして――。",
+    "message_id": 866
+  },
+  {
+    "name": "楓真",
+    "message": "中文今井僚には気になっている女の子がいる。",
+    "message_id": 875,
+    "name_id": 874
+  },
+  {
+    "name": "楓真",
+    "message": "中文……うーん",
+    "message_id": 884,
+    "name_id": 883
+  },
+  {
+    "name": null,
+    "message": "中文これはちょっと厳しいんじゃないかなぁ。",
+    "message_id": 891
+  },
+  {
+    "name": null,
+    "message": "中文不安を感じる俺を尻目に渚はやる気まんまんのようだった。",
+    "message_id": 898
+  },
+  {
+    "name": "渚",
+    "message": "中文よーっし、やるぞー！",
+    "message_id": 960,
+    "name_id": 959
+  },
+  {
+    "name": "奈穂",
+    "message": "中文んじゃ、担当が付いたって話を先方にしておくから。よろしくね！",
+    "message_id": 983,
+    "name_id": 982
+  },
+  {
+    "name": "渚",
+    "message": "中文はい！",
+    "message_id": 1006,
+    "name_id": 1005
+  },
+  {
+    "name": "楓真",
+    "message": "中文うーん",
+    "message_id": 1018,
+    "name_id": 1017
+  },
+  {
+    "name": null,
+    "message": "中文やっぱり首をかしげてしまう俺だった。",
+    "message_id": 1025
+  }
+]

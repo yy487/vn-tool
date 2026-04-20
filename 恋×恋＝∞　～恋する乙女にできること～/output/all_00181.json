@@ -1,0 +1,697 @@
+[
+  {
+    "name": null,
+    "message": "中文運の悪いことに保健の先生が席を外していた。",
+    "message_id": 38
+  },
+  {
+    "name": "楓真",
+    "message": "中文先輩はここに座ってて下さい",
+    "message_id": 50,
+    "name_id": 49
+  },
+  {
+    "name": "彩音",
+    "message": "中文か、茅野、いい、いい。私、自分でするから、大丈夫だから",
+    "message_id": 72,
+    "name_id": 71
+  },
+  {
+    "name": "楓真",
+    "message": "中文ダメです。俺のせいなんですからちゃんと責任を取らせて下さい",
+    "message_id": 85,
+    "name_id": 84
+  },
+  {
+    "name": "彩音",
+    "message": "中文せ、責任って……私も悪かったんだから",
+    "message_id": 106,
+    "name_id": 105
+  },
+  {
+    "name": "楓真",
+    "message": "中文それに、自分でやるのは大変じゃないですか。ここは任せて下さい",
+    "message_id": 118,
+    "name_id": 117
+  },
+  {
+    "name": "彩音",
+    "message": "中文これぐらい大したことないわ。そんなに大袈裟にしなくても……",
+    "message_id": 139,
+    "name_id": 138
+  },
+  {
+    "name": "楓真",
+    "message": "中文怪我したんですから大袈裟でも何でもありません！　媛守先輩は女の子なんですから、その辺りちゃんと考えて下さい！",
+    "message_id": 151,
+    "name_id": 150
+  },
+  {
+    "name": "彩音",
+    "message": "中文ご、ごめんなさい……",
+    "message_id": 172,
+    "name_id": 171
+  },
+  {
+    "name": "楓真",
+    "message": "中文あ、いえ、すいません。大きな声出しちゃって……",
+    "message_id": 184,
+    "name_id": 183
+  },
+  {
+    "name": "彩音",
+    "message": "中文ううん。……じゃあ、お願いしてもいいかしら",
+    "message_id": 205,
+    "name_id": 204
+  },
+  {
+    "name": null,
+    "message": "中文そういって媛守先輩が椅子に腰掛ける。",
+    "message_id": 215
+  },
+  {
+    "name": null,
+    "message": "中文治療のために必要だと思う道具を用意して先輩の前にしゃがみ込む。",
+    "message_id": 273
+  },
+  {
+    "name": "楓真",
+    "message": "中文じっとしてて下さい",
+    "message_id": 282,
+    "name_id": 281
+  },
+  {
+    "name": null,
+    "message": "中文媛守先輩は不安そうな表情のまま左足を差し出してくる",
+    "message_id": 289
+  },
+  {
+    "name": "楓真",
+    "message": "中文少し触りますね",
+    "message_id": 298,
+    "name_id": 297
+  },
+  {
+    "name": "彩音",
+    "message": "中文え、ええ、痛くしないでね",
+    "message_id": 309,
+    "name_id": 308
+  },
+  {
+    "name": null,
+    "message": "中文恐る恐る足首の辺りに触れる。",
+    "message_id": 319
+  },
+  {
+    "name": "楓真",
+    "message": "中文ここは、痛みますか",
+    "message_id": 328,
+    "name_id": 327
+  },
+  {
+    "name": "彩音",
+    "message": "中文大丈夫、かな",
+    "message_id": 346,
+    "name_id": 345
+  },
+  {
+    "name": "楓真",
+    "message": "中文じゃあ、こっちは……",
+    "message_id": 358,
+    "name_id": 357
+  },
+  {
+    "name": "彩音",
+    "message": "中文んっ！　あ、……くっ",
+    "message_id": 376,
+    "name_id": 375
+  },
+  {
+    "name": "楓真",
+    "message": "中文すいません",
+    "message_id": 388,
+    "name_id": 387
+  },
+  {
+    "name": null,
+    "message": "中文慌てて手を離すが、患部を直接触ってしまったみたいだ。",
+    "message_id": 395
+  },
+  {
+    "name": "彩音",
+    "message": "中文ううん、大丈夫。さっきのところが痛いみたい",
+    "message_id": 413,
+    "name_id": 412
+  },
+  {
+    "name": "楓真",
+    "message": "中文分かりました、とりあえず冷やしましょう。すいません脱いでもらっていいですか",
+    "message_id": 425,
+    "name_id": 424
+  },
+  {
+    "name": "彩音",
+    "message": "中文えっ！　脱いでって……。そ、それは、そんな急に言われても。こんなところで、それに……",
+    "message_id": 443,
+    "name_id": 442
+  },
+  {
+    "name": "楓真",
+    "message": "中文でも、ソックス脱いでもらわないと濡れちゃいますよ",
+    "message_id": 455,
+    "name_id": 454
+  },
+  {
+    "name": "彩音",
+    "message": "中文……ソックス……あ、そうね。脱いだほうがいいわね",
+    "message_id": 473,
+    "name_id": 472
+  },
+  {
+    "name": "楓真",
+    "message": "中文すいません、痛いでしょうがお願いします",
+    "message_id": 485,
+    "name_id": 484
+  },
+  {
+    "name": "彩音",
+    "message": "中文ええ、大丈夫。ちょっと向こう向いていてもらえるかしら",
+    "message_id": 496,
+    "name_id": 495
+  },
+  {
+    "name": "楓真",
+    "message": "中文はい",
+    "message_id": 508,
+    "name_id": 507
+  },
+  {
+    "name": "彩音",
+    "message": "中文……いいわ、こっちを向いても",
+    "message_id": 559,
+    "name_id": 558
+  },
+  {
+    "name": "彩音",
+    "message": "中文……",
+    "message_id": 611,
+    "name_id": 610
+  },
+  {
+    "name": "楓真",
+    "message": "中文ちょっと冷たいかもしれないですけど我慢してくださいね",
+    "message_id": 623,
+    "name_id": 622
+  },
+  {
+    "name": "彩音",
+    "message": "中文は、はい",
+    "message_id": 634,
+    "name_id": 633
+  },
+  {
+    "name": null,
+    "message": "中文先輩が脱いでいる間に塗らしてきたハンカチを患部に当てる。",
+    "message_id": 644
+  },
+  {
+    "name": "彩音",
+    "message": "中文んっ",
+    "message_id": 672,
+    "name_id": 671
+  },
+  {
+    "name": "楓真",
+    "message": "中文大丈夫ですか？",
+    "message_id": 684,
+    "name_id": 683
+  },
+  {
+    "name": "彩音",
+    "message": "中文ええ、思ったより冷たかっただけだから、でも気持ちいいいかも",
+    "message_id": 702,
+    "name_id": 701
+  },
+  {
+    "name": "楓真",
+    "message": "中文そうですか、よかっ……た",
+    "message_id": 714,
+    "name_id": 713
+  },
+  {
+    "name": null,
+    "message": "中文――ドキッ",
+    "message_id": 723
+  },
+  {
+    "name": "彩音",
+    "message": "中文茅野？　どうかした",
+    "message_id": 734,
+    "name_id": 733
+  },
+  {
+    "name": "楓真",
+    "message": "中文いえいえ、なんでもないです。もう少し冷やしたら包帯で固定しますから",
+    "message_id": 746,
+    "name_id": 745
+  },
+  {
+    "name": "彩音",
+    "message": "中文わかったわ",
+    "message_id": 757,
+    "name_id": 756
+  },
+  {
+    "name": null,
+    "message": "中文視界にちらちらと見えているものは――。",
+    "message_id": 767
+  },
+  {
+    "name": null,
+    "message": "中文いや、ちらちらなんてレベルじゃない。はっきりと見えてる。",
+    "message_id": 774
+  },
+  {
+    "name": null,
+    "message": "中文純白にきらめくその物体は。",
+    "message_id": 798
+  },
+  {
+    "name": null,
+    "message": "中文パンツ――。",
+    "message_id": 808
+  },
+  {
+    "name": "楓真",
+    "message": "中文……ごくっ",
+    "message_id": 819,
+    "name_id": 818
+  },
+  {
+    "name": null,
+    "message": "中文媛守先輩のパンツが俺の視界の相当な面積を覆っている。",
+    "message_id": 826
+  },
+  {
+    "name": null,
+    "message": "中文ダメだ。",
+    "message_id": 835
+  },
+  {
+    "name": null,
+    "message": "中文先輩は俺を信じて治療させてくれてるんだから、なるべく見ないようにしないと。",
+    "message_id": 842
+  },
+  {
+    "name": "楓真",
+    "message": "中文これは治療これは治療これは治療",
+    "message_id": 851,
+    "name_id": 850
+  },
+  {
+    "name": null,
+    "message": "中文見てはいけない。先輩のパンツを――。",
+    "message_id": 858
+  },
+  {
+    "name": null,
+    "message": "中文精神を治療することに集中させなければ。",
+    "message_id": 865
+  },
+  {
+    "name": null,
+    "message": "中文先輩のパンツ……。",
+    "message_id": 872
+  },
+  {
+    "name": "彩音",
+    "message": "中文茅野？",
+    "message_id": 890,
+    "name_id": 889
+  },
+  {
+    "name": "楓真",
+    "message": "中文は、はい！　あ、どうですか。まだ痛みますか",
+    "message_id": 902,
+    "name_id": 901
+  },
+  {
+    "name": "彩音",
+    "message": "中文少しは引いてきたかもしれない。茅野のおかげね",
+    "message_id": 913,
+    "name_id": 912
+  },
+  {
+    "name": null,
+    "message": "中文先輩の股間の膨らみ、少し緊張しているのだろうか太腿にうっすらと汗をかいていて――。",
+    "message_id": 935
+  },
+  {
+    "name": "彩音",
+    "message": "中文どうしたの、茅野。大丈夫？",
+    "message_id": 946,
+    "name_id": 945
+  },
+  {
+    "name": null,
+    "message": "中文媛守先輩の視線が俺の視線を追って下半身に――。",
+    "message_id": 956
+  },
+  {
+    "name": "彩音",
+    "message": "中文えっ！　や、やだ！　見ないで！！！",
+    "message_id": 974,
+    "name_id": 973
+  },
+  {
+    "name": "楓真",
+    "message": "中文み、見てません！　パンツなんて",
+    "message_id": 986,
+    "name_id": 985
+  },
+  {
+    "name": "彩音",
+    "message": "中文ひっ！　い、い、いやああああああああああああああああああああああああああああぁっ！",
+    "message_id": 997,
+    "name_id": 996
+  },
+  {
+    "name": null,
+    "message": "中文――ドカッ！！！！！",
+    "message_id": 1036
+  },
+  {
+    "name": "楓真",
+    "message": "中文ぐわっ！",
+    "message_id": 1045,
+    "name_id": 1044
+  },
+  {
+    "name": null,
+    "message": "中文先輩の足が思いっきり顎を捉えたようだ。",
+    "message_id": 1071
+  },
+  {
+    "name": null,
+    "message": "中文世界が揺れて……ああ、パンツが……。",
+    "message_id": 1078
+  },
+  {
+    "name": null,
+    "message": "中文――ドサッ",
+    "message_id": 1106
+  },
+  {
+    "name": "彩音",
+    "message": "中文あっ、茅野、茅野ーーーーーーーー",
+    "message_id": 1123,
+    "name_id": 1122
+  },
+  {
+    "name": null,
+    "message": "中文……",
+    "message_id": 1141
+  },
+  {
+    "name": null,
+    "message": "中文……",
+    "message_id": 1148
+  },
+  {
+    "name": "彩音",
+    "message": "中文顔を上げたらダメだからね。絶対に絶対に見てはダメよ",
+    "message_id": 1182,
+    "name_id": 1181
+  },
+  {
+    "name": "楓真",
+    "message": "中文はい、大丈夫です。もう足しか足しか見えてませんから",
+    "message_id": 1194,
+    "name_id": 1193
+  },
+  {
+    "name": "彩音",
+    "message": "中文それはそれで……恥ずかしいんだけど",
+    "message_id": 1205,
+    "name_id": 1204
+  },
+  {
+    "name": null,
+    "message": "中文俺は足だけを見て治療に専念する。",
+    "message_id": 1215
+  },
+  {
+    "name": null,
+    "message": "中文媛守先輩の足首は思った以上に細くて、触れているとまたドキドキしてくる。",
+    "message_id": 1222
+  },
+  {
+    "name": "彩音",
+    "message": "中文……ごめんなさい",
+    "message_id": 1233,
+    "name_id": 1232
+  },
+  {
+    "name": "楓真",
+    "message": "中文何がですか？",
+    "message_id": 1245,
+    "name_id": 1244
+  },
+  {
+    "name": "彩音",
+    "message": "中文……びっくりしてしまって、つい足が出ちゃったの",
+    "message_id": 1256,
+    "name_id": 1255
+  },
+  {
+    "name": "楓真",
+    "message": "中文い、いえ。元はといえば俺が悪いわけですから。さっさと言えばよかったんですよ、すいません",
+    "message_id": 1268,
+    "name_id": 1267
+  },
+  {
+    "name": "彩音",
+    "message": "中文茅野もやっぱり男の子なのよね",
+    "message_id": 1279,
+    "name_id": 1278
+  },
+  {
+    "name": "楓真",
+    "message": "中文あ、それは、その、すいません",
+    "message_id": 1291,
+    "name_id": 1290
+  },
+  {
+    "name": "彩音",
+    "message": "中文ふぅ。茅野が悪い人じゃないのは分かってる。だけど……私やっぱり苦手だな",
+    "message_id": 1302,
+    "name_id": 1301
+  },
+  {
+    "name": null,
+    "message": "中文……そこに入るのは多分“男の人”なんだろうな。",
+    "message_id": 1312
+  },
+  {
+    "name": "楓真",
+    "message": "中文さっきの件は本当にすいませんでした。ただ、媛守先輩とも他のメンバーと同じように仲良くしたいと思ってます",
+    "message_id": 1321,
+    "name_id": 1320
+  },
+  {
+    "name": "彩音",
+    "message": "中文そ、そぉ……でも、茅野は、その、面倒に思うことはない。私みたいなのを相手にしていて",
+    "message_id": 1332,
+    "name_id": 1331
+  },
+  {
+    "name": "楓真",
+    "message": "中文え、何でですか。そんなこと思ったことないですよ",
+    "message_id": 1344,
+    "name_id": 1343
+  },
+  {
+    "name": "楓真",
+    "message": "中文媛守先輩は俺のこと嫌いですか",
+    "message_id": 1353,
+    "name_id": 1352
+  },
+  {
+    "name": "彩音",
+    "message": "中文……嫌いだったら一緒に活動はしないわ。茅野は頼りになると思ってるし",
+    "message_id": 1364,
+    "name_id": 1363
+  },
+  {
+    "name": "楓真",
+    "message": "中文だったらいいじゃないですか、いきなり変わるのは難しいでしょうから少しずつでも慣れてもらえれば俺はそれで嬉しいです",
+    "message_id": 1376,
+    "name_id": 1375
+  },
+  {
+    "name": "彩音",
+    "message": "中文私なりのペースでしか出来ないけど、それでもいいの？",
+    "message_id": 1387,
+    "name_id": 1386
+  },
+  {
+    "name": "楓真",
+    "message": "中文もちろんですよ",
+    "message_id": 1399,
+    "name_id": 1398
+  },
+  {
+    "name": "彩音",
+    "message": "中文ふふふ……やっぱり奈穂が見込んだだけのことはあるわね",
+    "message_id": 1410,
+    "name_id": 1409
+  },
+  {
+    "name": "楓真",
+    "message": "中文そ、そうですか",
+    "message_id": 1422,
+    "name_id": 1421
+  },
+  {
+    "name": "彩音",
+    "message": "中文ええ、茅野ってちょっと変わってるわ。普通の男子なら私の相手をしようなんて思わないもの",
+    "message_id": 1433,
+    "name_id": 1432
+  },
+  {
+    "name": "楓真",
+    "message": "中文そんなことないですよ、媛守先輩に興味を持ってる男子なんてたくさんいますよ",
+    "message_id": 1445,
+    "name_id": 1444
+  },
+  {
+    "name": "彩音",
+    "message": "中文そんなことないわよ",
+    "message_id": 1456,
+    "name_id": 1455
+  },
+  {
+    "name": "楓真",
+    "message": "中文そこは素直に“私に釣り合う男子がいないのよ”とか言ってください",
+    "message_id": 1468,
+    "name_id": 1467
+  },
+  {
+    "name": "彩音",
+    "message": "中文それのどこが素直なのよ",
+    "message_id": 1479,
+    "name_id": 1478
+  },
+  {
+    "name": "楓真",
+    "message": "中文媛守先輩は魅力的な女性ってことです。異論は認めませんから",
+    "message_id": 1491,
+    "name_id": 1490
+  },
+  {
+    "name": "彩音",
+    "message": "中文ふぅ、茅野って結構強引なのね",
+    "message_id": 1502,
+    "name_id": 1501
+  },
+  {
+    "name": "楓真",
+    "message": "中文いつも強引なわけじゃないですよ、ＴＰＯをわきまえていますから",
+    "message_id": 1514,
+    "name_id": 1513
+  },
+  {
+    "name": "彩音",
+    "message": "中文うふふ、茅野って大分変わってるわね",
+    "message_id": 1532,
+    "name_id": 1531
+  },
+  {
+    "name": "楓真",
+    "message": "中文そこは“茅野って男らしいところもあるのね”って言ってほしかったな",
+    "message_id": 1544,
+    "name_id": 1543
+  },
+  {
+    "name": "楓真",
+    "message": "中文よし、終わりました！",
+    "message_id": 1570,
+    "name_id": 1569
+  },
+  {
+    "name": "彩音",
+    "message": "中文ふふふ。ありがとう……茅野、これからもよろしくね",
+    "message_id": 1581,
+    "name_id": 1580
+  },
+  {
+    "name": "楓真",
+    "message": "中文はいっ！　こちらこそよろしくお願いします",
+    "message_id": 1593,
+    "name_id": 1592
+  },
+  {
+    "name": null,
+    "message": "中文俺は顔を上げて媛守先輩の言葉に答える。",
+    "message_id": 1600
+  },
+  {
+    "name": null,
+    "message": "中文そして。",
+    "message_id": 1607
+  },
+  {
+    "name": null,
+    "message": "中文俺の視界に写った物は――。",
+    "message_id": 1614
+  },
+  {
+    "name": "楓真",
+    "message": "中文あっ",
+    "message_id": 1640,
+    "name_id": 1639
+  },
+  {
+    "name": "彩音",
+    "message": "中文ひっ！　",
+    "message_id": 1658,
+    "name_id": 1657
+  },
+  {
+    "name": "彩音",
+    "message": "中文いやああああああああああああああああああああああああああああぁっ！",
+    "message_id": 1669,
+    "name_id": 1668
+  },
+  {
+    "name": null,
+    "message": "中文――ドカッ！",
+    "message_id": 1732
+  },
+  {
+    "name": null,
+    "message": "中文――ドスッ！！",
+    "message_id": 1749
+  },
+  {
+    "name": null,
+    "message": "中文――バシッ！！！",
+    "message_id": 1766
+  },
+  {
+    "name": null,
+    "message": "中文媛守先輩の足は恐るべき凶器――。",
+    "message_id": 1773
+  },
+  {
+    "name": "彩音",
+    "message": "中文あ、あ、ごめんなさい。茅野、かやのー、目を開けてーーーーー！！",
+    "message_id": 1834,
+    "name_id": 1833
+  },
+  {
+    "name": null,
+    "message": "中文そのことを俺の心に深く深く刻み付けることになったのだった。",
+    "message_id": 1844
+  }
+]

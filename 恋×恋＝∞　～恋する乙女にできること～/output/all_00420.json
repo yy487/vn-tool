@@ -1,0 +1,1154 @@
+[
+  {
+    "name": null,
+    "message": "中文絶好の海日和――。",
+    "message_id": 36
+  },
+  {
+    "name": null,
+    "message": "中文天翔先輩の『朝一番よ！　朝一番！』という号令により、相当早く海岸に着いた。",
+    "message_id": 45
+  },
+  {
+    "name": "賢太",
+    "message": "中文茅野くん、他のみんなは？",
+    "message_id": 123,
+    "name_id": 122
+  },
+  {
+    "name": "楓真",
+    "message": "中文今、着替えにいってるよ",
+    "message_id": 139,
+    "name_id": 138
+  },
+  {
+    "name": "賢太",
+    "message": "中文そう。しかし、もう海に入れるとは驚きだね",
+    "message_id": 160,
+    "name_id": 159
+  },
+  {
+    "name": "楓真",
+    "message": "中文今年は暑くて早いらしいんだ。お陰で海の施設はあんまり開業してないってさ",
+    "message_id": 172,
+    "name_id": 171
+  },
+  {
+    "name": "賢太",
+    "message": "中文ちょっと歩けばコンビニもあるから大丈夫だと思うよ。まぁ、相当買い込んできたみたいだけどね……",
+    "message_id": 193,
+    "name_id": 192
+  },
+  {
+    "name": null,
+    "message": "中文俺たちの後ろに置かれている荷物は、ちょっと尋常じゃない。確かに、女性陣がたっぷり買ってきたわけだけれど、俺と副会長からするとちょっと異常じゃないか、と思うほど。",
+    "message_id": 203
+  },
+  {
+    "name": "賢太",
+    "message": "中文まぁ、これも会長と天翔先輩の張り合いのせいじゃないかな、と思うんだけど",
+    "message_id": 224,
+    "name_id": 223
+  },
+  {
+    "name": "楓真",
+    "message": "中文……あはははは",
+    "message_id": 236,
+    "name_id": 235
+  },
+  {
+    "name": null,
+    "message": "中文何故かというか予想通りというか、準備する段階でお互いに張り合ってその量が圧倒的なものになってしまった。",
+    "message_id": 251
+  },
+  {
+    "name": null,
+    "message": "中文おかげでこちらは個人のもの以外用意する必要がなかったほどだ。",
+    "message_id": 258
+  },
+  {
+    "name": "奈穂",
+    "message": "中文おっまたせー♪",
+    "message_id": 275,
+    "name_id": 274
+  },
+  {
+    "name": "楓真",
+    "message": "中文おおー",
+    "message_id": 287,
+    "name_id": 286
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文じゃっじゃじゃーん♪",
+    "message_id": 353,
+    "name_id": 352
+  },
+  {
+    "name": "渚",
+    "message": "中文おにいちゃーん！　えへへ、どう、似合う？",
+    "message_id": 402,
+    "name_id": 401
+  },
+  {
+    "name": "楓真",
+    "message": "中文うん。似合ってる",
+    "message_id": 414,
+    "name_id": 413
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文それ、あたしが選んだっす！　可愛いっしょ？",
+    "message_id": 435,
+    "name_id": 434
+  },
+  {
+    "name": "楓真",
+    "message": "中文ああ、いいね。みんなのもこの前買った奴？",
+    "message_id": 447,
+    "name_id": 446
+  },
+  {
+    "name": "奈穂",
+    "message": "中文あったりまえでしょ！　わざわざ買ってきたんだから！　それよりも感想は",
+    "message_id": 498,
+    "name_id": 497
+  },
+  {
+    "name": "楓真",
+    "message": "中文あ、はい、とっても似合ってます",
+    "message_id": 510,
+    "name_id": 509
+  },
+  {
+    "name": "奈穂",
+    "message": "中文似合ってるだけ？　本当にそれだけ？",
+    "message_id": 537,
+    "name_id": 536
+  },
+  {
+    "name": "楓真",
+    "message": "中文あ、いえ、本当に似合ってて、眩しいくらいに、き、きれい……です",
+    "message_id": 549,
+    "name_id": 548
+  },
+  {
+    "name": "奈穂",
+    "message": "中文ふふ、ありがと",
+    "message_id": 570,
+    "name_id": 569
+  },
+  {
+    "name": "渚",
+    "message": "中文むぅー、お兄ちゃん渚は",
+    "message_id": 593,
+    "name_id": 592
+  },
+  {
+    "name": "楓真",
+    "message": "中文え、だから、渚も似合ってるよ",
+    "message_id": 605,
+    "name_id": 604
+  },
+  {
+    "name": "渚",
+    "message": "中文奈穂先輩は似合っててきれいで、渚は似合ってるだけなの",
+    "message_id": 628,
+    "name_id": 627
+  },
+  {
+    "name": "楓真",
+    "message": "中文も、もちろん渚もきれいだよ",
+    "message_id": 640,
+    "name_id": 639
+  },
+  {
+    "name": "渚",
+    "message": "中文えへへへへ♪",
+    "message_id": 663,
+    "name_id": 662
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文イシシシシッ、かやっち大変すね",
+    "message_id": 710,
+    "name_id": 709
+  },
+  {
+    "name": "楓真",
+    "message": "中文まさか金剛にも言わなきゃいけないのか",
+    "message_id": 722,
+    "name_id": 721
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文ちっちっち、あたしは言葉よりもかやっちのあっつ～い眼差しをくれたら……あはっ、それでOKっすよ",
+    "message_id": 743,
+    "name_id": 742
+  },
+  {
+    "name": "楓真",
+    "message": "中文はいはい",
+    "message_id": 755,
+    "name_id": 754
+  },
+  {
+    "name": "賢太",
+    "message": "中文さすが茅野くん、モテモテだね",
+    "message_id": 794,
+    "name_id": 793
+  },
+  {
+    "name": "楓真",
+    "message": "中文モテてねーよ",
+    "message_id": 806,
+    "name_id": 805
+  },
+  {
+    "name": "音羽",
+    "message": "中文茅野くんはからかわれているだけだもんね……奈穂なんかのところにいるから、可哀想に",
+    "message_id": 829,
+    "name_id": 828
+  },
+  {
+    "name": "奈穂",
+    "message": "中文なんで可哀想なのよ、楓真はあたしたちからもてあそばれて幸せなのよ",
+    "message_id": 876,
+    "name_id": 875
+  },
+  {
+    "name": null,
+    "message": "中文もてあそんでいる自覚はあったのか、とほほ。",
+    "message_id": 886
+  },
+  {
+    "name": "音羽",
+    "message": "中文はいはい。茅野くんは物好きなのね",
+    "message_id": 909,
+    "name_id": 908
+  },
+  {
+    "name": "賢太",
+    "message": "中文大変だね",
+    "message_id": 930,
+    "name_id": 929
+  },
+  {
+    "name": "楓真",
+    "message": "中文なんでもいいよ、ところで媛守先輩とクリスは？",
+    "message_id": 942,
+    "name_id": 941
+  },
+  {
+    "name": "奈穂",
+    "message": "中文彩音ってば、恥ずかしがり屋だからね。そろそろ、クリスに引っ張りだされてくるんじゃないかしら？",
+    "message_id": 963,
+    "name_id": 962
+  },
+  {
+    "name": "クリス",
+    "message": "中文大丈夫ですってー、彩音先輩。平気ですぅ～♪",
+    "message_id": 992,
+    "name_id": 991
+  },
+  {
+    "name": "彩音",
+    "message": "中文だ、だけど、ちょっと恥ずかしいから……その、ほ、他に男子も、いるから……",
+    "message_id": 1009,
+    "name_id": 1008
+  },
+  {
+    "name": "クリス",
+    "message": "中文いるのは楓先輩と、賢太先輩だけです。ぜんぜん平気です♪",
+    "message_id": 1026,
+    "name_id": 1025
+  },
+  {
+    "name": "彩音",
+    "message": "中文だ、だから恥ずかしいの",
+    "message_id": 1046,
+    "name_id": 1045
+  },
+  {
+    "name": "楓真",
+    "message": "中文あ、来た……",
+    "message_id": 1058,
+    "name_id": 1057
+  },
+  {
+    "name": null,
+    "message": "中文さすがになんだか恥ずかしそうにしている。腕で身体を隠そうとしてるが、何も羽織ってない状態じゃあ、しょうがないな。",
+    "message_id": 1065
+  },
+  {
+    "name": "クリス",
+    "message": "中文お待たせしました、楓先輩♪",
+    "message_id": 1156,
+    "name_id": 1155
+  },
+  {
+    "name": "彩音",
+    "message": "中文あうあう……",
+    "message_id": 1179,
+    "name_id": 1178
+  },
+  {
+    "name": "クリス",
+    "message": "中文どうですか、おかしくないですか",
+    "message_id": 1202,
+    "name_id": 1201
+  },
+  {
+    "name": "楓真",
+    "message": "中文……",
+    "message_id": 1214,
+    "name_id": 1213
+  },
+  {
+    "name": "渚",
+    "message": "中文お・に・い・さ・ま",
+    "message_id": 1268,
+    "name_id": 1267
+  },
+  {
+    "name": "楓真",
+    "message": "中文あ、こほん…うん、クリスにとってもよく似合ってる、可愛いね",
+    "message_id": 1304,
+    "name_id": 1303
+  },
+  {
+    "name": "クリス",
+    "message": "中文ありがとうございます楓先輩♪",
+    "message_id": 1342,
+    "name_id": 1341
+  },
+  {
+    "name": "奈穂",
+    "message": "中文楓真、ちゃんと彩音も見てあげないとダメよ",
+    "message_id": 1401,
+    "name_id": 1400
+  },
+  {
+    "name": "彩音",
+    "message": "中文いえいえいえいえ、私は大丈夫だから、気にしないで、むしろ見ないで！",
+    "message_id": 1454,
+    "name_id": 1453
+  },
+  {
+    "name": null,
+    "message": "中文恥ずかしがってる割には結構大胆な水着のような気がするんですけど。",
+    "message_id": 1464
+  },
+  {
+    "name": null,
+    "message": "中文でも媛守先輩にとてもよく似合ってるのは間違いないな。",
+    "message_id": 1471
+  },
+  {
+    "name": "彩音",
+    "message": "中文あわわわわ……",
+    "message_id": 1508,
+    "name_id": 1507
+  },
+  {
+    "name": "楓真",
+    "message": "中文素敵だと思います媛守先輩",
+    "message_id": 1520,
+    "name_id": 1519
+  },
+  {
+    "name": "彩音",
+    "message": "中文あっ…あ、ありがと",
+    "message_id": 1543,
+    "name_id": 1542
+  },
+  {
+    "name": "奈穂",
+    "message": "中文いいでしょ、彩音ったら、おとなしめなのばかり選ぼうとするから、スタイルいいんだからこれぐらい攻めないとね",
+    "message_id": 1566,
+    "name_id": 1565
+  },
+  {
+    "name": "彩音",
+    "message": "中文奈穂が勝手に買ったんじゃない、私は別に……",
+    "message_id": 1589,
+    "name_id": 1588
+  },
+  {
+    "name": "奈穂",
+    "message": "中文ふふーん、試着したとき満更でもない顔してたくせに",
+    "message_id": 1612,
+    "name_id": 1611
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文彩先輩、色っぽいです",
+    "message_id": 1644,
+    "name_id": 1643
+  },
+  {
+    "name": "彩音",
+    "message": "中文も、もうそんなに見ないで",
+    "message_id": 1665,
+    "name_id": 1664
+  },
+  {
+    "name": "奈穂",
+    "message": "中文そんなに恥ずかしいなら、パーカーか何か羽織ったらよかったじゃない？",
+    "message_id": 1690,
+    "name_id": 1689
+  },
+  {
+    "name": "彩音",
+    "message": "中文だ、だって、クリスちゃんがいらないって、取り上げちゃったから",
+    "message_id": 1711,
+    "name_id": 1710
+  },
+  {
+    "name": "クリス",
+    "message": "中文いりません！　こんなにいいお天気なのに、パーカーは暑いです！",
+    "message_id": 1781,
+    "name_id": 1780
+  },
+  {
+    "name": "音羽",
+    "message": "中文んー、そうだけど。日焼け止めは塗っておきなさいね、クリス",
+    "message_id": 1804,
+    "name_id": 1803
+  },
+  {
+    "name": "クリス",
+    "message": "中文はい、お姉さま！",
+    "message_id": 1827,
+    "name_id": 1826
+  },
+  {
+    "name": "奈穂",
+    "message": "中文そうね。年々紫外線はきつくなってるから。あなたたちも塗っておきなさいよ",
+    "message_id": 1869,
+    "name_id": 1868
+  },
+  {
+    "name": "賢太",
+    "message": "中文僕はもう塗っているよ。茅野くんは？",
+    "message_id": 1890,
+    "name_id": 1889
+  },
+  {
+    "name": "楓真",
+    "message": "中文いらないと思うけど……そんなに焼けるかな？",
+    "message_id": 1902,
+    "name_id": 1901
+  },
+  {
+    "name": "渚",
+    "message": "中文皮膚がん怖いよ、お兄ちゃん",
+    "message_id": 1929,
+    "name_id": 1928
+  },
+  {
+    "name": "楓真",
+    "message": "中文じゃあ、貸してくれるか",
+    "message_id": 1941,
+    "name_id": 1940
+  },
+  {
+    "name": "渚",
+    "message": "中文うん♪",
+    "message_id": 1964,
+    "name_id": 1963
+  },
+  {
+    "name": null,
+    "message": "中文気にしすぎな気もするけどな。",
+    "message_id": 1974
+  },
+  {
+    "name": null,
+    "message": "中文まぁ、女子は焼きたくない人が多いだろうしな。",
+    "message_id": 1981
+  },
+  {
+    "name": "楓真",
+    "message": "中文……ん",
+    "message_id": 1998,
+    "name_id": 1997
+  },
+  {
+    "name": "クリス",
+    "message": "中文楓先輩♪",
+    "message_id": 2052,
+    "name_id": 2051
+  },
+  {
+    "name": "楓真",
+    "message": "中文なに？",
+    "message_id": 2064,
+    "name_id": 2063
+  },
+  {
+    "name": null,
+    "message": "中文俺は日焼け止めの蓋を開けながら、答える。",
+    "message_id": 2071
+  },
+  {
+    "name": "クリス",
+    "message": "中文私に塗らせて下さい",
+    "message_id": 2092,
+    "name_id": 2091
+  },
+  {
+    "name": "渚",
+    "message": "中文えっ！？",
+    "message_id": 2109,
+    "name_id": 2108
+  },
+  {
+    "name": null,
+    "message": "中文俺が反応するよりも早く渚が驚きの表情を向ける。",
+    "message_id": 2119
+  },
+  {
+    "name": "渚",
+    "message": "中文ちょ、ちょっと待って愛ちゃん、なんでなんで",
+    "message_id": 2136,
+    "name_id": 2135
+  },
+  {
+    "name": "クリス",
+    "message": "中文お礼です♪　楓先輩にはいつもお世話になってますから",
+    "message_id": 2157,
+    "name_id": 2156
+  },
+  {
+    "name": "渚",
+    "message": "中文お兄ちゃん、一体なにしたの",
+    "message_id": 2174,
+    "name_id": 2173
+  },
+  {
+    "name": "楓真",
+    "message": "中文別になんにもしてないから",
+    "message_id": 2186,
+    "name_id": 2185
+  },
+  {
+    "name": "渚",
+    "message": "中文うううぅぅぅー。愛ちゃん、お兄ちゃんのお世話は妹の仕事なんです、だから日焼け止めは渚が塗ります！",
+    "message_id": 2223,
+    "name_id": 2222
+  },
+  {
+    "name": "クリス",
+    "message": "中文渚ちゃんずるいです",
+    "message_id": 2246,
+    "name_id": 2245
+  },
+  {
+    "name": "渚",
+    "message": "中文ずるくないですっ",
+    "message_id": 2299,
+    "name_id": 2298
+  },
+  {
+    "name": "奈穂",
+    "message": "中文どうする？　彩音も楓真にお礼しておく？",
+    "message_id": 2339,
+    "name_id": 2338
+  },
+  {
+    "name": "彩音",
+    "message": "中文なななな、な、なんで私が",
+    "message_id": 2392,
+    "name_id": 2391
+  },
+  {
+    "name": "奈穂",
+    "message": "中文仕方ないなー、じゃあ、あたしが塗ってあげよう",
+    "message_id": 2415,
+    "name_id": 2414
+  },
+  {
+    "name": "彩音",
+    "message": "中文どうして奈穂が",
+    "message_id": 2438,
+    "name_id": 2437
+  },
+  {
+    "name": "奈穂",
+    "message": "中文んー、みんな揉めてるみたいだしね。たまにはアメも与えておかないと楓真が可哀想でしょ",
+    "message_id": 2461,
+    "name_id": 2460
+  },
+  {
+    "name": "彩音",
+    "message": "中文奈穂は面白がってるだけでしょ",
+    "message_id": 2484,
+    "name_id": 2483
+  },
+  {
+    "name": "奈穂",
+    "message": "中文じゃあ、やっぱり彩音が塗ってあげなきゃ、じゃないとあたしがやっちゃうよ",
+    "message_id": 2507,
+    "name_id": 2506
+  },
+  {
+    "name": "彩音",
+    "message": "中文ちょ、ちょっと押さないで",
+    "message_id": 2530,
+    "name_id": 2529
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文師匠までも参戦するとは、恐るべしかやっち",
+    "message_id": 2589,
+    "name_id": 2588
+  },
+  {
+    "name": null,
+    "message": "中文何故だろう、みんな笑顔で迫ってくるんですけど……。",
+    "message_id": 2599
+  },
+  {
+    "name": "楓真",
+    "message": "中文……大丈夫です、自分で塗りますから、みんなは遊んできてください！",
+    "message_id": 2616,
+    "name_id": 2615
+  },
+  {
+    "name": "奈穂",
+    "message": "中文大丈夫よ、時間はた～っぷりあるから",
+    "message_id": 2637,
+    "name_id": 2636
+  },
+  {
+    "name": "クリス",
+    "message": "中文楓先輩、背中向けてください",
+    "message_id": 2677,
+    "name_id": 2676
+  },
+  {
+    "name": "彩音",
+    "message": "中文あわわわわ",
+    "message_id": 2698,
+    "name_id": 2697
+  },
+  {
+    "name": "渚",
+    "message": "中文もう、みんなお兄ちゃんから離れてくださいっ！！",
+    "message_id": 2745,
+    "name_id": 2744
+  },
+  {
+    "name": "楓真",
+    "message": "中文あはははは……",
+    "message_id": 2757,
+    "name_id": 2756
+  },
+  {
+    "name": null,
+    "message": "中文どうすればいいんだ、俺。",
+    "message_id": 2772
+  },
+  {
+    "name": "賢太",
+    "message": "中文仕方ないな、茅野くん、ここは場を治めるためにも僕が塗ってあげよう",
+    "message_id": 2826,
+    "name_id": 2825
+  },
+  {
+    "name": "楓真",
+    "message": "中文それは、断固拒否する！",
+    "message_id": 2838,
+    "name_id": 2837
+  },
+  {
+    "name": "賢太",
+    "message": "中文では、茅野くんのお手並みを拝見させてもらうよ",
+    "message_id": 2859,
+    "name_id": 2858
+  },
+  {
+    "name": null,
+    "message": "中文くそっ、みんなの笑顔が怖い、怖すぎる。",
+    "message_id": 2869
+  },
+  {
+    "name": "奈穂",
+    "message": "中文楓真",
+    "message_id": 2898,
+    "name_id": 2897
+  },
+  {
+    "name": "渚",
+    "message": "中文お兄ちゃん！",
+    "message_id": 2930,
+    "name_id": 2929
+  },
+  {
+    "name": "クリス",
+    "message": "中文楓先輩♪",
+    "message_id": 2962,
+    "name_id": 2961
+  },
+  {
+    "name": "彩音",
+    "message": "中文茅野",
+    "message_id": 2994,
+    "name_id": 2993
+  },
+  {
+    "name": null,
+    "message": "中文ダメだ―――。",
+    "message_id": 3004
+  },
+  {
+    "name": "音羽",
+    "message": "中文はいはい。茅野くんが困ってるでしょ、あんまり羽目を外しすぎると会長権限で中止にするわよ",
+    "message_id": 3062,
+    "name_id": 3061
+  },
+  {
+    "name": "楓真",
+    "message": "中文会長",
+    "message_id": 3074,
+    "name_id": 3073
+  },
+  {
+    "name": "奈穂",
+    "message": "中文音には関係ないでしょ！",
+    "message_id": 3141,
+    "name_id": 3140
+  },
+  {
+    "name": "音羽",
+    "message": "中文そんなわけにはいきません。それにこのままじゃいつまでたっても泳げないでしょ",
+    "message_id": 3164,
+    "name_id": 3163
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文いやぁ～、かやっち見てるほうがずっと面白いっす",
+    "message_id": 3204,
+    "name_id": 3203
+  },
+  {
+    "name": "音羽",
+    "message": "中文とにかく、茅野くんは嫌がってるんだし少しは自重しなさい。それと原因がなくなれば問題ないわよね",
+    "message_id": 3225,
+    "name_id": 3224
+  },
+  {
+    "name": "渚",
+    "message": "中文原因？",
+    "message_id": 3272,
+    "name_id": 3271
+  },
+  {
+    "name": "音羽",
+    "message": "中文茅野くんがさっさと日焼け止めを塗ればいいだけなんだから、ほらっ、背中向けなさい",
+    "message_id": 3295,
+    "name_id": 3294
+  },
+  {
+    "name": "楓真",
+    "message": "中文え、あ……",
+    "message_id": 3307,
+    "name_id": 3306
+  },
+  {
+    "name": null,
+    "message": "中文無理矢理後ろを向けさせられると、背中にひやりとした感触が走る。",
+    "message_id": 3328
+  },
+  {
+    "name": "奈穂、彩音、渚、クリス",
+    "message": "中文あーーーー！！",
+    "message_id": 3373,
+    "name_id": 3372
+  },
+  {
+    "name": "音羽",
+    "message": "中文はい、終わり。前は自分で塗れるでしょ",
+    "message_id": 3428,
+    "name_id": 3427
+  },
+  {
+    "name": "楓真",
+    "message": "中文はい……どうもありがとうございます",
+    "message_id": 3440,
+    "name_id": 3439
+  },
+  {
+    "name": "音羽",
+    "message": "中文あまり優柔不断過ぎるのはよくないわよ、断るときはきちんと断りなさい",
+    "message_id": 3469,
+    "name_id": 3468
+  },
+  {
+    "name": "奈穂",
+    "message": "中文だぁーーーーーーーーなんで、どうして音が塗ってるのよ",
+    "message_id": 3514,
+    "name_id": 3513
+  },
+  {
+    "name": "クリス",
+    "message": "中文お姉さまずるいです",
+    "message_id": 3535,
+    "name_id": 3534
+  },
+  {
+    "name": "音羽",
+    "message": "中文あー、うるさいうるさい、あなたたちがいつまでもごちゃごちゃやってるからでしょ",
+    "message_id": 3575,
+    "name_id": 3574
+  },
+  {
+    "name": "渚",
+    "message": "中文会長さんに持っていかれた……",
+    "message_id": 3596,
+    "name_id": 3595
+  },
+  {
+    "name": "彩音",
+    "message": "中文あうあうあう",
+    "message_id": 3617,
+    "name_id": 3616
+  },
+  {
+    "name": "音羽",
+    "message": "中文もう、相手してられないわ",
+    "message_id": 3638,
+    "name_id": 3637
+  },
+  {
+    "name": "奈穂",
+    "message": "中文あー、逃げた！　待ちなさい音！！",
+    "message_id": 3694,
+    "name_id": 3693
+  },
+  {
+    "name": null,
+    "message": "中文なんだか分からないけど会長に助けられたのかな。",
+    "message_id": 3736
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文いやー、かやっち罪作りな男っすねー、でもちゃんとフォローしておかないと後がもっと大変っすよ、優しい伊佐美ちゃんからの忠告っす",
+    "message_id": 3757,
+    "name_id": 3756
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文師匠ー、待ってくださーい",
+    "message_id": 3778,
+    "name_id": 3777
+  },
+  {
+    "name": null,
+    "message": "中文女の子って怖いな。",
+    "message_id": 3812
+  },
+  {
+    "name": null,
+    "message": "中文ちゃんとフォローしておこう。",
+    "message_id": 3819
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文ぷはぁー、美味かったっす",
+    "message_id": 3877,
+    "name_id": 3876
+  },
+  {
+    "name": "渚",
+    "message": "中文副会長さんがこんなに料理上手だったなんてビックリです",
+    "message_id": 3900,
+    "name_id": 3899
+  },
+  {
+    "name": "賢太",
+    "message": "中文料理というほどではないですよ、カレーなら誰にでも美味しくできますから",
+    "message_id": 3932,
+    "name_id": 3931
+  },
+  {
+    "name": "奈穂",
+    "message": "中文……",
+    "message_id": 3964,
+    "name_id": 3963
+  },
+  {
+    "name": "音羽",
+    "message": "中文……",
+    "message_id": 3987,
+    "name_id": 3986
+  },
+  {
+    "name": "楓真",
+    "message": "中文あの二人どうしたんですか",
+    "message_id": 3999,
+    "name_id": 3998
+  },
+  {
+    "name": "彩音",
+    "message": "中文料理に関しては戦力外の二人なの、そっとしておいてあげて",
+    "message_id": 4036,
+    "name_id": 4035
+  },
+  {
+    "name": "楓真",
+    "message": "中文はぁ",
+    "message_id": 4045,
+    "name_id": 4044
+  },
+  {
+    "name": "クリス",
+    "message": "中文賢太先輩、ごちそうさまでした",
+    "message_id": 4068,
+    "name_id": 4067
+  },
+  {
+    "name": "賢太",
+    "message": "中文喜んでもらえたのなら嬉しいです、どう茅野くん",
+    "message_id": 4100,
+    "name_id": 4099
+  },
+  {
+    "name": "楓真",
+    "message": "中文美味かった……御曹司なのに料理も得意なんだな",
+    "message_id": 4112,
+    "name_id": 4111
+  },
+  {
+    "name": "賢太",
+    "message": "中文ありがとう、出来るに越したことはないからね。現に今日役に立ったからね",
+    "message_id": 4133,
+    "name_id": 4132
+  },
+  {
+    "name": "奈穂",
+    "message": "中文ぐぬぬ･･･恐るべし賢太",
+    "message_id": 4162,
+    "name_id": 4161
+  },
+  {
+    "name": "音羽",
+    "message": "中文こんな隠しスペックを持っていたなんて",
+    "message_id": 4185,
+    "name_id": 4184
+  },
+  {
+    "name": "賢太",
+    "message": "中文どうでした、会長、天翔先輩",
+    "message_id": 4217,
+    "name_id": 4216
+  },
+  {
+    "name": "奈穂",
+    "message": "中文美味しかったわよ、ごちそうさま！",
+    "message_id": 4245,
+    "name_id": 4244
+  },
+  {
+    "name": null,
+    "message": "中文その言葉に嬉しそうに微笑む副会長。",
+    "message_id": 4255
+  },
+  {
+    "name": null,
+    "message": "中文くっそーいい男だな、こんちくしょー。",
+    "message_id": 4262
+  },
+  {
+    "name": "奈穂",
+    "message": "中文よーし！　んじゃ、夕方まで自由行動！　夜になったらバーベキューするからね！",
+    "message_id": 4301,
+    "name_id": 4300
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文ういっす！",
+    "message_id": 4348,
+    "name_id": 4347
+  },
+  {
+    "name": "音羽",
+    "message": "中文私は少し休ませてもらうわ、なんか疲れちゃったし",
+    "message_id": 4369,
+    "name_id": 4368
+  },
+  {
+    "name": "奈穂",
+    "message": "中文歳は取りたくないわねー",
+    "message_id": 4390,
+    "name_id": 4389
+  },
+  {
+    "name": "音羽",
+    "message": "中文同い年でしょ",
+    "message_id": 4411,
+    "name_id": 4410
+  },
+  {
+    "name": "楓真",
+    "message": "中文はははは、渚はどうする？",
+    "message_id": 4447,
+    "name_id": 4446
+  },
+  {
+    "name": "渚",
+    "message": "中文うーん、久しぶりに童心に返る感じかな",
+    "message_id": 4476,
+    "name_id": 4475
+  },
+  {
+    "name": "彩音",
+    "message": "中文私もちょっと休んでおくわ、日差しも強くなってきたし",
+    "message_id": 4508,
+    "name_id": 4507
+  },
+  {
+    "name": "奈穂",
+    "message": "中文彩音、肌弱いからね、焼きすぎには注意しなさい",
+    "message_id": 4531,
+    "name_id": 4530
+  },
+  {
+    "name": "彩音",
+    "message": "中文ありがとう、大丈夫よ",
+    "message_id": 4554,
+    "name_id": 4553
+  },
+  {
+    "name": "クリス",
+    "message": "中文彩音先輩、お肌弱かったんですか。すみません、楓先輩に水着姿を見せた方がいいと思ったので……",
+    "message_id": 4586,
+    "name_id": 4585
+  },
+  {
+    "name": "彩音",
+    "message": "中文気にしないで、クリスちゃん。ちょっと恥ずかしかっただけだから",
+    "message_id": 4607,
+    "name_id": 4606
+  },
+  {
+    "name": "クリス",
+    "message": "中文はい……私、泳いできますね",
+    "message_id": 4628,
+    "name_id": 4627
+  },
+  {
+    "name": "渚",
+    "message": "中文愛ちゃん、大丈夫、一緒に行こうか",
+    "message_id": 4685,
+    "name_id": 4684
+  },
+  {
+    "name": "クリス",
+    "message": "中文大丈夫ですよ、でも渚ちゃんが泳ぎたいと思ったら来てください",
+    "message_id": 4706,
+    "name_id": 4705
+  },
+  {
+    "name": "渚",
+    "message": "中文分かった、後で合流するね",
+    "message_id": 4729,
+    "name_id": 4728
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文よーしっ、遊びまくるっすよー、あ、賢坊ちょい手伝ってほしいことがあるっす",
+    "message_id": 4826,
+    "name_id": 4825
+  },
+  {
+    "name": "賢太",
+    "message": "中文僕にかい、珍しいこともあるもんだね",
+    "message_id": 4849,
+    "name_id": 4848
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文海は女を開放的にするっすよ",
+    "message_id": 4902,
+    "name_id": 4901
+  },
+  {
+    "name": "楓真",
+    "message": "中文気をつけたほうがいいぞ",
+    "message_id": 4914,
+    "name_id": 4913
+  },
+  {
+    "name": "賢太",
+    "message": "中文ご忠告ありがとう。まあ、なんとかなるよ",
+    "message_id": 4937,
+    "name_id": 4936
+  },
+  {
+    "name": "奈穂",
+    "message": "中文それで、楓真はどうするの？",
+    "message_id": 5032,
+    "name_id": 5031
+  },
+  {
+    "name": "楓真",
+    "message": "中文えっ、俺ですか、そうだなぁー、先輩はどうするんですか？",
+    "message_id": 5046,
+    "name_id": 5045
+  },
+  {
+    "name": "奈穂",
+    "message": "中文あたし？　あたしはねぇ、幼いころの思い出との決着、みたいな",
+    "message_id": 5067,
+    "name_id": 5066
+  },
+  {
+    "name": "楓真",
+    "message": "中文なんです、それ？",
+    "message_id": 5079,
+    "name_id": 5078
+  },
+  {
+    "name": "奈穂",
+    "message": "中文気になるならついてきてもいいわよ",
+    "message_id": 5100,
+    "name_id": 5099
+  },
+  {
+    "name": "クリス",
+    "message": "中文楓先輩、よかったら一緒に泳ぎませんか",
+    "message_id": 5132,
+    "name_id": 5131
+  },
+  {
+    "name": "渚",
+    "message": "中文お兄ちゃん、渚と……",
+    "message_id": 5164,
+    "name_id": 5163
+  },
+  {
+    "name": "音羽",
+    "message": "中文やることないなら、荷物番してなさいよ",
+    "message_id": 5196,
+    "name_id": 5195
+  },
+  {
+    "name": "彩音",
+    "message": "中文……",
+    "message_id": 5243,
+    "name_id": 5242
+  },
+  {
+    "name": null,
+    "message": "中文う～ん、どうしようかな、折角海に来たんだし。",
+    "message_id": 5263
+  },
+  {
+    "name": "楓真",
+    "message": "中文俺は……",
+    "message_id": 5272,
+    "name_id": 5271
+  }
+]

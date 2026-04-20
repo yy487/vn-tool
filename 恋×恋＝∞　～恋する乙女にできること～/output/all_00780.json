@@ -1,0 +1,462 @@
+[
+  {
+    "name": null,
+    "message": "中文学生会の許可はどこかで取らないと同じことの繰り返しになるからな。",
+    "message_id": 38
+  },
+  {
+    "name": null,
+    "message": "中文副会長なら以外にすんなり協力してくれるかもしれないし。",
+    "message_id": 47
+  },
+  {
+    "name": "賢太",
+    "message": "中文無理だろうね",
+    "message_id": 109,
+    "name_id": 108
+  },
+  {
+    "name": null,
+    "message": "中文撃沈……。",
+    "message_id": 119
+  },
+  {
+    "name": "楓真",
+    "message": "中文そこをなんとか頼んでるんだろ。副会長権限でなんとかならないのか",
+    "message_id": 128,
+    "name_id": 127
+  },
+  {
+    "name": "賢太",
+    "message": "中文ふぅー、茅野くん。僕にそんな権限があるわけないだろう",
+    "message_id": 149,
+    "name_id": 148
+  },
+  {
+    "name": "楓真",
+    "message": "中文だってお前、副会長だろう",
+    "message_id": 161,
+    "name_id": 160
+  },
+  {
+    "name": "賢太",
+    "message": "中文本気でなんとかしたいなら",
+    "message_id": 182,
+    "name_id": 181
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文音先輩を口説き落とさないとダメっす",
+    "message_id": 222,
+    "name_id": 221
+  },
+  {
+    "name": "楓真",
+    "message": "中文金剛",
+    "message_id": 234,
+    "name_id": 233
+  },
+  {
+    "name": "賢太",
+    "message": "中文そういうことだね",
+    "message_id": 255,
+    "name_id": 254
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文かやっち、がんばってるっすね",
+    "message_id": 281,
+    "name_id": 280
+  },
+  {
+    "name": "楓真",
+    "message": "中文頑張るところまでまだいってないよ",
+    "message_id": 293,
+    "name_id": 292
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文そうっすか",
+    "message_id": 316,
+    "name_id": 315
+  },
+  {
+    "name": "楓真",
+    "message": "中文金剛、天翔先輩は諦めてない。今も一人で頑張ってる。だから俺は俺に出来ることをする",
+    "message_id": 328,
+    "name_id": 327
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文そうっすか",
+    "message_id": 351,
+    "name_id": 350
+  },
+  {
+    "name": "楓真",
+    "message": "中文俺も恋会にはなくなってほしくないと思ってる。でもこのまま何もしないのはやっぱり嫌なんだ",
+    "message_id": 363,
+    "name_id": 362
+  },
+  {
+    "name": "楓真",
+    "message": "中文しつこいと思うけどもう一度いわせてくれ。俺はみんなと一緒に東祭をやりたい。協力してくれないか",
+    "message_id": 372,
+    "name_id": 371
+  },
+  {
+    "name": "賢太",
+    "message": "中文お邪魔なようだから席を外すよ",
+    "message_id": 393,
+    "name_id": 392
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文もうー何いってるっすか。賢坊がいないとはじまらないっすよ",
+    "message_id": 419,
+    "name_id": 418
+  },
+  {
+    "name": "賢太",
+    "message": "中文締まってる締まってるから金剛くん……ぶくぶく",
+    "message_id": 451,
+    "name_id": 450
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文はれ？　賢坊？？",
+    "message_id": 477,
+    "name_id": 476
+  },
+  {
+    "name": "賢太",
+    "message": "中文死ぬかと思ったよ",
+    "message_id": 501,
+    "name_id": 500
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文にゃはははは。ごめんごめん",
+    "message_id": 527,
+    "name_id": 526
+  },
+  {
+    "name": "賢太",
+    "message": "中文ふぅー、まぁいいよ。さっきの話だけど聞かなかったことにしておくから。ただあまり無茶はしないでくれ、庇いきれなくなる",
+    "message_id": 551,
+    "name_id": 550
+  },
+  {
+    "name": "楓真",
+    "message": "中文さっきの話？",
+    "message_id": 563,
+    "name_id": 562
+  },
+  {
+    "name": "賢太",
+    "message": "中文天翔先輩の話してただろ。会長の耳に入ったら大変だし下手をすると退学だってあり得る",
+    "message_id": 584,
+    "name_id": 583
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文そんなことはさせないっす",
+    "message_id": 610,
+    "name_id": 609
+  },
+  {
+    "name": "賢太",
+    "message": "中文だから僕は聞かなかったことにさせてもらうよ",
+    "message_id": 634,
+    "name_id": 633
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文却下っす！",
+    "message_id": 660,
+    "name_id": 659
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文かやっち、賢坊を逃がすなっす！！",
+    "message_id": 686,
+    "name_id": 685
+  },
+  {
+    "name": "楓真",
+    "message": "中文お、おお",
+    "message_id": 698,
+    "name_id": 697
+  },
+  {
+    "name": null,
+    "message": "中文何か分からないけど副会長の両脇を捉える。",
+    "message_id": 711
+  },
+  {
+    "name": "賢太",
+    "message": "中文これは何の真似だい",
+    "message_id": 732,
+    "name_id": 731
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文ふっふっふー。秘密を知られたからにはここから帰すわけにはいかないっす",
+    "message_id": 758,
+    "name_id": 757
+  },
+  {
+    "name": "楓真",
+    "message": "中文めちゃくちゃ悪役だよな俺たち",
+    "message_id": 770,
+    "name_id": 769
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文それはいっちゃーいけないっすー。世間さまの荒波にどんぶらこっこと耐えに耐えあたしたちは進むしかないのですー",
+    "message_id": 793,
+    "name_id": 792
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文師匠見ていて下さい。伊佐美は立派に立派に成し遂げてみせます～",
+    "message_id": 819,
+    "name_id": 818
+  },
+  {
+    "name": "賢太",
+    "message": "中文それで僕はいつまで付き合えばいいんだい？",
+    "message_id": 843,
+    "name_id": 842
+  },
+  {
+    "name": "楓真",
+    "message": "中文あいつに聞いてくれ",
+    "message_id": 855,
+    "name_id": 854
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文あたしたちの勝利は賢坊の双肩にかかってるっす。いけー賢坊！！",
+    "message_id": 878,
+    "name_id": 877
+  },
+  {
+    "name": "賢太",
+    "message": "中文いけっていわれてもね",
+    "message_id": 902,
+    "name_id": 901
+  },
+  {
+    "name": null,
+    "message": "中文なんでこんなにノリノリなんだこいつは。",
+    "message_id": 912
+  },
+  {
+    "name": "楓真",
+    "message": "中文で、どこに向かわせるんだよ",
+    "message_id": 921,
+    "name_id": 920
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文ちっちっちー。学生会室に決まってるじゃないっすかー",
+    "message_id": 944,
+    "name_id": 943
+  },
+  {
+    "name": "楓真＆賢太",
+    "message": "中文学生会室？",
+    "message_id": 968,
+    "name_id": 967
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文賢坊に音先輩を説得してもらうっす",
+    "message_id": 994,
+    "name_id": 993
+  },
+  {
+    "name": "楓真＆賢太",
+    "message": "中文えーー",
+    "message_id": 1018,
+    "name_id": 1017
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文というわけで任せたっす",
+    "message_id": 1044,
+    "name_id": 1043
+  },
+  {
+    "name": "賢太",
+    "message": "中文いやいやいやいや、それは無理だから。僕にも出来ることと出来ないことが",
+    "message_id": 1068,
+    "name_id": 1067
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文賢坊に出来ないことなんか存在しないっすー。このあたしがいうんだから間違いないっす",
+    "message_id": 1094,
+    "name_id": 1093
+  },
+  {
+    "name": "賢太",
+    "message": "中文僕には副会長として立場もあるから",
+    "message_id": 1118,
+    "name_id": 1117
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文男らしくないっすー。ここは当たって砕け散る勢いで突貫あるのみっす",
+    "message_id": 1144,
+    "name_id": 1143
+  },
+  {
+    "name": null,
+    "message": "中文無茶苦茶だけど金剛は協力してくれる気になったのだろう。",
+    "message_id": 1154
+  },
+  {
+    "name": null,
+    "message": "中文なら―。",
+    "message_id": 1161
+  },
+  {
+    "name": "楓真",
+    "message": "中文そうだぞ、できないことはない！　仮に副会長にできなくても峯岸財閥の御曹司にならできないことはない！！",
+    "message_id": 1170,
+    "name_id": 1169
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文きたぁー、おんぞうしぃぃーーー",
+    "message_id": 1193,
+    "name_id": 1192
+  },
+  {
+    "name": null,
+    "message": "中文何の根拠もなくただ副会長の周りで騒ぐ金剛と俺。",
+    "message_id": 1203
+  },
+  {
+    "name": null,
+    "message": "中文それでもいいような気がした。",
+    "message_id": 1210
+  },
+  {
+    "name": null,
+    "message": "中文バカなくらいじゃないとこの局面は打破できないんだ。",
+    "message_id": 1217
+  },
+  {
+    "name": "楓真",
+    "message": "中文おんぞうし♪",
+    "message_id": 1226,
+    "name_id": 1225
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文おんぞうし♪",
+    "message_id": 1269,
+    "name_id": 1268
+  },
+  {
+    "name": null,
+    "message": "中文他の面子は突然に始まったこの騒ぎを遠くから観戦しているだけ。",
+    "message_id": 1282
+  },
+  {
+    "name": null,
+    "message": "中文でもどこか好意的な空気が教室に漂っている。",
+    "message_id": 1289
+  },
+  {
+    "name": "賢太",
+    "message": "中文わかった、わかった。会長には話をしてみるよ",
+    "message_id": 1310,
+    "name_id": 1309
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文さすがっ！",
+    "message_id": 1336,
+    "name_id": 1335
+  },
+  {
+    "name": "楓真",
+    "message": "中文御曹司！",
+    "message_id": 1348,
+    "name_id": 1347
+  },
+  {
+    "name": "賢太",
+    "message": "中文それはもういいから。でもね、分かってるとは思うけど会長を説得するのは生半可なことではいかない",
+    "message_id": 1369,
+    "name_id": 1368
+  },
+  {
+    "name": "賢太",
+    "message": "中文僕が口添えしたからって状況がそう簡単に変わることはない。結局は君たちがどうしていくかが大事だよ",
+    "message_id": 1393,
+    "name_id": 1392
+  },
+  {
+    "name": "楓真",
+    "message": "中文分かってる。でも一人じゃ出来ないことのほうが多い",
+    "message_id": 1405,
+    "name_id": 1404
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文だから力を合わせるっす",
+    "message_id": 1428,
+    "name_id": 1427
+  },
+  {
+    "name": "賢太",
+    "message": "中文やれやれ、だね",
+    "message_id": 1452,
+    "name_id": 1451
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文賢坊",
+    "message_id": 1478,
+    "name_id": 1477
+  },
+  {
+    "name": "賢太",
+    "message": "中文まだなにかあるのかい？",
+    "message_id": 1502,
+    "name_id": 1501
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文ありがとう",
+    "message_id": 1528,
+    "name_id": 1527
+  },
+  {
+    "name": "賢太",
+    "message": "中文……",
+    "message_id": 1567,
+    "name_id": 1566
+  },
+  {
+    "name": null,
+    "message": "中文金剛も可愛いところあるじゃないか。",
+    "message_id": 1579
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文にゃはははは、賢坊、この伊佐美ちゃんにときめいちゃったすか。もう罪作りな美貌が辛すぎるっすー",
+    "message_id": 1602,
+    "name_id": 1601
+  },
+  {
+    "name": null,
+    "message": "中文金剛にも可愛いところがあるといいな。",
+    "message_id": 1612
+  }
+]

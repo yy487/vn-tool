@@ -1,0 +1,981 @@
+[
+  {
+    "name": null,
+    "message": "中文ガンッー",
+    "message_id": 54
+  },
+  {
+    "name": "クリス",
+    "message": "中文きゃぁ",
+    "message_id": 78,
+    "name_id": 77
+  },
+  {
+    "name": "楓真",
+    "message": "中文クリスっ",
+    "message_id": 127,
+    "name_id": 126
+  },
+  {
+    "name": null,
+    "message": "中文運悪く天翔先輩の投げた椅子がクリスに当たってしまった。",
+    "message_id": 136
+  },
+  {
+    "name": "音羽",
+    "message": "中文クリス、大丈……血が……",
+    "message_id": 157,
+    "name_id": 156
+  },
+  {
+    "name": "音羽",
+    "message": "中文奈穂っ！　あなた",
+    "message_id": 181,
+    "name_id": 180
+  },
+  {
+    "name": "奈穂",
+    "message": "中文うるさい、うるさいっ！",
+    "message_id": 221,
+    "name_id": 220
+  },
+  {
+    "name": "音羽",
+    "message": "中文自分が何をしたかわかってるんでしょうね",
+    "message_id": 245,
+    "name_id": 244
+  },
+  {
+    "name": "奈穂",
+    "message": "中文うるさいっ、あんたなんか学園の言いなりなくせにっ",
+    "message_id": 271,
+    "name_id": 270
+  },
+  {
+    "name": "音羽",
+    "message": "中文奈穂みたいになんでもかんでも自分の好きなことだけするのが正しいわけじゃないっ",
+    "message_id": 295,
+    "name_id": 294
+  },
+  {
+    "name": "奈穂",
+    "message": "中文自分がしたいことも出来ないなら、全部やめればいいのよ、学園が全部正しいだなんてそんなことあるわけない",
+    "message_id": 321,
+    "name_id": 320
+  },
+  {
+    "name": "渚",
+    "message": "中文奈穂先輩、止めてください",
+    "message_id": 341,
+    "name_id": 340
+  },
+  {
+    "name": "音羽",
+    "message": "中文恋会なんて所詮、学園の活動の一つでしょ。あんたの大嫌いな学園の活動なんだから止めたらいいじゃない",
+    "message_id": 365,
+    "name_id": 364
+  },
+  {
+    "name": "音羽",
+    "message": "中文こっちだって恋会がなくなればこんなに嬉しいことはないわ",
+    "message_id": 389,
+    "name_id": 388
+  },
+  {
+    "name": "賢太",
+    "message": "中文会長、落ち着いてください。そんな喧嘩腰はダメですから",
+    "message_id": 409,
+    "name_id": 408
+  },
+  {
+    "name": "奈穂",
+    "message": "中文やっぱりあたしたちを潰したかっただけじゃない。誰を懐柔したのか知らないけど卑怯にも程があるのよ",
+    "message_id": 435,
+    "name_id": 434
+  },
+  {
+    "name": "音羽",
+    "message": "中文ふざけるなっ！　誰がそんなことするのよ。自分たちのミスを棚にあげてるんじゃないわよ",
+    "message_id": 459,
+    "name_id": 458
+  },
+  {
+    "name": "音羽",
+    "message": "中文だいたい、造反者が出るってことはトップであるあんたに問題が有りまくりだからでしょ。人のことをとやかく言う前に自分の行動を改めるのが先なのよ",
+    "message_id": 483,
+    "name_id": 482
+  },
+  {
+    "name": "奈穂",
+    "message": "中文あたしのどこに問題があるっていうのよ",
+    "message_id": 509,
+    "name_id": 508
+  },
+  {
+    "name": "音羽",
+    "message": "中文全部よ、全部。そんなことも分からないなんて残念な人ね",
+    "message_id": 533,
+    "name_id": 532
+  },
+  {
+    "name": "彩音",
+    "message": "中文ちょっと、奈穂も音羽も落ち着いて",
+    "message_id": 571,
+    "name_id": 570
+  },
+  {
+    "name": "賢太",
+    "message": "中文会長、天翔先輩も止めてください",
+    "message_id": 597,
+    "name_id": 596
+  },
+  {
+    "name": null,
+    "message": "中文お互いにいつ手を出してもおかしくないくらいに切迫している。",
+    "message_id": 615
+  },
+  {
+    "name": null,
+    "message": "中文天翔先輩もだけど会長のこんな姿を見るのは始めてだ。",
+    "message_id": 622
+  },
+  {
+    "name": null,
+    "message": "中文媛守先輩も副会長も何とか止めようと頑張っているが。",
+    "message_id": 629
+  },
+  {
+    "name": "渚",
+    "message": "中文お兄ちゃん",
+    "message_id": 650,
+    "name_id": 649
+  },
+  {
+    "name": "楓真",
+    "message": "中文ああ、クリスを頼む",
+    "message_id": 662,
+    "name_id": 661
+  },
+  {
+    "name": "渚",
+    "message": "中文うん、気をつけて",
+    "message_id": 683,
+    "name_id": 682
+  },
+  {
+    "name": "楓真",
+    "message": "中文任せとけって",
+    "message_id": 703,
+    "name_id": 702
+  },
+  {
+    "name": null,
+    "message": "中文不安な表情を浮かべる渚に出来る限りの笑顔で応える。",
+    "message_id": 710
+  },
+  {
+    "name": null,
+    "message": "中文ゆっくりと深呼吸を繰り返す。",
+    "message_id": 717
+  },
+  {
+    "name": null,
+    "message": "中文よし―。",
+    "message_id": 724
+  },
+  {
+    "name": "楓真",
+    "message": "中文二人とも止めて下さいっ！！",
+    "message_id": 736,
+    "name_id": 732
+  },
+  {
+    "name": null,
+    "message": "中文いつもより気持ち声を低めに意識して。",
+    "message_id": 745
+  },
+  {
+    "name": null,
+    "message": "中文ちょっと怖いぞ的なニュアンスを込める。",
+    "message_id": 752
+  },
+  {
+    "name": "奈穂",
+    "message": "中文どっちが残念なのよ、あんたなんか存在自体が残念で出来てるくせに",
+    "message_id": 779,
+    "name_id": 778
+  },
+  {
+    "name": "奈穂",
+    "message": "中文卑怯で残念なんて最低の会長よね、あんたにつき合わされているみんなが本当に可哀想",
+    "message_id": 805,
+    "name_id": 804
+  },
+  {
+    "name": "音羽",
+    "message": "中文少なくともあんたが会長やるより何千倍、何万倍もましです",
+    "message_id": 829,
+    "name_id": 828
+  },
+  {
+    "name": "音羽",
+    "message": "中文奈穂が会長なんてなったりでもしたら学園自体がすぐに崩壊してしまうでしょうから",
+    "message_id": 853,
+    "name_id": 852
+  },
+  {
+    "name": "奈穂",
+    "message": "中文あたしのこと何にも知らないくせにいい加減なことばっかり言わないで",
+    "message_id": 879,
+    "name_id": 878
+  },
+  {
+    "name": "音羽",
+    "message": "中文生憎、いやって言うほどあんたのことは知ってます！！",
+    "message_id": 903,
+    "name_id": 902
+  },
+  {
+    "name": "奈穂",
+    "message": "中文隣に住んでるだけじゃない！！",
+    "message_id": 929,
+    "name_id": 928
+  },
+  {
+    "name": null,
+    "message": "中文あれ？",
+    "message_id": 939
+  },
+  {
+    "name": null,
+    "message": "中文もしかして、お二人の耳には全く届いていないという……。",
+    "message_id": 946
+  },
+  {
+    "name": "渚",
+    "message": "中文……お兄ちゃん",
+    "message_id": 975,
+    "name_id": 974
+  },
+  {
+    "name": "楓真",
+    "message": "中文あはははは",
+    "message_id": 987,
+    "name_id": 986
+  },
+  {
+    "name": "渚",
+    "message": "中文誤魔化してるし",
+    "message_id": 1008,
+    "name_id": 1007
+  },
+  {
+    "name": "クリス",
+    "message": "中文う、ううん",
+    "message_id": 1046,
+    "name_id": 1045
+  },
+  {
+    "name": "渚",
+    "message": "中文あ、愛ちゃん、大丈夫",
+    "message_id": 1070,
+    "name_id": 1069
+  },
+  {
+    "name": "楓真",
+    "message": "中文クリスっ！",
+    "message_id": 1082,
+    "name_id": 1081
+  },
+  {
+    "name": "クリス",
+    "message": "中文あれ、渚ちゃん",
+    "message_id": 1105,
+    "name_id": 1104
+  },
+  {
+    "name": "クリス",
+    "message": "中文楓先輩、どうしたんですか？　変なお顔です",
+    "message_id": 1137,
+    "name_id": 1136
+  },
+  {
+    "name": "楓真",
+    "message": "中文クリス、痛いところはないか",
+    "message_id": 1155,
+    "name_id": 1154
+  },
+  {
+    "name": "クリス",
+    "message": "中文胸がドキドキします",
+    "message_id": 1176,
+    "name_id": 1175
+  },
+  {
+    "name": "楓真",
+    "message": "中文胸、胸が痛いのか",
+    "message_id": 1188,
+    "name_id": 1187
+  },
+  {
+    "name": "クリス",
+    "message": "中文楓先輩のお顔が……",
+    "message_id": 1209,
+    "name_id": 1208
+  },
+  {
+    "name": "クリス",
+    "message": "中文……近いです",
+    "message_id": 1233,
+    "name_id": 1232
+  },
+  {
+    "name": "楓真",
+    "message": "中文へ？",
+    "message_id": 1245,
+    "name_id": 1244
+  },
+  {
+    "name": "渚",
+    "message": "中文お兄ちゃん、愛ちゃんにくっつきすぎ、離れて",
+    "message_id": 1262,
+    "name_id": 1261
+  },
+  {
+    "name": null,
+    "message": "中文いつの間にかクリスに寄り過ぎていたみたいだ。",
+    "message_id": 1278
+  },
+  {
+    "name": "楓真",
+    "message": "中文その、ごめん",
+    "message_id": 1287,
+    "name_id": 1286
+  },
+  {
+    "name": "クリス",
+    "message": "中文ああ、いけませんっ",
+    "message_id": 1308,
+    "name_id": 1307
+  },
+  {
+    "name": "渚",
+    "message": "中文愛ちゃん？",
+    "message_id": 1328,
+    "name_id": 1327
+  },
+  {
+    "name": "楓真",
+    "message": "中文クリスっ",
+    "message_id": 1340,
+    "name_id": 1339
+  },
+  {
+    "name": "奈穂",
+    "message": "中文許さないから、絶対に許さないんだから",
+    "message_id": 1375,
+    "name_id": 1374
+  },
+  {
+    "name": "音羽",
+    "message": "中文それはこっちの台詞よ。今日という今日は堪忍袋の緒が切れました",
+    "message_id": 1399,
+    "name_id": 1398
+  },
+  {
+    "name": "クリス",
+    "message": "中文お二人とも喧嘩はダメです",
+    "message_id": 1446,
+    "name_id": 1445
+  },
+  {
+    "name": null,
+    "message": "中文クリスは臆する事無く二人の間に割ってはいる。",
+    "message_id": 1459
+  },
+  {
+    "name": "クリス",
+    "message": "中文お姉さまも奈穂先輩も本当は仲良しさんですのに喧嘩なんかしちゃダメです",
+    "message_id": 1480,
+    "name_id": 1479
+  },
+  {
+    "name": "音羽",
+    "message": "中文ク、クリス",
+    "message_id": 1506,
+    "name_id": 1505
+  },
+  {
+    "name": "奈穂",
+    "message": "中文どきなさいクリス",
+    "message_id": 1536,
+    "name_id": 1535
+  },
+  {
+    "name": "クリス",
+    "message": "中文いいえ、退きません。今退いたらお二人はまた喧嘩をしてしまいます。それはダメなんです",
+    "message_id": 1564,
+    "name_id": 1563
+  },
+  {
+    "name": "音羽",
+    "message": "中文クリス、今の奈穂には何をいっても無駄なの、危ないから下がっていなさい",
+    "message_id": 1590,
+    "name_id": 1589
+  },
+  {
+    "name": "クリス",
+    "message": "中文お姉さまもいつものお姉さまではありません。辛いお立場なのは私分かりますが奈穂先輩と喧嘩をする理由は何もないはずです",
+    "message_id": 1614,
+    "name_id": 1613
+  },
+  {
+    "name": "クリス",
+    "message": "中文違いますか",
+    "message_id": 1638,
+    "name_id": 1637
+  },
+  {
+    "name": "音羽",
+    "message": "中文そ、それは……",
+    "message_id": 1664,
+    "name_id": 1663
+  },
+  {
+    "name": null,
+    "message": "中文俺はもちろん、媛守先輩も副会長も止めることの出来なかった二人をクリスが止めている。",
+    "message_id": 1674
+  },
+  {
+    "name": null,
+    "message": "中文強引といえば強引なのかもしれないが、ただ二人の間に入るだけで。",
+    "message_id": 1681
+  },
+  {
+    "name": "クリス",
+    "message": "中文私が間違っておりますでしょうか、お姉さま",
+    "message_id": 1702,
+    "name_id": 1701
+  },
+  {
+    "name": "音羽",
+    "message": "中文間違っては……ないけど",
+    "message_id": 1728,
+    "name_id": 1727
+  },
+  {
+    "name": "クリス",
+    "message": "中文けど？",
+    "message_id": 1752,
+    "name_id": 1751
+  },
+  {
+    "name": "音羽",
+    "message": "中文いえ、クリスの言うとおりよ",
+    "message_id": 1778,
+    "name_id": 1777
+  },
+  {
+    "name": "クリス",
+    "message": "中文はい、さすがお姉さまです",
+    "message_id": 1802,
+    "name_id": 1801
+  },
+  {
+    "name": "クリス",
+    "message": "中文奈穂先輩もよろしいですか",
+    "message_id": 1826,
+    "name_id": 1825
+  },
+  {
+    "name": "奈穂",
+    "message": "中文……",
+    "message_id": 1850,
+    "name_id": 1849
+  },
+  {
+    "name": "クリス",
+    "message": "中文あ、奈穂先輩",
+    "message_id": 1932,
+    "name_id": 1931
+  },
+  {
+    "name": "音羽",
+    "message": "中文いいのよ、放っておきなさい",
+    "message_id": 1956,
+    "name_id": 1955
+  },
+  {
+    "name": "クリス",
+    "message": "中文でも、お姉さま",
+    "message_id": 1982,
+    "name_id": 1981
+  },
+  {
+    "name": "彩音",
+    "message": "中文大丈夫、奈穂のことは私たちが。伊佐美ちゃん、ほら起きて",
+    "message_id": 2014,
+    "name_id": 2013
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文ふぉえ？",
+    "message_id": 2052,
+    "name_id": 2051
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文はれはれ、はれれ？？",
+    "message_id": 2078,
+    "name_id": 2077
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文はっ、師匠は、師匠はどうしたっすか",
+    "message_id": 2104,
+    "name_id": 2103
+  },
+  {
+    "name": "彩音",
+    "message": "中文出て行ってしまったわ、追いかけるから伊佐美ちゃんもついてきて",
+    "message_id": 2128,
+    "name_id": 2127
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文は、はいっ！　お供するっす",
+    "message_id": 2154,
+    "name_id": 2153
+  },
+  {
+    "name": "彩音",
+    "message": "中文音羽、ごめんなさい",
+    "message_id": 2192,
+    "name_id": 2191
+  },
+  {
+    "name": "音羽",
+    "message": "中文いえ、私も悪かったから",
+    "message_id": 2216,
+    "name_id": 2215
+  },
+  {
+    "name": "彩音",
+    "message": "中文ううん、今回のこと",
+    "message_id": 2242,
+    "name_id": 2241
+  },
+  {
+    "name": "音羽",
+    "message": "中文それは……",
+    "message_id": 2266,
+    "name_id": 2265
+  },
+  {
+    "name": "彩音",
+    "message": "中文学生会からの恋愛応援委員会への東祭イベントの破棄・中止の宣告を受け入れます",
+    "message_id": 2292,
+    "name_id": 2291
+  },
+  {
+    "name": "彩音",
+    "message": "中文学生会へのイベント協力に関しては、恋愛応援委員会としてではなく、個々人にて判断したいと思います",
+    "message_id": 2318,
+    "name_id": 2317
+  },
+  {
+    "name": "音羽",
+    "message": "中文分かりました。ご協力感謝します",
+    "message_id": 2342,
+    "name_id": 2341
+  },
+  {
+    "name": "音羽",
+    "message": "中文奈穂のことお願いします",
+    "message_id": 2366,
+    "name_id": 2365
+  },
+  {
+    "name": "彩音",
+    "message": "中文ありがとう",
+    "message_id": 2392,
+    "name_id": 2391
+  },
+  {
+    "name": "楓真",
+    "message": "中文先輩",
+    "message_id": 2404,
+    "name_id": 2403
+  },
+  {
+    "name": "渚",
+    "message": "中文彩音先輩",
+    "message_id": 2421,
+    "name_id": 2420
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文ううぅぅ",
+    "message_id": 2459,
+    "name_id": 2458
+  },
+  {
+    "name": "彩音",
+    "message": "中文さあ、伊佐美ちゃん行くわよ",
+    "message_id": 2483,
+    "name_id": 2482
+  },
+  {
+    "name": "伊佐美",
+    "message": "中文ばいぃぃぃ",
+    "message_id": 2509,
+    "name_id": 2508
+  },
+  {
+    "name": "渚",
+    "message": "中文よかったのかな、一緒に行かなくて",
+    "message_id": 2547,
+    "name_id": 2546
+  },
+  {
+    "name": "楓真",
+    "message": "中文ああ、多分だけど……今の俺たちじゃ",
+    "message_id": 2559,
+    "name_id": 2558
+  },
+  {
+    "name": "クリス",
+    "message": "中文ひっく、ひっく……",
+    "message_id": 2580,
+    "name_id": 2579
+  },
+  {
+    "name": "楓真",
+    "message": "中文クリス、俺たちのために泣いてくれるんだな、ありがとう",
+    "message_id": 2592,
+    "name_id": 2591
+  },
+  {
+    "name": "クリス",
+    "message": "中文ううぅ、ひっく",
+    "message_id": 2613,
+    "name_id": 2612
+  },
+  {
+    "name": null,
+    "message": "中文本当に優しい子だなクリスって。",
+    "message_id": 2623
+  },
+  {
+    "name": null,
+    "message": "中文なんだかんだいったって、今回は俺たち恋会が暴走したことには変わらない。",
+    "message_id": 2630
+  },
+  {
+    "name": null,
+    "message": "中文それがどんなに真剣で、純粋な想いから発せられたものであったとしても。",
+    "message_id": 2637
+  },
+  {
+    "name": "楓真",
+    "message": "中文クリス",
+    "message_id": 2646,
+    "name_id": 2645
+  },
+  {
+    "name": "クリス",
+    "message": "中文ひっく、楓先輩……痛い…です",
+    "message_id": 2667,
+    "name_id": 2666
+  },
+  {
+    "name": "楓真",
+    "message": "中文クリ、ス？",
+    "message_id": 2679,
+    "name_id": 2678
+  },
+  {
+    "name": "クリス",
+    "message": "中文うわああぁぁぁ～～ん",
+    "message_id": 2700,
+    "name_id": 2699
+  },
+  {
+    "name": "楓真",
+    "message": "中文え、え",
+    "message_id": 2714,
+    "name_id": 2713
+  },
+  {
+    "name": "クリス",
+    "message": "中文痛いです、頭が痛いですぅぅぅ～、えええぇぇぇ～んっ",
+    "message_id": 2738,
+    "name_id": 2737
+  },
+  {
+    "name": null,
+    "message": "中文えっと、何が、どうして、どうなった。",
+    "message_id": 2748
+  },
+  {
+    "name": "楓真",
+    "message": "中文クリス、大丈夫？",
+    "message_id": 2757,
+    "name_id": 2756
+  },
+  {
+    "name": "クリス",
+    "message": "中文大丈夫ではないです、痛いです、痛いんですぅ、楓せんぱ～い、うえぇぇぇん",
+    "message_id": 2778,
+    "name_id": 2777
+  },
+  {
+    "name": "渚",
+    "message": "中文愛ちゃん、どうしたの？",
+    "message_id": 2821,
+    "name_id": 2820
+  },
+  {
+    "name": "賢太",
+    "message": "中文う～ん、恐らくですが、場が落ち着いたことによって忘れていた痛みを思い出したのでは",
+    "message_id": 2862,
+    "name_id": 2861
+  },
+  {
+    "name": "渚",
+    "message": "中文さっきの奈穂先輩の一撃が効いてたってこと",
+    "message_id": 2886,
+    "name_id": 2885
+  },
+  {
+    "name": "賢太",
+    "message": "中文はい、そういうことでしょうね",
+    "message_id": 2912,
+    "name_id": 2911
+  },
+  {
+    "name": "音羽",
+    "message": "中文ほらクリス、保健室いきましょう",
+    "message_id": 2944,
+    "name_id": 2943
+  },
+  {
+    "name": "クリス",
+    "message": "中文わああぁぁぁ～～ん、楓先輩、痛いですぅ～",
+    "message_id": 2968,
+    "name_id": 2967
+  },
+  {
+    "name": null,
+    "message": "中文何故かクリスが俺にしがみついてきて離れない。",
+    "message_id": 2978
+  },
+  {
+    "name": "音羽",
+    "message": "中文ちょっと茅野くん、クリスから離れなさい",
+    "message_id": 2995,
+    "name_id": 2994
+  },
+  {
+    "name": "楓真",
+    "message": "中文いや、俺がしがみついているわけじゃないんですけど……",
+    "message_id": 3007,
+    "name_id": 3006
+  },
+  {
+    "name": "クリス",
+    "message": "中文わああぁぁぁーん、わああぁぁぁーん",
+    "message_id": 3028,
+    "name_id": 3027
+  },
+  {
+    "name": "賢太",
+    "message": "中文会長、ここは茅野くんに任せましょう",
+    "message_id": 3048,
+    "name_id": 3047
+  },
+  {
+    "name": "音羽",
+    "message": "中文でも、いいのかしら",
+    "message_id": 3068,
+    "name_id": 3067
+  },
+  {
+    "name": "楓真",
+    "message": "中文いや、よくないですから",
+    "message_id": 3080,
+    "name_id": 3079
+  },
+  {
+    "name": "クリス",
+    "message": "中文楓先輩ー",
+    "message_id": 3101,
+    "name_id": 3100
+  },
+  {
+    "name": "渚",
+    "message": "中文じぃぃぃぃぃぃーー",
+    "message_id": 3121,
+    "name_id": 3120
+  },
+  {
+    "name": "楓真",
+    "message": "中文ほら、家の妹も怖い顔をしていますのでここはぜひ会長にお任せしたいと",
+    "message_id": 3133,
+    "name_id": 3132
+  },
+  {
+    "name": "クリス",
+    "message": "中文楓先輩、痛いですぅ～、うるうる",
+    "message_id": 3154,
+    "name_id": 3153
+  },
+  {
+    "name": "音羽",
+    "message": "中文はぁ～、仕方ないわね。思い切り不本意ですけどここは茅野くんに任せます、よろしくね",
+    "message_id": 3174,
+    "name_id": 3173
+  },
+  {
+    "name": "楓真",
+    "message": "中文いや、よろしくといわれても",
+    "message_id": 3186,
+    "name_id": 3185
+  },
+  {
+    "name": "賢太",
+    "message": "中文懸命な判断です",
+    "message_id": 3203,
+    "name_id": 3202
+  },
+  {
+    "name": "渚",
+    "message": "中文じぃぃぃぃぃぃぃぃーー",
+    "message_id": 3223,
+    "name_id": 3222
+  },
+  {
+    "name": "楓真",
+    "message": "中文全然、懸命じゃないし、渚も怖い顔しないで",
+    "message_id": 3235,
+    "name_id": 3234
+  },
+  {
+    "name": "クリス",
+    "message": "中文楓先輩、なでなでしてください",
+    "message_id": 3256,
+    "name_id": 3255
+  },
+  {
+    "name": "楓真",
+    "message": "中文あのー、クリスさん",
+    "message_id": 3268,
+    "name_id": 3267
+  },
+  {
+    "name": "クリス",
+    "message": "中文痛いところをなでなでしてください",
+    "message_id": 3289,
+    "name_id": 3288
+  },
+  {
+    "name": null,
+    "message": "中文うっ―",
+    "message_id": 3299
+  },
+  {
+    "name": "クリス",
+    "message": "中文うるうるうるうる",
+    "message_id": 3320,
+    "name_id": 3319
+  },
+  {
+    "name": null,
+    "message": "中文なでなで―。",
+    "message_id": 3330
+  },
+  {
+    "name": null,
+    "message": "中文クリスの攻撃に負けて思わず頭を撫でてしまう。",
+    "message_id": 3337
+  },
+  {
+    "name": "クリス",
+    "message": "中文ふにゃぁ～",
+    "message_id": 3358,
+    "name_id": 3357
+  },
+  {
+    "name": null,
+    "message": "中文なんだこの可愛い生き物は。",
+    "message_id": 3368
+  },
+  {
+    "name": "クリス",
+    "message": "中文楓先輩、もっとお願いします",
+    "message_id": 3389,
+    "name_id": 3388
+  },
+  {
+    "name": null,
+    "message": "中文なでなでなでなで―。",
+    "message_id": 3399
+  },
+  {
+    "name": "クリス",
+    "message": "中文ふにゃにゃにゃにゃぁ～",
+    "message_id": 3420,
+    "name_id": 3419
+  },
+  {
+    "name": "音羽",
+    "message": "中文じゃ、お願いね",
+    "message_id": 3440,
+    "name_id": 3439
+  },
+  {
+    "name": "賢太",
+    "message": "中文ちゃんとエスコートしてあげるんだよ",
+    "message_id": 3460,
+    "name_id": 3459
+  },
+  {
+    "name": "楓真",
+    "message": "中文お、おい、ちょっと待てって",
+    "message_id": 3472,
+    "name_id": 3471
+  },
+  {
+    "name": "クリス",
+    "message": "中文ふにゃぁ～、ふうせんぱい～",
+    "message_id": 3495,
+    "name_id": 3494
+  },
+  {
+    "name": "渚",
+    "message": "中文愛ちゃん、いいなぁー",
+    "message_id": 3515,
+    "name_id": 3514
+  },
+  {
+    "name": null,
+    "message": "中文今日は恋会にとって本当に大変な一日だった。",
+    "message_id": 3525
+  },
+  {
+    "name": null,
+    "message": "中文一体これから俺たちはどうすればいいんだろうか。",
+    "message_id": 3532
+  },
+  {
+    "name": "クリス",
+    "message": "中文ふうせんぱい～ごろごろ",
+    "message_id": 3553,
+    "name_id": 3552
+  },
+  {
+    "name": null,
+    "message": "中文一体どうすれば……。",
+    "message_id": 3563
+  }
+]

@@ -1,0 +1,394 @@
+[
+  {
+    "name": null,
+    "message": "中文デート当日――。",
+    "message_id": 33
+  },
+  {
+    "name": null,
+    "message": "中文俺たちから、少し離れた所で、修羅場は始まった。",
+    "message_id": 75
+  },
+  {
+    "name": null,
+    "message": "中文いや、修羅場というのは、言葉の綾だろう。何しろ状況は一方的なのだから。",
+    "message_id": 82
+  },
+  {
+    "name": "今井",
+    "message": "中文もう、やめてくれ！",
+    "message_id": 95,
+    "name_id": 94
+  },
+  {
+    "name": "渚",
+    "message": "中文……",
+    "message_id": 125,
+    "name_id": 124
+  },
+  {
+    "name": null,
+    "message": "中文今井君が大きく拒絶している。",
+    "message_id": 135
+  },
+  {
+    "name": null,
+    "message": "中文東條さんは、ただ、その拒絶をどうにか押し止めようと言葉を紡ぐ。",
+    "message_id": 142
+  },
+  {
+    "name": null,
+    "message": "中文けれど、それは逆効果。今井くんの気持ちを意固地にするだけだった。",
+    "message_id": 149
+  },
+  {
+    "name": "東條",
+    "message": "中文……僚くん",
+    "message_id": 160,
+    "name_id": 159
+  },
+  {
+    "name": null,
+    "message": "中文結果、喧嘩別れのようになり今井君は帰ってしまった。",
+    "message_id": 167
+  },
+  {
+    "name": "渚",
+    "message": "中文かすみちゃん……",
+    "message_id": 196,
+    "name_id": 195
+  },
+  {
+    "name": null,
+    "message": "中文東條さんは泣き崩れてしまい、それをどうにか渚が慰めている。",
+    "message_id": 206
+  },
+  {
+    "name": "渚",
+    "message": "中文お兄ちゃん、ごめん。渚、かすみちゃんを送っていく",
+    "message_id": 235,
+    "name_id": 234
+  },
+  {
+    "name": "楓真",
+    "message": "中文分かった",
+    "message_id": 247,
+    "name_id": 246
+  },
+  {
+    "name": null,
+    "message": "中文東條さんの肩を抱きしめる渚は、東條さん以上に悲しみに包まれているようだった。",
+    "message_id": 257
+  },
+  {
+    "name": null,
+    "message": "中文家に戻り、俺は姉さんにお願いして、食事を自分たちで作ることにした。",
+    "message_id": 297
+  },
+  {
+    "name": null,
+    "message": "中文きっと渚が東條さんを慰めるには、もの凄く時間がかかるだろうから。",
+    "message_id": 304
+  },
+  {
+    "name": null,
+    "message": "中文……",
+    "message_id": 338
+  },
+  {
+    "name": null,
+    "message": "中文この状況、俺だったらどうするだろうか。",
+    "message_id": 358
+  },
+  {
+    "name": null,
+    "message": "中文そのことばかりを考えているが、いいアイデアは全く出てこない。",
+    "message_id": 365
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文ふぅ……",
+    "message_id": 386,
+    "name_id": 385
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文その鬱陶しい顔はなんとかならないか",
+    "message_id": 407,
+    "name_id": 406
+  },
+  {
+    "name": "楓真",
+    "message": "中文あ、ご、ごめん",
+    "message_id": 419,
+    "name_id": 418
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文はぁ、まあいい。ナギはまだ戻らないのか",
+    "message_id": 440,
+    "name_id": 439
+  },
+  {
+    "name": "楓真",
+    "message": "中文もうすぐ帰ってくると思うから",
+    "message_id": 452,
+    "name_id": 451
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文先ほども同じ台詞を聞いたが……フウは正確に時間を把握しているのか",
+    "message_id": 473,
+    "name_id": 472
+  },
+  {
+    "name": "楓真",
+    "message": "中文え？",
+    "message_id": 485,
+    "name_id": 484
+  },
+  {
+    "name": null,
+    "message": "中文姉さんに言われて時計に目を写す。",
+    "message_id": 492
+  },
+  {
+    "name": null,
+    "message": "中文十一時四十分――。",
+    "message_id": 499
+  },
+  {
+    "name": "楓真",
+    "message": "中文渚は、まだ帰ってないのか。連絡はないの姉さん",
+    "message_id": 508,
+    "name_id": 507
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文ふぅー",
+    "message_id": 529,
+    "name_id": 528
+  },
+  {
+    "name": "楓真",
+    "message": "中文探しに行かなきゃ！",
+    "message_id": 541,
+    "name_id": 540
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文フウ、とりあえず顔を洗って来い",
+    "message_id": 562,
+    "name_id": 561
+  },
+  {
+    "name": "楓真",
+    "message": "中文でも！",
+    "message_id": 574,
+    "name_id": 573
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文その血の上った頭を冷やして来いといっている",
+    "message_id": 595,
+    "name_id": 594
+  },
+  {
+    "name": "あちゅ",
+    "message": "中文きゅうぅぅ",
+    "message_id": 616,
+    "name_id": 615
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文あちゅもそうだと言っている",
+    "message_id": 637,
+    "name_id": 636
+  },
+  {
+    "name": "楓真",
+    "message": "中文……",
+    "message_id": 649,
+    "name_id": 648
+  },
+  {
+    "name": null,
+    "message": "中文確かに落ち着かないとダメだな。",
+    "message_id": 656
+  },
+  {
+    "name": "楓真",
+    "message": "中文ごめん。分かったよ",
+    "message_id": 665,
+    "name_id": 664
+  },
+  {
+    "name": "楓真",
+    "message": "中文渚！！",
+    "message_id": 677,
+    "name_id": 676
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文やれやれ",
+    "message_id": 700,
+    "name_id": 699
+  },
+  {
+    "name": "あちゅ",
+    "message": "中文きゅっ、きゅっ、きゅっぅぅぅんん",
+    "message_id": 721,
+    "name_id": 720
+  },
+  {
+    "name": "渚",
+    "message": "中文……ただいま",
+    "message_id": 783,
+    "name_id": 782
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文お帰り、食事、作っておいた",
+    "message_id": 806,
+    "name_id": 805
+  },
+  {
+    "name": "渚",
+    "message": "中文うん……ありがとう、お姉ちゃん",
+    "message_id": 829,
+    "name_id": 828
+  },
+  {
+    "name": null,
+    "message": "中文相当ショックだったのだろう。渚はぐったりとしており、顔色も良くなかった。",
+    "message_id": 839
+  },
+  {
+    "name": "渚",
+    "message": "中文……渚のせいだよね。上手く行かなかったのは",
+    "message_id": 868,
+    "name_id": 867
+  },
+  {
+    "name": "楓真",
+    "message": "中文そんなことは無いよ。俺でもこれは難しい案件だよ。天翔先輩だってまとめられるかどうか……",
+    "message_id": 880,
+    "name_id": 879
+  },
+  {
+    "name": "渚",
+    "message": "中文……最初から別れさせた方が良かった、のかな？",
+    "message_id": 901,
+    "name_id": 900
+  },
+  {
+    "name": "楓真",
+    "message": "中文それは……",
+    "message_id": 913,
+    "name_id": 912
+  },
+  {
+    "name": null,
+    "message": "中文それは無い話じゃない。",
+    "message_id": 920
+  },
+  {
+    "name": null,
+    "message": "中文恋会は何もカップル同士をくっつけ合うばかりじゃない。",
+    "message_id": 927
+  },
+  {
+    "name": null,
+    "message": "中文吊り合わなかったり、これはダメそうだと判断したカップリングは、諦めるようにアドバイスすることだってある。",
+    "message_id": 934
+  },
+  {
+    "name": null,
+    "message": "中文それを余計なお世話だという人もいるが、俺たちは俺たちの信念に基づいて行動しているのだ。",
+    "message_id": 941
+  },
+  {
+    "name": "渚",
+    "message": "中文かすみちゃんに悪い事しちゃった。渚のアドバイスを一生懸命聞いてくれて、一生懸命実践してくれて、これで上手くいくって渚がいっちゃったから",
+    "message_id": 962,
+    "name_id": 961
+  },
+  {
+    "name": "楓真",
+    "message": "中文そんなことは……",
+    "message_id": 974,
+    "name_id": 973
+  },
+  {
+    "name": "渚",
+    "message": "中文余計なことしちゃったのかな",
+    "message_id": 995,
+    "name_id": 994
+  },
+  {
+    "name": "あちゅ",
+    "message": "中文きゅうぅぅん",
+    "message_id": 1018,
+    "name_id": 1017
+  },
+  {
+    "name": null,
+    "message": "中文あちゅが渚の胸元に飛び込んでいく。",
+    "message_id": 1028
+  },
+  {
+    "name": "渚",
+    "message": "中文ありがと……あちゅ",
+    "message_id": 1049,
+    "name_id": 1048
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文……",
+    "message_id": 1071,
+    "name_id": 1070
+  },
+  {
+    "name": "楓真",
+    "message": "中文渚",
+    "message_id": 1083,
+    "name_id": 1082
+  },
+  {
+    "name": null,
+    "message": "中文……",
+    "message_id": 1111
+  },
+  {
+    "name": null,
+    "message": "中文……",
+    "message_id": 1118
+  },
+  {
+    "name": "楓真",
+    "message": "中文やっぱり難しいよな",
+    "message_id": 1137,
+    "name_id": 1136
+  },
+  {
+    "name": null,
+    "message": "中文俺たちは、彼、今井君の好きな女子も調査済みだった。",
+    "message_id": 1144
+  },
+  {
+    "name": null,
+    "message": "中文今井君の好みの子の傾向に合わせて渚は進めていったのだが……。",
+    "message_id": 1151
+  },
+  {
+    "name": "楓真",
+    "message": "中文よしっ",
+    "message_id": 1160,
+    "name_id": 1159
+  },
+  {
+    "name": null,
+    "message": "中文携帯を取り出し、ひとつ深呼吸をしてからボタンを押していった。",
+    "message_id": 1169
+  }
+]

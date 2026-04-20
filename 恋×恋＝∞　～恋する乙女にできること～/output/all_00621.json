@@ -1,0 +1,872 @@
+[
+  {
+    "name": "楓真",
+    "message": "中文ほらっ",
+    "message_id": 40,
+    "name_id": 38
+  },
+  {
+    "name": null,
+    "message": "中文途中で買ってきた缶ジュースを手渡す。",
+    "message_id": 50
+  },
+  {
+    "name": "渚",
+    "message": "中文うん……ありがと",
+    "message_id": 72,
+    "name_id": 71
+  },
+  {
+    "name": null,
+    "message": "中文自分の分のプルタブを開け、一気に流し込む。",
+    "message_id": 85
+  },
+  {
+    "name": null,
+    "message": "中文ゴクッ、ゴクッ―。",
+    "message_id": 95
+  },
+  {
+    "name": "楓真",
+    "message": "中文ふぅ～",
+    "message_id": 104,
+    "name_id": 103
+  },
+  {
+    "name": null,
+    "message": "中文思っていた以上に喉が渇いていたみたいだ。",
+    "message_id": 111
+  },
+  {
+    "name": null,
+    "message": "中文まあ、あんなことが起きたんだから当然だろうけど。",
+    "message_id": 118
+  },
+  {
+    "name": "楓真",
+    "message": "中文ん？　嫌いだったかそれ",
+    "message_id": 127,
+    "name_id": 126
+  },
+  {
+    "name": "渚",
+    "message": "中文ううん、そんなことない",
+    "message_id": 148,
+    "name_id": 147
+  },
+  {
+    "name": null,
+    "message": "中文ぎこちない手つきでプルタブを開け、口につける渚。",
+    "message_id": 160
+  },
+  {
+    "name": null,
+    "message": "中文でも、それだけだった。",
+    "message_id": 169
+  },
+  {
+    "name": "楓真",
+    "message": "中文ああー",
+    "message_id": 178,
+    "name_id": 177
+  },
+  {
+    "name": "渚",
+    "message": "中文……ん、どうしたのお兄ちゃん",
+    "message_id": 199,
+    "name_id": 198
+  },
+  {
+    "name": "楓真",
+    "message": "中文ほら、いい風が吹いてるだろ。気持ちいいなぁーって思ってな",
+    "message_id": 213,
+    "name_id": 212
+  },
+  {
+    "name": "渚",
+    "message": "中文ほんとだ、気持ちいい",
+    "message_id": 236,
+    "name_id": 235
+  },
+  {
+    "name": "楓真",
+    "message": "中文だろっ、こういう時は深呼吸だな",
+    "message_id": 248,
+    "name_id": 247
+  },
+  {
+    "name": "楓真",
+    "message": "中文すーはー、すーはー、すーはー",
+    "message_id": 257,
+    "name_id": 256
+  },
+  {
+    "name": "楓真",
+    "message": "中文ほら、渚も一緒にやろうぜ",
+    "message_id": 266,
+    "name_id": 265
+  },
+  {
+    "name": "渚",
+    "message": "中文渚はいいよ",
+    "message_id": 287,
+    "name_id": 286
+  },
+  {
+    "name": "楓真",
+    "message": "中文いいから、いいから、俺だけしてるとなんかまぬけだろ。一緒にしてくれよ",
+    "message_id": 299,
+    "name_id": 298
+  },
+  {
+    "name": "渚",
+    "message": "中文しょうがないお兄ちゃんだね",
+    "message_id": 320,
+    "name_id": 319
+  },
+  {
+    "name": "楓真",
+    "message": "中文ああ、しょうがない兄だからな、諦めてくれ",
+    "message_id": 332,
+    "name_id": 331
+  },
+  {
+    "name": "渚",
+    "message": "中文すーはー、すーはー",
+    "message_id": 353,
+    "name_id": 352
+  },
+  {
+    "name": null,
+    "message": "中文さっきまで青ざめていた渚の頬に、僅かだが赤みを帯びてくる。",
+    "message_id": 363
+  },
+  {
+    "name": "楓真",
+    "message": "中文すーはー、すーはー",
+    "message_id": 378,
+    "name_id": 377
+  },
+  {
+    "name": "渚",
+    "message": "中文すーはー、すーはー",
+    "message_id": 399,
+    "name_id": 398
+  },
+  {
+    "name": "楓真",
+    "message": "中文よしよし、これで更に兄妹の絆が深まったな",
+    "message_id": 417,
+    "name_id": 416
+  },
+  {
+    "name": "渚",
+    "message": "中文一緒に深呼吸すると絆が深まるの？",
+    "message_id": 438,
+    "name_id": 437
+  },
+  {
+    "name": "楓真",
+    "message": "中文なんかそんな気がするだろ",
+    "message_id": 450,
+    "name_id": 449
+  },
+  {
+    "name": "渚",
+    "message": "中文しないよ、深呼吸しただけで深まるならこんなに簡単なことないじゃない",
+    "message_id": 471,
+    "name_id": 470
+  },
+  {
+    "name": "楓真",
+    "message": "中文他の奴はどうか知らないけど、茅野家は深呼吸で絆が深まるんだよ",
+    "message_id": 483,
+    "name_id": 482
+  },
+  {
+    "name": "渚",
+    "message": "中文じゃあ、お姉ちゃんとも一緒に深呼吸しないとね。今晩お姉ちゃんにお願いしてね、お兄ちゃん",
+    "message_id": 504,
+    "name_id": 503
+  },
+  {
+    "name": "楓真",
+    "message": "中文姉さんにか、速攻で断られそうだな",
+    "message_id": 516,
+    "name_id": 515
+  },
+  {
+    "name": "渚",
+    "message": "中文茅野家は深呼吸で絆、深まるんでしょ。お姉ちゃんを除け者にしちゃだめだよ。今晩ちゃんとしてね",
+    "message_id": 537,
+    "name_id": 536
+  },
+  {
+    "name": "楓真",
+    "message": "中文……マジか",
+    "message_id": 549,
+    "name_id": 548
+  },
+  {
+    "name": "渚",
+    "message": "中文マジです",
+    "message_id": 570,
+    "name_id": 569
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文……正気か",
+    "message_id": 619,
+    "name_id": 618
+  },
+  {
+    "name": null,
+    "message": "中文ああ、既に姉さんの冷たい眼差しが見える。",
+    "message_id": 629
+  },
+  {
+    "name": "渚",
+    "message": "中文……お兄ちゃん…ありがと",
+    "message_id": 679,
+    "name_id": 678
+  },
+  {
+    "name": "楓真",
+    "message": "中文ん？　なにがだ",
+    "message_id": 691,
+    "name_id": 690
+  },
+  {
+    "name": "渚",
+    "message": "中文色々だよ",
+    "message_id": 712,
+    "name_id": 711
+  },
+  {
+    "name": "楓真",
+    "message": "中文そっか、色々か",
+    "message_id": 724,
+    "name_id": 723
+  },
+  {
+    "name": null,
+    "message": "中文渚がまとう空気がいつもの柔らかいものに戻っているのを感じる。",
+    "message_id": 731
+  },
+  {
+    "name": "渚",
+    "message": "中文どうなるのかな、これから",
+    "message_id": 752,
+    "name_id": 751
+  },
+  {
+    "name": "楓真",
+    "message": "中文う～ん、正直分からない。でもこのまま何もしないままってのは嫌かな",
+    "message_id": 764,
+    "name_id": 763
+  },
+  {
+    "name": "渚",
+    "message": "中文どうして、こんなことになっちゃったのかな。みんな一生懸命頑張ってたのに",
+    "message_id": 785,
+    "name_id": 784
+  },
+  {
+    "name": "楓真",
+    "message": "中文……そう、だな",
+    "message_id": 797,
+    "name_id": 796
+  },
+  {
+    "name": null,
+    "message": "中文渚の困惑も疑問も、それは全て俺自身の困惑であり疑問でもあった。",
+    "message_id": 804
+  },
+  {
+    "name": null,
+    "message": "中文答えなんてでない。",
+    "message_id": 811
+  },
+  {
+    "name": null,
+    "message": "中文ただこのままじゃいけないという気持ちだけがある。",
+    "message_id": 818
+  },
+  {
+    "name": null,
+    "message": "中文天翔先輩も―。",
+    "message_id": 825
+  },
+  {
+    "name": null,
+    "message": "中文媛守先輩も―。",
+    "message_id": 832
+  },
+  {
+    "name": null,
+    "message": "中文金剛も―。",
+    "message_id": 839
+  },
+  {
+    "name": null,
+    "message": "中文渚も―。",
+    "message_id": 846
+  },
+  {
+    "name": null,
+    "message": "中文きっとそう思っているはずなんだ。",
+    "message_id": 853
+  },
+  {
+    "name": "渚",
+    "message": "中文また、仲良くできる、かな",
+    "message_id": 874,
+    "name_id": 873
+  },
+  {
+    "name": "楓真",
+    "message": "中文もちろんだよ、っていうか今でも仲いいだろ",
+    "message_id": 886,
+    "name_id": 885
+  },
+  {
+    "name": null,
+    "message": "中文俺の言葉に渚は答えることなく、ただ風に身を任せているようだった。",
+    "message_id": 893
+  },
+  {
+    "name": null,
+    "message": "中文俺も渚の隣で同じように風に身を任せる。",
+    "message_id": 900
+  },
+  {
+    "name": null,
+    "message": "中文グラウンドからは、東祭に準備に奔走しているであろう学生たちの賑やかな声が聞こえてくる。",
+    "message_id": 907
+  },
+  {
+    "name": null,
+    "message": "中文ほんの少し前までは、俺も、俺たちも同じ空気の中にいたはずなのに。",
+    "message_id": 914
+  },
+  {
+    "name": "渚",
+    "message": "中文……仲良く、したいな",
+    "message_id": 935,
+    "name_id": 934
+  },
+  {
+    "name": null,
+    "message": "中文……渚。",
+    "message_id": 945
+  },
+  {
+    "name": null,
+    "message": "中文人が争うこと、自分の周りから友達がいなくなっていくことに必要以上に恐怖を覚えてしまう。",
+    "message_id": 952
+  },
+  {
+    "name": null,
+    "message": "中文幼いころからずっとそうだった。",
+    "message_id": 959
+  },
+  {
+    "name": null,
+    "message": "中文だからこそ、周りに気遣い、いつも笑顔でいた渚。",
+    "message_id": 966
+  },
+  {
+    "name": "楓真",
+    "message": "中文大丈夫だよ、いつもの通りでいこうぜ",
+    "message_id": 975,
+    "name_id": 974
+  },
+  {
+    "name": "渚",
+    "message": "中文うん",
+    "message_id": 996,
+    "name_id": 995
+  },
+  {
+    "name": "渚",
+    "message": "中文お兄ちゃん、渚ね……",
+    "message_id": 1020,
+    "name_id": 1019
+  },
+  {
+    "name": "クリス",
+    "message": "中文渚ちゃん、大丈夫ですか",
+    "message_id": 1048,
+    "name_id": 1047
+  },
+  {
+    "name": "渚",
+    "message": "中文愛ちゃん",
+    "message_id": 1091,
+    "name_id": 1090
+  },
+  {
+    "name": "クリス",
+    "message": "中文ちゃんとお顔を見せてください。ほら、お口あーんしてくださいね",
+    "message_id": 1117,
+    "name_id": 1116
+  },
+  {
+    "name": "渚",
+    "message": "中文あーん",
+    "message_id": 1141,
+    "name_id": 1140
+  },
+  {
+    "name": null,
+    "message": "中文いやいや、本当にあーんしてどうするんだ。",
+    "message_id": 1151
+  },
+  {
+    "name": "楓真",
+    "message": "中文クリス、クリス、あーんは多分必要ないと思うぞ",
+    "message_id": 1166,
+    "name_id": 1165
+  },
+  {
+    "name": "クリス",
+    "message": "中文あら、私ったら。すいません気が動転していたみたいです",
+    "message_id": 1189,
+    "name_id": 1188
+  },
+  {
+    "name": null,
+    "message": "中文とても動転していたようには見えなかったんだけど。",
+    "message_id": 1199
+  },
+  {
+    "name": "渚",
+    "message": "中文愛ちゃんもありがとう、大丈夫、お兄ちゃんにいっぱい慰めてもらったから",
+    "message_id": 1220,
+    "name_id": 1219
+  },
+  {
+    "name": "クリス",
+    "message": "中文まぁ、それはとても羨ましいです。楓先輩、私のことも慰めてくれますか？",
+    "message_id": 1246,
+    "name_id": 1245
+  },
+  {
+    "name": "楓真",
+    "message": "中文えっと、それは",
+    "message_id": 1258,
+    "name_id": 1257
+  },
+  {
+    "name": "クリス",
+    "message": "中文ダメですか、ダメなんですか",
+    "message_id": 1281,
+    "name_id": 1280
+  },
+  {
+    "name": "楓真",
+    "message": "中文クリスは元気かなーと",
+    "message_id": 1293,
+    "name_id": 1292
+  },
+  {
+    "name": "渚",
+    "message": "中文愛ちゃん、お兄ちゃんと一緒に深呼吸すればいいよ",
+    "message_id": 1314,
+    "name_id": 1313
+  },
+  {
+    "name": "クリス",
+    "message": "中文深呼吸？　ですか",
+    "message_id": 1340,
+    "name_id": 1339
+  },
+  {
+    "name": "渚",
+    "message": "中文うん、茅野家ではね、一緒に深呼吸すると絆が深まるんだ。愛ちゃんもお兄ちゃんと一緒に深呼吸すれば、絆が深まってきっと慰めてくれるよ",
+    "message_id": 1364,
+    "name_id": 1363
+  },
+  {
+    "name": "クリス",
+    "message": "中文ホントですか、分かりました。私、楓先輩と一緒に深呼吸します",
+    "message_id": 1390,
+    "name_id": 1389
+  },
+  {
+    "name": "楓真",
+    "message": "中文おい、渚",
+    "message_id": 1402,
+    "name_id": 1401
+  },
+  {
+    "name": "渚",
+    "message": "中文頑張ってね、お兄ちゃん",
+    "message_id": 1423,
+    "name_id": 1422
+  },
+  {
+    "name": "クリス",
+    "message": "中文すーはー、すーはー。はい、準備は出来ました、いつでもどうぞです、楓先輩",
+    "message_id": 1455,
+    "name_id": 1454
+  },
+  {
+    "name": null,
+    "message": "中文どうしてこんなにやる気十分なんだろうか。",
+    "message_id": 1465
+  },
+  {
+    "name": "クリス",
+    "message": "中文ほら、楓先輩、早くです",
+    "message_id": 1486,
+    "name_id": 1485
+  },
+  {
+    "name": "渚",
+    "message": "中文ほら、ほら、愛ちゃん待ってるよ",
+    "message_id": 1506,
+    "name_id": 1505
+  },
+  {
+    "name": "楓真",
+    "message": "中文ほらほらって言われても",
+    "message_id": 1518,
+    "name_id": 1517
+  },
+  {
+    "name": null,
+    "message": "中文どうして二人して俺を見つめてくるんだよ。",
+    "message_id": 1545
+  },
+  {
+    "name": "クリス",
+    "message": "中文わくわく♪",
+    "message_id": 1588,
+    "name_id": 1587
+  },
+  {
+    "name": "渚",
+    "message": "中文ほらほら♪",
+    "message_id": 1615,
+    "name_id": 1614
+  },
+  {
+    "name": "クリス",
+    "message": "中文わくわくわくわく♪♪",
+    "message_id": 1641,
+    "name_id": 1640
+  },
+  {
+    "name": "渚",
+    "message": "中文ほらほらほらほら♪♪",
+    "message_id": 1667,
+    "name_id": 1666
+  },
+  {
+    "name": null,
+    "message": "中文くそっ、クリスはともかく渚は絶対にこの状況を楽しんでるだろ。",
+    "message_id": 1677
+  },
+  {
+    "name": "楓真",
+    "message": "中文やってやるよ！　クリス一緒に深呼吸するぞ",
+    "message_id": 1686,
+    "name_id": 1685
+  },
+  {
+    "name": "クリス",
+    "message": "中文はいっ！",
+    "message_id": 1715,
+    "name_id": 1714
+  },
+  {
+    "name": "楓真",
+    "message": "中文せーのっ",
+    "message_id": 1727,
+    "name_id": 1726
+  },
+  {
+    "name": "クリス",
+    "message": "中文すーはー、すーはー、すーはー",
+    "message_id": 1748,
+    "name_id": 1747
+  },
+  {
+    "name": "楓真",
+    "message": "中文すーはー、すーはー、すーはー",
+    "message_id": 1760,
+    "name_id": 1759
+  },
+  {
+    "name": "クリス",
+    "message": "中文楓先輩、もう一回です。もっと絆を深めましょう、せーの",
+    "message_id": 1781,
+    "name_id": 1780
+  },
+  {
+    "name": "楓真",
+    "message": "中文すーはー、すーはー",
+    "message_id": 1793,
+    "name_id": 1792
+  },
+  {
+    "name": "クリス",
+    "message": "中文すーはー、すーはー",
+    "message_id": 1830,
+    "name_id": 1829
+  },
+  {
+    "name": "渚",
+    "message": "中文すーはー、すーはー",
+    "message_id": 1856,
+    "name_id": 1855
+  },
+  {
+    "name": "クリス",
+    "message": "中文あ、渚ちゃんとも一緒です",
+    "message_id": 1888,
+    "name_id": 1887
+  },
+  {
+    "name": "渚",
+    "message": "中文うん、愛ちゃんと渚の絆ももっと深まったね",
+    "message_id": 1914,
+    "name_id": 1913
+  },
+  {
+    "name": "クリス",
+    "message": "中文はい、嬉しいです",
+    "message_id": 1940,
+    "name_id": 1939
+  },
+  {
+    "name": null,
+    "message": "中文なんだかよく分からないけど、渚が元気になったみたいだからいいか。",
+    "message_id": 1950
+  },
+  {
+    "name": null,
+    "message": "中文それにしても渚とクリスは本当に仲がいいな。",
+    "message_id": 1957
+  },
+  {
+    "name": "渚",
+    "message": "中文じゃあ、愛ちゃん",
+    "message_id": 1980,
+    "name_id": 1979
+  },
+  {
+    "name": "クリス",
+    "message": "中文はい、渚ちゃん",
+    "message_id": 2006,
+    "name_id": 2005
+  },
+  {
+    "name": null,
+    "message": "中文二人は目を合わせて笑顔になると、頭をこちらに向けてくる。",
+    "message_id": 2030
+  },
+  {
+    "name": null,
+    "message": "中文俺の眼前に渚とクリスの頭が並ぶ。",
+    "message_id": 2037
+  },
+  {
+    "name": "楓真",
+    "message": "中文なに、これ？",
+    "message_id": 2046,
+    "name_id": 2045
+  },
+  {
+    "name": "楓真",
+    "message": "中文どうしたんだ二人とも",
+    "message_id": 2055,
+    "name_id": 2054
+  },
+  {
+    "name": "クリス",
+    "message": "中文慰めてくださいっ♪",
+    "message_id": 2078,
+    "name_id": 2077
+  },
+  {
+    "name": "渚",
+    "message": "中文うん、渚も慰めて♪",
+    "message_id": 2104,
+    "name_id": 2103
+  },
+  {
+    "name": "楓真",
+    "message": "中文へ？",
+    "message_id": 2116,
+    "name_id": 2115
+  },
+  {
+    "name": "クリス",
+    "message": "中文楓先輩と絆を深めましたから、慰めてください、お願いします",
+    "message_id": 2139,
+    "name_id": 2138
+  },
+  {
+    "name": "渚",
+    "message": "中文うん、深呼吸で絆がもっとも～っと深まったからね、お兄ちゃんは絶対に慰めてくれるよね、はい",
+    "message_id": 2165,
+    "name_id": 2164
+  },
+  {
+    "name": null,
+    "message": "中文そういうと更にずずっと頭を突き出してくる。",
+    "message_id": 2189
+  },
+  {
+    "name": "楓真",
+    "message": "中文二人とももう元気みたいだし、俺の出番はもうないかなって、あはは",
+    "message_id": 2198,
+    "name_id": 2197
+  },
+  {
+    "name": null,
+    "message": "中文……。",
+    "message_id": 2205
+  },
+  {
+    "name": null,
+    "message": "中文…………。",
+    "message_id": 2212
+  },
+  {
+    "name": null,
+    "message": "中文うっ―。",
+    "message_id": 2219
+  },
+  {
+    "name": null,
+    "message": "中文微動だにしない二人。",
+    "message_id": 2226
+  },
+  {
+    "name": null,
+    "message": "中文もしかして慰めるまで動かないつもりなのか。",
+    "message_id": 2233
+  },
+  {
+    "name": "渚",
+    "message": "中文お兄ちゃん",
+    "message_id": 2262,
+    "name_id": 2261
+  },
+  {
+    "name": "クリス",
+    "message": "中文楓先輩",
+    "message_id": 2288,
+    "name_id": 2287
+  },
+  {
+    "name": null,
+    "message": "中文期待に満ちた目を更に輝かせながら二人はその場を動かない。",
+    "message_id": 2298
+  },
+  {
+    "name": null,
+    "message": "中文二人に聞こえないようにゆっくりと息を吐く。",
+    "message_id": 2305
+  },
+  {
+    "name": null,
+    "message": "中文そして。",
+    "message_id": 2312
+  },
+  {
+    "name": null,
+    "message": "中文さわさわ―。",
+    "message_id": 2319
+  },
+  {
+    "name": "クリス",
+    "message": "中文わぁ～",
+    "message_id": 2342,
+    "name_id": 2341
+  },
+  {
+    "name": "渚",
+    "message": "中文えへへ",
+    "message_id": 2368,
+    "name_id": 2367
+  },
+  {
+    "name": null,
+    "message": "中文二人の頭をゆっくりと撫でてしまった。",
+    "message_id": 2378
+  },
+  {
+    "name": "楓真",
+    "message": "中文はい、終わり！！",
+    "message_id": 2399,
+    "name_id": 2398
+  },
+  {
+    "name": null,
+    "message": "中文恥ずかしさからか少し声が上ずってしまう。",
+    "message_id": 2406
+  },
+  {
+    "name": "渚",
+    "message": "中文えー、足りないよー、もっと慰めてよ",
+    "message_id": 2433,
+    "name_id": 2432
+  },
+  {
+    "name": "クリス",
+    "message": "中文私ももう少し慰めてほしいです",
+    "message_id": 2459,
+    "name_id": 2458
+  },
+  {
+    "name": "楓真",
+    "message": "中文ダメダメ、今日はこれで終わり、終わりなの",
+    "message_id": 2471,
+    "name_id": 2470
+  },
+  {
+    "name": "渚",
+    "message": "中文えーー、お兄ちゃんのケチ",
+    "message_id": 2492,
+    "name_id": 2491
+  },
+  {
+    "name": "楓真",
+    "message": "中文ケチじゃありません。二人とももう元気だから大丈夫だろ",
+    "message_id": 2504,
+    "name_id": 2503
+  },
+  {
+    "name": "クリス",
+    "message": "中文では、元気がなくなったらまた慰めてもらえますか",
+    "message_id": 2527,
+    "name_id": 2526
+  },
+  {
+    "name": "楓真",
+    "message": "中文それは、その時の状況によるというか……はい、慰めます",
+    "message_id": 2539,
+    "name_id": 2538
+  },
+  {
+    "name": "クリス",
+    "message": "中文ありがとうございます、楓先輩",
+    "message_id": 2562,
+    "name_id": 2561
+  },
+  {
+    "name": "渚",
+    "message": "中文渚のこともよろしくね",
+    "message_id": 2586,
+    "name_id": 2585
+  },
+  {
+    "name": null,
+    "message": "中文仲がよすぎるのも問題かもしれない、そう思ってしまった。",
+    "message_id": 2596
+  }
+]

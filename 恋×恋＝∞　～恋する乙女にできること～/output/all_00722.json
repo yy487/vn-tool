@@ -1,0 +1,399 @@
+[
+  {
+    "name": null,
+    "message": "中文見慣れすぎている部屋。",
+    "message_id": 50
+  },
+  {
+    "name": null,
+    "message": "中文だけど、今までと違った風に感じる。",
+    "message_id": 59
+  },
+  {
+    "name": null,
+    "message": "中文窓を開け、風を呼び込む。",
+    "message_id": 66
+  },
+  {
+    "name": null,
+    "message": "中文少しだけ埃を被った机を丁寧に拭く。",
+    "message_id": 73
+  },
+  {
+    "name": "楓真",
+    "message": "中文媛守先輩はキレイ好きだからな",
+    "message_id": 83,
+    "name_id": 82
+  },
+  {
+    "name": null,
+    "message": "中文やらなければいけないことは山積みだ。",
+    "message_id": 90
+  },
+  {
+    "name": null,
+    "message": "中文でも俺は最初に部屋の掃除をすることを決めていた。",
+    "message_id": 97
+  },
+  {
+    "name": null,
+    "message": "中文それが俺の第一歩。",
+    "message_id": 104
+  },
+  {
+    "name": "楓真",
+    "message": "中文よし、こんなもんだな",
+    "message_id": 153,
+    "name_id": 152
+  },
+  {
+    "name": null,
+    "message": "中文一通り気になる部分をキレイにした。これなら先輩たちも文句はないだろう。",
+    "message_id": 160
+  },
+  {
+    "name": "楓真",
+    "message": "中文さてと、それじゃあ始めるか",
+    "message_id": 169,
+    "name_id": 168
+  },
+  {
+    "name": null,
+    "message": "中文一冊のファイルを取り出し机に座る。",
+    "message_id": 176
+  },
+  {
+    "name": null,
+    "message": "中文天翔先輩が作った教会のデータファイル。",
+    "message_id": 183
+  },
+  {
+    "name": null,
+    "message": "中文教会の安全性を証明できる資料。",
+    "message_id": 190
+  },
+  {
+    "name": "楓真",
+    "message": "中文でも、このままじゃダメなんだよな",
+    "message_id": 199,
+    "name_id": 198
+  },
+  {
+    "name": "楓真",
+    "message": "中文媛守先輩はこれは諸刃の剣になるかもっていってた。そうならないようにしないといけない",
+    "message_id": 208,
+    "name_id": 207
+  },
+  {
+    "name": null,
+    "message": "中文俺に出来ることは全部やるぞ。",
+    "message_id": 215
+  },
+  {
+    "name": null,
+    "message": "中文それから俺はあちこちを駆け回った。",
+    "message_id": 262
+  },
+  {
+    "name": null,
+    "message": "中文天翔先輩の知り合いの建築技師の方に合って詳しい話を聞き。",
+    "message_id": 269
+  },
+  {
+    "name": null,
+    "message": "中文もう一度、協力してくれるように一軒一軒お願いしてまわる。",
+    "message_id": 311
+  },
+  {
+    "name": "楓真",
+    "message": "中文すいません、ぜひお願いします。少しでも興味を持って頂けたら考えてください、お願いします",
+    "message_id": 320,
+    "name_id": 319
+  },
+  {
+    "name": "楓真",
+    "message": "中文はい、すいません、ありがとうございました",
+    "message_id": 329,
+    "name_id": 328
+  },
+  {
+    "name": null,
+    "message": "中文まだまだ、まだチャンスはあるはず。もっと分かりやすく説明できるようにしないと。",
+    "message_id": 336
+  },
+  {
+    "name": "楓真",
+    "message": "中文う～ん",
+    "message_id": 384,
+    "name_id": 383
+  },
+  {
+    "name": null,
+    "message": "中文キャンドルの取り扱いも考え直した方がいいだろうな。",
+    "message_id": 391
+  },
+  {
+    "name": null,
+    "message": "中文やっぱり火の取り扱いには慎重に慎重を重ねないと。",
+    "message_id": 398
+  },
+  {
+    "name": null,
+    "message": "中文一番中止にしやすい理由だろうし。",
+    "message_id": 405
+  },
+  {
+    "name": "楓真",
+    "message": "中文それはこちらでやるとしても、心構えも必要だよな",
+    "message_id": 414,
+    "name_id": 413
+  },
+  {
+    "name": "渚",
+    "message": "中文お兄ちゃん、美味しい？",
+    "message_id": 443,
+    "name_id": 442
+  },
+  {
+    "name": "あちゅ",
+    "message": "中文きゅっ？",
+    "message_id": 469,
+    "name_id": 468
+  },
+  {
+    "name": "楓真",
+    "message": "中文ああ、美味しいよ",
+    "message_id": 481,
+    "name_id": 480
+  },
+  {
+    "name": "楓真",
+    "message": "中文おおっぴらに宣伝できる立場じゃないからな、う～ん",
+    "message_id": 493,
+    "name_id": 492
+  },
+  {
+    "name": "渚",
+    "message": "中文うー",
+    "message_id": 520,
+    "name_id": 519
+  },
+  {
+    "name": "あちゅ",
+    "message": "中文きゅー",
+    "message_id": 546,
+    "name_id": 545
+  },
+  {
+    "name": "渚",
+    "message": "中文お兄ちゃん何が美味しいの？",
+    "message_id": 578,
+    "name_id": 577
+  },
+  {
+    "name": "楓真",
+    "message": "中文ああ、この餃子は美味しいな",
+    "message_id": 590,
+    "name_id": 589
+  },
+  {
+    "name": "渚",
+    "message": "中文餃子なんてないんだけど",
+    "message_id": 611,
+    "name_id": 610
+  },
+  {
+    "name": "楓真",
+    "message": "中文へ！？",
+    "message_id": 623,
+    "name_id": 622
+  },
+  {
+    "name": "渚",
+    "message": "中文今晩のおかずはラビオリなの、ちゃんと言ったよ渚",
+    "message_id": 644,
+    "name_id": 643
+  },
+  {
+    "name": null,
+    "message": "中文渚が目を真っ赤にして怒っている。",
+    "message_id": 654
+  },
+  {
+    "name": "渚",
+    "message": "中文今までに食べたこともあるよね、なんで餃子だなんていうの",
+    "message_id": 675,
+    "name_id": 674
+  },
+  {
+    "name": "楓真",
+    "message": "中文ごめんごめん、でもそんなに怒らなくても。美味しいのは間違いないんだから",
+    "message_id": 687,
+    "name_id": 686
+  },
+  {
+    "name": "渚",
+    "message": "中文本当に味わって食べてくれてるの",
+    "message_id": 708,
+    "name_id": 707
+  },
+  {
+    "name": "楓真",
+    "message": "中文……あ、当たり前じゃないか",
+    "message_id": 720,
+    "name_id": 719
+  },
+  {
+    "name": null,
+    "message": "中文正直、味のこと気にしてなかった。",
+    "message_id": 727
+  },
+  {
+    "name": null,
+    "message": "中文とりあえず口に運んでいたというのが本当のところだ。",
+    "message_id": 734
+  },
+  {
+    "name": "渚",
+    "message": "中文一生懸命作ってるのに",
+    "message_id": 755,
+    "name_id": 754
+  },
+  {
+    "name": "楓真",
+    "message": "中文ごめん、本当に美味しいから",
+    "message_id": 767,
+    "name_id": 766
+  },
+  {
+    "name": "渚",
+    "message": "中文うー",
+    "message_id": 788,
+    "name_id": 787
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文フウ、色々と悩みがつきないかもしれないが食事の時は食事に集中した方がいい",
+    "message_id": 826,
+    "name_id": 825
+  },
+  {
+    "name": "あちゅ",
+    "message": "中文きゅきゅっ",
+    "message_id": 852,
+    "name_id": 851
+  },
+  {
+    "name": "楓真",
+    "message": "中文ごめん、姉さん",
+    "message_id": 864,
+    "name_id": 863
+  },
+  {
+    "name": "あちゅ",
+    "message": "中文きゅうぅぅ",
+    "message_id": 887,
+    "name_id": 886
+  },
+  {
+    "name": "楓真",
+    "message": "中文あちゅもごめんな",
+    "message_id": 899,
+    "name_id": 898
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文あたしは別に構わないのだがな。まあナギの機嫌が悪くなると食事のランクが下がるからな、そこだけは気をつけてくれ",
+    "message_id": 920,
+    "name_id": 919
+  },
+  {
+    "name": "渚",
+    "message": "中文そんなことないもん。お姉ちゃんと渚の分は手を抜かないもん",
+    "message_id": 946,
+    "name_id": 945
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文それなら全く問題はないな",
+    "message_id": 970,
+    "name_id": 969
+  },
+  {
+    "name": "楓真",
+    "message": "中文ちょっと待ってよ。悪かったよ渚、姉さん",
+    "message_id": 982,
+    "name_id": 981
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文フウ、悩むのは若者の特権でもある。だから思う存分悩んでいい。だが心配している家族がいることは忘れない方がいい",
+    "message_id": 1003,
+    "name_id": 1002
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文可愛い妹が悲しい顔をするのを見るのはフウも不本意だろう",
+    "message_id": 1027,
+    "name_id": 1026
+  },
+  {
+    "name": "楓真",
+    "message": "中文分かった",
+    "message_id": 1039,
+    "name_id": 1038
+  },
+  {
+    "name": "渚",
+    "message": "中文何言ってるのお姉ちゃん、悲しい顔なんてしないもん",
+    "message_id": 1062,
+    "name_id": 1061
+  },
+  {
+    "name": "楓真",
+    "message": "中文渚もごめんな、よしっ、しっかりとラビオリを味わって食べるぞ",
+    "message_id": 1074,
+    "name_id": 1073
+  },
+  {
+    "name": "渚",
+    "message": "中文じゃあ、もう一回「いただきます」しよう",
+    "message_id": 1097,
+    "name_id": 1096
+  },
+  {
+    "name": "あちゅ",
+    "message": "中文きゅうぅぅぅん",
+    "message_id": 1117,
+    "name_id": 1116
+  },
+  {
+    "name": "楓真",
+    "message": "中文おう",
+    "message_id": 1129,
+    "name_id": 1128
+  },
+  {
+    "name": "妃那莉",
+    "message": "中文ナギがいうなら仕方ないな",
+    "message_id": 1156,
+    "name_id": 1155
+  },
+  {
+    "name": null,
+    "message": "中文三人と一匹の「いただきます」の唱和は、俺の心に温かな気持ちを注ぎ込んでくれのだった。",
+    "message_id": 1174
+  },
+  {
+    "name": "楓真",
+    "message": "中文ラビオリ美味いな",
+    "message_id": 1183,
+    "name_id": 1182
+  },
+  {
+    "name": "あちゅ",
+    "message": "中文きゅきゅきゅうううぅぅぅん～",
+    "message_id": 1204,
+    "name_id": 1203
+  }
+]
