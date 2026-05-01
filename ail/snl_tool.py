@@ -119,6 +119,9 @@ def pack(in_dir: str, out_path: str):
             full = struct.pack('<HI', 0x0001, len(payload)) + comp
         elif e['kind'] == 'plain4':
             full = b'\x00\x00\x00\x00' + payload
+        elif e['kind'] == 'plain6':
+            # Standard uncompressed AIL entry: u16 flag=0 + u32 size + payload.
+            full = struct.pack('<HI', 0x0000, len(payload)) + payload
         else:
             raise NotImplementedError(f'kind={e["kind"]} 需要 raw 模式')
 
