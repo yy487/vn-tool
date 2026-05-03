@@ -197,22 +197,43 @@ class ValFile:
 #
 # 注: 这是基于已观察的指令格式. 如果发现其他 op 也引用字符串, 在此扩展.
 
-def scan_text_refs(seg_a: bytes) -> List[Tuple[int, int]]:
+TEXT_OPCODE = 0xdd
+TEXT_TYPE_MESSAGE = 0x0000
+
+
+def scan_text_refs(seg_a: bytes, *, require_message_type: bool = True) -> List[Tuple[int, int]]:
     """
-    扫描 seg_A 中所有 0xdd opcode (剧情文本指令), 返回 [(指令位置, 字符串索引), ...].
-    指令格式: dd 00 [u16 type] [u16 strIdx], 共 6 字节.
+    扫描 seg_A 中 0xdd 文本显示引用, 返回 [(指令位置, 字符串索引), ...].
+
+    已确认的正文显示格式为:
+        dd 00 00 00 [u16 strIdx]
+
+    旧版只要遇到 `dd 00` 就当成文本指令, 没有检查 type 字段。
+    但 VAL 字节码里很多变长指令的立即数/参数区也会出现 `dd 00 xx xx`。
+    如果这些假命中的 idx 刚好落在 seg_B 范围内, 且指向的字符串又是日文,
+    就会产生“第一句/前文在后面重复提取”的问题。
+
+    require_message_type=True 时只接受 type == 0 的 DISPLAY_TEXT,
+    这是当前样本中稳定对应剧情正文的形式。
     """
     refs = []
     i = 0
     n = len(seg_a)
     while i + 6 <= n:
-        if seg_a[i] == 0xdd and seg_a[i + 1] == 0x00:
+        if seg_a[i] == TEXT_OPCODE and seg_a[i + 1] == 0x00:
+            text_type = seg_a[i + 2] | (seg_a[i + 3] << 8)
             str_idx = seg_a[i + 4] | (seg_a[i + 5] << 8)
-            refs.append((i, str_idx))
+            if (not require_message_type) or text_type == TEXT_TYPE_MESSAGE:
+                refs.append((i, str_idx))
             i += 6
             continue
         i += 1
     return refs
+
+
+def scan_text_refs_raw(seg_a: bytes) -> List[Tuple[int, int]]:
+    """兼容调试用: 返回所有 `dd 00` 命中, 不检查 type 字段。"""
+    return scan_text_refs(seg_a, require_message_type=False)
 
 
 def scan_asset_refs(seg_a: bytes) -> List[Tuple[int, int]]:
@@ -302,6 +323,8 @@ def collect_story_refs(v: 'ValFile') -> List[Tuple[int, int]]:
     返回 [(seg_a 内偏移, seg_B idx), ...].
     """
     sB = len(v.strings)
+    # scan_text_refs 默认只接受 type==0 的正文显示指令,
+    # 避免把其它变长指令参数区里的 dd 00 假命中当成剧情文本。
     raw_refs = scan_text_refs(v.seg_a)
     out = []
     for site, idx in raw_refs:

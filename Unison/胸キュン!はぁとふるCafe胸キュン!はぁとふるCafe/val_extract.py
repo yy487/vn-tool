@@ -97,13 +97,35 @@ def _merge_unclosed(records: list) -> list:
     return out
 
 
+
+def _dedupe_refs_by_idx(refs: list) -> tuple:
+    """
+    同一个 seg_B idx 被多个 0xdd 站点引用时, 只保留第一次。
+
+    对注入来说 idx 才是实际写回目标；同 idx 多次出现只需要翻译一次。
+    这不会合并“文本相同但 idx 不同”的句子, 避免误伤不同上下文。
+    返回: (去重后的 refs, 跳过数量)
+    """
+    seen = set()
+    out = []
+    skipped = 0
+    for site, idx in refs:
+        if idx in seen:
+            skipped += 1
+            continue
+        seen.add(idx)
+        out.append((site, idx))
+    return out, skipped
+
+
 def extract_one(val_path: str, out_json_path: str) -> dict:
     with open(val_path, 'rb') as f:
         data = f.read()
     v = ValFile.parse(data)
-    refs = collect_story_refs(v)
+    refs_raw = collect_story_refs(v)
+    refs, duplicate_idx_skipped = _dedupe_refs_by_idx(refs_raw)
 
-    # 原子记录 (每个 dd 站点一条)
+    # 原子记录 (每个有效 seg_B idx 一条；同 idx 多站点引用只提一次)
     atoms = []
     for site, idx in refs:
         atoms.append({
@@ -120,8 +142,10 @@ def extract_one(val_path: str, out_json_path: str) -> dict:
         'val':           os.path.basename(val_path),
         'json':          os.path.basename(out_json_path),
         'ref_count':     len(refs),
+        'raw_ref_count': len(refs_raw),
         'item_count':    len(items),
         'merged_count':  len(refs) - len(items),
+        'duplicate_idx_skipped': duplicate_idx_skipped,
         'distinct_idx':  len({idx for _, idx in refs}),
         'string_count':  len(v.strings),
         'seg_a_size':    len(v.seg_a),
@@ -143,6 +167,7 @@ def main():
     total_refs = 0
     total_items = 0
     total_merged = 0
+    total_dup_idx = 0
 
     for fname in sorted(os.listdir(args.input_dir)):
         if fname.startswith('_'):
@@ -168,9 +193,10 @@ def main():
         with open(out_json, 'w', encoding='utf-8') as f:
             json.dump(items, f, ensure_ascii=False, indent=2)
         summary['story'].append(info)
-        total_refs   += info['ref_count']
-        total_items  += info['item_count']
-        total_merged += info['merged_count']
+        total_refs    += info['ref_count']
+        total_items   += info['item_count']
+        total_merged  += info['merged_count']
+        total_dup_idx += info.get('duplicate_idx_skipped', 0)
 
     summary['totals'] = {
         'story_files':       len(summary['story']),
@@ -178,13 +204,15 @@ def main():
         'total_text_refs':   total_refs,
         'total_items':       total_items,
         'total_merged':      total_merged,
+        'total_duplicate_idx_skipped': total_dup_idx,
     }
     with open(os.path.join(args.output_dir, '_extract_index.json'), 'w', encoding='utf-8') as f:
         json.dump(summary, f, ensure_ascii=False, indent=2)
 
     print(f"[OK] story={len(summary['story'])}, "
           f"no_story={len(summary['no_story_skipped'])}, "
-          f"refs={total_refs}, items={total_items} (merged {total_merged})")
+          f"refs={total_refs}, items={total_items} "
+          f"(merged {total_merged}, dup-idx skipped {total_dup_idx})")
     print(f"     output -> {args.output_dir}")
 
 
