@@ -40,6 +40,9 @@ from ai5win_disasm import (
     OP_HANDLERS,
 )
 
+# 这些开头说明首个 TEXT 本身就是正文/书信/括号内文本，不能按 name 处理。
+_NAME_FORBID_PREFIX = ('「', '『', '（', '(', '【', '［', '〔', '〈', '《', '　', ' ')
+
 
 # ─── 编码 ───
 
@@ -90,17 +93,61 @@ def find_replaceable_texts(dec, hs, lines, msg_abs):
         text_indices = [k for k, (_, op, _, _) in enumerate(ops)
                         if op == 0x01 and k not in is_choice_text]
         name_text_idx = -1
-        msg_text_idx = -1
+        message_text_indices = []
+        message_combined_old = None
+        def has_name_marker(first):
+            if not (first + 1 < len(ops) and ops[first + 1][1] == 0x11):
+                return False
+            first_text = ''
+            for (typ, ps, sz, val) in ops[first][2]:
+                if typ == 'TEXT':
+                    try:
+                        first_text = val.decode('cp932')
+                    except:
+                        first_text = ''
+                    break
+            if first_text.startswith(_NAME_FORBID_PREFIX):
+                return False
+            want = first_text.encode('cp932', errors='ignore') + b'\\n'
+            j = first + 2
+            while j < len(ops):
+                opj = ops[j][1]
+                if opj == 0x01:
+                    return True
+                if opj == 0x13:   # NEW_LINE before next TEXT => not a name marker
+                    return False
+                if opj == 0x10:
+                    for (typ, ps, sz, val) in ops[j][2]:
+                        if typ != 'SLOTS':
+                            continue
+                        for sl in val:
+                            if sl[0] == 'STR' and sl[3] == want:
+                                return True
+                j += 1
+            return False
+
         if text_indices:
             first = text_indices[0]
-            has_name_mark = (first + 1 < len(ops) and ops[first + 1][1] == 0x11)
+            has_name_mark = has_name_marker(first)
             if has_name_mark and len(text_indices) >= 2:
                 name_text_idx = first
-                msg_text_idx = text_indices[1]
+                message_text_indices = text_indices[1:]
             elif has_name_mark:
                 name_text_idx = first
             else:
-                msg_text_idx = first
+                message_text_indices = text_indices
+
+        if message_text_indices:
+            parts = []
+            for mi in message_text_indices:
+                for (typ, ps, sz, val) in ops[mi][2]:
+                    if typ == 'TEXT':
+                        try:
+                            parts.append(val.decode('cp932'))
+                        except:
+                            parts.append('')
+                        break
+            message_combined_old = ''.join(parts)
 
         # 1. TEXT 指令
         # choice 需要按出现顺序编号, 用于和 JSON 里的 choice_idx 对应
@@ -122,8 +169,11 @@ def find_replaceable_texts(dec, hs, lines, msg_abs):
                 choice_counter += 1
             elif k == name_text_idx:
                 role = 'name'
-            elif k == msg_text_idx:
-                role = 'message'
+            elif k in message_text_indices:
+                part_idx = message_text_indices.index(k)
+                role = 'message' if part_idx == 0 else 'message_tail'
+                rec_extra['message_part_idx'] = part_idx
+                rec_extra['message_combined_old'] = message_combined_old
             else:
                 role = 'extra_text'
             try: s = t_bytes.decode('cp932')
@@ -188,20 +238,32 @@ def _pick_replacement(rep_info, trans_bucket):
     if role == 'message':
         te = trans_bucket.get('text')
         if te:
-            new = te.get('message')
-            if new and new != old: return new
+            new = te.get('message', te.get('msg'))
+            old_full = rep_info.get('message_combined_old') or old
+            if new and new != old_full:
+                return new
+        return None
+    if role == 'message_tail':
+        te = trans_bucket.get('text')
+        if te:
+            new = te.get('message', te.get('msg'))
+            old_full = rep_info.get('message_combined_old') or old
+            # 多段 TEXT 合并为一个 JSON message 翻译时，首段写入完整译文，
+            # 后续 continuation TEXT 清空，避免原文尾巴残留。
+            if new and new != old_full:
+                return ''
         return None
     if role == 'choice':
         idx = rep_info.get('choice_idx', 0)
         te = trans_bucket.get('choices', {}).get(idx)
         if te:
-            new = te.get('message')
+            new = te.get('message', te.get('msg'))
             if new and new != old: return new
         return None
     if role == 'chapter_title':
         te = trans_bucket.get('title')
         if te:
-            new = te.get('message')
+            new = te.get('message', te.get('msg'))
             if new and new != old: return new
         return None
     return None
@@ -221,7 +283,7 @@ def _build_replacements(reps, td, mapper):
         old_text = r.get('old_text') or ''
         if new_text == old_text:
             continue
-        new_bytes = encode_text(new_text, mapper)
+        new_bytes = b'' if new_text == '' else encode_text(new_text, mapper)
         out.append((r['byte_start'], r['byte_start'] + r['byte_len'], new_bytes))
     out.sort(key=lambda x: x[0])
     # 去重: 同位置不同替换只保留第一个
@@ -245,7 +307,7 @@ def inject_file(mes_path, json_path, out_path, mapper, verbose=True):
     mc, hs, msg_rel, msg_abs, lines = parse_mes(dec)
 
     # 按 id 聚合 trans entries. 同一 id 可以有多条:
-    #   - 正文 (无 is_choice/is_chapter_title 标记)
+    #   - 正文 (无 is_choice/is_chapter_title 标记), 使用 message 字段，兼容旧 msg 字段
     #   - 多个 is_choice (按 choice_idx 对应原文选择支顺序)
     #   - 一个 is_chapter_title
     td = {}   # {id: {'text': entry_for_name_msg, 'choices': {idx: entry}, 'title': entry}}

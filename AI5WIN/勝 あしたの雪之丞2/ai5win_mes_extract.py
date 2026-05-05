@@ -7,8 +7,8 @@
   2. CH_POS (op 0x0e) / MENU_SET (op 0x10) / MENU (op 0x15) 的 slot_list 里
      以 cp932 全角开头的 STR slot 视为可翻译菜单项 (选择支/按钮文本)
 
-输出 JSON (GalTransl 兼容):
-  [{id, name, message, menu_items?}]
+输出 JSON:
+  [{id, name?, scr_msg, message, is_choice?/is_chapter_title?}]
 
 用法:
   python ai5win_mes_extract.py <input.mes>   [output.json]
@@ -21,6 +21,9 @@ from ai5win_disasm import lzss_decompress, parse_mes
 
 _RES_EXTS = (b'.g24', b'.msk', b'.ogg', b'.wav', b'.bmp', b'.png',
              b'.mes', b'.ea6', b'.ea5', b'.eav', b'.ttf', b'.fnt')
+
+# 这些开头说明首个 TEXT 本身就是正文/书信/括号内文本，不能按 name 处理。
+_NAME_FORBID_PREFIX = ('「', '『', '（', '(', '【', '［', '〔', '〈', '《', '　', ' ')
 
 
 def _is_user_text(raw):
@@ -43,45 +46,11 @@ def _is_user_text(raw):
         return False
 
 
-def _scan_flag_4035_states(ops_by_id_list, dec):
-    """按顺序扫所有块, 追踪 B_FLAG id=4035 (对话框模式) 的当前值.
-    返回 [value_at_block_entry, ...] 与 ops_by_id_list 等长.
-    value=12 → no_name_label 模式 (独白); 其它/None → 正常显示.
-    """
-    cur = None
-    states = []
-    for ops in ops_by_id_list:
-        states.append(cur)   # 进入本块时的状态
-        # 扫本块内是否重设 4035
-        for (off, op, args, _) in ops:
-            if op != 0x03:
-                continue
-            id_val = None
-            first_expr_range = None
-            for a in args:
-                if a[0] == 'ID16':
-                    id_val = int.from_bytes(a[3], 'little')
-                elif a[0] == 'EXPRS' and a[3]:
-                    first_expr_range = a[3][0]
-            if id_val == 4035 and first_expr_range:
-                es, el = first_expr_range
-                expr_bytes = bytes(dec[es:es+el])
-                # 格式: 'NN ff' 单字节 push, 或 'f1 LO HI ff' u16 push
-                if len(expr_bytes) >= 2 and expr_bytes[-1] == 0xFF:
-                    body = expr_bytes[:-1]
-                    if len(body) == 1 and body[0] < 0x80:
-                        cur = body[0]
-                    elif len(body) == 3 and body[0] == 0xF1:
-                        cur = int.from_bytes(body[1:3], 'little')
-    return states
-
-
 def _collect_block(block_ops, dec=None):
     """从块内 ops 抓文本.
-    返回 (name, message, choices, chapter_title, no_name_label)
+    返回 (name, message, choices, chapter_title)
 
-    dec: 可选, 原始解压字节. 若提供则会精确检测 B_FLAG id=4035 的值
-         (判断游戏是否在"独白模式"下不显示 name).
+    dec: 保留参数仅为兼容旧调用，不参与显示模式推断。
 
     识别规则:
       - "选择支 TEXT" (choices):
@@ -91,17 +60,11 @@ def _collect_block(block_ops, dec=None):
       - "名前 + 台词":
           块首 TEXT 后紧跟 0x11 INTERRUPT: 首 TEXT=name, 下一个非选择支 TEXT=message.
           否则块首 TEXT 就是 message.
-      - "no_name_label":
-          块内 B_FLAG_SET id=4035 value=12 (0x0C) -- 游戏切到"独白模式"
-          对话框里不显示角色名 (即使 bytecode 有 name TEXT).
-          (仅当 dec != None 时检测.)
     """
     name = None
     message = None
     choices = []
     chapter_title = None
-    no_name_label = False
-
     ops = list(block_ops)
 
     # 标记 CH_POS 后紧跟的 TEXT (选择支文本)
@@ -137,17 +100,47 @@ def _collect_block(block_ops, dec=None):
                     pass
                 break
 
+    def _has_name_marker(first_idx, first_text):
+        if not (first_idx + 1 < len(ops) and ops[first_idx + 1][1] == 0x11):
+            return False
+        if first_text.startswith(_NAME_FORBID_PREFIX):
+            return False
+        # name marker 判据：TEXT 后紧跟 0x11，并且“下一条正文 TEXT”仍在同一显示段里。
+        # 主角无语音时通常没有 MENU_SET 名前标签，例如：TEXT '勝' + INTERRUPT + TEXT 台词。
+        # 但“・”“・”“・”这类逐字显示会在每个 TEXT 后走 FLAG/CALL/NEW_LINE，不能误判为名前。
+        want = first_text.encode('cp932', errors='ignore') + b'\\n'
+        j = first_idx + 2
+        while j < len(ops):
+            opj = ops[j][1]
+            if opj == 0x01:
+                return True
+            if opj == 0x13:   # NEW_LINE: 第一段显示已经结束，前面的 TEXT 不是名前
+                return False
+            if opj == 0x10:
+                for (typ, ps, sz, val) in ops[j][2]:
+                    if typ != 'SLOTS':
+                        continue
+                    for sl in val:
+                        if sl[0] == 'STR' and sl[3] == want:
+                            return True
+            j += 1
+        return False
+
     if text_entries:
         first_idx, first_text = text_entries[0]
-        has_name_marker = (first_idx + 1 < len(ops)
-                           and ops[first_idx + 1][1] == 0x11)
+        has_name_marker = _has_name_marker(first_idx, first_text)
         if has_name_marker and len(text_entries) >= 2:
             name = first_text
-            message = text_entries[1][1]
+            # 同一个 msg 块里可能有多条 TEXT：
+            #   name TEXT + INTERRUPT + message TEXT + 演出/语音/立绘 + continuation TEXT
+            # 游戏会把 continuation TEXT 继续打到当前对话框里。旧逻辑只取 text_entries[1]，
+            # 会漏掉这种“中途演出/中顿显示”的后半句。
+            message = ''.join(t for _, t in text_entries[1:])
         elif has_name_marker:
             name = first_text
         else:
-            message = first_text
+            # 无名前的块也可能被多条 TEXT 分段显示，例如“・”“・”“・”。
+            message = ''.join(t for _, t in text_entries)
 
     # 3. 章节标题 (过滤含 \\n 的名前标签)
     for (off, op, args, _) in ops:
@@ -168,28 +161,8 @@ def _collect_block(block_ops, dec=None):
                 except:
                     pass
 
-    # 4. no_name_label: B_FLAG_SET id=4035 value=12 (0x0C)
-    if dec is not None:
-        for (off, op, args, _) in ops:
-            if op != 0x03:
-                continue
-            id_val = None
-            first_expr_range = None
-            for a in args:
-                if a[0] == 'ID16':
-                    id_val = int.from_bytes(a[3], 'little')
-                elif a[0] == 'EXPRS' and a[3]:
-                    first_expr_range = a[3][0]   # (start, len)
-            if id_val == 4035 and first_expr_range:
-                es, el = first_expr_range
-                expr_bytes = bytes(dec[es:es+el])
-                # 最小 expr: 单字节 push (如 '0c ff') 或 'f1 XX XX ff' (push u16)
-                # 判定 value==12: 字节序列是 `0c ff`
-                if expr_bytes == b'\x0c\xff':
-                    no_name_label = True
-                    break
+    return name, message, choices, chapter_title
 
-    return name, message, choices, chapter_title, no_name_label
 
 
 def extract_file(mes_path, json_path, verbose=True):
@@ -225,61 +198,27 @@ def extract_file(mes_path, json_path, verbose=True):
             id_idx += 1
         ops_by_id[id_idx].append(item)
 
-    # 全局追踪 B_FLAG 4035 (对话框模式) 状态
-    # 顺序: [prelude, id=0, id=1, ..., id=mc-1]
-    all_block_ops = [prelude_ops] + ops_by_id
-    flag_states = _scan_flag_4035_states(all_block_ops, dec)
-    # 块入口状态 -> no_name_label (12 是独白模式)
-    # 但 _collect_block 只看本块是否重设, 如果本块重设了就应该用重设后的值
-    # 所以真正判据: "本块离开时状态 == 12" → no_name_label
-    # 更精确地: "在本块的消息显示时, 4035 是否为 12"?
-    # 保守做法: 块入口状态 OR 本块内任何消息显示前的重设值
-    # 简单: 块出口状态 (最接近消息实际生效时的值)
-    # flag_states 给的是入口状态; 出口状态 = 下一个块的入口状态
-    def exit_state(idx):
-        if idx + 1 < len(flag_states):
-            return flag_states[idx + 1]
-        # 最后一块: 再扫一遍本块得最终值
-        cur = flag_states[idx]
-        for (off, op, args, _) in all_block_ops[idx]:
-            if op != 0x03: continue
-            id_val = None; er = None
-            for a in args:
-                if a[0] == 'ID16': id_val = int.from_bytes(a[3], 'little')
-                elif a[0] == 'EXPRS' and a[3]: er = a[3][0]
-            if id_val == 4035 and er:
-                eb = bytes(dec[er[0]:er[0]+er[1]])
-                if len(eb) >= 2 and eb[-1] == 0xFF:
-                    body = eb[:-1]
-                    if len(body) == 1 and body[0] < 0x80: cur = body[0]
-                    elif len(body) == 3 and body[0] == 0xF1:
-                        cur = int.from_bytes(body[1:3], 'little')
-        return cur
-
     entries = []
 
     def emit_block(list_idx, block_id, ops):
         """把一个块的 name/message/choices/chapter_title 全部展开为独立 entry"""
-        nm, msg, chs, ct, _no_label = _collect_block(ops, dec)
-        # 用全局状态判 no_name_label (考虑跨块继承)
-        state = exit_state(list_idx)
-        no_label = (state == 12)
-        # 1. 正文台词
+        nm, msg, chs, ct = _collect_block(ops, dec)
+        # 1. 正文台词：统一输出 scr_msg/message；name 为空时不输出 name 字段
         if nm or msg:
-            ent = {"id": block_id, "name": nm or "", "message": msg or ""}
-            if nm and no_label:
-                ent["no_name_label"] = True
+            ent = {"id": block_id, "scr_msg": msg or "", "message": msg or ""}
+            if nm:
+                ent = {"id": block_id, "name": nm, "scr_msg": msg or "", "message": msg or ""}
             entries.append(ent)
-        # 2. 每个选择支作为独立 entry
+        # 2. 每个选择支作为独立 entry，保留选项标记符
         for idx, c in enumerate(chs):
             entries.append({
-                "id": block_id, "name": "", "message": c,
+                "id": block_id, "scr_msg": c, "message": c,
                 "is_choice": True, "choice_idx": idx,
             })
-        # 3. 章节标题作为独立 entry
+        # 3. 章节标题作为独立 entry，保留章节标记符
         if ct:
             entries.append({
-                "id": block_id, "name": "", "message": ct,
+                "id": block_id, "scr_msg": ct, "message": ct,
                 "is_chapter_title": True,
             })
 
