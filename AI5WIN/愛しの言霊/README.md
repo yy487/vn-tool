@@ -1,37 +1,60 @@
 # AI5WIN/愛しの言霊
 
-文本提取与注入工具目录，通常用于脚本翻译的导出、翻译回写与回归验证。
+## 目录定位
 
-本 README 为目录补充说明，便于后续维护、迁移和复用。
+面向 `愛しの言霊` 的工具目录，上级分类为 `AI5WIN`。
 
-## 文件说明
+本 README 根据本目录内 Python 源码的实际入口、参数、注释和数据结构整理，用于说明当前目录工具的用途与推荐使用顺序。
 
-| 文件 | 说明 |
-|---|---|
-| `ai5v7_bytecode_v2.py` | 脚本字节码/Opcode 分析模块；ai5v7_bytecode_v2.py — V7 (Silky's 2001 "愛しの言霊") MES 字节码反汇编 + 重汇编 |
-| `ai5winv7_arc_tool.py` | 封包解析/解包/重打包工具；ai5winv7_arc_tool.py — AI5WIN V7 (愛しの言霊 / シルキーズ 2001) ARC 封包工具 |
-| `ai5winv7_mes_extract.py` | 文本或资源提取脚本；ai5winv7_mes_extract.py — V7 (愛しの言霊) MES → GalTransl JSON 提取 |
-| `ai5winv7_mes_inject.py` | 文本注入脚本；ai5winv7_mes_inject.py — GalTransl JSON → V7 (愛しの言霊) MES 回注 |
-| `merge_json.py` | 批处理/流程整合脚本；merge_json.py — 把旧版 (MENU_INIT bug 版反汇编器) 提取的翻译 JSON |
-| `愛しの言霊_AI5WIN_V7_脚本结构分析.docx` | 逆向分析/使用说明文档 |
+## 文件分工
 
-## 常见流程
+| 文件 | 定位 | 说明 |
+|---|---|---|
+| `ai5v7_bytecode_v2.py` | 提取/解析 | ai5v7_bytecode_v2.py — V7 (Silky's 2001 "愛しの言霊") MES 字节码反汇编 + 重汇编 与 v1 的关键修正: 1. **MES 是 LZSS 压缩的** (旧版记忆里的"无压缩"是错的) - 标准 AI5 LZSS: 4KB 环形窗口 init=0xFEE, LSB-first flag, 12b off + 4 |
+| `ai5winv7_arc_tool.py` | 封包/解包或格式工具 | ai5winv7_arc_tool.py — AI5WIN V7 (愛しの言霊 / シルキーズ 2001) ARC 封包工具 ARC 格式 (V7 独有, 与 V1-V6 全部不同): Header: u32 count // 条目数 Entry (28 字节): byte name[20] // 文件名, 每字节 ^ 0x03 u32 size ^ 0x5 |
+| `ai5winv7_mes_extract.py` | 提取/解析 | ai5winv7_mes_extract.py — V7 (愛しの言霊) MES → GalTransl JSON 提取 流程: 1. LZSS 解压 (ai5v7_bytecode_v2.lzss_decompress) 2. 反汇编为指令流 (disassemble) 3. 识别 TEXT (op 0x01) 指令, 按 (NAME, NEW_LINE, |
+| `ai5winv7_mes_inject.py` | 注入/回写 | ai5winv7_mes_inject.py — GalTransl JSON → V7 (愛しの言霊) MES 回注 流程: 1. 读 GalTransl JSON (translate 后的 name/message) 2. 读原 MES, 解压 + 反汇编得到指令流 3. 按 _meta.name_insn_idx / msg_insn_idx 用翻译 |
+| `merge_json.py` | 提取/解析 | merge_json.py — 把旧版 (MENU_INIT bug 版反汇编器) 提取的翻译 JSON 与新版 (修复后) 提取的 JSON 合并. 背景: 旧版 ai5v7_bytecode_v2.py 把 MENU_INIT 的 u16 skip target 错误识别成 独立的 TEXT2/SJIS/JUMP 指令, 导致指令流里多出"幽灵指令",  |
 
-典型文本流程如下，实际参数以脚本内 `argparse` / 文件头注释为准：
+## 推荐流程
 
+1. 先用封包工具解包原始资源，保留原始目录结构。
+2. 运行 extract/diss 类脚本导出文本或中间结构，通常输出 JSON/TXT。
+3. 只修改翻译字段后运行 inject/asm 类脚本回写；原文字段用于定位与校验，不建议改动。
+4. 最后重新封包或复制回游戏目录测试。
+
+## 文本/JSON 字段约定
+
+源码中出现的主要字段：`name`, `message`。
+- `msg/message` 通常是可修改译文字段，提取后默认等于原文或解析后的正文。
+
+## 命令示例
+
+### merge_json.py
 ```bash
-python ai5winv7_mes_extract.py <原始脚本或目录> <导出json或目录>
-# 翻译/修改导出的 JSON
-python ai5winv7_mes_inject.py <原始脚本或目录> <翻译json或目录> <输出脚本或目录>
+python merge_json.py <orig_mes_dir> <old_json_dir> <new_out_dir>
 ```
 
-建议先用未修改的 JSON 做一次 round-trip：提取后立刻注入，并比对输出与原文件是否一致。
+## 参数入口速查
 
-如需先处理封包/归档文件，可查看这些脚本的参数：`ai5winv7_arc_tool.py`。
+### `ai5winv7_mes_extract.py`
+- `'mes_path'`
+- `'json_out'`
+- `'mes_dir'`
+- `'json_dir'`
+### `ai5winv7_mes_inject.py`
+- `'orig_mes'`
+- `'json'`
+- `'out_mes'`
+- `'orig_dir'`
+- `'json_dir'`
+- `'out_dir'`
+- `'orig_mes'`
+- `'json'`
 
 ## 注意事项
 
-- 本仓库脚本大多是特定游戏/特定版本适配，跨作品复用前需要重新核对文件头、索引表、指令格式和编码。
-- 文本编码通常与原游戏运行时有关，常见为 CP932/SJIS；写入中文前需要确认补丁、Hook、字体或码表映射方案。
-- 处理前保留原始文件备份；注入后建议进行二进制比对、游戏内实机检查和异常文本回查。
-- 若脚本会重建封包或重排文本区，务必确认 offset、长度字段、压缩块大小和校验字段是否同步更新。
+- 操作前请备份原始封包、脚本和 EXE；注入/封包类脚本通常会直接生成可替换资源。
+- 保持提取时的目录结构与文件名；多数注入器依赖相对路径、偏移或原文校验。
+- 默认编码多为 CP932/Shift-JIS；若脚本提供 `--encoding`，除非目标游戏已确认，否则不要随意改成 GBK。
+- 对等长/截断注入器，译文过长可能被截断、报错或破坏后续指令；非等长注入器也需要确认跳转/长度表是否已同步修正。

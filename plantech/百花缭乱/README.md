@@ -1,32 +1,55 @@
 # plantech/百花缭乱
 
-文本提取与注入工具目录，通常用于脚本翻译的导出、翻译回写与回归验证。
+## 目录定位
 
-本 README 为目录补充说明，便于后续维护、迁移和复用。
+面向 `百花缭乱` 的工具目录，上级分类为 `plantech`。
 
-## 文件说明
+本 README 根据本目录内 Python 源码的实际入口、参数、注释和数据结构整理，用于说明当前目录工具的用途与推荐使用顺序。
 
-| 文件 | 说明 |
-|---|---|
-| `plantech_msg_extract_v3.py` | 文本或资源提取脚本；plantech_msg_extract.py v3 — PLANTECH MESSAGE 文本提取 |
-| `plantech_msg_inject_v3.py` | 文本注入脚本；plantech_msg_inject.py v3 — PLANTECH MESSAGE 文本注入 |
-| `setup_registry_admin.bat` | 构建/安装批处理脚本 |
+## 文件分工
 
-## 常见流程
+| 文件 | 定位 | 说明 |
+|---|---|---|
+| `plantech_msg_extract_v3.py` | 提取/解析 | plantech_msg_extract.py v3 — PLANTECH MESSAGE 文本提取 v3 修正 (相对 v2): - H 槽映射改为 sentence 级, 支持 block 内部锚点 (如 FF FB 59 跳转目标) - 每条 sentence 携带 h_slots + 每个槽在 sentence 内的字节偏移 anchor_off - |
+| `plantech_msg_inject_v3.py` | 注入/回写 | plantech_msg_inject.py v3 — PLANTECH MESSAGE 文本注入 v3 适配 v3 提取器 (sentence 级 H 映射 + inner_off 块内锚点) |
 
-典型文本流程如下，实际参数以脚本内 `argparse` / 文件头注释为准：
+## 推荐流程
 
+1. 运行 extract/diss 类脚本导出文本或中间结构，通常输出 JSON/TXT。
+2. 只修改翻译字段后运行 inject/asm 类脚本回写；原文字段用于定位与校验，不建议改动。
+
+## 文本/JSON 字段约定
+
+源码中出现的主要字段：`name`, `message`。
+- `msg/message` 通常是可修改译文字段，提取后默认等于原文或解析后的正文。
+
+## 命令示例
+
+该目录脚本未在源码注释中提供完整命令示例，可优先使用 `-h/--help` 查看参数：
 ```bash
-python plantech_msg_extract_v3.py <原始脚本或目录> <导出json或目录>
-# 翻译/修改导出的 JSON
-python plantech_msg_inject_v3.py <原始脚本或目录> <翻译json或目录> <输出脚本或目录>
+python plantech_msg_extract_v3.py --help
+```
+```bash
+python plantech_msg_inject_v3.py --help
 ```
 
-建议先用未修改的 JSON 做一次 round-trip：提取后立刻注入，并比对输出与原文件是否一致。
+## 参数入口速查
+
+### `plantech_msg_extract_v3.py`
+- `'h_file'`
+- `'bin_file'`
+- `'-o', '--output', default='messages.json'`
+### `plantech_msg_inject_v3.py`
+- `'json_file'`
+- `'-o', '--output', default='out'`
+- `'--h-size', type=int, default=None, help='H 文件字节数 (默认 3999996`
+- `'json_file'`
+- `'orig_h'`
+- `'orig_bin'`
 
 ## 注意事项
 
-- 本仓库脚本大多是特定游戏/特定版本适配，跨作品复用前需要重新核对文件头、索引表、指令格式和编码。
-- 文本编码通常与原游戏运行时有关，常见为 CP932/SJIS；写入中文前需要确认补丁、Hook、字体或码表映射方案。
-- 处理前保留原始文件备份；注入后建议进行二进制比对、游戏内实机检查和异常文本回查。
-- 若脚本会重建封包或重排文本区，务必确认 offset、长度字段、压缩块大小和校验字段是否同步更新。
+- 操作前请备份原始封包、脚本和 EXE；注入/封包类脚本通常会直接生成可替换资源。
+- 保持提取时的目录结构与文件名；多数注入器依赖相对路径、偏移或原文校验。
+- 默认编码多为 CP932/Shift-JIS；若脚本提供 `--encoding`，除非目标游戏已确认，否则不要随意改成 GBK。
+- 对等长/截断注入器，译文过长可能被截断、报错或破坏后续指令；非等长注入器也需要确认跳转/长度表是否已同步修正。

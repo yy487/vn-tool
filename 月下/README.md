@@ -1,26 +1,44 @@
 # 月下
 
-逆向与本地化辅助工具目录，脚本为当前目标作品/格式定制。
+## 目录定位
 
-本 README 为目录补充说明，便于后续维护、迁移和复用。
+月下 目录下的引擎/游戏工具集合。
 
-## 文件说明
+本 README 根据本目录内 Python 源码的实际入口、参数、注释和数据结构整理，用于说明当前目录工具的用途与推荐使用顺序。
 
-| 文件 | 说明 |
-|---|---|
-| `ssb_text.py` | 文本提取/回写工具；月下の契り (Tsuki no Chigiri) SSB Script Text Tool |
-| `月下の契り_SSB傻瓜教程.docx` | 逆向分析/使用说明文档 |
+## 文件分工
 
-## 常见流程
+| 文件 | 定位 | 说明 |
+|---|---|---|
+| `ssb_text.py` | 辅助脚本 | 月下の契り (Tsuki no Chigiri) SSB Script Text Tool Engine: SAISYS (栈式VM, CODE.SSB + DATA.SSB) Usage: python ssb_text.py extract CODE.SSB DATA.SSB [-o output.json] python ssb_text.py inj |
 
-该目录以单文件文本工具为主。建议先查看脚本帮助或源码顶部说明：
+## 推荐流程
 
+1. 按脚本文件名区分入口：extract 负责导出，inject 负责回写，*_tool/codec/common 作为格式工具或公共库。
+
+## 命令示例
+
+### ssb_text.py
 ```bash
-python ssb_text.py --help
+python ssb_text.py extract CODE.SSB DATA.SSB [-o output.json]
+python ssb_text.py inject  CODE.SSB DATA.SSB input.json [-o out_dir] [-e gbk]
 ```
+
+## 参数入口速查
+
+### `ssb_text.py`
+- `'code', help='CODE.SSB path'`
+- `'data', help='DATA.SSB path'`
+- `'-o', '--output', default='ssb_text.json', help='Output JSON (default: ssb_text.json`
+- `'code', help='CODE.SSB path'`
+- `'data', help='DATA.SSB path'`
+- `'json', help='Translated JSON path'`
+- `'-o', '--output', default='output', help='Output directory (default: output`
+- `'-e', '--encoding', default='cp932', help='Write encoding (default: cp932, use gbk for Chinese`
 
 ## 注意事项
 
-- 本仓库脚本大多是特定游戏/特定版本适配，跨作品复用前需要重新核对文件头、索引表、指令格式和编码。
-- 文本编码通常与原游戏运行时有关，常见为 CP932/SJIS；写入中文前需要确认补丁、Hook、字体或码表映射方案。
-- 处理前保留原始文件备份；注入后建议进行二进制比对、游戏内实机检查和异常文本回查。
+- 操作前请备份原始封包、脚本和 EXE；注入/封包类脚本通常会直接生成可替换资源。
+- 保持提取时的目录结构与文件名；多数注入器依赖相对路径、偏移或原文校验。
+- 默认编码多为 CP932/Shift-JIS；若脚本提供 `--encoding`，除非目标游戏已确认，否则不要随意改成 GBK。
+- 对等长/截断注入器，译文过长可能被截断、报错或破坏后续指令；非等长注入器也需要确认跳转/长度表是否已同步修正。

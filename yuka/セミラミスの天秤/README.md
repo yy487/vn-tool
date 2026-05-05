@@ -1,28 +1,48 @@
 # yuka/セミラミスの天秤
 
-封包/资源格式处理目录，包含解包、打包或格式转换脚本。
+## 目录定位
 
-本 README 为目录补充说明，便于后续维护、迁移和复用。
+面向 `セミラミスの天秤` 的工具目录，上级分类为 `yuka`。
 
-## 文件说明
+本 README 根据本目录内 Python 源码的实际入口、参数、注释和数据结构整理，用于说明当前目录工具的用途与推荐使用顺序。
 
-| 文件 | 说明 |
-|---|---|
-| `ykc_pack.py` | 封包重建/打包脚本；ykc_pack.py - Yuka Engine YKC 封包/解包工具 |
-| `yks_text.py` | 文本提取/回写工具；yks_text.py - Yuka Engine YKS002 脚本文本提取/注入工具 |
-| `YukaEngine_YKS002_Report.docx` | 逆向分析/使用说明文档 |
+## 文件分工
 
-## 常见流程
+| 文件 | 定位 | 说明 |
+|---|---|---|
+| `ykc_pack.py` | 封包/解包或格式工具 | ykc_pack.py - Yuka Engine YKC 封包/解包工具 用法: python ykc_pack.py unpack input.ykc output_dir/ # 解包 python ykc_pack.py pack input_dir/ output.ykc # 封包 python ykc_pack.py list input.ykc  |
+| `yks_text.py` | 注入/回写 | yks_text.py - Yuka Engine YKS002 脚本文本提取/注入工具 セミラミスの天秤 (Semiramis no Tenbin) 用法: python yks_text.py extract input.yks output.json # 单文件提取 python yks_text.py inject input.yks trans.j |
 
-该目录以单文件文本工具为主。建议先查看脚本帮助或源码顶部说明：
+## 推荐流程
 
+1. 先用封包工具解包原始资源，保留原始目录结构。
+2. 最后重新封包或复制回游戏目录测试。
+
+## 文本/JSON 字段约定
+
+源码中出现的主要字段：`name`, `message`, `type`。
+- `msg/message` 通常是可修改译文字段，提取后默认等于原文或解析后的正文。
+
+## 命令示例
+
+### ykc_pack.py
 ```bash
-python yks_text.py --help
+python ykc_pack.py unpack  input.ykc  output_dir/     # 解包
+python ykc_pack.py pack    input_dir/  output.ykc      # 封包
+python ykc_pack.py list    input.ykc                   # 列出文件
+```
+### yks_text.py
+```bash
+python yks_text.py extract  input.yks  output.json             # 单文件提取
+python yks_text.py inject   input.yks  trans.json  output.yks  # 单文件注入
+python yks_text.py extract  yks_dir/   json_dir/               # 批量提取
+python yks_text.py inject   yks_dir/   json_dir/   out_dir/    # 批量注入
+python yks_text.py verify   input.yks                          # round-trip验证
 ```
 
 ## 注意事项
 
-- 本仓库脚本大多是特定游戏/特定版本适配，跨作品复用前需要重新核对文件头、索引表、指令格式和编码。
-- 文本编码通常与原游戏运行时有关，常见为 CP932/SJIS；写入中文前需要确认补丁、Hook、字体或码表映射方案。
-- 处理前保留原始文件备份；注入后建议进行二进制比对、游戏内实机检查和异常文本回查。
-- 若脚本会重建封包或重排文本区，务必确认 offset、长度字段、压缩块大小和校验字段是否同步更新。
+- 操作前请备份原始封包、脚本和 EXE；注入/封包类脚本通常会直接生成可替换资源。
+- 保持提取时的目录结构与文件名；多数注入器依赖相对路径、偏移或原文校验。
+- 默认编码多为 CP932/Shift-JIS；若脚本提供 `--encoding`，除非目标游戏已确认，否则不要随意改成 GBK。
+- 对等长/截断注入器，译文过长可能被截断、报错或破坏后续指令；非等长注入器也需要确认跳转/长度表是否已同步修正。

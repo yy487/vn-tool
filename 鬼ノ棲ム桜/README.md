@@ -1,34 +1,40 @@
 # 鬼ノ棲ム桜
 
-资源处理目录，主要覆盖图像、字体或专用素材格式。
+## 目录定位
 
-本 README 为目录补充说明，便于后续维护、迁移和复用。
+鬼ノ棲ム桜 目录下的引擎/游戏工具集合。
 
-## 文件说明
+本 README 根据本目录内 Python 源码的实际入口、参数、注释和数据结构整理，用于说明当前目录工具的用途与推荐使用顺序。
 
-| 文件 | 说明 |
-|---|---|
-| `build_mingw.bat` | 构建/安装批处理脚本 |
-| `build_msvc.bat` | 构建/安装批处理脚本 |
-| `gr2_tool.py` | 图像或素材格式处理工具；gr2_tool.py - 鬼ノ棲ム桜 (ONI engine) GR2 图像格式转换工具 |
-| `oni_dump.c` | C 原生辅助源码 |
-| `oni_dump_README.md` | 项目文件 |
-| `ONI_GR2_RE_Report.docx` | 逆向分析/使用说明文档 |
-| `oni_winmm.c` | C 原生辅助源码 |
-| `tai.gr2` | 样例/测试数据或中间产物 |
-| `tai.png` | 样例/测试数据或中间产物 |
-| `winmm.def` | Windows DLL 导出定义 |
-| `使用指南.md` | 逆向分析/使用说明文档 |
+## 文件分工
 
-## 常见流程
+| 文件 | 定位 | 说明 |
+|---|---|---|
+| `gr2_tool.py` | 封包/解包或格式工具 | gr2_tool.py - 鬼ノ棲ム桜 (ONI engine) GR2 图像格式转换工具 GR2 格式结构: [0x00-0x27] BITMAPINFOHEADER (40 bytes) - 标准 Windows BMP 信息头 [0x28-0x4B] Extra header (36 bytes): +0x00 (8B) 游戏标题 (SJIS, nul |
 
-脚本多为针对当前目标的研究型工具。运行前建议先查看源码顶部说明：
+## 推荐流程
 
+1. 按脚本文件名区分入口：extract 负责导出，inject 负责回写，*_tool/codec/common 作为格式工具或公共库。
+
+## 命令示例
+
+### gr2_tool.py
 ```bash
-python gr2_tool.py --help
+python gr2_tool.py decode <input.gr2> [output.png]
+python gr2_tool.py encode <input.png> [output.gr2]
+python gr2_tool.py batch_decode <input_dir> [output_dir]
+python gr2_tool.py batch_encode <input_dir> [output_dir]
+python gr2_tool.py info <input.gr2>
 ```
+
+## 依赖提示
+
+除 Python 标准库外，源码中检测到的外部/项目依赖模块：`PIL`。
+使用图像或字体相关脚本前需安装 Pillow：`pip install pillow`。
 
 ## 注意事项
 
-- 本仓库脚本大多是特定游戏/特定版本适配，跨作品复用前需要重新核对文件头、索引表、指令格式和编码。
-- 处理前保留原始文件备份；注入后建议进行二进制比对、游戏内实机检查和异常文本回查。
+- 操作前请备份原始封包、脚本和 EXE；注入/封包类脚本通常会直接生成可替换资源。
+- 保持提取时的目录结构与文件名；多数注入器依赖相对路径、偏移或原文校验。
+- 默认编码多为 CP932/Shift-JIS；若脚本提供 `--encoding`，除非目标游戏已确认，否则不要随意改成 GBK。
+- 对等长/截断注入器，译文过长可能被截断、报错或破坏后续指令；非等长注入器也需要确认跳转/长度表是否已同步修正。

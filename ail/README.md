@@ -1,181 +1,108 @@
-# AILSystem 通用文本提取 / 注入工具
+# ail
 
-这套工具已经从原来的 BONDAGE 专用脚本改造成通用 AILSystem 脚本工具，同时保留原来的 JSON 翻译格式。
+## 目录定位
 
-## 主要文件
+ail 目录下的引擎/游戏工具集合。
 
-| 文件 | 作用 |
-|---|---|
-| `ail_extract.py` | 通用 AIL 脚本文本提取器，输出旧格式 JSON |
-| `ail_inject.py` | 通用 AIL 脚本文本注入器，支持 `varlen` / `fixed` / `append` |
-| `ail_script_core.py` | 通用解析核心：header、label、主 OP、表达式、文本引用扫描 |
-| `ail_opcode_tables.py` | 从 AIL_Tools `Script.cs` 迁移的 function/sub-op 表 |
-| `bondage_extract.py` | 兼容入口，默认 `--profile bondage` |
-| `bondage_inject.py` | 兼容入口，默认 `--profile bondage` |
-| `bondage_batch.py` | 原批处理脚本，继续可用 |
-| `snl_tool.py` | SNL/DAT 解包封包工具 |
-| `ail_lzss.py` | AIL LZSS 编解码 |
+本 README 根据本目录内 Python 源码的实际入口、参数、注释和数据结构整理，用于说明当前目录工具的用途与推荐使用顺序。
 
-## JSON 输出格式
+## 文件分工
 
-提取结果仍然是原工具使用的列表 JSON：
-
-```json
-[
-  {
-    "id": 0,
-    "pc": 1234,
-    "sub": 1,
-    "kind": "msg",
-    "text_off": 5678,
-    "name": "幸江",
-    "name_pc": 1200,
-    "name_text_off": 5600,
-    "message": "译文写这里",
-    "src_msg": "原文"
-  }
-]
-```
-
-字段说明：
-
-- `pc`：主 opcode 在 bytecode 区内的相对偏移。
-- `sub`：function/sub opcode。
-- `kind`：`msg` / `title` / `msg_other`。
-- `text_off`：文本池内相对偏移。
-- `name*`：由 `【名字】 + 台词` 自动配对生成。
-- `message`：翻译工作字段，注入时读取这个字段。
-- `src_msg`：原文备份。
-
-## 通用提取
-
-```bash
-python ail_extract.py 0081.bin ./json --version 2 --encoding cp932 --profile generic
-```
-
-常用参数：
-
-```bash
---version 0|1|2       AIL_Tools 里的 function 表版本，默认 2
---encoding cp932      文本编码，默认 cp932
---profile generic     通用语义分类
---profile bondage     保留 BONDAGE 项目的 title/name 习惯
---scan labels         从 label 入口扫描
---scan linear         从 bytecode 起点线性扫描
---scan both           label + linear 合并去重，默认
---resync              解析失败后逐字节重同步，可能产生误判
-```
-
-BONDAGE 旧入口仍可用：
-
-```bash
-python bondage_extract.py 0081.bin ./json
-```
-
-## 通用注入
-
-```bash
-python ail_inject.py inject 0081.bin ./json/0081.json ./out/0081.bin --version 2 --encoding cp932 --profile generic --mode varlen
-```
-
-三种注入模式：
-
-| 模式 | 说明 | 适用场景 |
+| 文件 | 定位 | 说明 |
 |---|---|---|
-| `varlen` | 重建整个文本池并修补识别到的全部引用 | 提取覆盖完整时使用 |
-| `fixed` | 原槽位覆盖，超长截断，偏移不变 | 最稳保底模式 |
-| `append` | 保留原文本池，把变化文本追加到末尾，只修补识别到的引用 | 通用汉化推荐的安全变长模式 |
+| `ail_extract.py` | 提取/解析 | Generic AILSystem JSON text extractor. Output keeps the old project JSON shape: id / pc / sub / kind / text_off / [name fields] / message / src_msg |
+| `ail_inject.py` | 注入/回写 | Generic AILSystem JSON text injector. Supports three injection modes: fixed - overwrite original slots, truncate overflow, keep offsets unchanged append - append changed strings an |
+| `ail_opcode_tables.py` | 公共库/编解码 | AIL function opcode tables ported from AIL_Tools Script.cs. Each sub opcode maps to a tuple of field actions: expr: consume one AIL expression text: consume one u16 string-pool off |
+| `ail_script_core.py` | 辅助脚本 | Generic AILSystem script parser used by JSON extract/inject tools. The parser keeps the old BONDAGE JSON workflow, but uses AIL_Tools-style function opcode tables and expression co |
+| `bondage_extract.py` | 提取/解析 | Compatibility wrapper for BONDAGE-style extraction. The real generic implementation is ail_extract.py. This wrapper keeps the old entry-point name and defaults to --profile bondage |
+| `bondage_inject.py` | 注入/回写 | Compatibility wrapper for BONDAGE-style injection. The real generic implementation is ail_inject.py. Defaults stay CP932, version=2, profile=bondage. |
+| `snl_tool.py` | 封包/解包或格式工具 | snl_tool.py v2 - AIL 引擎 .snl / .dat 容器格式工具 适用厂商: アイル (AIL / ail-soft.com) 样本文件: sall.snl / GALL*.DAT / PALL*.DAT / VALL*.DAT / THELP.DAT =========================================== |
 
-示例：
+## 推荐流程
 
+1. 运行 extract/diss 类脚本导出文本或中间结构，通常输出 JSON/TXT。
+2. 只修改翻译字段后运行 inject/asm 类脚本回写；原文字段用于定位与校验，不建议改动。
+
+## 文本/JSON 字段约定
+
+源码中出现的主要字段：`name`, `src_msg`, `msg`, `message`, `translation`, `type`, `end`, `encoding`, `raw`。
+- `scr_msg/src_msg` 一般表示原始脚本文本或原文定位依据，回写时不应随意修改。
+- `msg/message` 通常是可修改译文字段，提取后默认等于原文或解析后的正文。
+- `translation` 为空时部分注入器会回退到 `message/msg`，具体以脚本参数为准。
+
+## 命令示例
+
+该目录脚本未在源码注释中提供完整命令示例，可优先使用 `-h/--help` 查看参数：
 ```bash
-# 变长重建
-python ail_inject.py inject 0081.bin json/0081.json out/0081.bin --mode varlen
-
-# 等长截断
-python ail_inject.py inject 0081.bin json/0081.json out/0081.bin --mode fixed
-
-# 追加模式，更适合 opcode 覆盖还没完全确认的游戏
-python ail_inject.py inject 0081.bin json/0081.json out/0081.bin --mode append
+python ail_extract.py --help
 ```
-
-BONDAGE 旧入口仍可用：
-
 ```bash
-python bondage_inject.py inject 0081.bin json/0081.json out/0081.bin --mode append
+python ail_inject.py --help
 ```
-
-## name 表
-
-提取会自动生成：
-
-```text
-0081_names.json
-```
-
-格式：
-
-```json
-{
-  "幸江": {
-    "count": 12,
-    "translation": "幸江"
-  }
-}
-```
-
-注入时会自动寻找同名 `_names.json`。也可以手动指定：
-
 ```bash
-python ail_inject.py inject 0081.bin json/0081.json out/0081.bin --names json/0081_names.json
+python bondage_extract.py --help
 ```
-
-## 编码与映射
-
-默认按 CP932 写回：
-
 ```bash
---encoding cp932
+python bondage_inject.py --help
 ```
-
-如果要严格检查简中字符是否能编码，不希望静默变成 `?`：
-
 ```bash
---errors strict
+python snl_tool.py --help
 ```
 
-如果你的路线是“CP932 注入 + 字符映射到简体”，可以准备一个映射表：
+## 参数入口速查
 
-```json
-{
-  "你": "偁",
-  "们": "們"
-}
-```
+### `ail_extract.py`
+- `'input', help='decompressed AIL script .bin'`
+- `'out_dir', nargs='?', default='.', help='output directory'`
+- `'--version', type=int, default=2, choices=[0, 1, 2], help='AIL function table version; default: 2'`
+- `'--encoding', default='cp932', help='string encoding; default: cp932'`
+- `'--profile', default='generic', choices=['generic', 'bondage'], help='semantic profile; default: generic'`
+- `'--scan', default='both', choices=['labels', 'linear', 'both'], help='scan strategy; default: both'`
+- `'--resync', action='store_true', help='try byte-by-byte resync after parse errors; may create false positives'`
+### `ail_inject.py`
+- `'bin_path'`
+- `'bin_path'`
+- `'json_path'`
+- `'out_bin'`
+- `'--version', type=int, default=2, choices=[0, 1, 2]`
+- `'--encoding', default='cp932'`
+- `'--profile', default='generic', choices=['generic', 'bondage']`
+- `'--scan', default='both', choices=['labels', 'linear', 'both']`
+- `'--resync', action='store_true'`
+- `'--mode', default='varlen', choices=['varlen', 'fixed', 'append']`
+- `'--fixed', action='store_true', help='compat alias for --mode fixed'`
+- `'--append', action='store_true', help='compat alias for --mode append'`
+### `bondage_extract.py`
+- `'input'`
+- `'out_dir', nargs='?', default='.'`
+- `'--scan', default='both', choices=['labels', 'linear', 'both']`
+- `'--resync', action='store_true'`
+### `bondage_inject.py`
+- `'bin_path'`
+- `'bin_path'`
+- `'json_path'`
+- `'out_bin'`
+- `'--mode', default='varlen', choices=['varlen', 'fixed', 'append']`
+- `'--fixed', action='store_true'`
+- `'--append', action='store_true'`
+- `'--names'`
+- `'--errors', default='replace', choices=['strict', 'replace', 'ignore']`
+- `'--map'`
+### `snl_tool.py`
+- `'snl'`
+- `'-o', '--out', default='snl_out'`
+- `'--raw', action='store_true', help='保留原始压缩态'`
+- `'dir'`
+- `'-o', '--out', default='sall_new.snl'`
+- `'snl'`
 
-然后注入时使用：
+## 依赖提示
 
-```bash
-python ail_inject.py inject 0081.bin json/0081.json out/0081.bin --map table.json --errors strict
-```
+除 Python 标准库外，源码中检测到的外部/项目依赖模块：`ail_lzss`。
 
-## Round-trip 测试
+## 注意事项
 
-```bash
-python ail_inject.py roundtrip 0081.bin --version 2 --encoding cp932 --profile generic
-```
-
-BONDAGE 兼容入口：
-
-```bash
-python bondage_inject.py roundtrip 0081.bin
-```
-
-## 相比原版的关键变化
-
-1. `0x0A / 0x0B / 0x0C / 0x10` 已按 AIL_Tools 逻辑改成表达式参数，不再当固定 `u16`。
-2. `0x05 store_f` 现在会继续解析后面的 function/sub-op，不再直接中止扫描。
-3. 表达式消费改为结构化解析：`0x00 reg mask`、`0xFF` 结束、其他 flag 后跟 operator。
-4. function/sub-op 表迁移自 AIL_Tools，`version=2` 覆盖 `0x00..0xFF`。
-5. 新增 `append` 注入模式，降低通用化初期漏引用造成的风险。
-6. 输出 JSON 仍保持原来的翻译工作流格式。
+- 操作前请备份原始封包、脚本和 EXE；注入/封包类脚本通常会直接生成可替换资源。
+- 保持提取时的目录结构与文件名；多数注入器依赖相对路径、偏移或原文校验。
+- 默认编码多为 CP932/Shift-JIS；若脚本提供 `--encoding`，除非目标游戏已确认，否则不要随意改成 GBK。
+- 对等长/截断注入器，译文过长可能被截断、报错或破坏后续指令；非等长注入器也需要确认跳转/长度表是否已同步修正。

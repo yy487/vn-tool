@@ -1,174 +1,136 @@
-# AI5WIN 多 bank 位图字库 / CP932 借码位工作流
+# AI5WIN/勝 あしたの雪之丞2
 
-这版工具把旧的“GBK 写入 + 只生成 FONT00”改成：
+## 目录定位
 
-```text
-翻译 JSON
-  -> scan_chars.py 统计规范化后的真实字符
-  -> hanzi_replacer.py 生成 replace_map.json
-  -> font_gen.py 用 replace_map.json 重建 FONT00/FONT01/FONT02
-  -> ai5win_mes_inject.py 用同一个 replace_map.json 注入 MES
-```
+面向 `勝 あしたの雪之丞2` 的工具目录，上级分类为 `AI5WIN`。
 
-核心规则：
+本 README 根据本目录内 Python 源码的实际入口、参数、注释和数据结构整理，用于说明当前目录工具的用途与推荐使用顺序。
 
-```text
-真实中文 target_char
-  -> replace_map.json 分配 CP932 source_char
-  -> MES 实际写 source_char.encode('cp932')
-  -> TBL 登记 source_char 码位
-  -> FNT/MSK 对应 glyph 画 target_char
-```
+## 文件分工
 
-## 推荐命令
+| 文件 | 定位 | 说明 |
+|---|---|---|
+| `ai5win_arc_tool.py` | 封包/解包或格式工具 | AI5WIN v3 ARC 解包/封包工具 (あしたの雪之丞2) 纯索引加密解密,不含LZSS解压缩——文件原样提取/打包。 用法: python ai5win_arc_tool.py unpack <input.ARC> <output_dir> python ai5win_arc_tool.py pack <input_dir> <output.ARC> |
+| `ai5win_disasm.py` | 提取/解析 | AI5WIN v2 MES 脚本反汇编共用模块 (あしたの雪之丞2 等) 基于 ai5win.exe 权威反汇编 (FUN_00416900 主循环 + FUN_004070f0 派发器 + FUN_004019c0 slot_list + FUN_00416e00 expr 栈VM) 主循环: peek == 0x01 → OP_01 TEXT (双字节全 |
+| `ai5win_mes_extract.py` | 提取/解析 | AI5WIN v2 MES 文本提取工具 v4 (あしたの雪之丞2) 基于 ai5win_disasm 精确反汇编器. 抓取策略 (以 id=msg 块为单位): 1. 双字节 TEXT 指令 (op 0x01) 全角文本: 首条如有 0x11 INTERRUPT 紧跟视为名前 2. CH_POS (op 0x0e) / MENU_SET (op 0x10) |
+| `ai5win_mes_inject.py` | 注入/回写 | AI5WIN v2 MES 文本注入工具 v4 (あしたの雪之丞2) 基于 ai5win_disasm 精确反汇编器的变长注入. 核心原理 (EXE 反汇编权威): 1. 反汇编整个脚本, 精确定位所有"可替换字节区间": - 对 op 0x01 TEXT (双字节全角): TEXT 内容部分 (不含 NUL 终止) - 对 CH_POS 后紧跟的 TEXT |
+| `check_map_conflicts.py` | 字体/映射/补丁辅助 | 检查 replace_map 中 source_char 与 direct_cp932_chars 的码位冲突。 |
+| `debug_encode.py` | 注入/回写 | 调试单句经过 replace_map 后的实际注入字节。 |
+| `font_codec.py` | 公共库/编解码 | AI5WIN 位图字库底层编解码。 处理对象：FONT00/01/02/FONTHAN 的 TBL/FNT/MSK。 - 文件层：LZSS 压缩。 - 解压后 TBL：uint16 count + count 个 uint16 code。 - FNT/MSK：按 glyph_index * width * height 索引的 1bpp-like/灰度平面。 |
+| `font_gen.py` | 字体/映射/补丁辅助 | AI5WIN 多 bank 位图字库生成器（CP932 借码位版）。 输入 replace_map.json，而不是 charset.json。 同一个 replace_map 同时给本工具和 ai5win_mes_inject.py 使用，保证： MES 写入的 CP932 source_char == TBL 中查找的 source_char FNT/M |
+| `hanzi_replacer.py` | 字体/映射/补丁辅助 | AI5WIN CP932 借码映射生成器。 目标： - 不再把中文直接编码成 GBK。 - 对 CP932 不可编码字符，分配一个 CP932 双字节 source_char。 - MES 注入写 source_char.encode('cp932')。 - 字库 TBL 写 source_char 的码位，FNT/MSK 画 target_char 的字形 |
+| `inspect_font_mapping.py` | 字体/映射/补丁辅助 | Inspect code/index relationship for AI5WIN FONT banks. Usage: python inspect_font_mapping.py <replace_map.json> <font_dir> <text> python inspect_font_mapping.py build/replace_map.j |
+| `patch_exe_font00_only.py` | 字体/映射/补丁辅助 | patch Ai5win.exe font buffer (6228 glyphs) |
+| `patch_exe_font_banks.py` | 字体/映射/补丁辅助 | Patch Ai5win.exe font_size_array for AI5WIN bitmap font banks. 反汇编确认：EXE .data 段存在 font_size_array，文件偏移 0x532C4。 数组布局为 4 组，每组 12 字节：TBL/FNT/MSK 的解压后 raw size。 group 0: FONT00 TBL,F |
+| `scan_chars.py` | 字体/映射/补丁辅助 | 扫描 GalTransl JSON 中所有用到的字符，输出 charset.json。 新版要点： - 默认扫描 name/message 字段。 - 默认先执行 text_normalize.normalize_text，再统计字符。 - 不再默认加入 ASCII。是否全角化由 normalize_text 控制。 用法: python scan_char |
+| `text_normalize.py` | 字体/映射/补丁辅助 | AI5WIN 文本规范化共用模块。 注意：scan_chars.py、hanzi_replacer.py、ai5win_mes_inject.py 必须共用同一套 normalize_text，否则会出现“扫描进字库的字符”和“实际注入的字符”不一致。 |
+| `verify_font_line.py` | 字体/映射/补丁辅助 | 检查某句话在生成字库中是否能查到，并导出该 bank 实际 glyph 预览。 用法: python verify_font_line.py build/replace_map.json build/DATA_FONT FONT00 "叮～咚～当～咚～" out.png |
 
-### 1. 解包
+## 推荐流程
 
+1. 先用封包工具解包原始资源，保留原始目录结构。
+2. 运行 extract/diss 类脚本导出文本或中间结构，通常输出 JSON/TXT。
+3. 只修改翻译字段后运行 inject/asm 类脚本回写；原文字段用于定位与校验，不建议改动。
+4. 涉及中文显示时，先扫描译文字库并生成映射/字体，再按需要 patch EXE 或替换字体资源。
+5. 最后重新封包或复制回游戏目录测试。
+
+## 文本/JSON 字段约定
+
+源码中出现的主要字段：`name`, `scr_msg`, `msg`, `message`, `choice`, `choices`, `encoding`。
+- `scr_msg/src_msg` 一般表示原始脚本文本或原文定位依据，回写时不应随意修改。
+- `msg/message` 通常是可修改译文字段，提取后默认等于原文或解析后的正文。
+
+## 命令示例
+
+### ai5win_arc_tool.py
 ```bash
-python ai5win_arc_tool.py unpack MES.ARC work/MES
-python ai5win_arc_tool.py unpack DATA.ARC work/DATA
+python ai5win_arc_tool.py unpack <input.ARC> <output_dir>
+python ai5win_arc_tool.py pack   <input_dir>  <output.ARC>
 ```
-
-### 2. 提取文本
-
+### ai5win_mes_extract.py
 ```bash
-python ai5win_mes_extract.py work/MES work/json
+python ai5win_mes_extract.py <input.mes>   [output.json]
+python ai5win_mes_extract.py <mes_dir>     [output_dir]   (批量)
 ```
-
-翻译后假设输出在：
-
-```text
-trans/json
-```
-
-### 3. 扫描译文字符
-
+### ai5win_mes_inject.py
 ```bash
-python scan_chars.py trans/json build/charset.json
+python ai5win_mes_inject.py <input.mes> <trans.json> [output.mes] --map replace_map.json
+python ai5win_mes_inject.py <mes_dir>   <json_dir>   [output_dir]   --map replace_map.json
 ```
-
-### 4. 生成 CP932 借码映射
-
-优先使用 `subs_cn_jp.json`，缺字自动补漏：
-
+### font_gen.py
 ```bash
-python hanzi_replacer.py build/charset.json work/DATA build/replace_map.json --cnjp-map subs_cn_jp.json
+python font_gen.py <replace_map.json> <font.ttf> <orig_font_dir> <out_dir> [选项]
+python font_gen.py build/replace_map.json msyh.ttc data_out build/font_out --banks FONT00,FONT01,FONT02
 ```
-
-### 5. 生成三套双字节 font bank
-
+### inspect_font_mapping.py
 ```bash
-python font_gen.py build/replace_map.json msyh.ttc work/DATA build/DATA_FONT --banks FONT00,FONT01,FONT02 --size 22
+python inspect_font_mapping.py <replace_map.json> <font_dir> <text>
+python inspect_font_mapping.py build/replace_map.json build/DATA_FONT "啊无，叮咚权"
 ```
-
-输出：
-
-```text
-build/DATA_FONT/FONT00.TBL/FNT/MSK
-build/DATA_FONT/FONT01.TBL/FNT/MSK
-build/DATA_FONT/FONT02.TBL/FNT/MSK
-build/DATA_FONT/FONTHAN.*              # 默认原样复制
-build/DATA_FONT/build_manifest.json
-build/DATA_FONT/replace_map.json
-```
-
-把生成的 `FONT*.TBL/FNT/MSK` 覆盖进 `work/DATA`。
-
-### 6. Patch EXE 字库缓冲大小
-
-如果 `font_gen.py` 输出显示 `appended > 0`，或者 `build_manifest.json` 中某个 bank 的 `expanded=true`，需要把 EXE 里的 `font_size_array` 同步改成新的解压后 raw size。
-
-已知 `font_size_array` 文件偏移为 `0x532C4`，布局为 4 组，每组 `TBL/FNT/MSK` 三个 `uint32`：
-
-```text
-FONT00: 0x532C4 + 0x00
-FONT01: 0x532C4 + 0x0C
-FONT02: 0x532C4 + 0x18
-FONTHAN:0x532C4 + 0x24
-```
-
-先预览：
-
+### patch_exe_font_banks.py
 ```bash
-python patch_exe_font_banks.py Ai5win.exe build/DATA_FONT/build_manifest.json --dry-run
+python patch_exe_font_banks.py <Ai5win.exe> <build_manifest.json> [output.exe]
+python patch_exe_font_banks.py <Ai5win.exe> <build_manifest.json> --dry-run
 ```
-
-确认后写出：
-
+### scan_chars.py
 ```bash
-python patch_exe_font_banks.py Ai5win.exe build/DATA_FONT/build_manifest.json Ai5win_CHS.exe
+python scan_chars.py <json_dir> [output.json]
+python scan_chars.py <single.json> [output.json]
+python scan_chars.py trans_json build/charset.json --fields name,message
 ```
-
-### 7. 注入 MES
-
+### verify_font_line.py
 ```bash
-python ai5win_mes_inject.py work/MES trans/json build/MES_CHS --map build/replace_map.json
+python verify_font_line.py build/replace_map.json build/DATA_FONT FONT00 "叮～咚～当～咚～" out.png
 ```
 
-### 8. 回封包
+## 参数入口速查
 
-```bash
-python ai5win_arc_tool.py pack work/DATA DATA_CHS.ARC
-python ai5win_arc_tool.py pack build/MES_CHS MES_CHS.ARC
-```
+### `ai5win_mes_inject.py`
+- `'src'`
+- `'json_src'`
+- `'out', nargs='?'`
+- `'--map', required=True, dest='map_path', help='replace_map.json generated by hanzi_replacer.py'`
+### `debug_encode.py`
+- `'replace_map'`
+- `'text'`
+### `font_gen.py`
+- `'replace_map'`
+- `'font_ttf'`
+- `'orig_font_dir'`
+- `'out_dir'`
+- `'--banks', default='FONT00,FONT01,FONT02'`
+- `'--size', type=int, default=22`
+- `'--mask-mode', choices=['clear', 'smooth'], default='clear'`
+- `'--literal-lzss', action='store_true', help='use larger literal-only LZSS'`
+- `'--no-copy-fonthan', action='store_true'`
+### `hanzi_replacer.py`
+- `'charset_json'`
+- `'font_dir', help='directory containing original FONT00/01/02 files'`
+- `'out_json'`
+- `'--cnjp-map', default=None, help='optional subs_cn_jp.json'`
+- `'--banks', default='FONT00,FONT01,FONT02'`
+- `'--no-external-overwrite', action='store_true'`
+### `patch_exe_font_banks.py`
+- `"exe", help="input Ai5win.exe"`
+- `"manifest", help="build/DATA_FONT/build_manifest.json"`
+- `"output", nargs="?", help="output exe; default: <exe>.patched"`
+- `"--dry-run", action="store_true", help="print changes without writing"`
+- `"--force", action="store_true", help="write even if validation does not match known/manifest sizes"`
+### `scan_chars.py`
+- `'src'`
+- `'out', nargs='?', default='charset.json'`
+- `'--fields', default='name,message'`
+- `'--no-normalize', action='store_true'`
+- `'--include-newline', action='store_true'`
 
-## 重要说明
+## 依赖提示
 
-1. `ai5win_mes_inject.py` 已删除 GBK 回退逻辑。不能映射到 CP932 的字符会直接报错，不再静默写 `?`。
-2. `ai5win_disasm.py` 的 op `0x01 TEXT` 已恢复 CP932 lead-byte 判断，不再用 `0x81-0xFE` 的 GBK 容错。
-3. `font_gen.py` 对 `subs_cn_jp.json` 里借用的已存在码位会覆盖原 glyph；否则查表会先命中旧 glyph，无法显示中文。
-4. `FONTHAN` 默认不改。正文中的 ASCII 会在 `text_normalize.py` 中全角化，尽量走双字节 bank。
-5. 如果 `build_manifest.json` 显示某个 bank `expanded=true`，请运行 `patch_exe_font_banks.py`。它会按 `0x532C4` 起始的 4 组 `TBL/FNT/MSK` size 数组 patch `FONT00/FONT01/FONT02/FONTHAN`。
+除 Python 标准库外，源码中检测到的外部/项目依赖模块：`PIL`, `traceback`。
+使用图像或字体相关脚本前需安装 Pillow：`pip install pillow`。
 
+## 注意事项
 
-## v4 修正说明
-
-v3 的 `font_gen.py` 只会把 `replace_map.json/chars` 里的“需要借码位字符”写入 FONT00/01/02，
-但 `direct_cp932_chars` 会被注入器直接写入 CP932。如果某个 direct 字符不在当前 bank 的 TBL 中，
-游戏会查表失败，表现为缺字、错字或仍显示借用源字。v4 已修正：
-
-- mapped chars：继续按 `source_char -> target_char glyph` 覆盖/追加；
-- direct CP932 chars：若 bank 已有则保留原 glyph，若缺失则用传入 TTF 补画并追加；
-- 新增 `debug_encode.py` 用于检查某句话最终写入 MES 的 source 字符和 CP932 字节。
-
-示例：
-
-```bat
-python debug_encode.py build
-eplace_map.json "叮～咚～当～咚～"
-python font_gen.py build
-eplace_map.json alyce_humming.ttf E:\GAL\yuki2ont build\DATA_FONT --banks FONT00,FONT01,FONT02 --size 22
-```
-
-
-## v5 重要修正
-
-v5 的 font_gen.py 不再只补 direct CP932 缺字；对于译文中出现的 direct CP932 汉字，即使原 bank 已有同码位，也会用指定 TTF 重绘该 glyph。否则会出现 `叮` 这类字在游戏中显示成原字库旧字形的问题。
-
-同时，mapped chars 的 source_char 码位会强制覆盖为 target_char glyph，不再依赖 replace_map 中的 overwrite_existing_glyph 标记。若画面仍显示繁体/借码源字，优先检查是否把 build/DATA_FONT 里的 FONT00/01/02.* 覆盖进 DATA 解包目录并重新封包。
-
-
-## v6 重要修正：source/direct 码位冲突
-
-如果 `replace_map.json` 中某个 `source_char` 同时也是 `direct_cp932_chars`，同一个 CP932 码位会被要求显示两个不同字形，必然造成“无显示成校”“逗号/借码字错位”等现象。
-
-因此 v6 的 `hanzi_replacer.py` 会在生成映射时排除所有 direct CP932 字符作为借码位；`font_gen.py` 也会在发现旧 map 有冲突时直接报错。
-
-建议每次更新到 v6 后重新执行：
-
-```bat
-python scan_chars.py trans_json build\charset.json
-python hanzi_replacer.py build\charset.json orig_font buildeplace_map.json --cnjp-map subs_cn_jp.json
-python check_map_conflicts.py buildeplace_map.json
-python font_gen.py buildeplace_map.json alyce_humming.ttf orig_font build\DATA_FONT --banks FONT00,FONT01,FONT02 --size 22
-```
-
-## v7 修正
-
-修正 `FontBank.append_glyph()` 的新增 glyph 索引错位问题。原始 FONT00/01/02 可能存在 `slot_count > TBL count` 的备用槽；新增 TBL code 时必须优先写入 `glyph_index == len(codes)` 的备用槽，而不能直接把 glyph 追加到 FNT/MSK 文件尾部。否则引擎查表得到的 index 会落到旧备用槽，导致新增字符整体错位显示。
-
-可用 `inspect_font_mapping.py` 检查字符在各 bank 中的 code/index：
-
-```bat
-python inspect_font_mapping.py build\replace_map.json build\DATA_FONT "啊无，叮咚权"
-```
+- 操作前请备份原始封包、脚本和 EXE；注入/封包类脚本通常会直接生成可替换资源。
+- 保持提取时的目录结构与文件名；多数注入器依赖相对路径、偏移或原文校验。
+- 默认编码多为 CP932/Shift-JIS；若脚本提供 `--encoding`，除非目标游戏已确认，否则不要随意改成 GBK。
+- 对等长/截断注入器，译文过长可能被截断、报错或破坏后续指令；非等长注入器也需要确认跳转/长度表是否已同步修正。

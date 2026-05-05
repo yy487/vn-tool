@@ -1,37 +1,59 @@
 # Unison/胸キュン!はぁとふるCafe胸キュン!はぁとふるCafe
 
-文本提取与注入工具目录，通常用于脚本翻译的导出、翻译回写与回归验证。
+## 目录定位
 
-本 README 为目录补充说明，便于后续维护、迁移和复用。
+面向 `胸キュン!はぁとふるCafe胸キュン!はぁとふるCafe` 的工具目录，上级分类为 `Unison`。
 
-## 文件说明
+本 README 根据本目录内 Python 源码的实际入口、参数、注释和数据结构整理，用于说明当前目录工具的用途与推荐使用顺序。
 
-| 文件 | 说明 |
-|---|---|
-| `lazy_common.py` | 公共函数/常量模块；Softpal Lazy 引擎公用模板库 |
-| `val_extract.py` | 文本或资源提取脚本；Lazy 引擎 .VAL 剧情文本提取工具 |
-| `val_inject.py` | 文本注入脚本；Lazy 引擎 .VAL 剧情文本注入工具 |
-| `vct_extract.py` | 文本或资源提取脚本；Softpal Lazy 引擎 VCT 容器解包工具 |
-| `vct_pack.py` | 封包重建/打包脚本；Softpal Lazy 引擎 VCT 容器封包工具 |
-| `胸キュン!はぁとふるCafe胸キュン!はぁとふるCafe.7z` | 外部工具包或样例归档 |
+## 文件分工
 
-## 常见流程
+| 文件 | 定位 | 说明 |
+|---|---|---|
+| `lazy_common.py` | 公共库/编解码 | Softpal Lazy 引擎公用模板库 ======================================== 文件格式 (.VAL): +---------------------+ | Header 9 字节 | | u24 size_A | seg_A (字节码) 字节数 | u24 size_B | seg_B (字符串偏移表) 条目数  |
+| `val_extract.py` | 提取/解析 | Lazy 引擎 .VAL 剧情文本提取工具 ================================ 用法: python3 val_extract.py <input_dir> <output_dir> [--min-items N] 行为: 遍历 <input_dir> 下所有 .VAL 文件 (无差别处理), 扫描每个文件中 由 0xdd op |
+| `val_inject.py` | 注入/回写 | Lazy 引擎 .VAL 剧情文本注入工具 ================================ 用法: python3 val_inject.py <orig_val_dir> <translated_json_dir> <output_val_dir> [--encoding cp932|gbk] 行为: 1. 读取 <translated_ |
+| `vct_extract.py` | 提取/解析 | Softpal Lazy 引擎 VCT 容器解包工具 格式: u8 ext_count {char letter, u16 first_entry_idx}[ext_count] (首字母索引加速表) u32 entry_count {char name[0x14], char ext[0x04], u32 offset, u32 size}[entry_c |
+| `vct_pack.py` | 封包/解包或格式工具 | Softpal Lazy 引擎 VCT 容器封包工具 策略: - 优先读取 _vct_meta.json (解包时保存) 来 1:1 重建结构 - 没有元信息时, 自动按文件名首字母排序并重建 ext_table |
 
-典型文本流程如下，实际参数以脚本内 `argparse` / 文件头注释为准：
+## 推荐流程
 
+1. 先用封包工具解包原始资源，保留原始目录结构。
+2. 运行 extract/diss 类脚本导出文本或中间结构，通常输出 JSON/TXT。
+3. 只修改翻译字段后运行 inject/asm 类脚本回写；原文字段用于定位与校验，不建议改动。
+4. 最后重新封包或复制回游戏目录测试。
+
+## 文本/JSON 字段约定
+
+源码中出现的主要字段：`name`, `message`, `offset`。
+- `msg/message` 通常是可修改译文字段，提取后默认等于原文或解析后的正文。
+- `file/offset/index/end` 等字段用于定位、重定位或校验，除非明确知道格式含义，否则不要手改。
+
+## 命令示例
+
+该目录脚本未在源码注释中提供完整命令示例，可优先使用 `-h/--help` 查看参数：
 ```bash
-python val_extract.py <原始脚本或目录> <导出json或目录>
-# 翻译/修改导出的 JSON
-python val_inject.py <原始脚本或目录> <翻译json或目录> <输出脚本或目录>
+python val_extract.py --help
+```
+```bash
+python val_inject.py --help
 ```
 
-建议先用未修改的 JSON 做一次 round-trip：提取后立刻注入，并比对输出与原文件是否一致。
+## 参数入口速查
 
-如需先处理封包/归档文件，可查看这些脚本的参数：`vct_pack.py`。
+### `val_extract.py`
+- `'input_dir', help='解包后的 .VAL 目录 (包含 _vct_meta.json`
+- `'output_dir', help='输出 JSON 目录'`
+- `'--min-items', type=int, default=1, help='文件至少有这么多条剧情才输出 JSON (默认 1, 即只要有剧情就输出`
+### `val_inject.py`
+- `'orig_dir', help='原始 .VAL 目录'`
+- `'json_dir', help='翻译后的 JSON 目录 (含 _extract_index.json`
+- `'output_dir', help='注入后的 .VAL 输出目录'`
+- `'--encoding', default='cp932', choices=['cp932', 'gbk'], help='文本编码 (默认 cp932`
 
 ## 注意事项
 
-- 本仓库脚本大多是特定游戏/特定版本适配，跨作品复用前需要重新核对文件头、索引表、指令格式和编码。
-- 文本编码通常与原游戏运行时有关，常见为 CP932/SJIS；写入中文前需要确认补丁、Hook、字体或码表映射方案。
-- 处理前保留原始文件备份；注入后建议进行二进制比对、游戏内实机检查和异常文本回查。
-- 若脚本会重建封包或重排文本区，务必确认 offset、长度字段、压缩块大小和校验字段是否同步更新。
+- 操作前请备份原始封包、脚本和 EXE；注入/封包类脚本通常会直接生成可替换资源。
+- 保持提取时的目录结构与文件名；多数注入器依赖相对路径、偏移或原文校验。
+- 默认编码多为 CP932/Shift-JIS；若脚本提供 `--encoding`，除非目标游戏已确认，否则不要随意改成 GBK。
+- 对等长/截断注入器，译文过长可能被截断、报错或破坏后续指令；非等长注入器也需要确认跳转/长度表是否已同步修正。
